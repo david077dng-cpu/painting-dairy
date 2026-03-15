@@ -101,8 +101,8 @@ my-portfolio/
 2. 修改 `astro.config.mjs`：
    ```js
    export default defineConfig({
-     site: 'https://你的用户名.github.io',
-     base: '/仓库名',
+     site: 'https://david077dng-cpu.github.io',
+     base: '/painting-dairy',
    });
    ```
 3. 推送代码，在 GitHub 仓库设置开启 Pages
