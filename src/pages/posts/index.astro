@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts'))
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+---
+<BaseLayout title="文章 · 李春晓">
+  <main style="max-width:760px; margin:0 auto; padding:8rem 2rem 5rem;">
+    <div style="margin-bottom:3rem;">
+      <div style="font-family:'Caveat',cursive; font-size:1.2rem; color:var(--sage); margin-bottom:0.5rem;">// 我的写作</div>
+      <h1 style="font-family:'Noto Serif SC',serif; font-size:2.5rem; font-weight:700; color:var(--brown); margin-bottom:1rem;">全部文章</h1>
+      <div style="width:60px; height:3px; background:linear-gradient(to right,#f4a97f,#c96a3e); border-radius:2px;"></div>
+    </div>
+
+    {posts.length === 0 ? (
+      <div style="text-align:center; padding:4rem; color:var(--text-muted); font-family:'Noto Serif SC',serif;">
+        <div style="font-size:3rem; margin-bottom:1rem;">📝</div>
+        <p>还没有文章，快去 <code>src/content/posts/</code> 新建第一篇吧！</p>
+      </div>
+    ) : (
+      <div style="display:flex; flex-direction:column; gap:2rem;">
+        {posts.map(post => (
+          <a href={`/posts/${post.slug}`} style="display:block; text-decoration:none; background:var(--warm-white); border-radius:20px; padding:1.8rem 2rem; box-shadow:0 2px 12px rgba(0,0,0,.06); transition:transform 0.25s,box-shadow 0.25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.boxShadow='0 10px 30px rgba(0,0,0,.1)'" onmouseout="this.style.transform='';this.style.boxShadow='0 2px 12px rgba(0,0,0,.06)'">
+            <div style="font-family:'Noto Serif SC',serif; font-size:0.75rem; color:#7a9e7e; letter-spacing:0.1em; margin-bottom:0.5rem;">
+              {post.data.date} {post.data.category && `· ${post.data.category}`}
+            </div>
+            <div style="font-family:'Noto Serif SC',serif; font-size:1.25rem; font-weight:700; color:#5c3d2e; margin-bottom:0.6rem;">
+              {post.data.title}
+            </div>
+            {post.data.description && (
+              <p style="font-size:0.9rem; line-height:1.75; color:#7a5c47; margin:0;">{post.data.description}</p>
+            )}
+          </a>
+        ))}
+      </div>
+    )}
+  </main>
+</BaseLayout>
+
+<style>
+  :root {
+    --cream:#fdf6ec;--warm-white:#fffaf4;--peach:#f4a97f;
+    --terracotta:#c96a3e;--sage:#7a9e7e;--sand:#e8d5b7;
+    --brown:#5c3d2e;--text-main:#3a2518;--text-muted:#7a5c47;
+  }
+</style>

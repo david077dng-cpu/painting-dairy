@@ -1,0 +1,87 @@
+---
+import BaseLayout from './BaseLayout.astro';
+const { frontmatter } = Astro.props;
+---
+<BaseLayout title={frontmatter.title} description={frontmatter.description}>
+  <main style="max-width:760px; margin:0 auto; padding:8rem 2rem 4rem;">
+    <a href="/posts" style="font-family:'Noto Serif SC',serif; font-size:0.85rem; color:var(--sage); text-decoration:none; display:inline-flex; align-items:center; gap:0.4rem; margin-bottom:2rem;">
+      ← 返回文章列表
+    </a>
+
+    <div class="post-header">
+      <div style="font-family:'Noto Serif SC',serif; font-size:0.75rem; color:var(--sage); letter-spacing:0.1em; margin-bottom:0.8rem;">
+        {frontmatter.date} · {frontmatter.category ?? '随笔'}
+      </div>
+      <h1 style="font-family:'Noto Serif SC',serif; font-size:clamp(1.8rem,3vw,2.8rem); font-weight:700; color:var(--brown); line-height:1.3; margin-bottom:1rem;">
+        {frontmatter.title}
+      </h1>
+      {frontmatter.description && (
+        <p style="font-size:1.05rem; color:var(--text-muted); line-height:1.8; border-left:3px solid var(--peach); padding-left:1rem;">
+          {frontmatter.description}
+        </p>
+      )}
+    </div>
+
+    <article class="prose">
+      <slot />
+    </article>
+  </main>
+</BaseLayout>
+
+<style>
+  :root {
+    --cream: #fdf6ec; --warm-white: #fffaf4; --peach: #f4a97f;
+    --terracotta: #c96a3e; --sage: #7a9e7e; --sand: #e8d5b7;
+    --brown: #5c3d2e; --text-main: #3a2518; --text-muted: #7a5c47;
+  }
+  .post-header {
+    padding-bottom: 2rem;
+    margin-bottom: 2.5rem;
+    border-bottom: 1px solid var(--sand);
+  }
+  .prose {
+    font-size: 1.05rem;
+    line-height: 1.95;
+    color: var(--text-muted);
+  }
+  .prose :global(h2) {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.5rem; font-weight: 700;
+    color: var(--brown); margin: 2.5rem 0 1rem;
+  }
+  .prose :global(h3) {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.15rem; font-weight: 600;
+    color: var(--brown); margin: 2rem 0 0.8rem;
+  }
+  .prose :global(p) { margin-bottom: 1.4rem; }
+  .prose :global(a) { color: var(--terracotta); text-decoration: underline; text-underline-offset: 3px; }
+  .prose :global(blockquote) {
+    border-left: 3px solid var(--peach);
+    padding: 0.5rem 1.2rem;
+    margin: 1.5rem 0;
+    font-style: italic;
+    color: var(--terracotta);
+    background: var(--warm-white);
+    border-radius: 0 12px 12px 0;
+  }
+  .prose :global(code) {
+    background: var(--sand); padding: 0.1em 0.4em;
+    border-radius: 4px; font-size: 0.9em;
+  }
+  .prose :global(pre) {
+    background: var(--brown); color: var(--sand);
+    padding: 1.5rem; border-radius: 12px;
+    overflow-x: auto; margin: 1.5rem 0;
+  }
+  .prose :global(pre code) { background: none; padding: 0; }
+  .prose :global(img) {
+    width: 100%; border-radius: 16px;
+    margin: 1.5rem 0; box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  }
+  .prose :global(ul), .prose :global(ol) {
+    padding-left: 1.5rem; margin-bottom: 1.4rem;
+  }
+  .prose :global(li) { margin-bottom: 0.4rem; }
+  .prose :global(hr) { border: none; border-top: 1px solid var(--sand); margin: 2rem 0; }
+</style>

@@ -1,0 +1,104 @@
+---
+export interface Props {
+  title?: string;
+  description?: string;
+}
+const { title = '李春晓 · 个人主页', description = '设计师与创作者' } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Caveat:wght@500;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --cream: #fdf6ec; --warm-white: #fffaf4; --peach: #f4a97f;
+      --terracotta: #c96a3e; --rust: #9b4422; --sage: #7a9e7e;
+      --sage-light: #b8d4bb; --sand: #e8d5b7; --sand-dark: #c9b090;
+      --brown: #5c3d2e; --text-main: #3a2518; --text-muted: #7a5c47;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      background-color: var(--cream);
+      color: var(--text-main);
+      font-family: 'Lora', 'Noto Serif SC', serif;
+      overflow-x: hidden;
+    }
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      padding: 1.2rem 3rem;
+      display: flex; justify-content: space-between; align-items: center;
+      background: linear-gradient(to bottom, var(--cream) 60%, transparent);
+      transition: opacity 0.3s;
+    }
+    .nav-logo {
+      font-family: 'Caveat', cursive; font-size: 1.8rem;
+      font-weight: 700; color: var(--terracotta); text-decoration: none;
+    }
+    .nav-links { display: flex; gap: 2.5rem; list-style: none; }
+    .nav-links a {
+      text-decoration: none; font-family: 'Noto Serif SC', serif;
+      font-size: 0.85rem; color: var(--text-muted); letter-spacing: 0.08em;
+      transition: color 0.3s; position: relative;
+    }
+    .nav-links a::after {
+      content: ''; position: absolute; bottom: -3px; left: 0; right: 100%;
+      height: 1.5px; background: var(--peach); transition: right 0.3s ease;
+    }
+    .nav-links a:hover { color: var(--terracotta); }
+    .nav-links a:hover::after { right: 0; }
+    footer {
+      background: var(--brown); color: rgba(255,255,255,0.55);
+      text-align: center; padding: 2rem;
+      font-family: 'Noto Serif SC', serif; font-size: 0.82rem;
+    }
+    footer span { color: var(--peach); }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="/" class="nav-logo">李春晓</a>
+    <ul class="nav-links">
+      <li><a href="/#about">关于我</a></li>
+      <li><a href="/#skills">技能</a></li>
+      <li><a href="/#works">作品</a></li>
+      <li><a href="/posts">文章</a></li>
+      <li><a href="/#contact">联系</a></li>
+    </ul>
+  </nav>
+
+  <slot />
+
+  <footer>
+    <p>手工制作，用心浇灌 <span>♥</span> &copy; 2026 李春晓</p>
+  </footer>
+
+  <script>
+    let lastY = 0;
+    window.addEventListener('scroll', () => {
+      const nav = document.querySelector('nav');
+      const y = window.scrollY;
+      nav.style.opacity = y > lastY && y > 80 ? '0' : '1';
+      lastY = y;
+    });
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(el => {
+        if (el.isIntersecting) {
+          el.target.classList.add('visible');
+          const bar = el.target.querySelector('.skill-bar');
+          if (bar) {
+            const w = getComputedStyle(bar).getPropertyValue('--w').trim();
+            bar.style.transform = `scaleX(${w})`;
+          }
+        }
+      });
+    }, { threshold: 0.15 });
+    document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+  </script>
+</body>
+</html>
