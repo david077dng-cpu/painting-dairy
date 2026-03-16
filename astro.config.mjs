@@ -5,4 +5,7 @@ export default defineConfig({
   // 部署到 Vercel 时不需要修改
   site: 'https://david077dng-cpu.github.io',
   base: '/painting-dairy',
+  build: {
+    inlineStylesheets: 'always',
+  },
 });

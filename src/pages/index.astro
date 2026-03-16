@@ -109,11 +109,34 @@ try {
   .reveal.visible { opacity:1; transform:none; }
 
   @media(max-width:900px) {
-    .hero { grid-template-columns:1fr; text-align:center; padding-top:7rem; }
+    section { padding: 4rem 1.5rem; }
+    .hero { grid-template-columns:1fr; text-align:center; padding:7rem 1.5rem 3rem; }
     .hero-greeting { justify-content:center; }
+    .hero-desc { max-width:100%; }
     .btn-group { justify-content:center; }
-    .about-grid { grid-template-columns:1fr; }
+    .avatar-wrap { width:280px; height:280px; }
+    .avatar-circle { width:240px; height:240px; font-size:6rem; }
+    .badge { font-size:0.72rem; padding:0.5rem 0.8rem; }
+    .badge-1 { right:-5px; }
+    .badge-2 { left:-10px; bottom:15px; }
+    .about-grid { grid-template-columns:1fr; gap:2.5rem; }
+    .stat-card { padding:1.2rem; }
+    .skills-grid { grid-template-columns:repeat(2,1fr); }
     .works-grid { grid-template-columns:1fr; }
+    .contact-links { gap:0.8rem; }
+    .contact-chip { padding:0.6rem 1rem; font-size:0.8rem; }
+  }
+  @media(max-width:480px) {
+    section { padding: 3rem 1rem; }
+    .hero { padding:6rem 1rem 2rem; }
+    .hero-image { margin-top:2rem; }
+    .hero h1 { font-size:2.2rem; }
+    .section-title { font-size:1.6rem; }
+    .skills-grid { grid-template-columns:1fr; }
+    .work-img { height:160px; font-size:3rem; }
+    .posts-list { gap:0.8rem; }
+    .post-item { padding:1rem; flex-direction:column; align-items:flex-start; gap:0.4rem; }
+    .post-item-date { margin-left:0; }
   }
 </style>
 
