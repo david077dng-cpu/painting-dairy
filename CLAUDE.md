@@ -16,7 +16,7 @@ npm run preview  # Preview production build
 
 ## Architecture
 
-- **Content Collections**: Blog posts are stored as Markdown files in `src/content/posts/`. Each post uses frontmatter with `title`, `date`, `description`, and `category` fields. Schema is defined in [src/content/config.ts](src/content/config.ts).
+- **Content Collections**: Blog posts are stored as Markdown files in `src/content/posts/`. Each post uses frontmatter with `title`, `date`, `description`, and `category` fields. Schema is defined in [src/content.config.ts](src/content.config.ts).
 - **Routing**: Uses Astro's file-based routing
   - `src/pages/index.astro` - Homepage
   - `src/pages/posts/index.astro` - Blog listing
