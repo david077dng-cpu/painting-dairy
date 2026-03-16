@@ -32,7 +32,5 @@ jobs:
 
       - name: Deploy to VPS web root
         run: |
-          sudo mkdir -p /var/www/html
-          sudo chown -R $USER:$USER /var/www/html
           rm -rf /var/www/html/*
           cp -r dist/* /var/www/html/
