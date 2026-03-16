@@ -217,12 +217,17 @@ try {
       <div class="section-divider"></div>
     </div>
     <div class="posts-list reveal">
-      {recentPosts.map(post => (
-        <a href={`/posts/${post.slug}`} class="post-item">
-          <span class="post-item-title">{post.data.title}</span>
-          <span class="post-item-date">{post.data.date}</span>
-        </a>
-      ))}
+      {recentPosts.map(post => {
+        const dateStr = post.data.date instanceof Date
+          ? post.data.date.toISOString().split('T')[0]
+          : String(post.data.date);
+        return (
+          <a href={`/posts/${post.id.replace(/\.md$/, '')}`} class="post-item">
+            <span class="post-item-title">{post.data.title}</span>
+            <span class="post-item-date">{dateStr}</span>
+          </a>
+        );
+      })}
     </div>
     <div style="text-align:center; margin-top:2rem;">
       <a href="/posts" class="btn btn-outline">查看全部文章 →</a>
