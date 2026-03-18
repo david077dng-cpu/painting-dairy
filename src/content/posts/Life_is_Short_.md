@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-280.jpg)
+![cover_image](/images/image-280.jpg)
 
 Life is Short.
 ==============
@@ -20,7 +20,7 @@ Life is Short.
 
 这周确实有些事儿很想记录和分享一下。
 
-![](/painting-dairy/images/image-281.jpg)
+![](/images/image-281.jpg)
 
 这周末花了两天的时间参加急救培训。
 
@@ -43,6 +43,6 @@ Life is Short.
 欢迎转发、给个“在看”让更多人看到～看到是一方面，行动起来更重要～  
 晚安![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)～  
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

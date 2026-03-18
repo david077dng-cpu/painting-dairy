@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-375.jpg)
+![cover_image](/images/image-375.jpg)
 
 One Day Off.
 ============
@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 可以回味一周![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_2.png)～
 
-![](/painting-dairy/images/image-376.jpg)
+![](/images/image-376.jpg)
 
 必须画一下记录下来，
 
@@ -50,6 +50,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

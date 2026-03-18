@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 但不论是色彩还是人物都很让人爱不释手。  
 
-![](/painting-dairy/images/image-399.jpg)
+![](/images/image-399.jpg)
 
 Mary Blair在大学毕业后辗转换了几个工作后，
 
@@ -40,13 +40,13 @@ Mary Blair的艺术感性充满了独特的魅力，
 
 Mary Blair本人，
 
-![](/painting-dairy/images/image-400.jpg)
+![](/images/image-400.jpg)
 
 感受一下原画的魅力：
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQrWK2PhnzbmvWux8hlibF10YLaIDAWJibFu2mpR9Nqkrq8SicOYLmr9S58RJyNWdkgklOFrZLSNqlwA/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 愿大家今晚都有个好梦～晚安～  
 
@@ -56,6 +56,6 @@ Mary Blair本人，
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

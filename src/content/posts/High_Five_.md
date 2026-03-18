@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-246.jpg)
+![](/images/image-246.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRbiamCrlasP2iaZchIe9lukAZiawbianMGGWKfQdA2a7YXMtVcSRIWdnXIsROEQx7SQhUQZCIH7ibUyZg/640?wx_fmt=jpeg)
 
@@ -48,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 祝大家晚安~![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)
 
-![](/painting-dairy/images/image-2.png)
+![](/images/image-2.png)
 
 点击“阅读原文”，照片变水彩~
 

@@ -102,14 +102,14 @@ Christmas Gift.
 
 Max
 
-![](/painting-dairy/images/image-115.jpg)  
+![](/images/image-115.jpg)  
   
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSaP7NjjIdfJfRibjODsljib5VicicPGTEJH6VyVjM1HadeRYYoWcyYIUH09tEblib1lpKF7wx7Amp1iaVg/0?wx_fmt=jpeg)
 
   
 
-![](/painting-dairy/images/image-116.jpg)
+![](/images/image-116.jpg)
 
     这种共同战胜自己，共同成长的经历，是最美好的~
 
@@ -123,7 +123,7 @@ Max
 
     欢迎投稿！ 欢迎留言！！ 欢迎转发！！！
 
-![](/painting-dairy/images/image-117.jpg)
+![](/images/image-117.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
 

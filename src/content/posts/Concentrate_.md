@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-125.jpg)
+![cover_image](/images/image-125.jpg)
 
 Concentrate.
 ============
@@ -34,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 岂会舍得把时间倾注在每天，  
 匆匆而过的世界上。
 
-![](/painting-dairy/images/image-126.jpg)
+![](/images/image-126.jpg)
 
 今天老友Mr.Funny来访，  
 一起在书店“不务正业”，  
@@ -45,6 +45,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎评论、转发and给个"在看"～  
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

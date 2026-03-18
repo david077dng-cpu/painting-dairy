@@ -28,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > **难道你不知道吗？自从我第一次在桥上看到你，我所走的每一步，都是为了更接近你。**
 
-![](/painting-dairy/images/image-93.jpg)
+![](/images/image-93.jpg)
 
   
 
@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-94.jpg)
+![](/images/image-94.jpg)
 
 点击“阅读原文”，照片变水彩。  
 

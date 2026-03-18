@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-320.jpg)
+![](/images/image-320.jpg)
 
   
 
@@ -32,4 +32,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-321.jpg)
+![](/images/image-321.jpg)

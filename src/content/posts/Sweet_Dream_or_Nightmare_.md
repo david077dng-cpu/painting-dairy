@@ -19,7 +19,7 @@ Sweet Dream or Nightmare.
 
   
 
-![](/painting-dairy/images/image-448.jpg)
+![](/images/image-448.jpg)
 
     张爱玲的话，很少有这么正能量的啊。
 
@@ -47,7 +47,7 @@ Sweet Dream or Nightmare.
 
     请问大家，哪一个比较严重？哪个更没得救？![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)
 
-![](/painting-dairy/images/image-449.jpg)
+![](/images/image-449.jpg)
 
     老师讲：“醒着是理性，是超我；梦中是欲望，是本能。古人觉得应存天理，灭人欲，醒的时候觉得它错就行了，梦是不重要的。”
 
@@ -57,7 +57,7 @@ Sweet Dream or Nightmare.
 
     当然，我纠结的只是小事，相信每个人会都遇到这种选择，可以自行带入，体会一下。
 
-      ![](/painting-dairy/images/image-450.jpg)
+      ![](/images/image-450.jpg)
 
     今天又画楼了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，不过故事明天就有了，I promise.
 
@@ -65,4 +65,4 @@ Sweet Dream or Nightmare.
 
     欢迎留言和我讨论~ 欢迎关注公众号~
 
-![](/painting-dairy/images/image-302.jpg)
+![](/images/image-302.jpg)

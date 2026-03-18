@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-530.jpg)
+![cover_image](/images/image-530.jpg)
 
 The Woman in the Green Dress.
 =============================
@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 特别能感受到画中人的气质和魅力。  
 
-![](/painting-dairy/images/image-531.jpg)
+![](/images/image-531.jpg)
 
 这幅画里面的绿衣女子正是当时莫奈的女朋友，  
 
@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 笔下更多的是：草垛、花园、水塘、小桥，  
 
-还有他越画越大的睡莲![](/painting-dairy/images/image-532.png)。  
+还有他越画越大的睡莲![](/images/image-532.png)。  
 
 好啦，今天就到这，  
 

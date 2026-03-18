@@ -14,7 +14,7 @@ LJX LJX [PaintingDiary](javascript:void\(0\);)
 
     今天的投稿来自于一次绍兴东湖之旅。
 
-![](/painting-dairy/images/image-15.jpg)
+![](/images/image-15.jpg)
 
 古镇，老屋，石桥，小溪，
 
@@ -32,7 +32,7 @@ LJX LJX [PaintingDiary](javascript:void\(0\);)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTgWPficg5DtRIicAsCENcVjMfd0nSDH0eOWJhBXibVibou64p1GARibOUXcOCa9CE7K7Q99icPWb4IKR7A/0/jpeg)
 
-![](/painting-dairy/images/image-16.jpg)
+![](/images/image-16.jpg)
 
 欢迎点赞~转发~~投稿~~~
 

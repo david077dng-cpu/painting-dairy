@@ -14,7 +14,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 今天的照片来自投稿。
 
-![](/painting-dairy/images/image-357.jpg)
+![](/images/image-357.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTGGjMmZotfddppBTlJLHicpibVJaO5Fs8khoVGDII9VI8g1XDsTALXeS0DiaYvxX2J9E4szeYseqpTg/640?wx_fmt=jpeg)
 
@@ -32,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 但充满着无限的可能。
 
-![](/painting-dairy/images/image-357.jpg)
+![](/images/image-357.jpg)
 
 全国大部分高校都有“逸夫楼”，
 

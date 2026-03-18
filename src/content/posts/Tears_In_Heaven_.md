@@ -18,7 +18,7 @@ Tears In Heaven.
 
     **![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)这位夏天什么都没做的同学，连投稿都这么潇洒。还好你的照片美。**
 
-![](/painting-dairy/images/image-461.jpg)
+![](/images/image-461.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTSPuLTzyziawxfPE1wZicjhvDEnfFFgpcGvfFc2PlyUxawibHJTPMzfaHwD3PZJZcjuasaXbJicj9h7w/0?wx_fmt=jpeg)
 
@@ -26,7 +26,7 @@ Tears In Heaven.
 
     **在这里有个著名的西湖十景——雷峰夕照。如下图，来自百度：**
 
-![](/painting-dairy/images/image-462.jpg)
+![](/images/image-462.jpg)
 
     **这已经是我在杭州的第三年了，应该也是最后一年了。**
 
@@ -36,7 +36,7 @@ Tears In Heaven.
 
   
 
-![](/painting-dairy/images/image-463.jpg)
+![](/images/image-463.jpg)
 
     本公众号长期征集大家的摄影作品和小故事，希望有故事爱摄影的小伙伴积极投稿啊~
 
@@ -46,4 +46,4 @@ Tears In Heaven.
 
     更欢迎关注或转发~转发~转发发发发发~~~  
 
-![](/painting-dairy/images/image-164.jpg)
+![](/images/image-164.jpg)

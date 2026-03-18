@@ -38,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 灵魂会随着飞翔的秃鹫回归天界。
 
-![](/painting-dairy/images/image-434.jpg)
+![](/images/image-434.jpg)
 
 藏族人用最后的属于自己的一点点物质，
 
@@ -64,7 +64,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-388.jpg)
+![cover_image](/images/image-388.jpg)
 
 Our Trip to Wuzhen II.
 ======================
@@ -18,7 +18,7 @@ Our Trip to Wuzhen II.
 
 旅行中的老李，真是个诗人呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。  
 
-![](/painting-dairy/images/image-389.jpg)
+![](/images/image-389.jpg)
 
 由于工作关系，我去过好多城市，借机欣赏了好多美好的景致。
 
@@ -32,7 +32,7 @@ Our Trip to Wuzhen II.
 
 说走就走，选择乌镇。
 
-![](/painting-dairy/images/image-390.jpg)
+![](/images/image-390.jpg)
 
 乌镇时值春天，小桥流水，绿荫环绕，春暖花开，哪里有枯藤老树昏鸦，更没有了萧瑟秋风，人行其中，春风轻抚，游船轻荡，与家人一起泛舟水上，一起品尝特有的美味白鱼，一起感受幸福温暖。  
 
@@ -44,7 +44,7 @@ Our Trip to Wuzhen II.
 
 乌镇是我见过最美的古镇，有缘再见！
 
-![](/painting-dairy/images/image-389.jpg)
+![](/images/image-389.jpg)
 
 小编之前也去过一次乌镇，虽然走在小河岸上看乌镇，就已经美的像诗一样了，但是坐在乌篷船上，美景从两边展开的时候，就妥妥的爱上了这个地方。感觉再去几次也不够呢~
 
@@ -52,6 +52,6 @@ Our Trip to Wuzhen II.
 
 欢迎点赞、留言and转发发发发~  
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

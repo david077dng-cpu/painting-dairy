@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-480.jpg)
+![cover_image](/images/image-480.jpg)
 
 The City of Art.
 ================
@@ -60,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-481.jpg)  
+![](/images/image-481.jpg)  
 
 现在国外的疫情好严重啊，  
 
@@ -74,6 +74,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

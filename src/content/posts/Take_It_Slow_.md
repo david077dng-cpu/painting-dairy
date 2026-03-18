@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 我超感动的呢😘。
 
-![](/painting-dairy/images/image-455.jpg)
+![](/images/image-455.jpg)
 
 很久没有这样写生了，
 
@@ -48,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 希望每个周末都有不一样的回忆。
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 
@@ -56,6 +56,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

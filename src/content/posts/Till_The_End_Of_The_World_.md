@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-545.jpg)
+![](/images/image-545.jpg)
 
 悄悄立一个flag，
 
@@ -40,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎评论、转发、点赞~
 
-![](/painting-dairy/images/image-546.jpg)
+![](/images/image-546.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

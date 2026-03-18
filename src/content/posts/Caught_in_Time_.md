@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-104.jpg)
+![cover_image](/images/image-104.jpg)
 
 Caught in Time.
 ===============
@@ -34,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 就是被我画的有点……
 
-![](/painting-dairy/images/image-105.jpg)
+![](/images/image-105.jpg)
 
 帅哥不好画，有压力🙈，  
 

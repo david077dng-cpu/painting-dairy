@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-578.jpg)
+![cover_image](/images/image-578.jpg)
 
 Why So Serious.
 ===============
@@ -14,7 +14,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-我知道今天的画稍微有点吓人![](/painting-dairy/images/image-579.png)，
+我知道今天的画稍微有点吓人![](/images/image-579.png)，
 
 不过实在是很想画一张小丑。
 
@@ -28,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 我不是诚心的，
 
-我是躺床上看恐怖片都可以睡着的人![](/painting-dairy/images/image-579.png)。
+我是躺床上看恐怖片都可以睡着的人![](/images/image-579.png)。
 
 电影还是很精彩的，
 
@@ -56,6 +56,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 下周工作、学习开心～
 
-高考的同学加油![](/painting-dairy/images/image-580.png)![](/painting-dairy/images/image-580.png)![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjRicyQcCorHQ8ZShC4zdCjdSbYRpGfdvqba9KB7iaYAnyIogvIa2FZnwurwj4gicM08MgcIA9F5D5FIQ/640?wx_fmt=png)！
+高考的同学加油![](/images/image-580.png)![](/images/image-580.png)![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjRicyQcCorHQ8ZShC4zdCjdSbYRpGfdvqba9KB7iaYAnyIogvIa2FZnwurwj4gicM08MgcIA9F5D5FIQ/640?wx_fmt=png)！
 
 下周见～

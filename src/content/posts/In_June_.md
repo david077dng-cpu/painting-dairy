@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-260.jpg)
+![cover_image](/images/image-260.jpg)
 
 In June.
 ========
@@ -26,7 +26,7 @@ In June.
 
 亭亭玉立，一尘不染的粉色荷花。
 
-![](/painting-dairy/images/image-261.jpg)
+![](/images/image-261.jpg)
 
 她们的美神笔马良也难画难描。
 
@@ -52,6 +52,6 @@ In June.
 
 欢迎评论、转发and给个“在看”～
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

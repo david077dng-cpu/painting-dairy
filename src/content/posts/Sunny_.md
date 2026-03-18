@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-441.jpg)
+![cover_image](/images/image-441.jpg)
 
 Sunny.
 ======
@@ -28,7 +28,7 @@ Sanny Sanny [PaintingDiary](javascript:void\(0\);)
 
 希望2020剩下的四分之三是幸福的，希望成长！
 
-![](/painting-dairy/images/image-442.jpg)
+![](/images/image-442.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSLJKBicNnl75qUicr5GehJ3gPh8xRGg4eLpKzh721A4Lqy1RehMV92dZOx54VoayfvUcbyO6wuBWtw/640?wx_fmt=jpeg)
 
@@ -42,6 +42,6 @@ Sanny Sanny [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

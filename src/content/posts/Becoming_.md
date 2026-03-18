@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-60.jpg)
+![cover_image](/images/image-60.jpg)
 
 Becoming.
 =========
@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-61.jpg)  
+![](/images/image-61.jpg)  
 
 她先生贝拉克·奥巴马天赋极高，
 

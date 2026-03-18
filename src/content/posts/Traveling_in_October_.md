@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-558.jpg)
+![cover_image](/images/image-558.jpg)
 
 Traveling in October.
 =====================
@@ -42,7 +42,7 @@ Traveling in October.
 
 多看看祖国的大好河山。
 
-![](/painting-dairy/images/image-559.jpg)
+![](/images/image-559.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQc5oYBdFEnQiaJp2FK0CeA9IhZCKxuUqBDH79hc6yAJxQoP2VW5rMib8gA9Yh8HwJUScsz6OgTTF0A/640?wx_fmt=jpeg)
 

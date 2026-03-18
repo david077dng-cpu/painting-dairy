@@ -22,4 +22,4 @@ Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
 
 明天画更多的鼻形~
 
-![](/painting-dairy/images/image-392.jpg)
+![](/images/image-392.jpg)

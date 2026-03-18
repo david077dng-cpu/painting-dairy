@@ -30,7 +30,7 @@ When We Are Young.
 
   
 
-![](/painting-dairy/images/image-571.jpg)  
+![](/images/image-571.jpg)  
 
   
 
@@ -58,7 +58,7 @@ When We Are Young.
 
   
 
-![](/painting-dairy/images/image-572.jpg)
+![](/images/image-572.jpg)
 
     说好了不要大合影呢![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
 
@@ -78,7 +78,7 @@ When We Are Young.
 
   
 
-![](/painting-dairy/images/image-573.jpg)
+![](/images/image-573.jpg)
 
 点击阅读全文查看投稿方式~  
 

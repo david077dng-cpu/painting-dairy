@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-581.jpg)
+![cover_image](/images/image-581.jpg)
 
 Winter Days.
 ============
@@ -16,7 +16,7 @@ LRC LRC [PaintingDiary](javascript:void\(0\);)
 
 今天是一篇关于家乡天津的安利作品![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，感谢投稿～  
 
-![](/painting-dairy/images/image-582.jpg)
+![](/images/image-582.jpg)
 
 每到冬天，海河开始结冰，就陆续有海鸥飞来。随着结冰面积扩大，海鸥越来越多。或许是因为冬季海上实在太冷，这些可爱的吃货们才会到城市里来“化缘”。  
 
@@ -39,6 +39,6 @@ LRC LRC [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)  
+![](/images/image-5.gif)  
 
 [阅读原文](javascript:;)

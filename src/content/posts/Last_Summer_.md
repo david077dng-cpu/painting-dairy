@@ -26,7 +26,7 @@ Last Summer.
 
 记录下三个人的美好时光。
 
-![](/painting-dairy/images/image-271.jpg)
+![](/images/image-271.jpg)
 
 2017年｜夏
 
@@ -74,7 +74,7 @@ Last Summer.
 
 这样就不用虐狗了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)
 
-![](/painting-dairy/images/image-272.jpg)  
+![](/images/image-272.jpg)  
 
     今天投稿的是俺的高中同学~
 
@@ -86,7 +86,7 @@ Last Summer.
 
     不要让本公众号被秀恩爱的占领了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。  
 
-![](/painting-dairy/images/image-273.jpg)
+![](/images/image-273.jpg)
 
       
 

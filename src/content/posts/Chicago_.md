@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-110.jpg)
+![cover_image](/images/image-110.jpg)
 
 Chicago.
 ========
@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 最惊艳的依旧是这段监狱中六个女囚犯的歌舞片段～
 
-![](/painting-dairy/images/image-111.jpg)  
+![](/images/image-111.jpg)  
 
 最后推荐获得过75届奥斯卡最佳影片奖在内多项国际大奖的同名电影《芝加哥》。  
 

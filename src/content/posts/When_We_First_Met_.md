@@ -76,7 +76,7 @@ When We First Met.
 
 也更了解自己了。
 
-![](/painting-dairy/images/image-574.jpg)
+![](/images/image-574.jpg)
 
 十几年的友谊，
 
@@ -108,7 +108,7 @@ When We First Met.
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

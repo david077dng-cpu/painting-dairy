@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-158.jpg)
+![](/images/image-158.jpg)
 
   
 
@@ -42,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-159.gif)
+![](/images/image-159.gif)
 
   
 
@@ -56,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 附上徒弟今天画的柯南~  
 
-![](/painting-dairy/images/image-160.jpg)
+![](/images/image-160.jpg)
 
 是不是很有感觉~
 
@@ -68,4 +68,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎评论、转发and转发~
 
-![](/painting-dairy/images/image-161.jpg)
+![](/images/image-161.jpg)

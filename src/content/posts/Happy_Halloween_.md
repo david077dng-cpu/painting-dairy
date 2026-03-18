@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-224.jpg)
+![cover_image](/images/image-224.jpg)
 
 Happy Halloween.
 ================
@@ -14,7 +14,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-今天是充满神秘气息的**万圣节****![](/painting-dairy/images/image-225.jpg)**～  
+今天是充满神秘气息的**万圣节****![](/images/image-225.jpg)**～  
 
 从几天前各处就开始飘上小幽灵![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQQay5HxgkoHlREUY6JkBHaEDctNaCa36icXia2RnhPIFTEUyYEPsr13FdUmwibM6LVTibZky46alPYYg/640?wx_fmt=png)，挂上小南瓜🎃了～  
 
@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 今天应个景，画个梵高的《吸烟头骨》。
 
-![](/painting-dairy/images/image-226.jpg)
+![](/images/image-226.jpg)
 
 梵高当时正在比利时的艺术学校学习绘画，
 
@@ -40,4 +40,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 下周见～
 
- ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQay5HxgkoHlREUY6JkBHanRBs95Bcg1paMGAOGf0FnUZmd7XibLT5ibjotymicMd13DkkAv38dtYNw/640?wx_fmt=jpeg)![](/painting-dairy/images/image-227.jpg)
+ ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQay5HxgkoHlREUY6JkBHanRBs95Bcg1paMGAOGf0FnUZmd7XibLT5ibjotymicMd13DkkAv38dtYNw/640?wx_fmt=jpeg)![](/images/image-227.jpg)

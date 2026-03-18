@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-318.jpg)
+![cover_image](/images/image-318.jpg)
 
 Moon Cake For You~
 ==================
@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > 节选自《四世同堂》
 
-![](/painting-dairy/images/image-319.jpg)  
+![](/images/image-319.jpg)  
 
 挺过盛夏，终于迎来了舒适惬意的秋天。
 
@@ -40,6 +40,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 小长假快乐~  
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

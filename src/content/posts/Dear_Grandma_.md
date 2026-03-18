@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-141.jpg)
+![cover_image](/images/image-141.jpg)
 
 Dear Grandma.
 =============
@@ -32,7 +32,7 @@ Dear Grandma.
 
   
 
-![](/painting-dairy/images/image-142.jpg)
+![](/images/image-142.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQuqgc6p9F1WN72UXTwdf1oibxUTHmiaPvvamFLkfpOtgWicEo1ywSMbVA1RAoC1313jH2g69zdweicwA/640?wx_fmt=jpeg)
 
@@ -50,7 +50,7 @@ Dear Grandma.
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

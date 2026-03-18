@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     从老远就把我吸引过去了。     
 
-![](/painting-dairy/images/image-204.jpg)    青绿色的池塘中，
+![](/images/image-204.jpg)    青绿色的池塘中，
 
     几只大白鹅排排站，
 
@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     内心OS：“没见过世面![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_46.png)”  
 
-    ![](/painting-dairy/images/image-205.jpg)
+    ![](/images/image-205.jpg)
 
     今天写那个“兰亭白鹅”的时候，
 
@@ -60,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎点击“阅读原文”投稿~  
 
-![](/painting-dairy/images/image-206.jpg)
+![](/images/image-206.jpg)
 
   
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-84.jpg)
+![cover_image](/images/image-84.jpg)
 
 Black Horse.
 ============
@@ -71,7 +71,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 1962年7月28日  
 
-![](/painting-dairy/images/image-85.jpg)  
+![](/images/image-85.jpg)  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSlczIn0RxAsBzqSc7YMlDEWzClWSjon0Zofw1sWvEQ0ruXHciaTRs2asnLL9mtSosbE5kmHicgzIuw/640?wx_fmt=jpeg)
 
@@ -111,7 +111,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-85.jpg)  
+![](/images/image-85.jpg)  
 
 好啦，欢迎留言、转发and给个“在看”哦～  
 

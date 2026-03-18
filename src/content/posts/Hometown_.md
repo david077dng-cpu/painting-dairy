@@ -12,7 +12,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-![](/painting-dairy/images/image-249.jpg)
+![](/images/image-249.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQaISSMI3zNaiaFlVAYXMicTCYk15kvt5YicEyhe23hrxPYUHuO46gydS5Ymnlics6caILN3TIu4uLkmA/0?wx_fmt=jpeg)
 
@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
  （下图来自百度）  
 
-![](/painting-dairy/images/image-250.jpg)
+![](/images/image-250.jpg)
 
   
 
@@ -34,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     好啦，欢迎评论、点赞和转发~  
 
-![](/painting-dairy/images/image-251.jpg)
+![](/images/image-251.jpg)
 
 点击“阅读原文”留下你的投稿~  
 

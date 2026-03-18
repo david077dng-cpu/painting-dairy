@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-364.jpg)
+![cover_image](/images/image-364.jpg)
 
 New Year, New Start.
 ====================
@@ -28,7 +28,7 @@ New Year, New Start.
 
   
 
-![](/painting-dairy/images/image-365.jpg)
+![](/images/image-365.jpg)
 
 现在回看起来还是能想起那天中午那家餐厅热闹的样子。  
 
@@ -75,6 +75,6 @@ New Year, New Start.
 
   
 
-![](/painting-dairy/images/image-5.gif)  
+![](/images/image-5.gif)  
 
 [阅读原文](javascript:;)

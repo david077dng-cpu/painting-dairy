@@ -18,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     来自一本叫《**走走画画——卡卡桑的旅绘生活**》的书。
 
-![](/painting-dairy/images/image-378.jpg)
+![](/images/image-378.jpg)
 
     作者在书中描写到去柏林时的经历：
 
@@ -34,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 >     **我只想要那棵金色的大树，以及等车的人，像在一个空旷的舞台上。**
 
-![](/painting-dairy/images/image-379.jpg)
+![](/images/image-379.jpg)
 
   
 
@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     生活中有太多这种惊艳的瞬间，如果能把它们记录下来，就不要让它们转瞬消失在记忆中……
 
-![](/painting-dairy/images/image-380.jpg)  
+![](/images/image-380.jpg)  
 
     自从开了这个公众号，每天都开心得像个傻子![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F604.png)。十分感激大家的支持和鼓励！深深地鞠躬。
 
@@ -52,4 +52,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎大家扫码订阅公众号，更欢迎大家转发~转发~转发~     
 
-![](/painting-dairy/images/image-164.jpg)
+![](/images/image-164.jpg)

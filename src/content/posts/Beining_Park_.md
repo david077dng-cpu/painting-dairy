@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 园内建筑在策划设计上颇具匠心。  
 
-![](/painting-dairy/images/image-69.jpg)
+![](/images/image-69.jpg)
 
 今天画的是天津北宁公园的致远塔，  
 
@@ -56,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在公园的各个方向都能看到致远塔的身影。
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 

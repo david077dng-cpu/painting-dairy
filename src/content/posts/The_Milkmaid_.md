@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-507.jpg)
+![cover_image](/images/image-507.jpg)
 
 The Milkmaid.
 =============
@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 《倒牛奶的女佣人》。
 
-![](/painting-dairy/images/image-508.jpg)
+![](/images/image-508.jpg)
 
 维米尔的画看着都有种安详的感觉。
 
@@ -54,7 +54,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 他家女仆还都挺美的![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)
 
-![](/painting-dairy/images/image-509.jpg)
+![](/images/image-509.jpg)
 
 好啦，
 

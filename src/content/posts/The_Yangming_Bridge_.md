@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 就决定将这个视角下的风景留下来。
 
-![](/painting-dairy/images/image-533.jpg)
+![](/images/image-533.jpg)
 
 原来阳明桥就是由一个余姚的校友捐建的，
 
@@ -42,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-534.jpg)
+![](/images/image-534.jpg)
 
 欢迎点赞、评论and转发发发~  
 

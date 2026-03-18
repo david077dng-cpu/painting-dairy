@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-149.jpg)
+![cover_image](/images/image-149.jpg)
 
 Eileen Chang.
 =============
@@ -16,9 +16,9 @@ Eileen Chang.
 
    今天偶然看到一本《张爱玲私语录》，拿起来翻翻，几句话、几行字让我立刻回忆起了之前读《天才梦》时的惊艳。读其他文字，作者是讲述者，站在面前，但读她的文字时，她便成为思想的触角，甚至站在我的头脑里，指挥着所有。
 
-![](/painting-dairy/images/image-150.jpg)  
+![](/images/image-150.jpg)  
 
-![](/painting-dairy/images/image-151.jpg)
+![](/images/image-151.jpg)
 
     附上《天才梦》片段：  
 

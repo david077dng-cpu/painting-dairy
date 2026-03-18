@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-393.jpg)
+![cover_image](/images/image-393.jpg)
 
 Painting a Dazzling World.
 ==========================
@@ -34,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 但也要注意收集幸福的瞬间～  
 
-![](/painting-dairy/images/image-394.jpg)
+![](/images/image-394.jpg)
 
 吼啦，欢迎评论、转发or给个“在看”～
 

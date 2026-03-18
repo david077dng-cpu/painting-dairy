@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 先画为敬。
 
-![](/painting-dairy/images/image-254.jpg)
+![](/images/image-254.jpg)
 
 碑后写道：
 
@@ -54,7 +54,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、评论and转发。  
 
-![](/painting-dairy/images/image-255.jpg)
+![](/images/image-255.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

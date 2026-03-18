@@ -28,13 +28,13 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-310.jpg)
+![](/images/image-310.jpg)
 
 哈，还是被窝舒服～![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ8ySZK2uT1icTBez7AmkIs5XpJ9h1h5e7mcxvuDobsdCrVjLac5bWNzJ8AO4657wOdXwuD4uomPAA/0?wx_fmt=jpeg)
 
   
 
-![](/painting-dairy/images/image-311.jpg)
+![](/images/image-311.jpg)
 
     今天还有一个让我很开心的事情，就是俺的爹地居然给俺投稿啦～～～ 
 
@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-312.jpg)
+![](/images/image-312.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
 

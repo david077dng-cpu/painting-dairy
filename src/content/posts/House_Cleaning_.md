@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-252.jpg)
+![cover_image](/images/image-252.jpg)
 
 House Cleaning.
 ===============
@@ -40,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 大家都准备得怎么样啦😄～  
 
-![](/painting-dairy/images/image-253.jpg)
+![](/images/image-253.jpg)
 
 劳动得太久，发的有点晚了～  
 
@@ -49,6 +49,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 欢迎留言、转发or给个在看～  
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-256.jpg)
+![cover_image](/images/image-256.jpg)
 
 I Love Flyfish.
 ===============
@@ -26,7 +26,7 @@ I Love Flyfish.
 
   
 
-![](/painting-dairy/images/image-257.jpg)
+![](/images/image-257.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
 
@@ -42,6 +42,6 @@ I Love Flyfish.
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

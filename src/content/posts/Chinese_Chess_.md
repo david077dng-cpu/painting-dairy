@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 当然以上全部来自笔者的想象。
 
-![](/painting-dairy/images/image-114.jpg)
+![](/images/image-114.jpg)
 
 不过感谢二位大爷，
 

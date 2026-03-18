@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 委屈她一个老博穿着小硕的衣服陪我拍照。
 
-![](/painting-dairy/images/image-336.jpg)
+![](/images/image-336.jpg)
 
 越画越不舍，
 
@@ -42,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

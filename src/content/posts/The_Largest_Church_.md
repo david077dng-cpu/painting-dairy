@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-503.jpg)
+![cover_image](/images/image-503.jpg)
 
 The Largest Church.
 ===================
@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 表达出来了。
 
-![](/painting-dairy/images/image-504.jpg)
+![](/images/image-504.jpg)
 
 这是梵蒂冈的圣彼得大教堂，
 
@@ -46,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 将这一刻永远镌刻在记忆中。  
 
-![](/painting-dairy/images/image-505.jpg)
+![](/images/image-505.jpg)
 
 蓝色的穹顶出自米开朗基罗的设计，  
 
@@ -70,7 +70,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 以后要探索更多，画得更干净些！  
 
-![](/painting-dairy/images/image-506.jpg)
+![](/images/image-506.jpg)
 
 欢迎评论、转发or给个“在看”呦～  
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-443.jpg)
+![cover_image](/images/image-443.jpg)
 
 Sweet Baby.
 ===========
@@ -54,7 +54,7 @@ Sweet Baby.
 
 而我只是其中一个爱你的人  
 
-![](/painting-dairy/images/image-444.jpg)  
+![](/images/image-444.jpg)  
 
 不管是什么东西
 
@@ -86,7 +86,7 @@ Sweet Baby.
 
 你已经睡着……
 
-![](/painting-dairy/images/image-445.jpg)
+![](/images/image-445.jpg)
 
 今天画了一个眼睛超级大的宝宝~
 

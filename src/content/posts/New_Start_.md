@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-360.jpg)
+![cover_image](/images/image-360.jpg)
 
 New Start.
 ==========
@@ -44,7 +44,7 @@ _如这照片里的意境，_
 
 _走得更美好更久远。_
 
-![](/painting-dairy/images/image-361.jpg)
+![](/images/image-361.jpg)
 
 很巧诶，这周末小编也搬了家，
 

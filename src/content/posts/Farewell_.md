@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 是时候离开了。
 
-![](/painting-dairy/images/image-169.jpg)
+![](/images/image-169.jpg)
 
 道别了月牙楼，
 
@@ -42,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

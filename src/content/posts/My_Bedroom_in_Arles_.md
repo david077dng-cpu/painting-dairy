@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 武则天派人临摹的《万岁通天帖》现在都是国宝级文物。  
 
-![](/painting-dairy/images/image-14.gif)  
+![](/images/image-14.gif)  
 
 今天临摹的是梵高的《阿尔勒的卧室》，
 
@@ -52,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 梵高的第一版《阿尔勒的卧室》，
 
-![](/painting-dairy/images/image-330.jpg)
+![](/images/image-330.jpg)
 
 1888年9月，
 
@@ -100,7 +100,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 大家加油～
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
   
 

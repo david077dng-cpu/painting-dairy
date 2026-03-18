@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-65.jpg)
+![cover_image](/images/image-65.jpg)
 
 Before Sunrise, Before Sunset, Before Midnight.
 ===============================================
@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-66.jpg)
+![](/images/image-66.jpg)
 
 这三部电影里的每一句话都是值得记在小本本上的经典。  
 
@@ -46,11 +46,11 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0D6eWdTDqMIibU2ywRvqDPD5ibI1SqAXEprwLqhLrw7fibUiazXgPiaHQ9VSMV9DrqsSD7giacVzOm6ow/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-67.jpg)
+![](/images/image-67.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0D6eWdTDqMIibU2ywRvqDPNlPvuMZbEqXhqADiaADjgNWHlChjSLTzSIsGPLpDNWGsSw4GfNnJI2w/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-68.jpg)
+![](/images/image-68.jpg)
 
 好啦，今天就到这～  
 

@@ -24,7 +24,7 @@ Say Cheese.
 
 哎，要不我们一人找一个熟悉的女生，然后一起去？
 
-![](/painting-dairy/images/image-424.jpg)
+![](/images/image-424.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/5Te9e4FibPxBHMBaHPBZjONlso7wNyq909CepbAMSNrhfNH28wwBJjbLfKrRYdib6oLuxZTvGZ1nEDdCopVfJAtQ/0/jpeg)
 
@@ -36,7 +36,7 @@ Say Cheese.
 
 那行，那我自己拉吧。
 
-![](/painting-dairy/images/image-424.jpg)
+![](/images/image-424.jpg)
 
     于是我就开始了单人的拉女生表演……  
 
@@ -46,7 +46,7 @@ Say Cheese.
 
 妹子1
 
-![](/painting-dairy/images/image-425.jpg)
+![](/images/image-425.jpg)
 
 不好意思，宋城我去过了，而且我这周末要回家，以后如果去其他地方玩可以叫我。
 
@@ -54,7 +54,7 @@ Say Cheese.
 
 妹子2
 
-![](/painting-dairy/images/image-425.jpg)
+![](/images/image-425.jpg)
 
 可以呀！不过最好再拉一个妹子，不然太尴尬了。
 
@@ -64,7 +64,7 @@ Say Cheese.
 
 妹子n
 
-![](/painting-dairy/images/image-425.jpg)
+![](/images/image-425.jpg)
 
 不去不去，我还得去xxxx。你们玩的开心。
 
@@ -72,7 +72,7 @@ Say Cheese.
 
 妹子n+1
 
-![](/painting-dairy/images/image-425.jpg)
+![](/images/image-425.jpg)
 
 我看起来就那么像单身狗吗？
 
@@ -92,7 +92,7 @@ Say Cheese.
 
   
 
-![](/painting-dairy/images/image-426.jpg)
+![](/images/image-426.jpg)
 
      可惜他的摄影没有魔力呀，哪里像我，拍谁谁脱单，前段时间作为24年母胎单身的室友也脱单了。
 
@@ -114,7 +114,7 @@ Say Cheese.
 
     不知道是不是每个人在对比中都会觉得自卑？但是觉得室友真的很厉害，所以要赶快自信起来哟。
 
-![](/painting-dairy/images/image-427.jpg)
+![](/images/image-427.jpg)
 
     昨天我室友说我这个公众号像点歌台，可以投稿送祝福，哈哈哈哈哈，还挺像的。
 

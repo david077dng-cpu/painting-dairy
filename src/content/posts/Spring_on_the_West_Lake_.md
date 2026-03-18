@@ -18,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 西湖上泛舟的人也多了起来。
 
-![](/painting-dairy/images/image-438.jpg)
+![](/images/image-438.jpg)
 
 还记得在刚入学的那个秋天，
 
@@ -50,11 +50,11 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 毕竟是许仙白娘子同款![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。  
 
-![](/painting-dairy/images/image-178.gif)
+![](/images/image-178.gif)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTe76aiaKc2ft2Um1ny2J5xUksyE1dyyubO5ic2eYAYfFYqyW1QxIK6NJlg8BFicU0JsqMALFtpFtkpA/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
   
 

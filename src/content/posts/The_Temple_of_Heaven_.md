@@ -24,7 +24,7 @@ The Temple of Heaven.
 
     今天临摹了天坛。
 
-![](/painting-dairy/images/image-523.jpg)
+![](/images/image-523.jpg)
 
     小时候去过一次天坛。
 
@@ -52,7 +52,7 @@ The Temple of Heaven.
 
   
 
-![](/painting-dairy/images/image-524.jpg)
+![](/images/image-524.jpg)
 
     昨天画完锦鲤，
 
@@ -74,7 +74,7 @@ The Temple of Heaven.
 
     所以欢迎投稿哇~~
 
-![](/painting-dairy/images/image-525.jpg)
+![](/images/image-525.jpg)
 
 点击阅读全文投稿 ~
 

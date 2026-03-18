@@ -26,10 +26,10 @@ Mr. Funny Mr. Funny [PaintingDiary](javascript:void\(0\);)
 
 欠了六天的影评，就到这吧。
 
-![](/painting-dairy/images/image-189.jpg)
+![](/images/image-189.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

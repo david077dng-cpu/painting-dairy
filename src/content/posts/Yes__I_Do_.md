@@ -20,7 +20,7 @@ Yes, I Do.
 
 白头到啦哈~
 
-![](/painting-dairy/images/image-592.jpg)
+![](/images/image-592.jpg)
 
     2018年1月1日，
 
@@ -52,7 +52,7 @@ Yes, I Do.
 
   
 
-![](/painting-dairy/images/image-593.jpg)
+![](/images/image-593.jpg)
 
   
 
@@ -102,7 +102,7 @@ Yes, I Do.
 
   
 
-![](/painting-dairy/images/image-592.jpg)
+![](/images/image-592.jpg)
 
 好齁儿![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
 
@@ -110,7 +110,7 @@ Yes, I Do.
 
 欢迎留言！！点赞！！转发发发发发！！！
 
-![](/painting-dairy/images/image-594.jpg)
+![](/images/image-594.jpg)
 
   
 

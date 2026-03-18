@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-603.jpg)
+![](/images/image-603.jpg)
 
 玉泉校区的毛主席雕像，
 
@@ -50,7 +50,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 都重新充满能量。
 
-![](/painting-dairy/images/image-604.jpg)
+![](/images/image-604.jpg)
 
 欢迎点赞、评论and转发发发~  
 

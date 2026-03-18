@@ -34,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-91.jpg)
+![](/images/image-91.jpg)
 
 另外，
 
@@ -60,4 +60,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 舍不得我的室友们![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_12.png)。
 
-![](/painting-dairy/images/image-92.jpg)
+![](/images/image-92.jpg)

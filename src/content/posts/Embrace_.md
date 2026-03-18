@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-152.jpg)
+![cover_image](/images/image-152.jpg)
 
 Embrace.
 ========
@@ -18,7 +18,7 @@ Embrace.
 
 超幸福的一家人~
 
-![](/painting-dairy/images/image-154.jpg)
+![](/images/image-154.jpg)
 
 爷爷奶奶八十多了，
 
@@ -40,7 +40,7 @@ Embrace.
 
 伸手想摸摸老太太的脸。
 
-![](/painting-dairy/images/image-153.jpg)
+![](/images/image-153.jpg)
 
 爷爷奶奶一辈子相亲相爱，
 

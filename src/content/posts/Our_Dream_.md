@@ -16,7 +16,7 @@ Our Dream.
 
 感谢投稿的旁友～
 
-![](/painting-dairy/images/image-381.jpg)
+![](/images/image-381.jpg)
 
 2016圆妈妈和我的梦～
 
@@ -28,9 +28,9 @@ Our Dream.
 
 西藏我还回来![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)  
 
-![](/painting-dairy/images/image-382.jpg)
+![](/images/image-382.jpg)
 
-![](/painting-dairy/images/image-381.jpg)
+![](/images/image-381.jpg)
 
 祝勇《西藏：远方的上方》里面说：
 
@@ -72,6 +72,6 @@ Our Dream.
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

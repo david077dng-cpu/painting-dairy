@@ -40,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > I did not die. 
 
-![](/painting-dairy/images/image-414.jpg)
+![](/images/image-414.jpg)
 
 > 不要在我墓前哭泣。
 > 
@@ -74,7 +74,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-415.jpg)
+![](/images/image-415.jpg)
 
     今天一早得知了一个消息，
 

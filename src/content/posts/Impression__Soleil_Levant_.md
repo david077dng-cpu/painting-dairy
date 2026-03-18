@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 就源于这日出印象。
 
-![](/painting-dairy/images/image-259.jpg)
+![](/images/image-259.jpg)
 
 突破了传统画作的写实风格，
 
@@ -52,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 听着远处船的汽笛声。
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 
@@ -60,6 +60,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

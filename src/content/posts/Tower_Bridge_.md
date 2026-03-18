@@ -18,7 +18,7 @@ We are all in the gutter, but some of us are looking at the stars.
 
   
 
-![](/painting-dairy/images/image-551.jpg)
+![](/images/image-551.jpg)
 
     今天的句子……不翻译了，
 
@@ -38,7 +38,7 @@ We are all in the gutter, but some of us are looking at the stars.
 
       
 
-![](/painting-dairy/images/image-552.jpg)
+![](/images/image-552.jpg)
 
     今天已经弹尽粮绝了，
 
@@ -50,7 +50,7 @@ We are all in the gutter, but some of us are looking at the stars.
 
     欢迎留言、转发和投稿~     
 
-![](/painting-dairy/images/image-553.jpg)
+![](/images/image-553.jpg)
 
 点击阅读原文，投稿吧~
 

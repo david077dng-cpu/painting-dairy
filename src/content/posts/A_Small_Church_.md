@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 喜欢这个角落的风景。  
 
-![](/painting-dairy/images/image-27.jpg)
+![](/images/image-27.jpg)
 
   
 

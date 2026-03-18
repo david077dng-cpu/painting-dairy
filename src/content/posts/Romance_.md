@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-416.jpg)
+![cover_image](/images/image-416.jpg)
 
 Romance.
 ========
@@ -18,7 +18,7 @@ Romance.
 
 感谢旅行中的老李投稿～  
 
-![](/painting-dairy/images/image-418.jpg)
+![](/images/image-418.jpg)
 
 有幸来到太原，遇见“晋祠”。
 
@@ -32,7 +32,7 @@ Romance.
 
 在这里我想分享一则古柏齐年的故事，一个关于千年周柏的爱情传说……
 
-![](/painting-dairy/images/image-417.jpg)
+![](/images/image-417.jpg)
 
 据说这株古柏为周代所植，距今已有3000年的历史。
 
@@ -72,6 +72,6 @@ Romance.
 
 欢迎点赞、评论and转发发发发～
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

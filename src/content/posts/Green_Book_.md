@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-210.jpg)
+![cover_image](/images/image-210.jpg)
 
 Green Book.
 ===========
@@ -42,7 +42,7 @@ Green Book.
 
   
 
-![](/painting-dairy/images/image-211.jpg)
+![](/images/image-211.jpg)
 
 三月初的时候，  
 
@@ -80,7 +80,7 @@ emmm…春天到了，
 
   
 
-![](/painting-dairy/images/image-212.jpg)
+![](/images/image-212.jpg)
 
 欢迎点赞、评论and转发发发发～
 

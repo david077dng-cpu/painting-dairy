@@ -14,7 +14,7 @@ Alone Alone [PaintingDiary](javascript:void\(0\);)
 
 今天照片来自三月的一个投稿～
 
-![](/painting-dairy/images/image-14.gif)
+![](/images/image-14.gif)
 
 这里是天津市河北区的月牙河，
 
@@ -38,7 +38,7 @@ Alone Alone [PaintingDiary](javascript:void\(0\);)
 
 重要的是有发现美的眼睛……
 
-![](/painting-dairy/images/image-134.jpg)
+![](/images/image-134.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
@@ -64,4 +64,4 @@ Alone Alone [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

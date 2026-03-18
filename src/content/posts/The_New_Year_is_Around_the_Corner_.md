@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-510.jpg)
+![cover_image](/images/image-510.jpg)
 
 The New Year is Around the Corner.
 ==================================
@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 想为新年的主角画一幅画～
 
-![](/painting-dairy/images/image-511.jpg)
+![](/images/image-511.jpg)
 
 不管生活如何，
 
@@ -42,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 给大伙儿拜年啦![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_83.png)～
 
-![](/painting-dairy/images/image-2.png)
+![](/images/image-2.png)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

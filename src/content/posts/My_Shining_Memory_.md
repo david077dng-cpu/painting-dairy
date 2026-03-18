@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-337.jpg)
+![cover_image](/images/image-337.jpg)
 
 My Shining Memory.
 ==================
@@ -18,7 +18,7 @@ Young Young [PaintingDiary](javascript:void\(0\);)
 
 感谢投稿～
 
-![](/painting-dairy/images/image-338.jpg)
+![](/images/image-338.jpg)
 
 《记忆中的老房子》  
   
@@ -44,7 +44,7 @@ Young Young [PaintingDiary](javascript:void\(0\);)
 
 伴着门前的月季和紫荆，熠熠生辉。  
 
-![](/painting-dairy/images/image-339.jpg)
+![](/images/image-339.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRKKdXAKflKjUzgTy2F5AcWUbHda0o1OhqGeIWFokeIRiaAicKTIfKoRPSPARlVd1bpRV6vtO9Yv42g/640?wx_fmt=jpeg)
 
@@ -72,6 +72,6 @@ Young Young [PaintingDiary](javascript:void\(0\);)
 
 周末愉快～  
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

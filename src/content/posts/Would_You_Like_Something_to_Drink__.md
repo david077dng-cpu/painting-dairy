@@ -16,7 +16,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     **温暖的下午，温暖的咖啡![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)，周末真好![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)……**
 
-![](/painting-dairy/images/image-590.jpg)
+![](/images/image-590.jpg)
 
     今天更得太晚了，就不废话了，祝大家有个好梦~ 晚安~~
 
@@ -24,4 +24,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
      喜欢的话欢迎大家订阅公众号，更欢迎转发转发转发~
 
-![](/painting-dairy/images/image-164.jpg)
+![](/images/image-164.jpg)

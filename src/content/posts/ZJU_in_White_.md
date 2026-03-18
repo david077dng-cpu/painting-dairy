@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-605.jpg)
+![](/images/image-605.jpg)
 
   
 
@@ -42,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-    ![](/painting-dairy/images/image-606.jpg)
+    ![](/images/image-606.jpg)
 
 点击“阅读原文”把照片变水彩~  
 

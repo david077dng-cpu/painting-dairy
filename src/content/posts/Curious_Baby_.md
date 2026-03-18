@@ -24,7 +24,7 @@ Curious Baby.
 
 欢迎更多投稿呀～
 
-![](/painting-dairy/images/image-14.gif)
+![](/images/image-14.gif)
 
 今天的投稿来自麻麻的一个好朋友～
 
@@ -50,7 +50,7 @@ hiahiahia，
 
 每次看都能回忆起当时的场景。
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 每次旅行都会有这种小意外，
 
@@ -72,4 +72,4 @@ hiahiahia，
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-492.jpg)
+![cover_image](/images/image-492.jpg)
 
 The First Trip With You.
 ========================
@@ -22,7 +22,7 @@ HL HL [PaintingDiary](javascript:void\(0\);)
 
 以及梦想。
 
-![](/painting-dairy/images/image-493.jpg)
+![](/images/image-493.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSCU4oyXKlONybCHt0duGddl7XjOXyInj8vWaRHCGKvaA5iakGC5hE0gutibXSCKnjSJQxoKYsV1Mxg/640?wx_fmt=jpeg)
 
@@ -36,7 +36,7 @@ HL HL [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~  
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

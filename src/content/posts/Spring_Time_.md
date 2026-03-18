@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-436.jpg)
+![cover_image](/images/image-436.jpg)
 
 Spring Time.
 ============
@@ -32,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 临摹一幅美丽的风景～  
 
-![](/painting-dairy/images/image-437.jpg)
+![](/images/image-437.jpg)
 
 临摹还是很有助于开拓视野的。
 
@@ -56,6 +56,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 蟹蟹～  
 
-![](/painting-dairy/images/image-5.gif)  
+![](/images/image-5.gif)  
 
 [阅读原文](javascript:;)

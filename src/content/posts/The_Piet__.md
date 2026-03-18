@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-512.jpg)
+![cover_image](/images/image-512.jpg)
 
 The Pietà.
 ==========
@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 今天画中展现的是圣彼得大教堂中的雕塑《圣殇》。
 
-![](/painting-dairy/images/image-513.jpg)
+![](/images/image-513.jpg)
 
 米开朗基罗创作这幅雕塑时年仅24岁，
 
@@ -56,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-514.jpg)
+![](/images/image-514.jpg)
 
 不是很懂宗教知识，
 

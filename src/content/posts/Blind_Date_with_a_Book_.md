@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-88.jpg)
+![cover_image](/images/image-88.jpg)
 
 Blind Date with a Book.
 =======================
@@ -28,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 “与其带着勉强的快乐迎合世界，不如拥抱真实的孤独接纳自己。每一个曾在人群中感到孤独的人，都会在这本书中找到自己：世界总是采用单一的衡量标准，每一个“太这样”或“太不够那样”的人，都质疑过自己的不同与不被人理解的孤独。每一个人的不同都是自己的标签，这一点不存在任何问题。”  
 
-![](/painting-dairy/images/image-89.png)  
+![](/images/image-89.png)  
 
 我决定看完这本漫画再走。  
 
@@ -50,7 +50,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 “书店真是个让人幸福的地方呐……”
 
-![](/painting-dairy/images/image-90.jpg)
+![](/images/image-90.jpg)
 
 不知道大家最喜欢的地方是哪里呢～
 

@@ -18,7 +18,7 @@ Sommer in Peking.
 
 我十分开心。
 
-![](/painting-dairy/images/image-435.jpg)
+![](/images/image-435.jpg)
 
 上周陪同学逛北京，  
 
@@ -90,7 +90,7 @@ Sherlock说过匆忙做决定是件危险的事情。
 
 下周考试，预祝北语德语1班的小伙伴们“大吉大利，晚上吃鸡”！
 
-![](/painting-dairy/images/image-435.jpg)
+![](/images/image-435.jpg)
 
 胡博士考完试就快要出国了，
 

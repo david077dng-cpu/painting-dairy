@@ -38,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     ![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)
 
-![](/painting-dairy/images/image-58.jpg)
+![](/images/image-58.jpg)
 
   
 
@@ -50,7 +50,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎留言、点赞and转发发发发~         
 
-![](/painting-dairy/images/image-59.jpg)
+![](/images/image-59.jpg)
 
 点击“阅读原文”，照片变水彩 ~  
 

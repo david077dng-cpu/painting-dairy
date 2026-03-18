@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 之江校区还是电影《唐山大地震》的取景地。  
 
-![](/painting-dairy/images/image-607.jpg)
+![](/images/image-607.jpg)
 
 我有一个私藏的游玩线路，
 
@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 强烈推荐给每位来杭州玩的旁友们。
 
-![](/painting-dairy/images/image-178.gif)
+![](/images/image-178.gif)
 
 欢迎点赞、评论and转发发发~  
 

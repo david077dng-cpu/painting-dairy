@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-264.jpg)
+![](/images/image-264.jpg)
 
     此心安处是吾乡，
 
@@ -46,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-265.jpg)
+![](/images/image-265.jpg)
 
   
 

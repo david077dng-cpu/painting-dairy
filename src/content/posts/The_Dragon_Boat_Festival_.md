@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-485.jpg)
+![cover_image](/images/image-485.jpg)
 
 The Dragon Boat Festival.
 =========================
@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 所以收下这两枚粽子吧~![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_04.png)
 
-![](/painting-dairy/images/image-486.jpg)
+![](/images/image-486.jpg)
 
 从小吃甜粽子的我，
 
@@ -42,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 Yummy～
 
-![](/painting-dairy/images/image-487.jpg)
+![](/images/image-487.jpg)
 
 祝大家端午小长假玩的开心~
 
@@ -52,6 +52,6 @@ Yummy～
 
 以及转发这两只粽子获得好运![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)~
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

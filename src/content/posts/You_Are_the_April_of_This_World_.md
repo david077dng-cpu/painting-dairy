@@ -18,7 +18,7 @@ You Are the April of This World.
 
 感谢投稿～
 
-![](/painting-dairy/images/image-600.jpg)
+![](/images/image-600.jpg)
 
 我说你是人间的四月天；
 
@@ -36,7 +36,7 @@ You Are the April of This World.
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGG4hDsIb2u1IoEGibvFoQI4RsAKdrPECfe88Ppic7jFS4vRxLCiaSRYR765tL18BoIFBbgwvCUCyEw/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-600.jpg)
+![](/images/image-600.jpg)
 
 小编特意赶在四月结束之前，
 
@@ -54,6 +54,6 @@ You Are the April of This World.
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGG4hDsIb2u1IoEGibvFoQIDSsUgctxK2lgSo9wc1RXon150SrTZ11GXBiawm6JZFWor8CUUrJ75AA/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

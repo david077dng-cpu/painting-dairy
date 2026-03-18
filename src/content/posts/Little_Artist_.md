@@ -20,7 +20,7 @@ Little Artist.
 
 送给小宝贝～
 
-![](/painting-dairy/images/image-14.gif)
+![](/images/image-14.gif)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSRbLjLjrGmjv3rZH9ww2OicrNRU6xNt3d4lOicl98nicEAqJpu7fRD4SicJQk2oZQLoKdeSZ8iabokbOA/640?wx_fmt=jpeg)
 
@@ -50,7 +50,7 @@ Little Artist.
 
 　　因为贪睡忘了上学……
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 今天的文章充满了童趣哇，
 
@@ -68,4 +68,4 @@ Little Artist.
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

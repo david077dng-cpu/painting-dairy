@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-52.jpg)
+![cover_image](/images/image-52.jpg)
 
 Autumn Weekend.
 ===============
@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 稍稍有点遗憾。
 
-不过画的时候就可以“为所欲为”了![](/painting-dairy/images/image-53.png)，
+不过画的时候就可以“为所欲为”了![](/images/image-53.png)，
 
 果断画成金色的～  
 

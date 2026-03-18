@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-494.jpg)
+![cover_image](/images/image-494.jpg)
 
 The Flavor of Life
 ==================
@@ -28,7 +28,7 @@ The Flavor of Life
 
 是发展道路上最大的绊脚石。
 
-![](/painting-dairy/images/image-495.jpg)
+![](/images/image-495.jpg)
 
 有时看别的大画家画集里面，
 
@@ -60,7 +60,7 @@ The Flavor of Life
 
   
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 说了半天，
 
@@ -74,7 +74,7 @@ The Flavor of Life
 
 有什么想对小编说的欢迎留言呀！
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)  
 

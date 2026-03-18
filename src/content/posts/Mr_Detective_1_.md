@@ -16,4 +16,4 @@ Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-322.jpg)
+![](/images/image-322.jpg)

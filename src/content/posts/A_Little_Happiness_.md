@@ -18,13 +18,13 @@ A Little Happiness.
 
   
 
-![](/painting-dairy/images/image-19.jpg)
+![](/images/image-19.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSXQFZcuibmDhPAyicbDIZZY3QLT1iaO3RDFULmsHGPARMwymTsw0oEh44oUlVPpyB5SbtWoSgVp2AWg/640?wx_fmt=jpeg)
 
   
 
-![](/painting-dairy/images/image-20.jpg)
+![](/images/image-20.jpg)
 
     读完几行字加一张照片，
 

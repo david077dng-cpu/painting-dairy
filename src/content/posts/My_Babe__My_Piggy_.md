@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-327.jpg)
+![cover_image](/images/image-327.jpg)
 
 My Babe, My Piggy～
 ==================
@@ -18,7 +18,7 @@ My Babe, My Piggy～
 
 感谢投稿～
 
-![](/painting-dairy/images/image-328.jpg)
+![](/images/image-328.jpg)
 
 处女座饲养员，男，30岁。
 
@@ -32,7 +32,7 @@ My Babe, My Piggy～
 
 你说过陪伴是最长情的告白，那么宠溺就是告白后的呵护。
 
-![](/painting-dairy/images/image-329.jpg)
+![](/images/image-329.jpg)
 
 2018年4月29日，你的生日，那一天我们结束了漫长的恋爱，我们结婚了！一周年快乐！  
 
@@ -46,7 +46,7 @@ My Babe, My Piggy～
 
 也祝我们结婚一周年快乐！
 
-![](/painting-dairy/images/image-328.jpg)
+![](/images/image-328.jpg)
 
 哎～呀～好丰盛的狗粮啊，
 

@@ -12,7 +12,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-![](/painting-dairy/images/image-165.jpg)  
+![](/images/image-165.jpg)  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTPZjPr7ibdD3S8jW2EXXK9F1rW1npSiapJbXdvPM9LmTRA7194avo8tibw4A1YSYARgjazNKibV9YdBw/0?wx_fmt=jpeg)
 
@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     画一张表敬意。
 
-![](/painting-dairy/images/image-166.jpg)
+![](/images/image-166.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTPZjPr7ibdD3S8jW2EXXK9FLCKic5gAWkVZdc5MXN5XUeeUKOBpEXedssVLCGdtymHcXQzKCWZspfQ/0?wx_fmt=jpeg)
 
@@ -38,4 +38,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎点赞、评论和转发~
 
-![](/painting-dairy/images/image-167.jpg)
+![](/images/image-167.jpg)

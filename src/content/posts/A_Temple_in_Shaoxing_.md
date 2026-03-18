@@ -20,11 +20,11 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-30.jpg)
+![](/images/image-30.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSB7j4Nywtibj5q5ACGAiajdL6bWRaAY5NnB5KrpMpwlkvOgXYroTKIrycMo7tFS7fUicTV9J8O25tpg/0?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-31.jpg)
+![](/images/image-31.jpg)
 
 又到周五啦~
 

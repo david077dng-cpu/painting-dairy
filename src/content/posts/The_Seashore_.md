@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-517.jpg)
+![](/images/image-517.jpg)
 
 发呆是我在海边最喜欢做的事情，
 
@@ -50,7 +50,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-144.gif)
+![](/images/image-144.gif)
 
 好啦，欢迎点赞、评论and转发~
 

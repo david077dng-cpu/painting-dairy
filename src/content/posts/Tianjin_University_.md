@@ -20,7 +20,7 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
 小编拜托了一位天大的小伙伴写了今天的文字。
 
-![](/painting-dairy/images/image-542.jpg)
+![](/images/image-542.jpg)
 
   
 
@@ -52,7 +52,7 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-543.jpg)
+![](/images/image-543.jpg)
 
 这四年间，
 
@@ -88,7 +88,7 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-544.jpg)
+![](/images/image-544.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

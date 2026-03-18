@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-76.jpg)
+![cover_image](/images/image-76.jpg)
 
 Best Wishes.
 ============
@@ -18,7 +18,7 @@ Best Wishes.
 
 祝大家鼠年吉祥如意，健康平安~
 
-![](/painting-dairy/images/image-77.jpg)
+![](/images/image-77.jpg)
 
 最近病毒肆虐，这个年过的特别难，
 

@@ -30,13 +30,13 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-108.jpg)
+![](/images/image-108.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSfgw29eKdVsVVfpDBTKNFR1HPHOTGRbfLD4HSuekPqO10PNicjrI1LXgu09NGtMv8bOCH3icdMFiaxg/640?wx_fmt=jpeg)
 
 欢迎点赞、评论and留言~
 
-![](/painting-dairy/images/image-2.png)
+![](/images/image-2.png)
 
 点击“阅读原文”，照片变水彩~  
 

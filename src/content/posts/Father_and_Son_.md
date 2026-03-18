@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-171.jpg)
+![cover_image](/images/image-171.jpg)
 
 Father and Son.
 ===============
@@ -18,7 +18,7 @@ Father and Son.
 
 感谢分享旅途故事～  
 
-![](/painting-dairy/images/image-172.jpg)
+![](/images/image-172.jpg)
 
 2014年春节，
 
@@ -26,7 +26,7 @@ Father and Son.
 
 奔向诗和远方![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)...  
 
-![](/painting-dairy/images/image-173.jpg)
+![](/images/image-173.jpg)
 
 云南大理的崇圣寺三塔，  
 
@@ -50,7 +50,7 @@ Father and Son.
 
 当然，现在已然是英俊青年...![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F604.png)
 
-![](/painting-dairy/images/image-172.jpg)
+![](/images/image-172.jpg)
 
 还记得18年4月的一张故事感很强的画嘛～
 
@@ -80,6 +80,6 @@ Father and Son.
 
 也欢迎点赞、留言and转发发发发～  
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

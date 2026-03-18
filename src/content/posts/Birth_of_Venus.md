@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-81.jpg)
+![cover_image](/images/image-81.jpg)
 
 Birth of Venus
 ==============
@@ -28,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 春之神送来美丽的裙子，
 
-“女神就是女神哇![](/painting-dairy/images/image-82.png)～
+“女神就是女神哇![](/images/image-82.png)～
 
 出场都这么不一样”  
 
@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 放个原画在这里吧，
 
-![](/painting-dairy/images/image-83.jpg)
+![](/images/image-83.jpg)
 
 好啦祝大家下周学习工作顺利，
 

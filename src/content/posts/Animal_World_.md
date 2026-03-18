@@ -18,7 +18,7 @@ LCX & 晨 LCX & 晨 [PaintingDiary](javascript:void\(0\);)
 
 生机勃勃的 ~
 
-![](/painting-dairy/images/image-40.jpg)
+![](/images/image-40.jpg)
 
 并且, 喜大普奔,  
 
@@ -30,7 +30,7 @@ TA画了第一幅水彩作品，
 
 有点艺术家的感觉![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_42.png)
 
-![](/painting-dairy/images/image-41.jpg)
+![](/images/image-41.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQsQqQiaWouIBz0Io6rakibAWIX3xQBPaCKHLvRmX2KVE4fWpPFqktGZsXcklFOsStdtwnUoXVvSxpQ/640?wx_fmt=jpeg)
 
@@ -38,7 +38,7 @@ TA画了第一幅水彩作品，
 
     欢迎点赞、评论and转发发发~
 
-![](/painting-dairy/images/image-42.jpg)
+![](/images/image-42.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

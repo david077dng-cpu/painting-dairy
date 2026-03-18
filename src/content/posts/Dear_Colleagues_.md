@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-136.jpg)
+![cover_image](/images/image-136.jpg)
 
 Dear Colleagues.
 ================
@@ -22,13 +22,13 @@ Dear Colleagues.
 
 来自LRC的投稿～
 
-![](/painting-dairy/images/image-137.jpg)
+![](/images/image-137.jpg)
 
 2007年结束了上一段工作，来到了设计院工艺专业，我们的工艺室，翻开了我职场的新篇。如今2019年，马上就要结束了。我的这一段职场生涯也要结束了，恋恋不舍\------除了不得不结束的职业生涯，最不舍的是朝夕相处的工艺专业的每位同事。  
 
   
 
-![](/painting-dairy/images/image-138.jpg)
+![](/images/image-138.jpg)
 
 **第一个要提的是** **老王**
 
@@ -76,6 +76,6 @@ Dear Colleagues.
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

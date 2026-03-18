@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-190.jpg)
+![cover_image](/images/image-190.jpg)
 
 Full of Love.
 =============
@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-191.jpg)
+![](/images/image-191.jpg)
 
   
 

@@ -24,7 +24,7 @@ Homesick.
 
 下面是正文～
 
-![](/painting-dairy/images/image-247.jpg)
+![](/images/image-247.jpg)
 
 > 最近有点想家，想家人。
 > 
@@ -44,7 +44,7 @@ Homesick.
 > 
 > 这样明年1月就可以回家了！
 
-![](/painting-dairy/images/image-248.jpg)
+![](/images/image-248.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
@@ -60,7 +60,7 @@ Homesick.
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

@@ -24,7 +24,7 @@ The Fairyland in the Rain.
 
   
 
-![](/painting-dairy/images/image-488.jpg)
+![](/images/image-488.jpg)
 
 四月去了一趟徽州，
 
@@ -48,7 +48,7 @@ The Fairyland in the Rain.
 
 风景仍然触动人心。
 
-![](/painting-dairy/images/image-489.jpg)
+![](/images/image-489.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
@@ -70,7 +70,7 @@ The Fairyland in the Rain.
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-122.jpg)
+![cover_image](/images/image-122.jpg)
 
 Companion.
 ==========
@@ -28,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 所以他想在镜头下多留下一些奶奶的身影。
 
-![](/painting-dairy/images/image-123.jpg)
+![](/images/image-123.jpg)
 
 爷爷走后留下奶奶一个人，
 
@@ -54,7 +54,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 永远珍藏在相片和画中……  
 
-![](/painting-dairy/images/image-124.jpg)
+![](/images/image-124.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
@@ -66,7 +66,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

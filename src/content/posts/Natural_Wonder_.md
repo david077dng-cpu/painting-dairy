@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 大自然真是神奇。
 
-![](/painting-dairy/images/image-356.jpg)
+![](/images/image-356.jpg)
 
 怪不得张艺谋拍黄金甲的时候，
 
@@ -52,4 +52,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

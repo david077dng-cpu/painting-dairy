@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-222.jpg)
+![cover_image](/images/image-222.jpg)
 
 Happy Father's Day.
 ===================
@@ -38,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 突然感觉到了“父亲”这个词的重量。
 
-![](/painting-dairy/images/image-223.jpg)
+![](/images/image-223.jpg)
 
 但我山寨的这幅……
 
@@ -62,6 +62,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎留言、转发and给一个“在看”呦～
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

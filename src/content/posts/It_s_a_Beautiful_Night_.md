@@ -28,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 没想到这么快就到了这天。
 
-![](/painting-dairy/images/image-266.jpg)
+![](/images/image-266.jpg)
 
 站在你身边见证你一生最重要、最美丽的时刻，
 
@@ -52,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

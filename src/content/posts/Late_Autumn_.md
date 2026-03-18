@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-274.jpg)
+![cover_image](/images/image-274.jpg)
 
 Late Autumn.
 ============
@@ -32,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 所以夕阳斜照时分，秋意甚浓。
 
-![](/painting-dairy/images/image-275.jpg)
+![](/images/image-275.jpg)
 
 立冬意味着冬天的开始，
 

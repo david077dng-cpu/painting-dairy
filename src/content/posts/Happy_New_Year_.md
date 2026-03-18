@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-231.jpg)
+![cover_image](/images/image-231.jpg)
 
 Happy New Year.
 ===============
@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 祝大家都可以锦鲤附身，明年暴富![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
 
-![](/painting-dairy/images/image-232.jpg)  
+![](/images/image-232.jpg)  
 
 一年年过的真是太快了，
 

@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 许多藏族人都会在这许愿祈福。
 
-![](/painting-dairy/images/image-168.jpg)
+![](/images/image-168.jpg)
 
 据我观察，
 
@@ -46,4 +46,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

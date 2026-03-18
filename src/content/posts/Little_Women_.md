@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-282.jpg)
+![cover_image](/images/image-282.jpg)
 
 Little Women.
 =============
@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 就是《小妇人》啦～有没有猜对～
 
-![](/painting-dairy/images/image-283.jpg)
+![](/images/image-283.jpg)
 
 电影从一个圣诞夜开始，
 

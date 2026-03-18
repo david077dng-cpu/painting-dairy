@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     这就是画画的魅力吧，可以把同一个故事，以不同的情感展示出来。
 
-![](/painting-dairy/images/image-456.jpg)
+![](/images/image-456.jpg)
 
     看照片想起了俺的奶奶。
 
@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     在她心里，我可能永远都是拿着零花钱在校门口小摊儿上买吃的的小孩吧。
 
-![](/painting-dairy/images/image-457.jpg)
+![](/images/image-457.jpg)
 
     祝大家周末愉快，别忘去看看老人~
 

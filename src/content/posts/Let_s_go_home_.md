@@ -38,7 +38,7 @@ Let's go home.
 
      
 
-![](/painting-dairy/images/image-276.jpg)
+![](/images/image-276.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSX9Vjf4En6NUQX31Ck9Xo0n97ruETcU8p71dib7aW6XSMLuoP1hecBRX7J7yEvy110CUssUCicG6sA/0?wx_fmt=jpeg)
 
@@ -52,4 +52,4 @@ Let's go home.
 
     欢迎大家投稿，这样我就不会天天画楼了。
 
-![](/painting-dairy/images/image-164.jpg)
+![](/images/image-164.jpg)

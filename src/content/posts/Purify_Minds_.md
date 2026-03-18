@@ -22,7 +22,7 @@ Purify Minds.
 
 感谢投稿的小伙伴～
 
-![](/painting-dairy/images/image-14.gif)
+![](/images/image-14.gif)
 
 人生总有那么一次会沾满了灰土，
 
@@ -38,7 +38,7 @@ Purify Minds.
 
 至少，在这里，与世无争。
 
-![](/painting-dairy/images/image-409.jpg)
+![](/images/image-409.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
@@ -48,4 +48,4 @@ Purify Minds.
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-106.jpg)
+![cover_image](/images/image-106.jpg)
 
 Centenary.
 ==========
@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 作为对百年校庆的小小献礼～
 
-![](/painting-dairy/images/image-107.jpg)
+![](/images/image-107.jpg)
 
 每次从南门走进来的时候，
 
@@ -41,4 +41,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎留言、转发or给个“在看”呦～  
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)

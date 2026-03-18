@@ -12,13 +12,13 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-![](/painting-dairy/images/image-350.jpg)
+![](/images/image-350.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR8ejD4P8l3JDslFXFHExsNoybYVlLe2C1yiaaMF31516ENdickQrLS2ibWlz6sIsVTfLxOgIUVlnv3w/640?wx_fmt=jpeg)
 
   
 
-![](/painting-dairy/images/image-351.jpg)
+![](/images/image-351.jpg)
 
     这种意料之外的神奇瞬间，
 
@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎评论&点赞&转发  ~     
 
-![](/painting-dairy/images/image-352.jpg)
+![](/images/image-352.jpg)
 
     点击“阅读原文”，把那一瞬间变成水彩吧 ~
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-562.jpg)
+![cover_image](/images/image-562.jpg)
 
 Venice.
 =======
@@ -16,7 +16,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 继续国庆之旅游记～威尼斯。
 
-![](/painting-dairy/images/image-564.jpg)
+![](/images/image-564.jpg)
 
 去威尼斯之前，路上遇到的所有人都千叮咛万嘱咐：  
 
@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 我对威尼斯的防备之心就消失得无影无踪了。
 
-![](/painting-dairy/images/image-563.jpg)
+![](/images/image-563.jpg)
 
 威尼斯实在是太美了，  
 

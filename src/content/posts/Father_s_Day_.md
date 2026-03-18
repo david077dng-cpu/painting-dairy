@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-174.jpg)
+![cover_image](/images/image-174.jpg)
 
 Father's Day.
 =============
@@ -24,11 +24,11 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 俗话说，“冬至饺子夏至面”，
 
-所以，都有没有请父亲大人吃面呀～![](/painting-dairy/images/image-175.png)
+所以，都有没有请父亲大人吃面呀～![](/images/image-175.png)
 
 没有的话，晚上赶紧安排上![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQiakIicq69rP6jMvyHT15GI3KNzjdQT7KfrPWYnOfRmzvxwibzPaB9n7N9icFZse2YXoFners4XwO2Pw/640?wx_fmt=png)
 
-![](/painting-dairy/images/image-176.jpg)
+![](/images/image-176.jpg)
 
 今天画的就是父亲大人。  
 

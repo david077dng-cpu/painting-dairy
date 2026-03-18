@@ -18,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 当当当当 ~  
 
-![](/painting-dairy/images/image-71.jpg)
+![](/images/image-71.jpg)
 
 小伙伴们从元旦就开始藏着掖着，
 
@@ -48,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-72.jpg)
+![](/images/image-72.jpg)
 
   
 
@@ -56,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎评论、留言and转发发发~  
 
-![](/painting-dairy/images/image-73.jpg)
+![](/images/image-73.jpg)
 
 点击“阅读原文”，照片变水彩~~  
 

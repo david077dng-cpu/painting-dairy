@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-537.jpg)
+![cover_image](/images/image-537.jpg)
 
 Thoughts in the Rain.
 =====================
@@ -16,7 +16,7 @@ Thoughts in the Rain.
 
 无剧透，放心看。  
 
-![](/painting-dairy/images/image-538.jpg)
+![](/images/image-538.jpg)
 
 今天看了一部很燃很燃的电影，  
 木有错，就是最近很火、广受好评的哪吒～  
@@ -35,7 +35,7 @@ Thoughts in the Rain.
 我在这里东想西想，  
 有点傻了。
 
-![](/painting-dairy/images/image-539.jpg)
+![](/images/image-539.jpg)
 
 这周还看了另外一个“怪胎”的故事，  
 太宰治的人间失格。  
@@ -63,7 +63,7 @@ Thoughts in the Rain.
 悠然自得。  
 
   
-![](/painting-dairy/images/image-538.jpg)  
+![](/images/image-538.jpg)  
   
 
 电影很不错，

@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     Everything 旺旺~  
 
-![](/painting-dairy/images/image-1.jpg)
+![](/images/image-1.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmicI5zSYeqwbbG0PgxptMKsReJrLsGG7Pp6vOC95g3AicdnSxDDYQvmLNbBaMdm5YGSw18tZFtnQA/640?wx_fmt=jpeg)
 
@@ -32,4 +32,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     新年旺旺旺旺~~  
 
-![](/painting-dairy/images/image-2.png)
+![](/images/image-2.png)

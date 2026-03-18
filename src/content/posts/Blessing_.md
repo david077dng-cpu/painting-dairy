@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-86.jpg)
+![](/images/image-86.jpg)
 
 今天画天津的天后宫，
 
@@ -48,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 晚安 ~  
 
-![](/painting-dairy/images/image-87.jpg)
+![](/images/image-87.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

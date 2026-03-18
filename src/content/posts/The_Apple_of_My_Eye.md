@@ -22,11 +22,11 @@ HRM HRM [PaintingDiary](javascript:void\(0\);)
 
     当时她门牙旁边各掉了一颗牙，一笑就能起到喜剧片的效果……
 
-![](/painting-dairy/images/image-464.jpg)
+![](/images/image-464.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQnMC9psj56jEoMjAUrib6FnMmibcJ0Wbu5oficKBC1XvTr9zTPUVoibTsyGiauaA1zaS42kOZX8t1ccJQ/0?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-465.jpg)
+![](/images/image-465.jpg)
 
     我和弟弟相差一岁，别人也常常以此来羡慕我爸妈，说他们儿女双全。
 
@@ -56,7 +56,7 @@ HRM HRM [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-466.jpg)
+![](/images/image-466.jpg)
 
     很喜欢今天的文风~ 欢迎更多热爱生活的小伙伴投起稿来~
 

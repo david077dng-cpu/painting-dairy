@@ -30,13 +30,13 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-290.jpg)
+![](/images/image-290.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/agPBEQHTf5ibI8tZ9cicLMVZ7nTWm4YicIpQzFt5seam3icicQSufDV4fnpVv5IP4v0bxCfzqjicibOPnobVX8OuqCG8Q/0/png)
 
   
 
-![](/painting-dairy/images/image-295.jpg)
+![](/images/image-295.jpg)
 
     结尾单色的梵高画像让我好震撼，
 
@@ -72,7 +72,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎投稿，点击阅读原文查看投稿方式。
 
-![](/painting-dairy/images/image-296.jpg)
+![](/images/image-296.jpg)
 
   
 

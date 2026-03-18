@@ -28,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 天津的生活节奏总是慢悠悠的，
 
-![](/painting-dairy/images/image-277.jpg)
+![](/images/image-277.jpg)
 
   
 
@@ -66,12 +66,12 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 让人很有安全感的城市。
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

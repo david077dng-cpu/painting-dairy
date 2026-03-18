@@ -44,7 +44,7 @@ Mr. Funny Mr. Funny [PaintingDiary](javascript:void\(0\);)
 
 找一个可以陪伴一生的朋友。
 
-![](/painting-dairy/images/image-326.jpg)
+![](/images/image-326.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRicU58BFO182z8hfCajHI25POgsrGXd9icccuXGPNIPwr3kzRmiaNmiaz8U6m9JROJCKKYSt67xJgayQ/640?wx_fmt=jpeg)
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-199.jpg)
+![cover_image](/images/image-199.jpg)
 
 Gondola.
 ========
@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 从彩色的楼房之间摇曳出来的时候。
 
-![](/painting-dairy/images/image-200.jpg)
+![](/images/image-200.jpg)
 
 倒影映衬蓝天和蓝色的贡多拉，
 
@@ -62,6 +62,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 更欢迎投稿，左下阅读原文～谢谢～
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

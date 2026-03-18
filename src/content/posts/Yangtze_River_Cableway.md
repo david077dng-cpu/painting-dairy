@@ -42,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 改天再来。
 
-![](/painting-dairy/images/image-591.jpg)
+![](/images/image-591.jpg)
 
   
 
@@ -50,4 +50,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

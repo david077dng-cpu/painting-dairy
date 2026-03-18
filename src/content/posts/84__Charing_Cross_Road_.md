@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-6.jpg)
+![cover_image](/images/image-6.jpg)
 
 84, Charing Cross Road.
 =======================
@@ -18,7 +18,7 @@ description: 在小说阅读器中沉浸阅读
 
 就一直想把查令十字街的这间小旧书店画下来。
 
-![](/painting-dairy/images/image-7.jpg)
+![](/images/image-7.jpg)
 
 这本小书很薄，也没有叙述什么故事，
 
@@ -64,7 +64,7 @@ description: 在小说阅读器中沉浸阅读
 
 “你们若恰好路经查令十字街84号，请代我献上一吻，我亏欠她良多……”
 
-![](/painting-dairy/images/image-8.jpg)
+![](/images/image-8.jpg)
 
 加速视频放在后面，  
 

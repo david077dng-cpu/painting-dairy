@@ -39,7 +39,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     希望老人们身体健康，快乐幸福~
 
-![](/painting-dairy/images/image-102.jpg)
+![](/images/image-102.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYrViaQtII8kc9AlAvyOT66EywLqHVBYafyMTE2Pc7wJiawEAYpmWnbmLW3L2gpicFFSTfE4Wur0nNQ/0?wx_fmt=jpeg)
 
@@ -55,4 +55,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     晚安~
 
-![](/painting-dairy/images/image-103.jpg)
+![](/images/image-103.jpg)

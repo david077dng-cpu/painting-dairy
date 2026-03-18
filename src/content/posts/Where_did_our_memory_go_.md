@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-575.jpg)
+![cover_image](/images/image-575.jpg)
 
 Where did our memory go?
 ========================
@@ -46,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 都是一片空白。
 
-![](/painting-dairy/images/image-576.jpg)
+![](/images/image-576.jpg)
 
 我记得当时看到这篇文章的时候，
 
@@ -64,7 +64,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-577.jpg)
+![](/images/image-577.jpg)
 
 本来想儿童节发的，
 

@@ -20,7 +20,7 @@ TA的名字太长了，
 
 原谅我用……来替代。  
 
-![](/painting-dairy/images/image-369.png)
+![](/images/image-369.png)
 
 > 喜欢在路上的感觉，
 > 
@@ -44,7 +44,7 @@ TA的名字太长了，
 > 
 > 最真实的自由感觉。
 > 
-> ![](/painting-dairy/images/image-370.jpg)
+> ![](/images/image-370.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTXZwum4ShFyB26LN3JnEMEsFoF11biaN9BYz07qPaibhtHYVGjHjary2wjqnBkjwY4kIJMG2icZ8XBQ/640?wx_fmt=png)
 
@@ -58,7 +58,7 @@ TA的名字太长了，
 
     欢迎点赞、评论、转发~  
 
-![](/painting-dairy/images/image-371.jpg)
+![](/images/image-371.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-49.jpg)
+![cover_image](/images/image-49.jpg)
 
 Autumn In Beijing.
 ==================
@@ -28,7 +28,7 @@ Autumn In Beijing.
 
 一定会很美很美。  
 
-![](/painting-dairy/images/image-50.jpg)
+![](/images/image-50.jpg)
 
 我到的时候正好是中午，
 
@@ -54,7 +54,7 @@ Autumn In Beijing.
 
 果然这才是北京。。。
 
-![](/painting-dairy/images/image-51.png)
+![](/images/image-51.png)
 
 今天的一日游很惊喜，
 

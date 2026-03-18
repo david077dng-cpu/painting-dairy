@@ -34,7 +34,7 @@ One Day Tour.
 
 今天就从北京最有名的胡同开始～
 
-![](/painting-dairy/images/image-377.jpg)
+![](/images/image-377.jpg)
 
 胡同里的时光，
 
@@ -70,7 +70,7 @@ One Day Tour.
 
 喜欢坐在院子前面喝喝茶，下下棋。  
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 今天去齐白石故居，
 
@@ -96,7 +96,7 @@ One Day Tour.
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

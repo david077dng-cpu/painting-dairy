@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-228.jpg)
+![](/images/image-228.jpg)
 
 画中永远是最美好的，
 
@@ -32,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 不然连这点儿都吃不着了。
 
-![](/painting-dairy/images/image-229.jpg)
+![](/images/image-229.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UJOHy6MRzqC7hZ2mxjhbwONBhEU5xkmUZw2gt1nQNibmoYpmY2MYzAaw/640?wx_fmt=gif)
 
@@ -40,4 +40,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发~  
 
-![](/painting-dairy/images/image-230.jpg)
+![](/images/image-230.jpg)

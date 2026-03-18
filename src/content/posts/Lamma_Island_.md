@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-267.jpg)
+![cover_image](/images/image-267.jpg)
 
 Lamma Island.
 =============
@@ -16,7 +16,7 @@ Lamma Island.
 
 今天的照片来自师妹的投稿～
 
-![](/painting-dairy/images/image-269.jpg)
+![](/images/image-269.jpg)
 
 许久没有投稿，有点想念师姐的手稿（意图相当明显：就是来索小画儿的）。  
   
@@ -52,7 +52,7 @@ Lamma Island.
 
   
 
-![](/painting-dairy/images/image-268.jpg)
+![](/images/image-268.jpg)
 
   
 

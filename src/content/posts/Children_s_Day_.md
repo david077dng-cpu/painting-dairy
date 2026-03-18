@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-112.jpg)
+![cover_image](/images/image-112.jpg)
 
 Children's Day.
 ===============
@@ -43,7 +43,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-113.jpg)
+![](/images/image-113.jpg)
 
 栈道萌娃，  
 衬得天更蓝、树更绿，  
@@ -55,6 +55,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

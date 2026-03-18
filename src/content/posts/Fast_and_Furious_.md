@@ -16,7 +16,7 @@ Fast and Furious.
 
 感谢这位喜爱骑行的同学～  
 
-![](/painting-dairy/images/image-14.gif)
+![](/images/image-14.gif)
 
 就如网文所言：
 
@@ -34,13 +34,13 @@ Fast and Furious.
 
 不骑车，你就永远不知道，除了朝九晚五上班以外，还可以这样自由和快乐的生活着。
 
-![](/painting-dairy/images/image-170.jpg)
+![](/images/image-170.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

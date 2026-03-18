@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 里面这个冷呀。
 
-![](/painting-dairy/images/image-526.jpg)
+![](/images/image-526.jpg)
 
 小剧场坐落在月牙楼对面，
 

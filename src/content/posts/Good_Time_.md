@@ -18,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 小李子在这里献上生日礼物一幅。
 
-![](/painting-dairy/images/image-201.jpg)
+![](/images/image-201.jpg)
 
     这张照片是在杭州创意设计中心拍的，
 
@@ -34,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     加油，你是最棒的![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_79.png)
 
-![](/painting-dairy/images/image-202.jpg)
+![](/images/image-202.jpg)
 
    今天这张照片是另外一位室友大人的摄影作品~
 
@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎留言、转发、投稿。
 
-![](/painting-dairy/images/image-203.jpg)
+![](/images/image-203.jpg)
 
 点击“阅读原文”投稿吧~~  
 

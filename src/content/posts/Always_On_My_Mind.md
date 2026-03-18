@@ -24,7 +24,7 @@ Always On My Mind
 
   
 
-![](/painting-dairy/images/image-37.jpg)
+![](/images/image-37.jpg)
 
 2015年｜夏
 
@@ -60,7 +60,7 @@ Always On My Mind
 
     “我好爱你们！”
 
-![](/painting-dairy/images/image-38.jpg)
+![](/images/image-38.jpg)
 
      关于这次旅行，实在是太多美好的回忆了。
 
@@ -70,4 +70,4 @@ Always On My Mind
 
     好啦，今天太长了，先到这里吧，欢迎留言或转发~~
 
-    ![](/painting-dairy/images/image-39.jpg)
+    ![](/images/image-39.jpg)

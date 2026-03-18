@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-451.jpg)
+![cover_image](/images/image-451.jpg)
 
 Sweet Music, Sweet Life.
 ========================
@@ -32,7 +32,7 @@ Sweet Music, Sweet Life.
 
 每首曲目演奏完都会赢得阵阵欢呼和互动。  
 
-![](/painting-dairy/images/image-452.jpg)
+![](/images/image-452.jpg)
 
 海河上游船穿梭，
 
@@ -60,6 +60,6 @@ Sweet Music, Sweet Life.
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

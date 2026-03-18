@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     俗话说得好，人有失足，马有失蹄，我今天就失蹄了……![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)
 
-![](/painting-dairy/images/image-245.jpg)
+![](/images/image-245.jpg)
 
 没有对比就没有伤害，下面请看原图：  
 
@@ -42,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     最后打个广告，欢迎大家扫码订阅~ 更欢迎大家转发转发转发~
 
-![](/painting-dairy/images/image-164.jpg)
+![](/images/image-164.jpg)

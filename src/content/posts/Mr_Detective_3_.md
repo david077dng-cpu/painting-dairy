@@ -12,7 +12,7 @@ Mr.Funny. Mr.Funny. [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-![](/painting-dairy/images/image-324.jpg)
+![](/images/image-324.jpg)
 
 Mr. Funny说TA今天就是这个状态，
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-406.jpg)
+![cover_image](/images/image-406.jpg)
 
 Plant Research.
 ===============
@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-407.jpg)
+![](/images/image-407.jpg)
 
 > 鸟鸣传来，那清脆的发条
 > 
@@ -60,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 >   
 
-![](/painting-dairy/images/image-408.jpg)
+![](/images/image-408.jpg)
 
 今天的画是临摹网上大神的画作，
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-62.jpg)
+![cover_image](/images/image-62.jpg)
 
 Beer Bike.
 ==========
@@ -18,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 找些原来有意思的照片练习一下水彩技法吧。  
 
-![](/painting-dairy/images/image-63.jpg)
+![](/images/image-63.jpg)
 
 今天这个远看像个婴儿车的东西，
 
@@ -50,7 +50,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 还蛮有意思的。  
 
-![](/painting-dairy/images/image-64.png)
+![](/images/image-64.png)
 
 好啦，今天先到这。
 

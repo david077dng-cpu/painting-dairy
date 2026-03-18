@@ -18,7 +18,7 @@ Mr.Funny在消失了好几天之后，
 
 撒花~
 
-![](/painting-dairy/images/image-325.jpg)
+![](/images/image-325.jpg)
 
 今天还有一个特殊的投稿人~  
 

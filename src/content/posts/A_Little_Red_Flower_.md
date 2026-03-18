@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-21.jpg)
+![cover_image](/images/image-21.jpg)
 
 A Little Red Flower.
 ====================
@@ -20,9 +20,9 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 记录一下元旦假期看的电影~
 
-![](/painting-dairy/images/image-22.jpg)送你一朵小红花![](/painting-dairy/images/image-22.jpg)
+![](/images/image-22.jpg)送你一朵小红花![](/images/image-22.jpg)
 
-![](/painting-dairy/images/image-23.jpg)
+![](/images/image-23.jpg)
 
 电影讲述了两个抗癌家庭的故事，  
 
@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 世界依旧充满善意，让我们一起加油吧！
 
-![](/painting-dairy/images/image-22.jpg)![](/painting-dairy/images/image-22.jpg)![](/painting-dairy/images/image-22.jpg)![](/painting-dairy/images/image-22.jpg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)
+![](/images/image-22.jpg)![](/images/image-22.jpg)![](/images/image-22.jpg)![](/images/image-22.jpg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)
 
 新的一年，祝大家身体健康，事事如意，心想事成~
 

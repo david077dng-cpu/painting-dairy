@@ -38,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-120.jpg)
+![](/images/image-120.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTnrTibDKXINtlnvKvVGDmEmDtItuYmsd4C8fCQKeJjh87Xak6Tt4yC2uPCkLERajKocolqmDibUeWA/0?wx_fmt=jpeg)
 
@@ -58,4 +58,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 晚安~  
 
-![](/painting-dairy/images/image-121.jpg)
+![](/images/image-121.jpg)

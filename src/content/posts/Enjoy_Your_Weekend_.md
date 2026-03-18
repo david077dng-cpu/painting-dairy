@@ -14,7 +14,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     **今天临摹了一幅比较悠闲的画，特别符合周末的心情。**
 
-**![](/painting-dairy/images/image-162.jpg)**
+**![](/images/image-162.jpg)**
 
     **这是一个教堂吧。**   
 
@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     **哦~ 周末快来吧~**   
 
-![](/painting-dairy/images/image-163.jpg)
+![](/images/image-163.jpg)
 
     虽然俺明天还要上班![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，但是没有上班就不能体现出周末的美好![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_12.png)。
 
@@ -34,4 +34,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎关注公众号~~~更加欢迎留言~~或转发转发转发~~~
 
-![](/painting-dairy/images/image-164.jpg)
+![](/images/image-164.jpg)

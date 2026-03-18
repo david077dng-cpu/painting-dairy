@@ -14,4 +14,4 @@ Mr. Funny Mr. Funny [PaintingDiary](javascript:void\(0\);)
 
 画满10张换主题![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_04.png)
 
-![](/painting-dairy/images/image-323.jpg)
+![](/images/image-323.jpg)

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-476.jpg)
+![cover_image](/images/image-476.jpg)
 
 The Central Axis of Beijing.
 ============================
@@ -29,7 +29,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 **气魄之雄伟就在这个南北引伸、一贯到底的规模。”  
 **
 
-![](/painting-dairy/images/image-477.jpg)中轴线是北京的灵魂和脊梁。  
+![](/images/image-477.jpg)中轴线是北京的灵魂和脊梁。  
 
 南起永定门，北至钟鼓楼,  
 
@@ -55,7 +55,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 希望疫情可以尽快平息下来，
 
-让我们这些打工人可以在这座伟大的城市里面安心打工![](/painting-dairy/images/image-478.png)。  
+让我们这些打工人可以在这座伟大的城市里面安心打工![](/images/image-478.png)。  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQfA2dS9b9sPYLpew2ObmRU88NWNMrcod18dpsZZfsrzKyRjvuKib1icTTIdDoy6ftXaWMnVF00ep1g/640?wx_fmt=jpeg)
 
@@ -65,6 +65,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 也欢迎留言推荐有意思的展览给大家～  
 
-大家晚安![](/painting-dairy/images/image-479.png)～
+大家晚安![](/images/image-479.png)～
 
 咱2021年见！！！！

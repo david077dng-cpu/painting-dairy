@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-467.jpg)
+![cover_image](/images/image-467.jpg)
 
 The Beaten Path.
 ================
@@ -26,19 +26,19 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 丝毫不比他的音乐逊色。
 
-![](/painting-dairy/images/image-468.jpg)
+![](/images/image-468.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdic7AF9aCHLwLmHETzicUCZoWOGLQouJ6gS8tt7GzkLDO2liadbdhA2Yecw/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-469.jpg)
+![](/images/image-469.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdicuUAGMlLAbdgvNgu8M5zgF75O4aHBQ27w46YYNcE3rkFho4Z9GzmXrg/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-470.jpg)
+![](/images/image-470.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdic7HG5YUjLQH5pKNAiaohBneice9Px84O10ko620yVqLa1wgKFvFNw5u9w/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-471.jpg)
+![](/images/image-471.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdic6Kc9VREKQGiaRrXf2YibicDJUk8xl9PljeSAicOvMutj0VIYBSjojGbEMg/640?wx_fmt=jpeg)
 
@@ -48,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 不过公路旅行的摇滚feel还是很浓的。
 
-![](/painting-dairy/images/image-472.jpg)
+![](/images/image-472.jpg)
 
 就像展览结语所说，  
 
@@ -64,4 +64,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎转发、评论or给个“在看”～  
 
-下周见～晚安![](/painting-dairy/images/image-473.png)～
+下周见～晚安![](/images/image-473.png)～

@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-74.jpg)
+![](/images/image-74.jpg)
 
   
 
@@ -44,6 +44,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 点击“阅读全文”查看投稿方式
 
-![](/painting-dairy/images/image-75.jpg)
+![](/images/image-75.jpg)
 
 [阅读原文](javascript:;)

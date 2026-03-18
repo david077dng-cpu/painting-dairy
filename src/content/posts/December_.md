@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-146.jpg)
+![cover_image](/images/image-146.jpg)
 
 December.
 =========
@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 和自己的年龄一样，  
 不太适应![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。  
 
-![](/painting-dairy/images/image-147.jpg)
+![](/images/image-147.jpg)
 
 今天没喝到腊八粥，  
 给自己画一碗，  
@@ -38,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

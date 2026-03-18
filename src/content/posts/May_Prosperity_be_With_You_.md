@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-303.jpg)
+![cover_image](/images/image-303.jpg)
 
 May Prosperity be With You.
 ===========================
@@ -20,14 +20,14 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 送大家一张猪年限定款财神爷——
 
-![](/painting-dairy/images/image-304.jpg)
+![](/images/image-304.jpg)
 
 恭喜发财![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_83.png)~
 
 祝大家新年财源广进，步步高升~
 
-![](/painting-dairy/images/image-305.gif)
+![](/images/image-305.gif)
 
 欢迎点赞、评论 and 转發發發發發![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_44.png)~
 
-![](/painting-dairy/images/image-2.png)
+![](/images/image-2.png)

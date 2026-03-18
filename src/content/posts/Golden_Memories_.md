@@ -17,7 +17,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     **今天的画来自于老师拍的一张照片，给老师的摄影技术点赞。![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_06.png)**
 
-![](/painting-dairy/images/image-197.jpg)
+![](/images/image-197.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSViaWx3N9VIGvGMxL77VQsO0SsMHHUQqOibNz3vzRuictIFg5uViae46k7Y0V6GaUdVCQ6KMB0VHia6Yw/0?wx_fmt=jpeg)
 
@@ -27,10 +27,10 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-198.jpg)
+![](/images/image-198.jpg)
 
     如果有小伙伴对自己的摄影作品很是满意，可以发给我哦~ 有当时的故事更好~  
 
     昨天公众号的粉丝破百啦~ ![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F389.png)感谢每一个订阅的人~ 欢迎大家点赞或转发~  
 
-![](/painting-dairy/images/image-164.jpg)
+![](/images/image-164.jpg)

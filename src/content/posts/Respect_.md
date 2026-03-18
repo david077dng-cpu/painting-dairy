@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-412.jpg)
+![cover_image](/images/image-412.jpg)
 
 Respect！
 ========
@@ -46,6 +46,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 Respect！  
 
-![](/painting-dairy/images/image-413.jpg)
+![](/images/image-413.jpg)
 
 欢迎留言、转发or给个“在看”哦～

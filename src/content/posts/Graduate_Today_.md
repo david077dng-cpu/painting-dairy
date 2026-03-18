@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 好奇妙呀～
 
-![](/painting-dairy/images/image-207.jpg)
+![](/images/image-207.jpg)
 
 要开始人生新阶段了，
 
@@ -42,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

@@ -22,7 +22,7 @@ Final Step.
 
   
 
-![](/painting-dairy/images/image-177.jpg)
+![](/images/image-177.jpg)
 
   
 
@@ -76,7 +76,7 @@ Final Step.
 
 何事秋风悲画扇。
 
-![](/painting-dairy/images/image-178.gif)
+![](/images/image-178.gif)
 
 今天唠叨了点，
 

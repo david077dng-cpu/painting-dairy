@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-500.jpg)
+![cover_image](/images/image-500.jpg)
 
 The Lantern Festival.
 =====================
@@ -40,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 许个愿望，希望疫情可以赶快过去![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)
 
-![](/painting-dairy/images/image-501.jpg)  
+![](/images/image-501.jpg)  
 
   
 
@@ -48,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 我想吃“冰淇淋的诱惑”了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)  
 
-![](/painting-dairy/images/image-502.png)  
+![](/images/image-502.png)  
 
 应该要很久以后才能吃到了……  
 

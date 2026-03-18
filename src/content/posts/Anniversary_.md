@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-43.jpg)
+![cover_image](/images/image-43.jpg)
 
 Anniversary.
 ============
@@ -64,56 +64,56 @@ Dear Diary：
 这次强行邀请了几位活跃的来写了寄语，  
 （以下排名不分先后）
 
-![](/painting-dairy/images/image-44.jpg)  
+![](/images/image-44.jpg)  
 
 超有创意的“晓丝”：  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRich1qichrsaUe32nLpANyPOEwy0sGeNkTa3zOoBJ2pKfgFXiaKneRxfT4jqWl2EzPnP9oHm2oKeuGw/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-44.jpg)
+![](/images/image-44.jpg)
 
 字美人美名也美的粉丝：  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRich1qichrsaUe32nLpANyPOgBgycTYTxgEzYVcuIm7qW8KIib8YQGXZEkaMQtaLiba3svDtgJWPxBhQ/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-44.jpg)
+![](/images/image-44.jpg)
 
 让人心生慰藉，满足感爆棚的粉丝：  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRich1qichrsaUe32nLpANyPOXTXqfmoB8icIiciaYUDORYrqDveBO6ECxk6nYPqkOyymADkuicbNRUSJYw/640?wx_fmt=jpeg)  
 
-![](/painting-dairy/images/image-44.jpg)
+![](/images/image-44.jpg)
 
 深得我心的粉丝，一起加油吧：
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRich1qichrsaUe32nLpANyPOmVtEwh1N3wegeDqpeG66dHGBnm9CKqiclbOf7diaw1z3iaLSNN0st1z8Q/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-44.jpg)
+![](/images/image-44.jpg)
 
 严格的家属粉：  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRich1qichrsaUe32nLpANyPOC1bXOB0FBzKiapib86gHBicI7Y9MamDJ9UdfyBlibyro8z2vcic1Bbct5Pw/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-44.jpg)
+![](/images/image-44.jpg)
 
 颇具大领导风的读者：  
   
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRich1qichrsaUe32nLpANyPOIgt5nh5iahf46g0bMnCf2VreCZeqHBI2icRZA3dREkTPjUC4mXLsNjLg/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-44.jpg)
+![](/images/image-44.jpg)
 
 超级有文采的大诗人粉丝寄语，诗中有故事，一看就是铁粉：  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRich1qichrsaUe32nLpANyPO4MiaIVZzkpET6MC5jY1SOpsMBx0sZhXEWtRmia1nP1PPfSPsiaroZ9yQw/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-44.jpg)
+![](/images/image-44.jpg)
 
 学历最高、出镜率也超高的胡博士：  
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjRich1qichrsaUe32nLpANyPOsibibXdh5RSGk5Ct7ZaDB18RKem9WO2GLibOS1gzc55fRh0fuNafqicXog/640?wx_fmt=png)
 
-![](/painting-dairy/images/image-44.jpg)
+![](/images/image-44.jpg)
 
 最后公众号超级VIP，共同作者Mr.Funny:  
 
@@ -126,7 +126,7 @@ Dear Diary：
 有你们真好 ～  
 PaintingDiary两岁见 ～
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 
@@ -134,6 +134,6 @@ PaintingDiary两岁见 ～
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

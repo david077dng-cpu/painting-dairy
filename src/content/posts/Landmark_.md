@@ -32,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-270.jpg)
+![](/images/image-270.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ9HxCPp2I46Z9ZRxQkdr99YRfj9NgzPSFpg2wib7XLBHvSfNbKuOOpJ4ToLahWnuGrkyJknMicgrPA/640?wx_fmt=jpeg)
 
@@ -42,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎长按“福”关注公众号 ~  
 
-![](/painting-dairy/images/image-2.png)
+![](/images/image-2.png)
 
 点击“阅读原文”，照片变水彩~  
 

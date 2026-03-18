@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-490.jpg)
+![cover_image](/images/image-490.jpg)
 
 The First Snow In 2020.
 =======================
@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 窗外的雪景，
 
-让我突然怀疑自己是不是错上了开往大东北的火车![](/painting-dairy/images/image-491.png)。
+让我突然怀疑自己是不是错上了开往大东北的火车![](/images/image-491.png)。
 
 虽然天津和北京都不是能称得上“宁静”的城市，
 
@@ -34,11 +34,11 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGo5y9NASoDPYsDE0icZaO6GTP03aVab22gorrLOqZ8VTvJiarg1XtlV4wvXzOl19jK7oCz8LIyMqA/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-491.png)画完之后觉得比起画雪景，
+![](/images/image-491.png)画完之后觉得比起画雪景，
 
 复兴号上面的椅子好像画的更好一点![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQGo5y9NASoDPYsDE0icZaO6ubUDq5veqQEyFONGebic9AmRskUNVuSlP7O9u9EHPxGz22eLq7EwKog/640?wx_fmt=png)，
 
-毕竟坐了太多次了![](/painting-dairy/images/image-491.png)。！
+毕竟坐了太多次了![](/images/image-491.png)。！
 
 那这周就先到这啦，
 

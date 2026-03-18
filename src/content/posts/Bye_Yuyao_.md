@@ -28,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 度过了一段开心的时光。
 
-![](/painting-dairy/images/image-95.jpg)
+![](/images/image-95.jpg)
 
 今天这张是我在余姚拍的最喜欢的一张照片，
 
@@ -46,4 +46,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发~  
 
-![](/painting-dairy/images/image-96.jpg)
+![](/images/image-96.jpg)

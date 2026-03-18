@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-520.jpg)
+![cover_image](/images/image-520.jpg)
 
 The Spring Festival.
 ====================
@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 感觉我的听觉都变灵敏了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
 
-![](/painting-dairy/images/image-521.jpg)
+![](/images/image-521.jpg)
 
 今天天津居然下起了大雪，
 
@@ -40,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 赶走病毒。
 
-![](/painting-dairy/images/image-522.jpg)![](/painting-dairy/images/image-522.jpg)![](/painting-dairy/images/image-522.jpg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaGVrg74fciamQLfQr7l5sMjb35mDOjKMcDEKQEWunP7VNDOQfHEq4MLSibbkBnO3kQsTArVnTSmHQ/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaGVrg74fciamQLfQr7l5sMjb35mDOjKMcDEKQEWunP7VNDOQfHEq4MLSibbkBnO3kQsTArVnTSmHQ/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaGVrg74fciamQLfQr7l5sMjb35mDOjKMcDEKQEWunP7VNDOQfHEq4MLSibbkBnO3kQsTArVnTSmHQ/640?wx_fmt=jpeg)
+![](/images/image-522.jpg)![](/images/image-522.jpg)![](/images/image-522.jpg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaGVrg74fciamQLfQr7l5sMjb35mDOjKMcDEKQEWunP7VNDOQfHEq4MLSibbkBnO3kQsTArVnTSmHQ/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaGVrg74fciamQLfQr7l5sMjb35mDOjKMcDEKQEWunP7VNDOQfHEq4MLSibbkBnO3kQsTArVnTSmHQ/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaGVrg74fciamQLfQr7l5sMjb35mDOjKMcDEKQEWunP7VNDOQfHEq4MLSibbkBnO3kQsTArVnTSmHQ/640?wx_fmt=jpeg)
 
   
 

@@ -16,7 +16,7 @@ Mama's Papa
 
 **照片故事**
 
-![](/painting-dairy/images/image-297.jpg)
+![](/images/image-297.jpg)
 
 “这是今年外公80岁生日的一张抓拍，
 
@@ -76,15 +76,15 @@ Mama's Papa
 
 于是有了这张照片。”
 
-![](/painting-dairy/images/image-298.jpg)
+![](/images/image-298.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/Rwic7pNiamLg7E5lT9LKIH6udkhLAwEJn9Js3af31cs1MPLy4H8qAvjun8G5Namia03dKKD8NAwudLKbqsDgCXKLQ/0/png)
 
-![](/painting-dairy/images/image-299.jpg)
+![](/images/image-299.jpg)
 
 **关于dear外公**
 
-![](/painting-dairy/images/image-297.jpg)
+![](/images/image-297.jpg)
 
 外公年轻的时候是个会计，退休后一直和外婆过着城市人民歆羨的农耕式田园生活。
 
@@ -156,7 +156,7 @@ ohlala,
 
 美好也常相随。
 
-![](/painting-dairy/images/image-300.jpg)
+![](/images/image-300.jpg)
 
 **最后的最后**
 
@@ -170,7 +170,7 @@ ohlala,
 
   
 
-![](/painting-dairy/images/image-301.jpg)
+![](/images/image-301.jpg)
 
     今天的文章是不是很棒！感谢师妹的投稿，她最后夸我那几句实在是句句发自肺腑啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)
 
@@ -178,4 +178,4 @@ ohlala,
 
     长按关注我们吧~  
 
-    ![](/painting-dairy/images/image-302.jpg)
+    ![](/images/image-302.jpg)

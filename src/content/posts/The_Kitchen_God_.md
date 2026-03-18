@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-498.jpg)
+![](/images/image-498.jpg)
 
     画个灶王爷宣传一下传统文化习俗。
 
@@ -48,7 +48,7 @@ mua![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/
 
 晚安![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)~  
 
-![](/painting-dairy/images/image-499.jpg)
+![](/images/image-499.jpg)
 
 点击“阅读原文”，照片变水彩。  
 

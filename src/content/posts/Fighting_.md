@@ -22,7 +22,7 @@ Icecream Icecream [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-14.gif)
+![](/images/image-14.gif)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTJQIErex7pEoIdPvnwDCWJzicLmPTho84jrqia3LwaqsClHzjB3tQNq9lCTZltqJZvEEwib5WFpzWrw/640?wx_fmt=jpeg)
 
@@ -50,7 +50,7 @@ haha是不是很美腻（表示在分校呆着很想这里
 
 FIGHTING！！
 
-![](/painting-dairy/images/image-14.gif)
+![](/images/image-14.gif)
 
 突然想起来前一阵小编同学还提议画一下小编高中呢，
 

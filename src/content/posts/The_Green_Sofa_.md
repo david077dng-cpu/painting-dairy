@@ -16,7 +16,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 来自约翰·拉弗利。
 
-![](/painting-dairy/images/image-496.jpg)
+![](/images/image-496.jpg)
 
 这幅画是在《疗愈美术馆》一书中看到的，
 
@@ -54,7 +54,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 最后放上作者原图：
 
-![](/painting-dairy/images/image-497.jpg)
+![](/images/image-497.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
@@ -64,7 +64,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

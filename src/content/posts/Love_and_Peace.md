@@ -18,7 +18,7 @@ Love and Peace
 
     战争与灾难让我们失去了太多的亲人。我们一定要珍惜现在得来不易的和平。
 
-![](/painting-dairy/images/image-294.jpg)
+![](/images/image-294.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRQlLf0KXWyIc9zEnicpmuiaUZR4aRDZKWH7htPp3UEibFUMBEIJWoiaLQaK6nrUqHWzF1S8nXEJS97yg/0?wx_fmt=jpeg)
 
@@ -32,4 +32,4 @@ Love and Peace
 
     长按二维码关注公众号，欢迎大家留言~~~或转发转发转发~~
 
-![](/painting-dairy/images/image-164.jpg)
+![](/images/image-164.jpg)

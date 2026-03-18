@@ -24,7 +24,7 @@ you'd be my Mona Lisa.
 
 老夫的少女心呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
 
-![](/painting-dairy/images/image-313.jpg)
+![](/images/image-313.jpg)
 
 如果票选世界上最著名的画作，
 
@@ -52,7 +52,7 @@ you'd be my Mona Lisa.
 
 都可以感受到大师不朽的精神。
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 为了满足某些朋友找不同的爱好，
 
@@ -64,7 +64,7 @@ you'd be my Mona Lisa.
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

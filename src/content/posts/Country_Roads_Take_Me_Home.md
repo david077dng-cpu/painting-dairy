@@ -48,7 +48,7 @@ Country Roads Take Me Home
 
 一如他们从未离开。
 
-![](/painting-dairy/images/image-130.jpg)
+![](/images/image-130.jpg)
 
  如今毕业一年有余，
 
@@ -94,7 +94,7 @@ P.S.
 
 欢迎转发、留言、投稿呀~
 
-![](/painting-dairy/images/image-131.jpg)
+![](/images/image-131.jpg)
 
   
 

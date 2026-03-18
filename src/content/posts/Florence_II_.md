@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-186.jpg)
+![cover_image](/images/image-186.jpg)
 
 Florence II.
 ============
@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 它是世界五大教堂之一，曾被评为世界上最美的教堂。
 
-![](/painting-dairy/images/image-187.jpg)
+![](/images/image-187.jpg)
 
 在这个艺术之都，到处都是画家，
 
@@ -48,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-188.jpg)  
+![](/images/image-188.jpg)  
 
 当时看到很多人一边喝红酒一边坐在台阶上看夕阳，
 

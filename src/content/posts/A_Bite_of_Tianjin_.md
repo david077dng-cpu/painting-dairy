@@ -38,7 +38,7 @@ A Bite of Tianjin.
 
   
 
-![](/painting-dairy/images/image-11.jpg)
+![](/images/image-11.jpg)
 
 当你在大冬天来到天津，
 
@@ -56,7 +56,7 @@ A Bite of Tianjin.
 
   
 
-![](/painting-dairy/images/image-12.jpg)
+![](/images/image-12.jpg)
 
 今天失策啊，
 

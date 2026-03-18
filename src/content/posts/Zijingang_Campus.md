@@ -34,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-610.jpg)
+![](/images/image-610.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQblaY6KQZYpoC5A8eJvziaLjX5rEOInsPkicU3R65YAeZ9PbmGTJoqAj75LVjpUIXnBTibXWPqC0iauA/640?wx_fmt=jpeg)
 
@@ -52,7 +52,7 @@ Painting Diary第一期就是去年画的月牙楼，
 
 我还会再回来画它的。
 
-![](/painting-dairy/images/image-144.gif)
+![](/images/image-144.gif)
 
 欢迎点赞、评论and转发。  
 

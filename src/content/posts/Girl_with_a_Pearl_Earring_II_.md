@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-194.jpg)
+![cover_image](/images/image-194.jpg)
 
 Girl with a Pearl Earring II.
 =============================
@@ -34,7 +34,7 @@ Girl with a Pearl Earring II.
 
 纸也不会因为抹了太多层颜色而吸附不了更多的颜色。
 
-![](/painting-dairy/images/image-195.jpg)
+![](/images/image-195.jpg)
 
   
 

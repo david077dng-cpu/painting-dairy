@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 冬至吃饺子，才不会冻耳朵~  
 
-![](/painting-dairy/images/image-583.jpg)
+![](/images/image-583.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQEibPFTI3XXWqRRLyIFEhOZ9XgWQ2YgSTL1XiaJBiaIJ8qicNCezC6G9N0ViaVqhDiaSictJxnhhYOm5ZsA/0?wx_fmt=jpeg)
 
@@ -28,4 +28,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎转发或留言~ 比心![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_66.png)~
 
-![](/painting-dairy/images/image-584.jpg)
+![](/images/image-584.jpg)

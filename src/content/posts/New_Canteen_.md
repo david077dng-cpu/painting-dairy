@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-358.jpg)
+![](/images/image-358.jpg)
 
 看着厨师慢条斯理地摆弄着，
 
@@ -32,4 +32,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、评论and转发发发发~  
 
-![](/painting-dairy/images/image-359.jpg)
+![](/images/image-359.jpg)

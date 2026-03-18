@@ -16,7 +16,7 @@ Lost Star.
 
     今天投稿的是一位小朋友 ，她讲述了一个伤感的故事。
 
-![](/painting-dairy/images/image-290.jpg)
+![](/images/image-290.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/agPBEQHTf5ibI8tZ9cicLMVZ7nTWm4YicIpQzFt5seam3icicQSufDV4fnpVv5IP4v0bxCfzqjicibOPnobVX8OuqCG8Q/0/png)
 
@@ -48,7 +48,7 @@ Lost Star.
 
     我很想他。
 
-![](/painting-dairy/images/image-291.jpg)
+![](/images/image-291.jpg)
 
     最近爸爸的朋友在狗市买了一只小拉布拉多犬，非常可爱。
 
@@ -62,7 +62,7 @@ Lost Star.
 
     所以，我还在考虑要不要这只小坏蛋~
 
-![](/painting-dairy/images/image-292.jpg)
+![](/images/image-292.jpg)
 
     今天的故事，好伤感。  
 
@@ -76,7 +76,7 @@ Lost Star.
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ70fJtkPzcwIJkmXedAZoLIJYurApcC9PyIXlMRBsIcZYkHSmVwb2FErbOSuPGoF2WSZOupKgkibw/0?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-293.jpg)
+![](/images/image-293.jpg)
 
   
 

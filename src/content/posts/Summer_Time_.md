@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-439.jpg)
+![cover_image](/images/image-439.jpg)
 
 Summer Time.
 ============
@@ -44,12 +44,12 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 一起好好享受夏天吧！
 
-![](/painting-dairy/images/image-440.jpg)
+![](/images/image-440.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSzKFImZQhN4qa0o5WiaXvFpic4CaNv6BdcO64t9O0I5gDaicUYd30rd1gWSdGGbLVQjy3tzUM6vpfCQ/640?wx_fmt=jpeg)
 
 欢迎评论、转发and给个“在看”～
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

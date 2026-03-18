@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 今天画的是寨子中苗家人的拦门酒。
 
-![](/painting-dairy/images/image-34.jpg)
+![](/images/image-34.jpg)
 
 拦门酒是苗家待客的最高礼节，  
 
@@ -42,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-28.jpg)
+![](/images/image-28.jpg)
 
   
 
@@ -40,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     好不舍。
 
-![](/painting-dairy/images/image-29.jpg)
+![](/images/image-29.jpg)
 
 好啦，欢迎评论、转发and投稿~  
 

@@ -16,7 +16,7 @@ Tianjin Foreign Studies University.
 
 小编邀请了Mr.Funny来写一点关于学校的回忆。
 
-![](/painting-dairy/images/image-540.jpg)
+![](/images/image-540.jpg)
 
 转眼间，已经离校3年。
 
@@ -40,7 +40,7 @@ Tianjin Foreign Studies University.
 
   
 
-![](/painting-dairy/images/image-541.jpg)
+![](/images/image-541.jpg)
 
 有时候提到外院，
 
@@ -70,7 +70,7 @@ Tianjin Foreign Studies University.
 
 也意味着开始真正成为一名“天外人”。
 
-![](/painting-dairy/images/image-540.jpg)
+![](/images/image-540.jpg)
 
 外国语大学可算是天津学校中最洋气的一个了，
 

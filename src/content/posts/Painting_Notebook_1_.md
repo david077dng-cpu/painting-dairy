@@ -32,4 +32,4 @@ http://mp.weixin.qq.com/s/trc26pB4YO6vLg1Cgaq-cg
 
   
 
-![](/painting-dairy/images/image-391.jpg)
+![](/images/image-391.jpg)

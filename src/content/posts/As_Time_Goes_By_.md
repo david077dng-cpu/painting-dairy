@@ -18,11 +18,11 @@ HappySophiee HappySophiee [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-46.jpg)
+![](/images/image-46.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSnZRokkCibxWs6BTIbvoALXjyYiaZ2rJnKUM8Qfh2675y6gLHiaTwuvqFVqNZHibTjsUfl9JreF3IJicA/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-47.jpg)
+![](/images/image-47.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSnZRokkCibxWs6BTIbvoALX5BKvEgVlltUoXhnPUR6bibng2pg7Uia8qsaHGMncAicuAR7ZPeYCaVWEA/640?wx_fmt=jpeg)
 
@@ -32,7 +32,7 @@ HappySophiee HappySophiee [PaintingDiary](javascript:void\(0\);)
 
     欢迎点赞，评论和转发发发发~
 
-![](/painting-dairy/images/image-48.jpg)
+![](/images/image-48.jpg)
 
 点击“阅读原文”，照片变水彩~
 

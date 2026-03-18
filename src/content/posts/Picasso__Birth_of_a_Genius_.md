@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-403.jpg)
+![cover_image](/images/image-403.jpg)
 
 Picasso, Birth of a Genius.
 ===========================
@@ -40,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 呈现出了多种风格。  
 
-![](/painting-dairy/images/image-404.jpg)
+![](/images/image-404.jpg)
 
 今天画的《吻》是展览中的最后一幅画，
 
@@ -60,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 以及《艺术家的第二任妻子肖像》，
 
-![](/painting-dairy/images/image-405.jpg)
+![](/images/image-405.jpg)
 
 这两幅肖像的构图被结合到《吻》之中，
 
@@ -80,6 +80,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

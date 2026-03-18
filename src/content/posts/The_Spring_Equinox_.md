@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-518.jpg)
+![cover_image](/images/image-518.jpg)
 
 The Spring Equinox.
 ===================
@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 今天就画一张春景吧～
 
-![](/painting-dairy/images/image-519.jpg)
+![](/images/image-519.jpg)
 
 > 乾坤平分昼夜，  
 > 

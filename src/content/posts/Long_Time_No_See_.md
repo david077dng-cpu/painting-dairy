@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-284.jpg)
+![cover_image](/images/image-284.jpg)
 
 Long Time No See.
 =================
@@ -27,7 +27,7 @@ Long Time No See.
 裹的和俄罗斯套娃一样的人出现在我视线中的时候，  
 我简直要从窗台飞下去了～  
 
-![](/painting-dairy/images/image-285.jpg)
+![](/images/image-285.jpg)
 
 三爷今儿又双叒叕落枕了，  
 但依然稳定地发挥欠揍的天分。  
@@ -41,7 +41,7 @@ Long Time No See.
 最后我终于拿到了三爷的墨宝，  
 独家订制cp，  
 
-![](/painting-dairy/images/image-286.jpg)
+![](/images/image-286.jpg)
 
 据她说是今年的巅峰之作，  
 心满意足～
@@ -50,7 +50,7 @@ Long Time No See.
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)
 
   
 

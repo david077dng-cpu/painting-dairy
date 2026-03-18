@@ -22,7 +22,7 @@ Travel 1998.
 
   
 
-![](/painting-dairy/images/image-554.jpg)
+![](/images/image-554.jpg)
 
   
 
@@ -50,7 +50,7 @@ Travel 1998.
 
     都可以拍一部美囧了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
 
-![](/painting-dairy/images/image-555.jpg)
+![](/images/image-555.jpg)
 
     记得到美落地时，接待我们的老美叫Doug。
 
@@ -68,7 +68,7 @@ Travel 1998.
 
     这也是所谓的东西文化差异吧。
 
-![](/painting-dairy/images/image-555.jpg)
+![](/images/image-555.jpg)
 
     Doug是个很好的人，其实他是我们的经理。
 
@@ -88,7 +88,7 @@ Travel 1998.
 
     甚是开心，好得意![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
 
-![](/painting-dairy/images/image-555.jpg)
+![](/images/image-555.jpg)
 
     我的孩子在09年学访交流时到过美国布法罗。
 
@@ -96,7 +96,7 @@ Travel 1998.
 
     盼望这一时刻早些到来![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)。
 
-![](/painting-dairy/images/image-556.jpg)
+![](/images/image-556.jpg)
 
     哈哈哈 ![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F604.png)，好有意思的游记，一篇来自98年的游记。
 
@@ -108,7 +108,7 @@ Travel 1998.
 
     好啦，欢迎投稿！欢迎留言！！欢迎转发！！！！
 
-    ![](/painting-dairy/images/image-557.jpg)  
+    ![](/images/image-557.jpg)  
 
 ![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
 

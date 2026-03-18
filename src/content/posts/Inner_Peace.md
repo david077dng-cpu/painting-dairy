@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     周一好像就会比较不开心![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，上面这句话好棒，送给大家，希望每个人都可以找到内心的平静。Love you all~
 
-![](/painting-dairy/images/image-262.jpg)
+![](/images/image-262.jpg)
 
 P.S.
 
@@ -28,7 +28,7 @@ P.S.
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSCTyCo70uKJm6FxhbIxP4FwA3ZEJTIh2u4IE1CBDVB3mPfOdC56S3Wdb7LovhgnuwvTyUx3uebgA/0?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-263.jpg)
+![](/images/image-263.jpg)
 
     好啦，喜欢的话欢迎订阅哦~更加欢迎转发转发转发~~~~
 

@@ -16,7 +16,7 @@ Dear Daughter
 
   
 
-![](/painting-dairy/images/image-139.jpg)
+![](/images/image-139.jpg)
 
   
 
@@ -50,7 +50,7 @@ Dear Daughter
 
 妈妈  
 
-![](/painting-dairy/images/image-140.jpg)
+![](/images/image-140.jpg)
 
   
 

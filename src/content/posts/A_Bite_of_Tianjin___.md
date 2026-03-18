@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-13.jpg)
+![](/images/image-13.jpg)
 
 今天画的是夹果子的，
 
@@ -48,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 感兴趣的朋友可以去看看~  
 
-![](/painting-dairy/images/image-14.gif)
+![](/images/image-14.gif)
 
 欢迎评论、点赞and转发发发发~  
 

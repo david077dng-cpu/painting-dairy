@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-180.jpg)
+![cover_image](/images/image-180.jpg)
 
 First Step.
 ===========
@@ -34,7 +34,7 @@ First Step.
 
 《人生第一步》就是其中一幅。
 
-![](/painting-dairy/images/image-181.jpg)
+![](/images/image-181.jpg)
 
 温馨的色调，
 
@@ -136,11 +136,11 @@ First Step.
 
 最后放上梵高和米勒的原画～
 
-![](/painting-dairy/images/image-182.jpg)
+![](/images/image-182.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjThGCH4Ecia1EOsDJHMXMgeSSHKRibgCz5JEKEXj5iaVBhd9QaeMXqlHPCxb7hyyY0iaiaTBCQt4dCSMGg/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 哦，祝大家光棍节快乐～～～
 
@@ -150,6 +150,6 @@ First Step.
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

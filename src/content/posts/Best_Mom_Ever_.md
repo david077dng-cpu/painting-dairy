@@ -18,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 祝所有的母亲幸福快乐！
 
-![](/painting-dairy/images/image-70.jpg)
+![](/images/image-70.jpg)
 
 我还记得小学第一次送妈妈母亲节礼物的时候，
 
@@ -52,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 相信每个家庭难念的经都会短很多。
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 本来想集中全篇的火力来夸我麻麻的，
 
@@ -72,6 +72,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

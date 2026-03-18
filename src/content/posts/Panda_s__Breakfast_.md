@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 又能受人敬仰的生活。
 
-![](/painting-dairy/images/image-395.jpg)
+![](/images/image-395.jpg)
 
 拍到一只偷瞄树上别的熊猫屁屁的大熊猫。  
 
@@ -44,10 +44,10 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 根本停不下来。
 
-![](/painting-dairy/images/image-396.gif)
+![](/images/image-396.gif)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

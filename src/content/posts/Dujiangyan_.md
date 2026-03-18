@@ -40,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 可以说都江堰是惠泽万世的一个大工程。
 
-![](/painting-dairy/images/image-148.jpg)
+![](/images/image-148.jpg)
 
 图上画的左边叫宝瓶口，
 
@@ -78,7 +78,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 今天没时间在水彩纸上好好画了，
 

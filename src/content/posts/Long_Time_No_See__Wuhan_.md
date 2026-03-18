@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-287.jpg)
+![cover_image](/images/image-287.jpg)
 
 Long Time No See, Wuhan.
 ========================
@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 依旧闪着耀眼的光芒。
 
-![](/painting-dairy/images/image-288.jpg)
+![](/images/image-288.jpg)
 
 画一张水彩记录下这历史性的时刻，
 

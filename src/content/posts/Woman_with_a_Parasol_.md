@@ -24,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 是画家一生中最幸福美好的一瞬间。
 
-![](/painting-dairy/images/image-585.jpg)
+![](/images/image-585.jpg)
 
 下面是原作，
 
@@ -46,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > 仿佛要在来世还要相认的凝视。
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 这个周末北京的天气好棒，
 
@@ -60,6 +60,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

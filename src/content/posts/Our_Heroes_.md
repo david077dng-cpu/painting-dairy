@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-383.jpg)
+![cover_image](/images/image-383.jpg)
 
 Our Heroes.
 ===========
@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 感谢你们！  
 
-![](/painting-dairy/images/image-384.jpg)
+![](/images/image-384.jpg)
 
 今天的素材来自一位读者的投稿，
 

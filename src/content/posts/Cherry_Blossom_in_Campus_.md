@@ -16,7 +16,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 校车停泊的地方。
 
-![](/painting-dairy/images/image-109.jpg)
+![](/images/image-109.jpg)
 
 我的宿舍有个好听的名字：紫云，
 
@@ -36,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 小编今天开始了毕业旅行，
 

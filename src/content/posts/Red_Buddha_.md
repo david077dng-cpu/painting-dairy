@@ -32,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 下面这张是我超级喜欢的一张，
 
-![](/painting-dairy/images/image-410.jpg)
+![](/images/image-410.jpg)
 
 她说她看到这个景色就不自觉地用了金色来渲染。
 
@@ -48,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 我决定挑战一下色达的佛学院。
 
-![](/painting-dairy/images/image-411.jpg)
+![](/images/image-411.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQv24KSq7rkrVO3EbFRgNygdkCrTlaH5EzSfU2Vrlgo3ZVex2spMxA4JzN5ssUmkbjPVkTicFt2fCQ/640?wx_fmt=jpeg)
 
@@ -60,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 希望可以与大家共勉。
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 
@@ -68,6 +68,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

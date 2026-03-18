@@ -30,11 +30,11 @@ Sunday
 
   
 
-![](/painting-dairy/images/image-343.jpg)
+![](/images/image-343.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/uJlBx0QiaVsicbZdKvCRN7LZEeeUsXpOib2CSqlibMsujsQVLPn2Ba6vvkgxh8MRia9HMLiaEEWDu9lial79Sf66EhYBQ/0/png)
 
-![](/painting-dairy/images/image-344.jpg)
+![](/images/image-344.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQw9LibjZ9eRpOAWicmGLic9ibKIxJdl8VNYVKHT3YT7C0I5bqzIPib1dheoLeb0M8bMwBaVWlrvB79ebQ/0?wx_fmt=jpeg)
 
@@ -44,7 +44,7 @@ Sunday
 
     如果喜欢的话，欢迎留言或者点赞，更欢迎转发转发~                
 
-![](/painting-dairy/images/image-164.jpg)
+![](/images/image-164.jpg)
 
     投稿请按“**阅读原文**”  
 

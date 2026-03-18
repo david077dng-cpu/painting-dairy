@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-446.jpg)
+![cover_image](/images/image-446.jpg)
 
 Sweet Dream.
 ============
@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 可以很安心。
 
-![](/painting-dairy/images/image-447.jpg)
+![](/images/image-447.jpg)
 
 希望全世界的妈妈们永远健康快乐～
 

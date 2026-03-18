@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-196.jpg)
+![cover_image](/images/image-196.jpg)
 
 Golden Childhood.
 =================
@@ -18,7 +18,7 @@ Golden Childhood.
 
 感谢投稿！！
 
-![](/painting-dairy/images/image-14.gif)
+![](/images/image-14.gif)
 
 大风车吱呀吱呦呦地转，
 
@@ -40,7 +40,7 @@ Golden Childhood.
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTItAN9hYU8L9HloFXaiaEP8WDLsqEnZokDbzE4ZiaIPuHeHQUWZnBW9O6EmI3gtYdMFwzbNwTAJUCw/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-14.gif)
+![](/images/image-14.gif)
 
 之前画过一个小婴儿～
 
@@ -56,6 +56,6 @@ Golden Childhood.
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

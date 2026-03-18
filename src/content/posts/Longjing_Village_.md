@@ -42,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 摘下今年最新鲜的茶尖。
 
-![](/painting-dairy/images/image-289.jpg)
+![](/images/image-289.jpg)
 
 走在龙井村里，
 
@@ -72,4 +72,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](/painting-dairy/images/image-10.jpg)
+![](/images/image-10.jpg)

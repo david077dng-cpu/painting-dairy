@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-235.jpg)
+![cover_image](/images/image-235.jpg)
 
 Happy Wedding.
 ==============
@@ -22,7 +22,7 @@ Happy Wedding.
 
   
 
-![](/painting-dairy/images/image-236.jpg)
+![](/images/image-236.jpg)
 
 > 他将是你的新郎 从今以后他就是你一生的伴  
 > 他的一切都将和你紧密相关 福和祸都要同当
@@ -33,13 +33,13 @@ Happy Wedding.
 > 一定是特別的缘分 才可以一路走来变成了一家人  
 > 他多爱你几分 你多还他几分 找幸福的可能  
 
-![](/painting-dairy/images/image-237.jpg)
+![](/images/image-237.jpg)
 
 顺着记忆往回到了沈农，看到了初次见面有点高冷的你，看到了在教室里竞选班长的你，看到了在社团组织活动忙前顾后的你，看到了杨亚辉表白的那个晚上认真思考的你，看到了东教五楼那间昏暗的教室里埋头复习的你……跟着小吃街上逛吃逛吃的我们，听到了从6舍418传出的爽朗笑声（估计是在逗四岁这个开心果吧~），感受到了毕业那年我们在沈阳北站互相道别时的不舍……
 
 感谢缘分和你的努力，我们得以在浙里继续陪伴彼此。那个时候你在备考，早出晚归，虽然一天中很难好好的见你一面，但是知道你在身边就已经心安。后来结识春晓, 我们互诉衷肠，互相帮助。你们是我的老师，我的挚友。感慨这些青葱岁月，更感恩遇到你们。最后，祝福你和杨亚辉新婚快乐，永远幸福！
 
-![](/painting-dairy/images/image-236.jpg)
+![](/images/image-236.jpg)
 
 挤在同一间小小宿舍的日子，  
 
@@ -55,4 +55,4 @@ Happy Wedding.
 
 最美的新娘子，新婚快乐～  
 
-![](/painting-dairy/images/image-236.jpg)
+![](/images/image-236.jpg)

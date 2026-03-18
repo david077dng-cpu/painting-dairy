@@ -34,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 另一头就是古文化街。  
 
-![](/painting-dairy/images/image-17.jpg)
+![](/images/image-17.jpg)
 
 狮子林桥离家很近，
 
@@ -60,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 十分有爱。
 
-![](/painting-dairy/images/image-18.jpg)
+![](/images/image-18.jpg)
 
 好啦，欢迎评论、点赞and转发~  
 

@@ -28,7 +28,7 @@ Memories of Old Beijing.
 
     我看得呆了，自己的牙齿也动起来。
 
-![](/painting-dairy/images/image-306.jpg)
+![](/images/image-306.jpg)
 
     老师教给我，要学骆驼，沉得住气的动物。
 
@@ -50,7 +50,7 @@ Memories of Old Beijing.
 
     “也许，你的想法更美些。”
 
-![](/painting-dairy/images/image-159.gif)
+![](/images/image-159.gif)
 
 超级喜欢《城南旧事》的第一章，
 
@@ -68,7 +68,7 @@ Memories of Old Beijing.
 
 大师心中一定也是充满温情与童趣的吧。
 
-![](/painting-dairy/images/image-159.gif)
+![](/images/image-159.gif)
 
 祝大家中秋快乐~
 
@@ -78,6 +78,6 @@ Memories of Old Beijing.
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

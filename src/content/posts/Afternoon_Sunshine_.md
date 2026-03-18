@@ -28,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-35.jpg)
+![](/images/image-35.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR2DUumIle8iaARicItjHsyyvhtPA6eaRseoMPjJbkKMdenibJjclXFlBXTEltbpldZteVE8BovD8hCQ/640?wx_fmt=jpeg)
 
@@ -40,4 +40,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     再画一张![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_04.png)。
 
-![](/painting-dairy/images/image-36.jpg)
+![](/images/image-36.jpg)

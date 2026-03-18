@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 还一直画不像，心累。  
 
-![](/painting-dairy/images/image-192.jpg)
+![](/images/image-192.jpg)
 
 放出原画来，以免误导孩子们![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
 
@@ -34,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 是不是很美！！
 
-![](/painting-dairy/images/image-193.jpg)
+![](/images/image-193.jpg)
 
 约翰内斯·维米尔，
 
@@ -77,7 +77,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 
@@ -85,6 +85,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

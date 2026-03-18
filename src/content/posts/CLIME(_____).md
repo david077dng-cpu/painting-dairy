@@ -48,7 +48,7 @@ CLIME(〃'▽'〃)
 
 ”  
 
-![](/painting-dairy/images/image-97.jpg)
+![](/images/image-97.jpg)
 
 王博
 
@@ -142,7 +142,7 @@ CLIME(〃'▽'〃)
 
 谭门的“小朋友们”，羡慕你们这么团结有爱。在此特别感谢三人学习小组的陪伴和支持！最后，祝福谭门大家庭越来越好！拜托2018对我们都好一些~~
 
-![](/painting-dairy/images/image-98.jpg)
+![](/images/image-98.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRNbGfG1CeO5sFm7wrcXHDCCk24Bu4rjBpwlibJAqg5ZFQHAqLbrv9zCNmS54QlZBhrm1D8EUDpJQA/0?wx_fmt=jpeg)
 
@@ -154,7 +154,7 @@ CLIME(〃'▽'〃)
 
   
 
-![](/painting-dairy/images/image-99.jpg)
+![](/images/image-99.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_gif/LrricHMqxdb3xpgBlbwspAiayaZG3uuDNNFM8FE1xtbRAnpKm674eoiaU3nuBLMQOBNias9eOb3J10X9ibeSGiaD6wGg/0/gif)
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-372.jpg)
+![cover_image](/images/image-372.jpg)
 
 One Day In Berlin.
 ==================
@@ -26,7 +26,7 @@ One Day In Berlin.
 最神奇的是没有进站检票，  
 完全凭自觉买票。
 
-![](/painting-dairy/images/image-373.jpg)
+![](/images/image-373.jpg)
 
 “查票员”随机上车抽查，  
 如果发现逃票就会重罚60欧。  
@@ -48,7 +48,7 @@ One Day In Berlin.
 例如「Eimer liebt dich 」，是「桶子爱你」。  
 研究每个路过的垃圾桶也算得上最神奇的旅行体验了。
 
-![](/painting-dairy/images/image-374.jpg)
+![](/images/image-374.jpg)
 
 好啦，欢迎评论、转发or给个“在看”哦~
 

@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-397.jpg)
+![cover_image](/images/image-397.jpg)
 
 Pass by the Qinghai Lake.
 =========================
@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-398.jpg)
+![](/images/image-398.jpg)
 
 青海湖真的好美呀，
 
@@ -52,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 真的太美了。
 
-![](/painting-dairy/images/image-45.jpg)
+![](/images/image-45.jpg)
 
 今天看到浙大博士的新闻，
 
@@ -68,6 +68,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
 
-![](/painting-dairy/images/image-5.gif)
+![](/images/image-5.gif)
 
 [阅读原文](javascript:;)

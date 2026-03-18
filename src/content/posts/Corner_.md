@@ -20,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > ——《春水》 冰心
 
-![](/painting-dairy/images/image-127.jpg)
+![](/images/image-127.jpg)
 
     今天的画来自太后娘娘投稿![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)
 
@@ -44,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](/painting-dairy/images/image-128.jpg)
+![](/images/image-128.jpg)
 
     周末来了，
 
@@ -58,7 +58,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     祝大家周末愉快![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)。
 
-    ![](/painting-dairy/images/image-129.jpg)
+    ![](/images/image-129.jpg)
 
 点击阅读原文投稿吧~
 

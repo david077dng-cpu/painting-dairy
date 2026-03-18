@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-215.jpg)
+![cover_image](/images/image-215.jpg)
 
 Happy Birthday~
 ===============
@@ -30,7 +30,7 @@ mua～
 
 生日快乐～
 
-![](/painting-dairy/images/image-216.jpg)
+![](/images/image-216.jpg)
 
 嘿嘿，
 

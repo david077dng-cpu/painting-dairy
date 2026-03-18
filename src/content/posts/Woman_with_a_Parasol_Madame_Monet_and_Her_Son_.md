@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-586.jpg)
+![cover_image](/images/image-586.jpg)
 
 Woman with a Parasol-Madame Monet and Her Son.
 ==============================================
@@ -22,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 还和小伙伴去爬了山，
 
-真是勇气可嘉![](/painting-dairy/images/image-587.png)。
+真是勇气可嘉![](/images/image-587.png)。
 
 这次没有画粽子，
 
@@ -40,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 很好玩。
 
-![](/painting-dairy/images/image-588.jpg)
+![](/images/image-588.jpg)
 
 加速视频在下面～感兴趣可以看看～
 
@@ -48,4 +48,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 \= = 不就是上六天嘛，加油吧![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjSGxw3rx4QT3NyDve1dN2xicMP9anUEnGD8C7ccv7yBuHCoff4pgv4vFO8x5dUYooicA64ibibsMIYNjw/640?wx_fmt=png)，
 
-哦不对，加油吧![](/painting-dairy/images/image-589.png)
+哦不对，加油吧![](/images/image-589.png)

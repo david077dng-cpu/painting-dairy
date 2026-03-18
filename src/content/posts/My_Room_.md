@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-331.jpg)
+![cover_image](/images/image-331.jpg)
 
 My Room.
 ========
@@ -26,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 今天可能就是一个完美的周日了～
 
-![](/painting-dairy/images/image-332.jpg)
+![](/images/image-332.jpg)
 
 今天看到一篇很有意思的文章，
 
@@ -38,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > 画家身处其中不问俗世，同样，俗世也无暇顾及他的苦乐悲愁。法国乡间的小房间之于这位荷兰画家，是一处避风港，也是福柯所谓的“异托邦”（heterotopia），一个异质化的、远离日常生活的空间。
 
-![](/painting-dairy/images/image-333.jpg)
+![](/images/image-333.jpg)
 
 > 有趣的是，与梵高将自己的卧室以封闭且内向的样貌呈现时，马蒂斯却反其道行之，将自己位于海边的房间画的通透且明亮，或多或少反映出画家本人乐观且豁达的性情。
 > 
@@ -46,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > 与那些色彩鲜艳且充斥着冷暖色调对撞的画作相比，马蒂斯这幅多用暖色调，明亮却不浓烈，鲜艳却不显得过于戏剧化，予人温馨宁谧之感。
 
-![](/painting-dairy/images/image-334.jpg)  
+![](/images/image-334.jpg)  
 
 > 望着窗外浩瀚无边的大海与天空，怎能不由衷生出岁月静好的观感？
 > 
@@ -56,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > 窗户开合之间，不但改变了画面的构图及气氛，与作画人的状态及心境亦两相应和。
 
-![](/painting-dairy/images/image-335.jpg)
+![](/images/image-335.jpg)
 
 没想到小小窗户竟有如此大的讲究，
 
@@ -74,7 +74,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 每每看着就会心生幸福……  
 
-![](/painting-dairy/images/image-332.jpg)
+![](/images/image-332.jpg)
 
 祝大家新的一周开心～  
 

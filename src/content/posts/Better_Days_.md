@@ -5,7 +5,7 @@ category: 随笔
 description: 在小说阅读器中沉浸阅读
 ---
 
-![cover_image](/painting-dairy/images/image-78.jpg)
+![cover_image](/images/image-78.jpg)
 
 Better Days.
 ============
@@ -30,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 高考完，我们就变成大人了，但从来没有一节课教过我们，如何变成大人。
 
-![](/painting-dairy/images/image-79.jpg)
+![](/images/image-79.jpg)
 
 这个课的任课老师只有时间。  
 
@@ -56,6 +56,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 勇敢直面一切。
 
-![](/painting-dairy/images/image-80.jpg)
+![](/images/image-80.jpg)
 
 欢迎留言、转发or给个“在看”呦～
