@@ -44,6 +44,6 @@ Bye Yuyao.
 
 ![](/images/image-27.jpg)
 
-欢迎点赞、留言and转发~  
+欢迎点赞、留言and转发~
 
 ![](/images/image-96.jpg)

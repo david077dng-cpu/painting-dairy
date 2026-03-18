@@ -38,7 +38,7 @@ It's a Beautiful Night.
 
 你永远是我们最美丽的新娘子～
 
-  
+
 
 ![](/images/image-31.jpg)
 
@@ -48,12 +48,12 @@ It's a Beautiful Night.
 
 让我们这些娘家人都超级满意，
 
-幸福幸福～  
+幸福幸福～
 
 欢迎点赞、留言and转发发发~
 
 ![](/images/image-10.jpg)
 
-  
+
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)

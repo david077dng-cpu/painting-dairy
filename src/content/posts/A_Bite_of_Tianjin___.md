@@ -20,7 +20,7 @@ A Bite of Tianjin Ⅲ.
 
 最好的煎饼果子永远都是“我们家楼下那家”。
 
-  
+
 
 ![](/images/image-13.jpg)
 
@@ -38,7 +38,7 @@ A Bite of Tianjin Ⅲ.
 
 好吃到哭![](/images/image-4.png)。
 
-  
+
 
 让我最不能忍的是我经常看到有煎饼果子里面夹火腿![](/images/image-1.png)，
 
@@ -46,10 +46,10 @@ A Bite of Tianjin Ⅲ.
 
 煎饼果子又出现在了舌尖上的中国Ⅲ里面，
 
-感兴趣的朋友可以去看看~  
+感兴趣的朋友可以去看看~
 
 ![](/images/image-14.gif)
 
-欢迎评论、点赞and转发发发发~  
+欢迎评论、点赞and转发发发发~
 
 ![](/images/image-6.jpg)

@@ -24,7 +24,7 @@ New Year In the Forbidden City.
 
 就一直想去看看来着，
 
-没想到这周真的成行了～  
+没想到这周真的成行了～
 
 紫禁城到处都挂着喜气洋洋的宫灯，
 
@@ -36,9 +36,9 @@ New Year In the Forbidden City.
 
 站在故宫纪念品店里面，
 
-又觉“贫穷限制了我的行动”……  
+又觉“贫穷限制了我的行动”……
 
-  
+
 
 上次去故宫还是在初中，
 
@@ -48,7 +48,7 @@ New Year In the Forbidden City.
 
 可能也是长大之后更能get到她的美了吧。
 
-  
+
 
 明天就是小年啦，
 

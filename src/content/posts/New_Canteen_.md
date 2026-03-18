@@ -20,7 +20,7 @@ New Canteen.
 
 但是在其中吃饭真的是很享受哇。
 
-  
+
 
 ![](/images/image-358.jpg)
 
@@ -30,6 +30,6 @@ New Canteen.
 
 ![](/images/image-23.gif)
 
-欢迎点赞、评论and转发发发发~  
+欢迎点赞、评论and转发发发发~
 
 ![](/images/image-359.jpg)

@@ -11,7 +11,7 @@ description: 在小说阅读器中沉浸阅读
 
 在小说阅读器中沉浸阅读
 
-    衷心感激这一年来的支持~  
+    衷心感激这一年来的支持~
 
     Painting Diary 祝您狗年旺得福~~
 
@@ -21,7 +21,7 @@ description: 在小说阅读器中沉浸阅读
 
     工作旺旺~
 
-    Everything 旺旺~  
+    Everything 旺旺~
 
 ![](/images/image-1.jpg)
 
@@ -29,6 +29,6 @@ description: 在小说阅读器中沉浸阅读
 
     欢迎转发旺旺~~
 
-    新年旺旺旺旺~~  
+    新年旺旺旺旺~~
 
 ![](/images/image-2.png)

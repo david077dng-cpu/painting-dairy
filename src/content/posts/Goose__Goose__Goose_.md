@@ -16,11 +16,11 @@ Goose, Goose, Goose.
 
     上周末去绍兴溜达了一圈。
 
-    兰亭风景区里一处    
+    兰亭风景区里一处
 
     “白毛浮绿水，红掌拨清波”的景致，
 
-    从老远就把我吸引过去了。     
+    从老远就把我吸引过去了。
 
 ![](/images/image-204.jpg)    青绿色的池塘中，
 
@@ -32,7 +32,7 @@ Goose, Goose, Goose.
 
 ![](/images/image-66.jpg)
 
-    现在的鹅都机智啊，  
+    现在的鹅都机智啊，
 
     都不拨清波了，
 
@@ -42,7 +42,7 @@ Goose, Goose, Goose.
 
     感觉到了远处两个高冷鹅，
 
-    内心OS：“没见过世面![](/images/image-67.png)”  
+    内心OS：“没见过世面![](/images/image-67.png)”
 
     ![](/images/image-205.jpg)
 
@@ -54,13 +54,13 @@ Goose, Goose, Goose.
 
     如果画值10块，
 
-    那么提上字就值5块了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。  
+    那么提上字就值5块了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
 
     还是欢迎点赞~留言~ 转发~
 
-    欢迎点击“阅读原文”投稿~  
+    欢迎点击“阅读原文”投稿~
 
 ![](/images/image-206.jpg)
 
-  
+
 

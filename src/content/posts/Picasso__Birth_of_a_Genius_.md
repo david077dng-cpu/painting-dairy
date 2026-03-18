@@ -14,7 +14,7 @@ Picasso, Birth of a Genius.
 
 在小说阅读器中沉浸阅读
 
-  
+
 
 毕加索的画之于我，一直是谜中之谜，
 
@@ -30,7 +30,7 @@ Picasso, Birth of a Genius.
 
 看完展览发现，
 
-毕加索画风实在是太多变了，  
+毕加索画风实在是太多变了，
 
 不同的文化的影响、
 
@@ -38,7 +38,7 @@ Picasso, Birth of a Genius.
 
 作用在他的画上，
 
-呈现出了多种风格。  
+呈现出了多种风格。
 
 ![](/images/image-404.jpg)
 
@@ -72,13 +72,13 @@ Picasso, Birth of a Genius.
 
 直接理解结局有点难，
 
-从头开始读便简单很多。  
+从头开始读便简单很多。
 
-展览推荐给大家～  
+展览推荐给大家～
 
 欢迎评论、转发and给个“在看”～
 
-  
+
 
 ![](/images/image-5.gif)
 

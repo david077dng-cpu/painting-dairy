@@ -20,11 +20,11 @@ Hometown.
 
     一定要好好画画这里的美景。
 
- （下图来自百度）  
+ （下图来自百度）
 
 ![](/images/image-250.jpg)
 
-  
+
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQaISSMI3zNaiaFlVAYXMicTCmUq67FzCoXiatQhfzlTZyXiaqgc6ySUxkicVG8WZDpFXQj2Eu8WTxOuSA/0?wx_fmt=jpeg)
 
@@ -32,9 +32,9 @@ Hometown.
 
     记得发给我哦~
 
-    好啦，欢迎评论、点赞和转发~  
+    好啦，欢迎评论、点赞和转发~
 
 ![](/images/image-251.jpg)
 
-点击“阅读原文”留下你的投稿~  
+点击“阅读原文”留下你的投稿~
 

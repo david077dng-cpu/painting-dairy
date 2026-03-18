@@ -10,13 +10,13 @@ description: 在小说阅读器中沉浸阅读
 First Step.
 ===========
 
-原创 
+原创
 
 在小说阅读器中沉浸阅读
 
-  
 
-好久没有山寨名画啦，  
+
+好久没有山寨名画啦，
 
 今天临摹自梵高的《人生第一步》，
 
@@ -44,7 +44,7 @@ First Step.
 
 幸福的让人感动。
 
-  
+
 
 但是这周末我刚看完《无声告白》，
 
@@ -72,7 +72,7 @@ First Step.
 
 就不会有这么多悲剧了。
 
-  
+
 
 这本书里面有很多细节都很触动我。
 
@@ -114,7 +114,7 @@ First Step.
 
 他觉得莉迪亚会用的上。
 
-  
+
 
 前几天看到一个人的签名写的：
 
@@ -132,7 +132,7 @@ First Step.
 
 就当是第二次活。
 
-  
+
 
 最后放上梵高和米勒的原画～
 
@@ -148,7 +148,7 @@ First Step.
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
 
-  
+
 
 ![](/images/image-5.gif)
 

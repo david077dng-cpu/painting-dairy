@@ -22,7 +22,7 @@ The Kitchen God.
 
 不知道会不会提到俺的公众号![](/images/image-5.png)。
 
-  
+
 
 ![](/images/image-498.jpg)
 
@@ -46,9 +46,9 @@ The Kitchen God.
 
 mua![](/images/image-151.png), love you all.
 
-晚安![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)~  
+晚安![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)~
 
 ![](/images/image-499.jpg)
 
-点击“阅读原文”，照片变水彩。  
+点击“阅读原文”，照片变水彩。
 

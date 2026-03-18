@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Painting Notebook 1.
 ====================
 
-Mr. Funny Mr. Funny [PaintingDiary](javascript:void\(0\);)
+Mr. Funny Mr. Funny
 
 在小说阅读器中沉浸阅读
 
@@ -30,6 +30,6 @@ Mr. Funny Mr. Funny [PaintingDiary](javascript:void\(0\);)
 
 http://mp.weixin.qq.com/s/trc26pB4YO6vLg1Cgaq-cg
 
-  
+
 
 ![](/images/image-391.jpg)

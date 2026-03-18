@@ -8,23 +8,23 @@ description: 在小说阅读器中沉浸阅读
 Sand Dream.
 ===========
 
-猪式会社㍿ 猪式会社㍿ [PaintingDiary](javascript:void\(0\);)
+猪式会社㍿ 猪式会社㍿
 
 在小说阅读器中沉浸阅读
 
-  
+
 
 今天的照片来自投稿～
 
 已经很久没有接到投稿了，
 
-感谢这位小伙伴！  
+感谢这位小伙伴！
 
-  
+
 
 > 置身于沙漠当中，以为孤立无援，蓦然回首，其实又有许多人陪你一起穿越所有的困境。
 
-  
+
 
 ![](/images/image-423.jpg)
 
@@ -44,7 +44,7 @@ Sand Dream.
 
 ![](/images/image-10.jpg)
 
-  
+
 
 ![](/images/image-15.gif)
 

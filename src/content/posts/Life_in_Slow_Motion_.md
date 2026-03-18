@@ -18,7 +18,7 @@ Life in Slow Motion.
 
 不过天津真是一个节奏很慢的城市。
 
-今天骑车路过海河边，  
+今天骑车路过海河边，
 
 看到好多老大爷在河边钓鱼，
 
@@ -30,7 +30,7 @@ Life in Slow Motion.
 
 ![](/images/image-277.jpg)
 
-  
+
 
 周六逛超市的时候，
 

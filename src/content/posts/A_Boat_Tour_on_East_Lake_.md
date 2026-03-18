@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 A Boat Tour on East Lake.
 =========================
 
-LJX LJX [PaintingDiary](javascript:void\(0\);)
+LJX LJX
 
 在小说阅读器中沉浸阅读
 
@@ -28,7 +28,7 @@ LJX LJX [PaintingDiary](javascript:void\(0\);)
 
 我喜爱这里的每一处景致，
 
-更喜爱这水乡的水上精灵。  
+更喜爱这水乡的水上精灵。
 
 ![](/images/image-7.jpg)
 
@@ -36,11 +36,11 @@ LJX LJX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞~转发~~投稿~~~
 
-欢迎长按二维码关注 ~  
+欢迎长按二维码关注 ~
 
 ![](/images/image-2.jpg)
 
-  
+
 
 点
 

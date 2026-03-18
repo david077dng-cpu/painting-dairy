@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Yes, I Do.
 ==========
 
-原创 GYL GYL [PaintingDiary](javascript:void\(0\);)
+原创 GYL GYL
 
 在小说阅读器中沉浸阅读
 
@@ -36,7 +36,7 @@ Yes, I Do.
 
 （虽然只是化了眉毛）。
 
-  
+
 
     今天，
 
@@ -50,17 +50,17 @@ Yes, I Do.
 
     难得的小心思竟让我要刮目相看了![](/images/image-1.png)
 
-  
+
 
 ![](/images/image-593.jpg)
 
-  
 
-2018/1/8  
+
+2018/1/8
 
 **我们结婚啦**
 
-  
+
 
     2011年11月3日，
 
@@ -100,7 +100,7 @@ Yes, I Do.
 
     早已出卖了你。
 
-  
+
 
 ![](/images/image-592.jpg)
 
@@ -112,7 +112,7 @@ Yes, I Do.
 
 ![](/images/image-594.jpg)
 
-  
+
 
 点击“阅读全文”查看投稿方式~
 

@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Always On My Mind
 =================
 
-原创 HZ HZ [PaintingDiary](javascript:void\(0\);)
+原创 HZ HZ
 
 在小说阅读器中沉浸阅读
 
@@ -20,9 +20,9 @@ Always On My Mind
 
    那天一早是从闻名世界的趵突泉开始的，人多到只能远远的和它自拍。看到没，指着的那个就是趵！突！泉！
 
-    厉害吧。  
+    厉害吧。
 
-  
+
 
 ![](/images/image-37.jpg)
 
@@ -34,7 +34,7 @@ Always On My Mind
 
 ![](/images/image-19.jpg)
 
-2015年｜夏  
+2015年｜夏
 
     短短几句话其实是说不完我的心情的，正好趁着人多，我就勇敢多“表白”一下。
 

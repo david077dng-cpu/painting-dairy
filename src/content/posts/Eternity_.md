@@ -12,7 +12,7 @@ Eternity.
 
 在小说阅读器中沉浸阅读
 
-![](/images/image-165.jpg)  
+![](/images/image-165.jpg)
 
 ![](/images/image-54.jpg)
 

@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 Dear Grandma.
 =============
 
-昆图库，塔卡提… 昆图库，塔卡提… [PaintingDiary](javascript:void\(0\);)
+昆图库，塔卡提… 昆图库，塔卡提…
 
 在小说阅读器中沉浸阅读
 
@@ -24,13 +24,13 @@ Dear Grandma.
 
 即使是你的错。
 
-事实上，特别是你错的时候。  
+事实上，特别是你错的时候。
 
-  
+
 
 ——《外婆的道歉信》
 
-  
+
 
 ![](/images/image-142.jpg)
 
@@ -46,13 +46,13 @@ Dear Grandma.
 
 点击阅读原文就好了～
 
-祝大家周末开心～  
+祝大家周末开心～
 
 欢迎点赞、留言and转发发发~
 
 ![](/images/image-10.jpg)
 
-  
+
 
 ![](/images/image-15.gif)
 

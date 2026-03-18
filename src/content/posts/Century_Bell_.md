@@ -28,7 +28,7 @@ Century Bell.
 
 在天津站周围展开了一幅宏伟壮观的美丽画卷。
 
-  
+
 
 ![](/images/image-108.jpg)
 
@@ -38,5 +38,5 @@ Century Bell.
 
 ![](/images/image-2.png)
 
-点击“阅读原文”，照片变水彩~  
+点击“阅读原文”，照片变水彩~
 

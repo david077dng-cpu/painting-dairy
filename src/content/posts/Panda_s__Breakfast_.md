@@ -32,7 +32,7 @@ Panda’s Breakfast.
 
 ![](/images/image-395.jpg)
 
-拍到一只偷瞄树上别的熊猫屁屁的大熊猫。  
+拍到一只偷瞄树上别的熊猫屁屁的大熊猫。
 
 ![](/images/image-120.jpg)
 

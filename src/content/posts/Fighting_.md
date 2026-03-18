@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Fighting~
 =========
 
-Icecream Icecream [PaintingDiary](javascript:void\(0\);)
+Icecream Icecream
 
 在小说阅读器中沉浸阅读
 
@@ -20,7 +20,7 @@ Icecream Icecream [PaintingDiary](javascript:void\(0\);)
 
 秀母校系列。
 
-  
+
 
 ![](/images/image-14.gif)
 
@@ -28,23 +28,23 @@ Icecream Icecream [PaintingDiary](javascript:void\(0\);)
 
 大四一总校
 
-haha是不是很美腻（表示在分校呆着很想这里  
+haha是不是很美腻（表示在分校呆着很想这里
 
-奇葩的摇号政策  
+奇葩的摇号政策
 
-然后 相遇  
+然后 相遇
 
-还有屈指可数的三个月  
+还有屈指可数的三个月
 
-然后 道别  
+然后 道别
 
 在这里遇见最可爱的2015届八班
 
-在这里遇见最可爱的你们  
+在这里遇见最可爱的你们
 
-把这一切的一切化作力量  
+把这一切的一切化作力量
 
-在今年夏天奋力一搏  
+在今年夏天奋力一搏
 
 中考倒计时！！
 
@@ -56,13 +56,13 @@ FIGHTING！！
 
 居然没有先画自己的母校，
 
-有点遗憾。  
+有点遗憾。
 
   欢迎点赞、评论and转发~
 
-更欢迎投稿啊！！  
+更欢迎投稿啊！！
 
 ![](/images/image-59.jpg)
 
-点击阅读原文，查看投稿方式~  
+点击阅读原文，查看投稿方式~
 

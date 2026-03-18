@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Let's go home.
 ==============
 
-原创 
+原创
 
 在小说阅读器中沉浸阅读
 
@@ -34,9 +34,9 @@ Let's go home.
 
     **应该要多笑笑。**
 
-    **其实是超级温暖的人****![](/images/image-38.png)。**  
+    **其实是超级温暖的人****![](/images/image-38.png)。**
 
-     
+
 
 ![](/images/image-276.jpg)
 

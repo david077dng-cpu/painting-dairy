@@ -42,7 +42,7 @@ Huajiachi Campus.
 
 风景宜人，
 
-诚学府中罕有。  
+诚学府中罕有。
 
 ![](/images/image-23.gif)
 
@@ -52,7 +52,7 @@ Huajiachi Campus.
 
 先适应一下。
 
-欢迎点赞、评论and转发。  
+欢迎点赞、评论and转发。
 
 ![](/images/image-255.jpg)
 

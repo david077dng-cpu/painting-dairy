@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Happy Birthday！！
 ================
 
-原创 塑料姐妹花 塑料姐妹花 [PaintingDiary](javascript:void\(0\);)
+原创 塑料姐妹花 塑料姐妹花
 
 在小说阅读器中沉浸阅读
 
@@ -22,7 +22,7 @@ Happy Birthday！！
 
     未成年看客，请在爸妈陪同下观看。
 
-    有心脏病的看客，请在大夫指导下阅读本次推送。    
+    有心脏病的看客，请在大夫指导下阅读本次推送。
 
 不正常的正正是好正正
 
@@ -30,7 +30,7 @@ Happy Birthday！！
 
 ![](/images/image-218.jpg)
 
-  
+
 
 **不想当爸爸的灵子不是好宝宝**
 
@@ -50,7 +50,7 @@ Happy Birthday！！
 
 ![](/images/image-219.jpg)
 
-  
+
 
 静静的静静儿想静静
 
@@ -94,7 +94,7 @@ Happy Birthday！！
 
 ![](/images/image-68.jpg)
 
-    最后一位朋友真是机智啊……  
+    最后一位朋友真是机智啊……
 
     能看到这里的都是真爱啊。
 

@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Travel 1998.
 ============
 
-原创 LJX LJX [PaintingDiary](javascript:void\(0\);)
+原创 LJX LJX
 
 在小说阅读器中沉浸阅读
 
@@ -20,11 +20,11 @@ Travel 1998.
 
     这是我98年入职现在的企业时，到美国进行入职培训时照的。
 
-  
+
 
 ![](/images/image-554.jpg)
 
-  
+
 
     这次美国之行对我来讲有诸多的第一。
 
@@ -108,13 +108,13 @@ Travel 1998.
 
     好啦，欢迎投稿！欢迎留言！！欢迎转发！！！！
 
-    ![](/images/image-557.jpg)  
+    ![](/images/image-557.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
 
-  
+
 
 投稿吗，点击“阅读原文”吧～
 
-  
+
 

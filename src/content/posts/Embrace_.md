@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 Embrace.
 ========
 
-米米虫 米米虫 [PaintingDiary](javascript:void\(0\);)
+米米虫 米米虫
 
 在小说阅读器中沉浸阅读
 

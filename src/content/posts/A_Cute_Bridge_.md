@@ -32,7 +32,7 @@ A Cute Bridge.
 
 桥的一头就是前天画的望海楼教堂，
 
-另一头就是古文化街。  
+另一头就是古文化街。
 
 ![](/images/image-17.jpg)
 
@@ -62,9 +62,9 @@ A Cute Bridge.
 
 ![](/images/image-18.jpg)
 
-好啦，欢迎评论、点赞and转发~  
+好啦，欢迎评论、点赞and转发~
 
 ![](/images/image-3.png)
 
-点击“阅读原文”，照片变水彩~  
+点击“阅读原文”，照片变水彩~
 

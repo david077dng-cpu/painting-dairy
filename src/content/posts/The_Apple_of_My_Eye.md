@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 The Apple of My Eye
 ===================
 
-HRM HRM [PaintingDiary](javascript:void\(0\);)
+HRM HRM
 
 在小说阅读器中沉浸阅读
 
@@ -54,7 +54,7 @@ HRM HRM [PaintingDiary](javascript:void\(0\);)
 
    我们说好之后的每一年都能一起去一个地方，留下我们的足迹。今年是北京（已完成），明年或者成都？或者杭州？你说呢~
 
-  
+
 
 ![](/images/image-466.jpg)
 
@@ -64,9 +64,9 @@ HRM HRM [PaintingDiary](javascript:void\(0\);)
 
     投稿方式请点击“阅读原文”查看~
 
-    欢迎转发~~~~与留言~~~~~  
+    欢迎转发~~~~与留言~~~~~
 
 ![](/images/image-140.jpg)
 
-  
+
 

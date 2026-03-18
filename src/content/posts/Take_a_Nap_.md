@@ -18,7 +18,7 @@ Take a Nap.
 
     问了一下背后的故事，发现老奶奶现在和家人一起生活，很开心。
 
-    我就强行画成了温暖的感觉![](/images/image-56.png)。  
+    我就强行画成了温暖的感觉![](/images/image-56.png)。
 
     并且硬拗了一个温暖的题目![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F61D.png)。
 
@@ -40,6 +40,6 @@ Take a Nap.
 
     祝大家周末愉快，别忘去看看老人~
 
-    欢迎留言或转发~~ 更加欢迎投稿~~~  
+    欢迎留言或转发~~ 更加欢迎投稿~~~
 
 ![](/images/image-138.jpg)

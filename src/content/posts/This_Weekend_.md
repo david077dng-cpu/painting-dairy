@@ -16,7 +16,7 @@ This Weekend.
 
 这周末还是挺丰富多彩的啊，
 
-周六冬至，照例吃了饺子。 
+周六冬至，照例吃了饺子。
 
 很多年前的冬至那天，
 
@@ -36,7 +36,7 @@ This Weekend.
 
 能量渐渐聚集，
 
-可以做的事情也更多了！  
+可以做的事情也更多了！
 
 今天去滑雪归来也有这种感觉，
 
@@ -56,7 +56,7 @@ This Weekend.
 
 想得家中深夜坐，
 
-还应说着远行人。”  
+还应说着远行人。”
 
 希望爸爸妈妈没有这样来想我，
 
@@ -68,7 +68,7 @@ This Weekend.
 
 ![](/images/image-10.jpg)
 
-  
+
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

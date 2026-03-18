@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 I Love Flyfish.
 ===============
 
-原创 野 野 [PaintingDiary](javascript:void\(0\);)
+原创 野 野
 
 在小说阅读器中沉浸阅读
 
@@ -24,7 +24,7 @@ I Love Flyfish.
 
     谢谢你们给了我一个火一样的大学，不一样的人生，想永远做一条小飞鱼，听着你们讲技术，论理想，谈做人。
 
-  
+
 
 ![](/images/image-257.jpg)
 
@@ -40,7 +40,7 @@ I Love Flyfish.
 
 更加欢迎发照片给我哦～
 
-  
+
 
 ![](/images/image-5.gif)
 

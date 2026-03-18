@@ -16,7 +16,7 @@ Best Present Ever ~
 
 并且收到了一个超级有心意的礼物~
 
-当当当当 ~  
+当当当当 ~
 
 ![](/images/image-71.jpg)
 
@@ -36,7 +36,7 @@ Best Present Ever ~
 
 我在这给你磕一个Orz，
 
-你们画的好棒，  
+你们画的好棒，
 
 以后多画几幅，
 
@@ -46,17 +46,17 @@ Best Present Ever ~
 
 表达我对你们的耐~~
 
-  
+
 
 ![](/images/image-72.jpg)
 
-  
+
 
 ![](/images/image-37.jpg)
 
-欢迎评论、留言and转发发发~  
+欢迎评论、留言and转发发发~
 
 ![](/images/image-73.jpg)
 
-点击“阅读原文”，照片变水彩~~  
+点击“阅读原文”，照片变水彩~~
 

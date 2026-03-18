@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Tianjin Foreign Studies University.
 ===================================
 
-原创 Mr. Funny Mr. Funny [PaintingDiary](javascript:void\(0\);)
+原创 Mr. Funny Mr. Funny
 
 在小说阅读器中沉浸阅读
 
@@ -38,7 +38,7 @@ Tianjin Foreign Studies University.
 
 “离我的地盘很近啊”。
 
-  
+
 
 ![](/images/image-541.jpg)
 
@@ -80,6 +80,6 @@ Tianjin Foreign Studies University.
 
 被网友戏称为“天津摄影棚大学”、“马场道影视基地”。
 
-好啦，欢迎评论、点赞and转发发发发发发 ~  
+好啦，欢迎评论、点赞and转发发发发发发 ~
 
 ![](/images/image-161.jpg)

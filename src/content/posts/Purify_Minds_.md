@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Purify Minds.
 =============
 
-繁花落尽…… 繁花落尽…… [PaintingDiary](javascript:void\(0\);)
+繁花落尽…… 繁花落尽……
 
 在小说阅读器中沉浸阅读
 

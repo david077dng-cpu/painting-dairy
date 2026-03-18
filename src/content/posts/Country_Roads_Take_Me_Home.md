@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Country Roads Take Me Home
 ==========================
 
-原创 小唐唐 小唐唐 [PaintingDiary](javascript:void\(0\);)
+原创 小唐唐 小唐唐
 
 在小说阅读器中沉浸阅读
 
@@ -96,9 +96,9 @@ P.S.
 
 ![](/images/image-131.jpg)
 
-  
+
 
 ![](/images/image-45.jpg)
 
-点击“阅读原文”查看投稿方式  
+点击“阅读原文”查看投稿方式
 

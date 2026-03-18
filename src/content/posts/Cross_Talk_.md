@@ -28,7 +28,7 @@ Cross Talk.
 
 有时还会“动手”![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
 
-超级有意思～  
+超级有意思～
 
 是一项十分解乏，
 
@@ -48,7 +48,7 @@ Cross Talk.
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
 
-  
+
 
 ![](/images/image-5.gif)
 

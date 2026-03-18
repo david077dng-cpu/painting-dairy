@@ -16,7 +16,7 @@ Father's Day.
 
 今天是Father‘s Day,
 
-先㊗️父亲们节日快乐～  
+先㊗️父亲们节日快乐～
 
 此外，今天还是一年当中白昼最长的一天
 
@@ -30,7 +30,7 @@ Father's Day.
 
 ![](/images/image-176.jpg)
 
-今天画的就是父亲大人。  
+今天画的就是父亲大人。
 
 不上班的日子就巡查阳台两三遍![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQiakIicq69rP6jMvyHT15GI3diaZd4DQSnHv1KyPwkHoD4uzJc7lFqyC7JVGpS2Qbz9aQE6TJn9H8OA/640?wx_fmt=png)，
 
@@ -48,12 +48,12 @@ Father's Day.
 
 可以夸一夸“未来可期”，
 
-不过每天都可以乐在其中。  
+不过每天都可以乐在其中。
 
 像《人生果实》那部电影中的老两口一样。
 
-希望所有的父亲们身体健康、生活舒心、工作顺利～  
+希望所有的父亲们身体健康、生活舒心、工作顺利～
 
-节日快乐！  
+节日快乐！
 
 下回见～

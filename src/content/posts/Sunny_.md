@@ -10,11 +10,11 @@ description: 在小说阅读器中沉浸阅读
 Sunny.
 ======
 
-Sanny Sanny [PaintingDiary](javascript:void\(0\);)
+Sanny Sanny
 
 在小说阅读器中沉浸阅读
 
-今天的内容来自Sanny～  
+今天的内容来自Sanny～
 
 感谢投稿～
 
@@ -40,7 +40,7 @@ Sanny Sanny [PaintingDiary](javascript:void\(0\);)
 
 也欢迎下面投稿哦～
 
-  
+
 
 ![](/images/image-5.gif)
 

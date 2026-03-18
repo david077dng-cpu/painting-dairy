@@ -36,7 +36,7 @@ Cafe Terrace at Night.
 
 依旧展现着欢乐和活力。
 
-  
+
 
 为了满足大家找不同的爱好，
 
@@ -50,7 +50,7 @@ Cafe Terrace at Night.
 
 不过想要获得同样鲜艳的表现力，
 
-还是“路漫漫其修远兮”呀。  
+还是“路漫漫其修远兮”呀。
 
 ![](/images/image-31.jpg)
 

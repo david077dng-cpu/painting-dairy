@@ -14,11 +14,11 @@ The Spring Festival.
 
 在小说阅读器中沉浸阅读
 
-在新年长假最后一天，再画一幅水彩记录一下这个特殊的春节。  
+在新年长假最后一天，再画一幅水彩记录一下这个特殊的春节。
 
 专家呼吁不出门，不聚餐，
 
-大家都很听话，  
+大家都很听话，
 
 大街上静悄悄的，
 
@@ -42,15 +42,15 @@ The Spring Festival.
 
 ![](/images/image-522.jpg)![](/images/image-522.jpg)![](/images/image-522.jpg)![](/images/image-157.jpg)![](/images/image-157.jpg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaGVrg74fciamQLfQr7l5sMjb35mDOjKMcDEKQEWunP7VNDOQfHEq4MLSibbkBnO3kQsTArVnTSmHQ/640?wx_fmt=jpeg)
 
-  
 
-今天画的是窗外雪景，  
 
-红色的吊钱映衬着白色雪景，很美。  
+今天画的是窗外雪景，
+
+红色的吊钱映衬着白色雪景，很美。
 
 愿大家都可以百毒不侵，平安顺遂。
 
-  
+
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

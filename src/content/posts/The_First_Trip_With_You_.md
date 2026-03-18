@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 The First Trip With You.
 ========================
 
-HL HL [PaintingDiary](javascript:void\(0\);)
+HL HL
 
 在小说阅读器中沉浸阅读
 
@@ -34,7 +34,7 @@ HL HL [PaintingDiary](javascript:void\(0\);)
 
 给回忆染上水彩的颜色～
 
-欢迎点赞、留言and转发发发~  
+欢迎点赞、留言and转发发发~
 
 ![](/images/image-10.jpg)
 

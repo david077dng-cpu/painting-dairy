@@ -8,106 +8,106 @@ description: 在小说阅读器中沉浸阅读
 Christmas Gift.
 ===============
 
-原创 Max Max [PaintingDiary](javascript:void\(0\);)
+原创 Max Max
 
 在小说阅读器中沉浸阅读
 
-    圣诞快乐呀~ 
+    圣诞快乐呀~
 
     平安夜有没有在朋友圈秀恩爱呀![](/images/image-7.png)~
 
-    有没有被人秀呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)~ 
+    有没有被人秀呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)~
 
     反正都这么多狗粮了，
 
     我这还有份圣诞大礼包给你加上~
 
-  
+
 
 这张是15年十一跟超哥凌晨四点多在南天门拍的
 
-原定计划要登顶的  
+原定计划要登顶的
 
-但山顶风大雾浓  
+但山顶风大雾浓
 
-两人又都怕死  
+两人又都怕死
 
-就没再往上爬了  
+就没再往上爬了
 
-那天从红门出发  
+那天从红门出发
 
-在第一山碑刻拿出单反要拍游客照  
+在第一山碑刻拿出单反要拍游客照
 
-被超哥制止了  
+被超哥制止了
 
-说深夜忌拍照 会有鬼吼吼 ![](/images/image-37.png) 
+说深夜忌拍照 会有鬼吼吼 ![](/images/image-37.png)
 
-刚开始超哥给我讲朱重八的野史  
+刚开始超哥给我讲朱重八的野史
 
-加上偶尔走过说笑打闹的小年轻  
+加上偶尔走过说笑打闹的小年轻
 
-既有夜行的浪漫 也不乏白天的欢腾  
+既有夜行的浪漫 也不乏白天的欢腾
 
-但因为一路上阴雨不断  
+但因为一路上阴雨不断
 
-超哥开始感冒出冷汗  
+超哥开始感冒出冷汗
 
-后半程他是被我半拉着爬上去的  
+后半程他是被我半拉着爬上去的
 
 现在想来 强悍啊我![](/images/image-16.png)
 
-山顶风太猛  
+山顶风太猛
 
-两个人挤在人堆里抖了半小时  
+两个人挤在人堆里抖了半小时
 
-说像狗 是真的  
+说像狗 是真的
 
-最后阴云不散 看日出无望 就下山了  
+最后阴云不散 看日出无望 就下山了
 
-下山路上就幸运了  
+下山路上就幸运了
 
-阳光从云层透出来 很柔和  
+阳光从云层透出来 很柔和
 
-云朵速度很快  
+云朵速度很快
 
-有点像城市宣传片做的云海翻滚的特效  
+有点像城市宣传片做的云海翻滚的特效
 
-视觉上蛮震撼的  
+视觉上蛮震撼的
 
-感觉像成仙了  
+感觉像成仙了
 
-当然最难忘的还是泰山一路上的补给  
+当然最难忘的还是泰山一路上的补给
 
-每隔半小时左右就有吃的  
+每隔半小时左右就有吃的
 
 尤其是又冷又饿的时候叫碗混沌
 
-再加一个蛋  
+再加一个蛋
 
-吃完互相搓搓手 简直温暖到心窝窝里  
+吃完互相搓搓手 简直温暖到心窝窝里
 
 ![](/images/image-38.png)![](/images/image-38.png)![](/images/image-38.png)![](/images/image-38.png)![](/images/image-38.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)
 
-当时超哥提议去夜爬我还挺吃惊的  
+当时超哥提议去夜爬我还挺吃惊的
 
-他性格比较温和 不是那种喜欢挑战的人  
+他性格比较温和 不是那种喜欢挑战的人
 
-也不知道这次旅行带给他怎样的记忆  
+也不知道这次旅行带给他怎样的记忆
 
-新年快到了  
+新年快到了
 
-希望看到他更多的龇牙傻笑  
+希望看到他更多的龇牙傻笑
 
 挺丑 但也很治愈
 
 Max
 
-![](/images/image-115.jpg)  
-  
+![](/images/image-115.jpg)
+
 
 ![](/images/image-39.jpg)
 
-  
+
 
 ![](/images/image-116.jpg)
 
@@ -127,9 +127,9 @@ Max
 
 ![](/images/image-40.jpg)
 
-  
+
 
 投稿吗，点击“阅读原文”吧～
 
-  
+
 

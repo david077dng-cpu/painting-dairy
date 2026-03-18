@@ -66,7 +66,7 @@ Red Buddha.
 
 ![](/images/image-35.jpg)
 
-  
+
 
 ![](/images/image-5.gif)
 

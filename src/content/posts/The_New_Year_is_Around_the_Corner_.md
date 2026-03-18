@@ -34,7 +34,7 @@ The New Year is Around the Corner.
 
 笑口常开，
 
-你就是最靓的仔！  
+你就是最靓的仔！
 
 ![](/images/image-154.gif)
 

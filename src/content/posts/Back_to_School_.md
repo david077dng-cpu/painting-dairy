@@ -26,13 +26,13 @@ Back to School.
 
 粉色的玉兰也开了，
 
-满园春色真让人流连忘返啊~  
+满园春色真让人流连忘返啊~
 
 ![](/images/image-56.jpg)
 
-![](/images/image-31.gif)  
+![](/images/image-31.gif)
 
-欢迎点赞、评论and转发发发发~  
+欢迎点赞、评论and转发发发发~
 
 ![](/images/image-57.jpg)
 

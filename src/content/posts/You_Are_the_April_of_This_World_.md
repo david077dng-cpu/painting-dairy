@@ -8,13 +8,13 @@ description: 在小说阅读器中沉浸阅读
 You Are the April of This World.
 ================================
 
-丽芸麻麻 丽芸麻麻 [PaintingDiary](javascript:void\(0\);)
+丽芸麻麻 丽芸麻麻
 
 在小说阅读器中沉浸阅读
 
 今天的照片来自一位宝妈～
 
-小宝宝在四月满百天了。  
+小宝宝在四月满百天了。
 
 感谢投稿～
 
@@ -46,7 +46,7 @@ You Are the April of This World.
 
 太萌了，太萌了，太萌了，太萌了……
 
-希望宝宝健康快乐～  
+希望宝宝健康快乐～
 
 欢迎大家投稿哇，
 

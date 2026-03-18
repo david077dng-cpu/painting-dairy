@@ -24,7 +24,7 @@ Girl with a Pearl Earring
 
 一直断断续续画了五六个小时了，
 
-还一直画不像，心累。  
+还一直画不像，心累。
 
 ![](/images/image-192.jpg)
 
@@ -50,12 +50,12 @@ Girl with a Pearl Earring
 
 他生前无名可能因为下面几个原因：
 
-1.  画的太慢，精益求精的严谨精神导致他每年仅能产出约三张小幅作品。  
-    
+1.  画的太慢，精益求精的严谨精神导致他每年仅能产出约三张小幅作品。
+
 2.  他一生中仅有的三十余张作品大部分都被同一个买主买走了，他的良好用心反而妨碍了维米尔的作品展现给更多公众的机会。
-    
+
 3.  他一生都没有离开过荷兰小城德尔夫特，他的作品直到他离世后20年才出现在阿姆斯特丹。
-    
+
 
 当然还有很多其他原因，
 
@@ -75,7 +75,7 @@ Girl with a Pearl Earring
 
 对啦，女神斯嘉丽·约翰逊在2003年演过电影《带珍珠耳环的少女》，![](/images/image-7.png)感兴趣的同学们可以看看。
 
-  
+
 
 ![](/images/image-45.jpg)
 
@@ -83,7 +83,7 @@ Girl with a Pearl Earring
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
 
-  
+
 
 ![](/images/image-5.gif)
 

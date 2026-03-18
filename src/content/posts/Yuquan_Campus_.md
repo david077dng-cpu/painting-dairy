@@ -18,7 +18,7 @@ Yuquan Campus.
 
 还好有新开的食堂抚慰我的心灵。
 
-  
+
 
 ![](/images/image-603.jpg)
 
@@ -44,7 +44,7 @@ Yuquan Campus.
 
 毛主席举起的手，
 
-仿佛施下了魔法，  
+仿佛施下了魔法，
 
 让每一个路过他的人，
 
@@ -52,6 +52,6 @@ Yuquan Campus.
 
 ![](/images/image-604.jpg)
 
-欢迎点赞、评论and转发发发~  
+欢迎点赞、评论and转发发发~
 
 ![](/images/image-188.jpg)

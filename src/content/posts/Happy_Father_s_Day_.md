@@ -54,9 +54,9 @@ Happy Father's Day.
 
 原画中细节真是让人叹为观止，
 
-再修炼一百年估计也画不出来![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。  
+再修炼一百年估计也画不出来![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
 
-  
+
 
 最后祝所有的父亲们节日快乐～
 

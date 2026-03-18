@@ -14,9 +14,9 @@ Afternoon Sunshine.
 
 自打我来了这边周末都是雨雪，
 
-今天终于享受到了一个充满阳光的周末下午。  
+今天终于享受到了一个充满阳光的周末下午。
 
-  
+
 
 好久都没画楼了，
 
@@ -26,7 +26,7 @@ Afternoon Sunshine.
 
 十分影响体验![](/images/image-17.png)。
 
-  
+
 
 ![](/images/image-35.jpg)
 

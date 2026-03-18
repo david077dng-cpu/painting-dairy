@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Our Dream.
 ==========
 
-瑜杉 瑜杉 [PaintingDiary](javascript:void\(0\);)
+瑜杉 瑜杉
 
 在小说阅读器中沉浸阅读
 
@@ -26,7 +26,7 @@ Our Dream.
 
 一种用文字难以描述的美，
 
-西藏我还回来![](/images/image-117.png)![](/images/image-117.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)  
+西藏我还回来![](/images/image-117.png)![](/images/image-117.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)
 
 ![](/images/image-382.jpg)
 
@@ -38,7 +38,7 @@ Our Dream.
 
 如果一定要说出区别，
 
-那就是那里的常住居民还包括神明。”  
+那就是那里的常住居民还包括神明。”
 
 “这是一个混淆了天国与尘世的地方，
 
@@ -50,7 +50,7 @@ Our Dream.
 
 它使藏民保持着凡俗的生活，
 
-却给探险者带上英雄的勋章。”  
+却给探险者带上英雄的勋章。”
 
 “西藏是我们身体以外的一个世界，
 
@@ -64,13 +64,13 @@ Our Dream.
 
 向去过西藏的探险者们致敬！
 
-欢迎点赞、留言and转发发发~  
+欢迎点赞、留言and转发发发~
 
-欢迎投稿哇～  
+欢迎投稿哇～
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
 
-  
+
 
 ![](/images/image-5.gif)
 

@@ -30,7 +30,7 @@ Birth of Venus
 
 “女神就是女神哇![](/images/image-82.png)～
 
-出场都这么不一样”  
+出场都这么不一样”
 
 ![](/images/image-20.jpg)
 

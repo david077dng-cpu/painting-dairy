@@ -30,7 +30,7 @@ The City of Art.
 
 这个美术馆没有中文讲解，
 
-首当其冲几个展厅又全都是圣经、圣母、耶稣相关，  
+首当其冲几个展厅又全都是圣经、圣母、耶稣相关，
 
 我俩边听听力，边打哈欠。
 
@@ -40,9 +40,9 @@ The City of Art.
 
 我深感艺术之高深。
 
-  
 
-还是走在路上或者坐在路边更能感受一个城市。  
+
+还是走在路上或者坐在路边更能感受一个城市。
 
 再璀璨也只是历史，
 
@@ -56,23 +56,23 @@ The City of Art.
 
 只能描述，
 
-无法转移也无法复制。  
+无法转移也无法复制。
 
-  
 
-![](/images/image-481.jpg)  
 
-现在国外的疫情好严重啊，  
+![](/images/image-481.jpg)
 
-真希望赶快遏制住，  
+现在国外的疫情好严重啊，
 
-这么棒的季节，不能出去耍一耍太难受了。  
+真希望赶快遏制住，
 
-不过，好好工作才能好好玩耍，  
+这么棒的季节，不能出去耍一耍太难受了。
+
+不过，好好工作才能好好玩耍，
 
 又是新的一周，加油吧![](/images/image-145.png)![](/images/image-145.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/KeepFighting.png)！
 
-  
+
 
 ![](/images/image-5.gif)
 

@@ -24,7 +24,7 @@ The Green Sofa.
 
 结合自己的故事和一些人生感悟，
 
-推荐给大家。  
+推荐给大家。
 
 作者讲到她每到假期的最后一天，
 
@@ -48,9 +48,9 @@ The Green Sofa.
 
 别忘给自己一个下午，
 
-将手机静音，  
+将手机静音，
 
-好好放松一下～  
+好好放松一下～
 
 最后放上作者原图：
 
@@ -60,13 +60,13 @@ The Green Sofa.
 
 今天的西方美女让我画成了东方美人![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
 
-下次继续努力，  
+下次继续努力，
 
 欢迎点赞、留言and转发发发~
 
 ![](/images/image-10.jpg)
 
-  
+
 
 ![](/images/image-15.gif)
 

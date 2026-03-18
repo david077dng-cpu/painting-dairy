@@ -14,7 +14,7 @@ The Milkmaid.
 
 在小说阅读器中沉浸阅读
 
-  
+
 
 真的是很久没有山寨名画了，
 
@@ -34,7 +34,7 @@ The Milkmaid.
 
 看着这幅画就想热一杯牛奶喝，
 
-然后进被窝睡觉，  
+然后进被窝睡觉，
 
 好好歇一歇。
 
@@ -50,7 +50,7 @@ The Milkmaid.
 
 不得不说
 
-……  
+……
 
 他家女仆还都挺美的![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)
 

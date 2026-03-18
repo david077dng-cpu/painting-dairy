@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 The Very Beginning
 ==================
 
-[PaintingDiary](javascript:void\(0\);)
+
 
 在小说阅读器中沉浸阅读
 
@@ -22,8 +22,8 @@ The Very Beginning
 
 ![](/images/image-159.jpg)
 
-  
 
-  
+
+
 
 以后每天发一幅小水彩，早日成为一名旅绘家。

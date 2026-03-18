@@ -13,9 +13,9 @@ Inner Peace
 在小说阅读器中沉浸阅读
 
 > **Your mind is like this water, my friend, when it is agitated, it becomes difficult to see, but if you allow it to settle, the answer becomes clear.**
-> 
+>
 > **你的心好似这潭湖水，如果波澜起伏，就会模糊不清，但是如果平静下来，解决之道必将自现。**
-> 
+>
 > **——功夫熊猫2**
 
     周一好像就会比较不开心![](/images/image-56.png)，上面这句话好棒，送给大家，希望每个人都可以找到内心的平静。Love you all~

@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Last Summer.
 ============
 
-原创 ZY ZY [PaintingDiary](javascript:void\(0\);)
+原创 ZY ZY
 
 在小说阅读器中沉浸阅读
 
@@ -30,7 +30,7 @@ Last Summer.
 
 2017年｜夏
 
-  
+
 
 那天我好开心，
 
@@ -74,7 +74,7 @@ Last Summer.
 
 这样就不用虐狗了![](/images/image-56.png)
 
-![](/images/image-272.jpg)  
+![](/images/image-272.jpg)
 
     今天投稿的是俺的高中同学~
 
@@ -84,21 +84,21 @@ Last Summer.
 
     好，欢迎单身同胞们积极投稿，
 
-    不要让本公众号被秀恩爱的占领了![](/images/image-5.png)。  
+    不要让本公众号被秀恩爱的占领了![](/images/image-5.png)。
 
 ![](/images/image-273.jpg)
 
-      
 
-  
+
+
 
 ![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
 
-  
+
 
 投稿吗，点击“阅读原文”吧～
 
-  
 
-  
+
+
 

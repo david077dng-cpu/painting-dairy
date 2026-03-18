@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Tianjin University.
 ===================
 
-ZJ ZJ [PaintingDiary](javascript:void\(0\);)
+ZJ ZJ
 
 在小说阅读器中沉浸阅读
 
@@ -16,23 +16,23 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
 这座以工科见长的学校，
 
-其前身为北洋大学。  
+其前身为北洋大学。
 
 小编拜托了一位天大的小伙伴写了今天的文字。
 
 ![](/images/image-542.jpg)
 
-  
+
 
 > 穷学理，
-> 
+>
 > 振科工，
-> 
+>
 > 重实验，
-> 
+>
 > 薄雕虫。
 
-  
+
 
 北洋大学堂所在的北洋广场，
 
@@ -50,13 +50,13 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
 在这里合影，毕业，从此各奔东西。
 
-  
+
 
 ![](/images/image-543.jpg)
 
 这四年间，
 
-我们无数次地穿过北洋广场，  
+我们无数次地穿过北洋广场，
 
 从24楼到学三食堂，
 
@@ -64,19 +64,19 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
 北洋广场，
 
-你还记得吗，  
+你还记得吗，
 
 那一年的百团大战，
 
 那一次的毕业大合唱。
 
-  
+
 
 ![](/images/image-162.jpg)
 
 天大和南开一直以来都难舍难分，
 
-两校老校区仅有一门之隔，  
+两校老校区仅有一门之隔，
 
 两校同学经常会因为中间那个，
 
@@ -86,9 +86,9 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
 真是羡煞旁校啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
 
-  
+
 
 ![](/images/image-544.jpg)
 
-点击“阅读原文”，照片变水彩~  
+点击“阅读原文”，照片变水彩~
 

@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 The Temple of Heaven.
 =====================
 
-原创 
+原创
 
 在小说阅读器中沉浸阅读
 
@@ -50,7 +50,7 @@ The Temple of Heaven.
 
     但是这段记忆却一直在我心里。
 
-  
+
 
 ![](/images/image-524.jpg)
 

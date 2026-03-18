@@ -18,11 +18,11 @@ Happy Valentine’s Day.
 
 没有给女朋友买花的赶紧转给她![](/images/image-64.png)
 
-  
+
 
 ![](/images/image-233.jpg)
 
-  
+
 
 祝单身的朋友们过得开心，
 
@@ -30,9 +30,9 @@ Happy Valentine’s Day.
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTcRDNuSrficiajicWibLWFMT1ekOicB1aAy416zWRxoiaOSpickibfYALUibIauYWPCiahm0V6iaMawUqp71rvQ/640?wx_fmt=jpeg)
 
-欢迎评论、点赞and转发~  
+欢迎评论、点赞and转发~
 
 ![](/images/image-234.jpg)
 
-点击“阅读原文”，照片变水彩。  
+点击“阅读原文”，照片变水彩。
 

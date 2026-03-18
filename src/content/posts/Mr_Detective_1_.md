@@ -8,12 +8,12 @@ description: 在小说阅读器中沉浸阅读
 Mr.Detective 1.
 ===============
 
-Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
+Mr.Funny Mr.Funny
 
 在小说阅读器中沉浸阅读
 
 柯南展后遗症。
 
-  
+
 
 ![](/images/image-322.jpg)

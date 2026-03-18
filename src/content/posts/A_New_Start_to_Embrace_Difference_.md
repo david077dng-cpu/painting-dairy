@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 A New Start to Embrace Difference.
 ==================================
 
-原创 HRM HRM [PaintingDiary](javascript:void\(0\);)
+原创 HRM HRM
 
 在小说阅读器中沉浸阅读
 

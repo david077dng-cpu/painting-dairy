@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 Heavy Rain.
 ===========
 
-[PaintingDiary](javascript:void\(0\);)
+
 
 在小说阅读器中沉浸阅读
 
@@ -64,7 +64,7 @@ Heavy Rain.
 
 不过只限于看别人，
 
-自己只想赶快跑回家。  
+自己只想赶快跑回家。
 
 像诗里说的：
 
@@ -76,7 +76,7 @@ Heavy Rain.
 
 踏一条潮湿的道路，
 
-自己带自己回家。”  
+自己带自己回家。”
 
 ![](/images/image-5.gif)
 

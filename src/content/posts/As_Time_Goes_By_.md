@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 As Time Goes By.
 ================
 
-HappySophiee HappySophiee [PaintingDiary](javascript:void\(0\);)
+HappySophiee HappySophiee
 
 在小说阅读器中沉浸阅读
 
@@ -16,7 +16,7 @@ HappySophiee HappySophiee [PaintingDiary](javascript:void\(0\);)
 
     讲述了一家三口的温馨故事~
 
-  
+
 
 ![](/images/image-46.jpg)
 
@@ -26,7 +26,7 @@ HappySophiee HappySophiee [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-13.jpg)
 
-    这一家三口颜值好高呀~  
+    这一家三口颜值好高呀~
 
     祝他们永远开心幸福~
 

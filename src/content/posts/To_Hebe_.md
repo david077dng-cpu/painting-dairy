@@ -22,7 +22,7 @@ To Hebe.
 
 像个小女生一样喜欢，
 
-她是Super Star。  
+她是Super Star。
 
 更欣赏她是田馥甄，
 
@@ -50,7 +50,7 @@ To Hebe.
 
 enjoy自己的变化，
 
-这是多么快乐的人生。  
+这是多么快乐的人生。
 
 ![](/images/image-164.jpg)
 

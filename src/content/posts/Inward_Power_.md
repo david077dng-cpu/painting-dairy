@@ -12,15 +12,15 @@ Inward Power.
 
 在小说阅读器中沉浸阅读
 
-> To live happily is an inward power of the soul.  
-> 
+> To live happily is an inward power of the soul.
+>
 > 幸福地生活是灵魂的一种内在力量。
-> 
-> ——  Marcus Aurelius  
-> 
+>
+> ——  Marcus Aurelius
+>
 > 马可·奥勒留
 
-  
+
 
 ![](/images/image-264.jpg)
 
@@ -28,11 +28,11 @@ Inward Power.
 
     无论在哪，都要好好享受生活哦 ~
 
-  
+
 
 ![](/images/image-84.jpg)
 
-    今天又去抱胶带们的大腿了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，  
+    今天又去抱胶带们的大腿了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
 
     之前有发给我照片的小朋友们，
 
@@ -44,11 +44,11 @@ Inward Power.
 
     感谢点赞、转发、评论、投稿 ~
 
-  
+
 
 ![](/images/image-265.jpg)
 
-  
 
-点击“阅读原文”投个稿再走~  
+
+点击“阅读原文”投个稿再走~
 

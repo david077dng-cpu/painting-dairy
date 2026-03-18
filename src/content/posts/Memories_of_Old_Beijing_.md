@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Memories of Old Beijing.
 ========================
 
-林海音 林海音 [PaintingDiary](javascript:void\(0\);)
+林海音 林海音
 
 在小说阅读器中沉浸阅读
 
@@ -76,7 +76,7 @@ Memories of Old Beijing.
 
 ![](/images/image-35.jpg)
 
-  
+
 
 ![](/images/image-5.gif)
 

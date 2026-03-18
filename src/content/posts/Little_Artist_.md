@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Little Artist.
 ==============
 
-言之命至 言之命至 [PaintingDiary](javascript:void\(0\);)
+言之命至 言之命至
 
 在小说阅读器中沉浸阅读
 

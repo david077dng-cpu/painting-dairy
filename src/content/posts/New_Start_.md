@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 New Start.
 ==========
 
-笑颜 笑颜 [PaintingDiary](javascript:void\(0\);)
+笑颜 笑颜
 
 在小说阅读器中沉浸阅读
 

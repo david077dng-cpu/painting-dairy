@@ -70,7 +70,7 @@ Best Mom Ever.
 
 ![](/images/image-26.jpg)
 
-  
+
 
 ![](/images/image-5.gif)
 

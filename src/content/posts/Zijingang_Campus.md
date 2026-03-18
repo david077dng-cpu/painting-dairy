@@ -20,11 +20,11 @@ Zijingang Campus
 
 白色的玉兰花，
 
-黄色的迎春花，  
+黄色的迎春花，
 
 粉色的樱花，
 
-还有紫色的某花，  
+还有紫色的某花，
 
 交错开着，
 
@@ -32,7 +32,7 @@ Zijingang Campus
 
 醉人呐。
 
-  
+
 
 ![](/images/image-610.jpg)
 
@@ -54,6 +54,6 @@ Painting Diary第一期就是去年画的月牙楼，
 
 ![](/images/image-144.gif)
 
-欢迎点赞、评论and转发。  
+欢迎点赞、评论and转发。
 
 ![](/images/image-193.jpg)

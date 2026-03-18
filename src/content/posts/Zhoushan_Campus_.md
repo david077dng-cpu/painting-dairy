@@ -26,7 +26,7 @@ Zhoushan Campus.
 
 整个校区人少极了，
 
-有种世外桃源的感觉。  
+有种世外桃源的感觉。
 
 ![](/images/image-608.jpg)
 
@@ -34,7 +34,7 @@ Zhoushan Campus.
 
 祝大家……国际消费者权益日快乐~
 
-欢迎评论、点赞and转发发~  
+欢迎评论、点赞and转发发~
 
 ![](/images/image-609.jpg)
 

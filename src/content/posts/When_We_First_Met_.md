@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 When We First Met.
 ==================
 
-原创 
+原创
 
 在小说阅读器中沉浸阅读
 
@@ -34,7 +34,7 @@ When We First Met.
 
 甚至是生日相同的陌生人。
 
-  
+
 
 看到这段我突然想起小学时写的一篇文章。
 
@@ -98,7 +98,7 @@ When We First Met.
 
 发现我们国画也有很多名画呀，
 
-必须也用水彩山寨一下，  
+必须也用水彩山寨一下，
 
 雨露均沾才对，
 
@@ -110,7 +110,7 @@ When We First Met.
 
 ![](/images/image-10.jpg)
 
-  
+
 
 ![](/images/image-15.gif)
 

@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 Golden Childhood.
 =================
 
-刘 刘 [PaintingDiary](javascript:void\(0\);)
+刘 刘
 
 在小说阅读器中沉浸阅读
 
@@ -48,13 +48,13 @@ Golden Childhood.
 
 现在依旧这么爱笑，这么可爱～
 
-希望他可以永远开心～  
+希望他可以永远开心～
 
 欢迎点赞、留言and转发发发~
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
 
-  
+
 
 ![](/images/image-5.gif)
 

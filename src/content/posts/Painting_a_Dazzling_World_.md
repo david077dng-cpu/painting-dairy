@@ -22,7 +22,7 @@ Painting a Dazzling World.
 《浮世·绘 Painting a Dazzling World》。
 =================================
 
-画展中的画像装饰画一样摆在沙发后面、柜子上面，  
+画展中的画像装饰画一样摆在沙发后面、柜子上面，
 
 出现在各种各样生活的场景中，
 
@@ -32,7 +32,7 @@ Painting a Dazzling World.
 
 虽然生活的大部分时间都是在日复一日的辛苦工作，
 
-但也要注意收集幸福的瞬间～  
+但也要注意收集幸福的瞬间～
 
 ![](/images/image-394.jpg)
 
@@ -40,7 +40,7 @@ Painting a Dazzling World.
 
 祝大家都有个愉快的周日～下周见～
 
-  
+
 
 ![](/images/image-15.gif)
 

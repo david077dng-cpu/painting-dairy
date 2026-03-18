@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Painting Notebook 2.
 ====================
 
-Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
+Mr.Funny Mr.Funny
 
 在小说阅读器中沉浸阅读
 

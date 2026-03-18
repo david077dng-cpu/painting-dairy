@@ -22,15 +22,15 @@ Bring Myself Closer To You.
 
 遇到了男主角。
 
-  
+
 
 > **Can't you see？Every step I have taken...since I was a child on the bridge...has been to bring myself closer to you.**
-> 
+>
 > **难道你不知道吗？自从我第一次在桥上看到你，我所走的每一步，都是为了更接近你。**
 
 ![](/images/image-93.jpg)
 
-  
+
 
 ![](/images/image-26.jpg)
 
@@ -42,9 +42,9 @@ Bring Myself Closer To You.
 
 好啦，欢迎点赞、点评and转发~
 
-  
+
 
 ![](/images/image-94.jpg)
 
-点击“阅读原文”，照片变水彩。  
+点击“阅读原文”，照片变水彩。
 

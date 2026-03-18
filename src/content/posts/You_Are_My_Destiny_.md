@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 You Are My Destiny.
 ===================
 
-原创 HappySophiee HappySophiee [PaintingDiary](javascript:void\(0\);)
+原创 HappySophiee HappySophiee
 
 在小说阅读器中沉浸阅读
 
@@ -48,9 +48,9 @@ You Are My Destiny.
 
 当然就是在一起啦。
 
-  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQOXhFOciaoia4mM8E6H50IFIaK6bYSAG1eu0aOdQ0ib3Y5L4Bo9xRicuibuoj2BIo6y4ibucics8b03Lichg/0?wx_fmt=jpeg)  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQOXhFOciaoia4mM8E6H50IFIaK6bYSAG1eu0aOdQ0ib3Y5L4Bo9xRicuibuoj2BIo6y4ibucics8b03Lichg/0?wx_fmt=jpeg)
 
     每一年的跨年我们都在一起，
 
@@ -74,9 +74,9 @@ You Are My Destiny.
 
 就怕自己某一天，
 
-被生气一下子冲昏了头脑。  
+被生气一下子冲昏了头脑。
 
-  
+
 
 其实吖，
 
@@ -90,7 +90,7 @@ You Are My Destiny.
 
 那我就再写两句叭。
 
-  
+
 
 今天是我们第五个跨年了，
 
@@ -106,7 +106,7 @@ You Are My Destiny.
 
 并肩执手立温存。
 
-  
+
 
 ![](/images/image-598.jpg)
 
@@ -120,10 +120,10 @@ You Are My Destiny.
 
     好啦，欢迎点赞！！欢迎留言！！！欢迎转发！！！！
 
-  
+
 
 ![](/images/image-599.jpg)
 
-  
+
 投稿点击“阅读原文”
 

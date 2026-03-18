@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 The Fairyland in the Rain.
 ==========================
 
-... ... [PaintingDiary](javascript:void\(0\);)
+... ...
 
 在小说阅读器中沉浸阅读
 
@@ -20,9 +20,9 @@ The Fairyland in the Rain.
 
 内容很美，
 
-有种净化心灵的力量。  
+有种净化心灵的力量。
 
-  
+
 
 ![](/images/image-488.jpg)
 
@@ -66,13 +66,13 @@ The Fairyland in the Rain.
 
 今天有小伙伴投稿，
 
-挑战一下自己，  
+挑战一下自己，
 
 欢迎点赞、留言and转发发发~
 
 ![](/images/image-10.jpg)
 
-  
+
 
 ![](/images/image-15.gif)
 

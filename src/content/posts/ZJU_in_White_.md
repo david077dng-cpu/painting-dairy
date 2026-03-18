@@ -18,13 +18,13 @@ ZJU in White.
 
     雪中的求是书院实在太美。
 
-    看得人心中无比宁静。  
+    看得人心中无比宁静。
 
-  
+
 
 ![](/images/image-605.jpg)
 
-  
+
 
 ![](/images/image-189.jpg)
 
@@ -40,9 +40,9 @@ ZJU in White.
 
     欢迎留言、点赞and转发~
 
-  
+
 
     ![](/images/image-606.jpg)
 
-点击“阅读原文”把照片变水彩~  
+点击“阅读原文”把照片变水彩~
 

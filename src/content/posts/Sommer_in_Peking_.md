@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Sommer in Peking.
 =================
 
-原创 HMR HMR [PaintingDiary](javascript:void\(0\);)
+原创 HMR HMR
 
 在小说阅读器中沉浸阅读
 
@@ -20,7 +20,7 @@ Sommer in Peking.
 
 ![](/images/image-435.jpg)
 
-上周陪同学逛北京，  
+上周陪同学逛北京，
 
 在南锣鼓巷寄明信片的时候，
 
@@ -58,7 +58,7 @@ Sommer in Peking.
 
 估计没有时间和心情来总结这段“莫名其妙”的体验了。
 
-姑且就选择今天，整理一下，安放在Frau Li（李女士）的平台上。  
+姑且就选择今天，整理一下，安放在Frau Li（李女士）的平台上。
 
 Sherlock说过匆忙做决定是件危险的事情。
 

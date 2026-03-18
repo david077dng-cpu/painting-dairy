@@ -8,17 +8,17 @@ description: 在小说阅读器中沉浸阅读
 Mona Lisa.
 ==========
 
-[PaintingDiary](javascript:void\(0\);)
+
 
 在小说阅读器中沉浸阅读
 
-  
 
-今天向大家安利这首歌，  
 
-歌词里有句超级浪漫的歌词：  
+今天向大家安利这首歌，
 
-If I were a painter,  
+歌词里有句超级浪漫的歌词：
+
+If I were a painter,
 
 you'd be my Mona Lisa.
 
@@ -66,7 +66,7 @@ you'd be my Mona Lisa.
 
 ![](/images/image-10.jpg)
 
-  
+
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

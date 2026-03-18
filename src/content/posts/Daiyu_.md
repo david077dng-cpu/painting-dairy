@@ -20,19 +20,19 @@ Daiyu.
 
 顿时觉得应该画一画。
 
-  
+
 
 > 侬今葬花人笑痴，他年葬侬知是谁？
-> 
+>
 > 试看春残花渐落，便是红颜老死时。
-> 
+>
 > 一朝春尽红颜老，花落人亡两不知。
 
-  
+
 
 ![](/images/image-135.jpg)![](/images/image-31.jpg)
 
-啊…葬花吟实在是太悲了，  
+啊…葬花吟实在是太悲了，
 
 其实我是一个很乐观的人![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
 
@@ -50,7 +50,7 @@ Daiyu.
 
 ![](/images/image-10.jpg)
 
-  
+
 
 ![](/images/image-15.gif)
 

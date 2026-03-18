@@ -14,25 +14,25 @@ December.
 
 在小说阅读器中沉浸阅读
 
-今天是腊八，  
-都说过了腊八就是年，  
-年前的日子愈来愈少了。  
-2019年已经过了十几天，  
-还是不太适应这个数字，  
-和自己的年龄一样，  
-不太适应![](/images/image-1.png)。  
+今天是腊八，
+都说过了腊八就是年，
+年前的日子愈来愈少了。
+2019年已经过了十几天，
+还是不太适应这个数字，
+和自己的年龄一样，
+不太适应![](/images/image-1.png)。
 
 ![](/images/image-147.jpg)
 
-今天没喝到腊八粥，  
-给自己画一碗，  
-同样没喝到的朋友们一起干了这碗，  
-祝大家腊八节开心～  
-虽然冰天雪地的，  
-但也要充满昂扬斗志，  
-新的一年刚刚开始，  
-可以做的还有很多！  
-共勉！  
+今天没喝到腊八粥，
+给自己画一碗，
+同样没喝到的朋友们一起干了这碗，
+祝大家腊八节开心～
+虽然冰天雪地的，
+但也要充满昂扬斗志，
+新的一年刚刚开始，
+可以做的还有很多！
+共勉！
 
 ![](/images/image-31.jpg)
 
@@ -40,7 +40,7 @@ December.
 
 ![](/images/image-10.jpg)
 
-  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)  
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

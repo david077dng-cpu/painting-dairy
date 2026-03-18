@@ -48,7 +48,7 @@ Spring on the West Lake.
 
 推荐西湖泛舟，
 
-毕竟是许仙白娘子同款![](/images/image-7.png)。  
+毕竟是许仙白娘子同款![](/images/image-7.png)。
 
 ![](/images/image-178.gif)
 
@@ -56,5 +56,5 @@ Spring on the West Lake.
 
 ![](/images/image-5.gif)
 
-  
+
 

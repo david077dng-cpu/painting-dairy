@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 Sweet Music, Sweet Life.
 ========================
 
-旅行中的老李 旅行中的老李 [PaintingDiary](javascript:void\(0\);)
+旅行中的老李 旅行中的老李
 
 在小说阅读器中沉浸阅读
 
@@ -22,7 +22,7 @@ Sweet Music, Sweet Life.
 
 吹军号的，
 
-跳健身操、交谊舞的，  
+跳健身操、交谊舞的，
 
 唱红歌、蹄花毽的，
 
@@ -30,7 +30,7 @@ Sweet Music, Sweet Life.
 
 最有人气的必然是金汤桥边的“海河萨克斯乐队”，
 
-每首曲目演奏完都会赢得阵阵欢呼和互动。  
+每首曲目演奏完都会赢得阵阵欢呼和互动。
 
 ![](/images/image-452.jpg)
 
@@ -40,13 +40,13 @@ Sweet Music, Sweet Life.
 
 岸边的战争雕塑反衬现在生活的安定美好，
 
-听着美妙的音乐，  
+听着美妙的音乐，
 
-身边家人陪伴，  
+身边家人陪伴，
 
 还有比这更幸福的事情吗？
 
-![](/images/image-135.jpg)  
+![](/images/image-135.jpg)
 
 马上就要到中秋节啦，
 
@@ -56,9 +56,9 @@ Sweet Music, Sweet Life.
 
 另外快到教师节了，
 
-提前祝老师们节日快乐～  
+提前祝老师们节日快乐～
 
-  
+
 
 ![](/images/image-5.gif)
 

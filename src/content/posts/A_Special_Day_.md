@@ -24,11 +24,11 @@ A Special Day.
 
     也把她画上吧![](/images/image-5.png)。
 
-  
+
 
 ![](/images/image-28.jpg)
 
-  
+
 
 ![](/images/image-15.jpg)
 
@@ -42,7 +42,7 @@ A Special Day.
 
 ![](/images/image-29.jpg)
 
-好啦，欢迎评论、转发and投稿~  
+好啦，欢迎评论、转发and投稿~
 
-点击“阅读原文”，照片变水彩~  
+点击“阅读原文”，照片变水彩~
 

@@ -37,13 +37,13 @@ Woman with a Parasol.
 莫奈是一个对光和影十分狂热的画家，
 
 > 在卡蜜儿弥留之际，
-> 
+>
 > 莫奈还拿出画笔，拿出画布，画下卡蜜儿最后的面容，
-> 
+>
 > 画下那脸孔上一直在消逝的光，
-> 
+>
 > 画下他自己深深的凝视，
-> 
+>
 > 仿佛要在来世还要相认的凝视。
 
 ![](/images/image-45.jpg)
@@ -58,7 +58,7 @@ Woman with a Parasol.
 
 ![](/images/image-35.jpg)
 
-  
+
 
 ![](/images/image-5.gif)
 

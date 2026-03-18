@@ -14,7 +14,7 @@ Blossom of Snow.
 
 今天照片来自投稿。
 
-好吧，  
+好吧，
 
 其实是我在朋友圈“索要”来的一张照片。
 
@@ -32,7 +32,7 @@ Blossom of Snow.
 
 就很纠结景深到底该怎么画。
 
-  
+
 
 ![](/images/image-91.jpg)
 

@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Daily Life.
 ===========
 
-Alone Alone [PaintingDiary](javascript:void\(0\);)
+Alone Alone
 
 在小说阅读器中沉浸阅读
 
@@ -46,7 +46,7 @@ Alone Alone [PaintingDiary](javascript:void\(0\);)
 
 讲专注在一件事上就会获得快乐，
 
-    感兴趣可以搜一下“心流”这个概念。  
+    感兴趣可以搜一下“心流”这个概念。
 
 之前一直喜欢一心二用，
 

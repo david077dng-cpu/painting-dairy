@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Mr. Detective.
 ==============
 
-Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
+Mr.Funny Mr.Funny
 
 在小说阅读器中沉浸阅读
 
@@ -20,7 +20,7 @@ Mr.Funny在消失了好几天之后，
 
 ![](/images/image-325.jpg)
 
-今天还有一个特殊的投稿人~  
+今天还有一个特殊的投稿人~
 
 TA也把自己画的柯南投给了小编~
 

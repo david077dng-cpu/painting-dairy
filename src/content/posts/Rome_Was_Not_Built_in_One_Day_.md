@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Rome Was Not Built in One Day.
 ==============================
 
-Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
+Mr.Funny Mr.Funny
 
 在小说阅读器中沉浸阅读
 
@@ -32,6 +32,6 @@ Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
 
 不积小流,无以成江海。
 
-  
+
 
 ![](/images/image-419.jpg)

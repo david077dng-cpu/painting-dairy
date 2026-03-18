@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 When We Are Young.
 ==================
 
-原创 璃沫寜夏 璃沫寜夏 [PaintingDiary](javascript:void\(0\);)
+原创 璃沫寜夏 璃沫寜夏
 
 在小说阅读器中沉浸阅读
 
@@ -20,7 +20,7 @@ When We Are Young.
 
     这是我们今天联欢会上的联欢活动，
 
-    我们班和兄弟班一起上台唱歌， 
+    我们班和兄弟班一起上台唱歌，
 
     也许这是我们初中三年最后一次活动了，
 
@@ -28,11 +28,11 @@ When We Are Young.
 
     就大致样子就好~(❁´ω\`❁)
 
-  
 
-![](/images/image-571.jpg)  
 
-  
+![](/images/image-571.jpg)
+
+
 
     还记得那年，
 
@@ -56,7 +56,7 @@ When We Are Young.
 
     我们仍会携手并进。
 
-  
+
 
 ![](/images/image-572.jpg)
 
@@ -76,9 +76,9 @@ When We Are Young.
 
     欢迎点赞~留言~~转发~~~
 
-  
+
 
 ![](/images/image-573.jpg)
 
-点击阅读全文查看投稿方式~  
+点击阅读全文查看投稿方式~
 

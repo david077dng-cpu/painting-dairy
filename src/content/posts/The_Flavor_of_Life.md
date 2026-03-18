@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 The Flavor of Life
 ==================
 
-[PaintingDiary](javascript:void\(0\);)
+
 
 在小说阅读器中沉浸阅读
 
@@ -46,7 +46,7 @@ The Flavor of Life
 
 多挑战一下这种主题了。
 
-  
+
 
 毕竟这些才是生活，
 
@@ -58,7 +58,7 @@ The Flavor of Life
 
 才是生活本身的美。
 
-  
+
 
 ![](/images/image-45.jpg)
 
@@ -76,5 +76,5 @@ The Flavor of Life
 
 ![](/images/image-10.jpg)
 
-![](/images/image-15.gif)  
+![](/images/image-15.gif)
 
