@@ -10,7 +10,6 @@ description: 在小说阅读器中沉浸阅读
 Happy Wedding.
 ==============
 
-原创 HRM&LCX HRM&LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 

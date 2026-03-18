@@ -8,7 +8,6 @@ description: 在小说阅读器中沉浸阅读
 Animal World.
 =============
 
-LCX & 晨 LCX & 晨 [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
