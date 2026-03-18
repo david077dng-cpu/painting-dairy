@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSYXzUMyFo1p1xmBSxOCapsLOyC2nCeEB7PXNT4FNy6thibylr5gZMfdv5rES1HBbuWF5XI1SwJ1hQ/0?wx_fmt=jpeg)
+---
+title: Children's Day
+date: 2017-03-16
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-112.jpg)
 
 Children's Day.
 ===============
@@ -36,7 +43,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYXzUMyFo1p1xmBSxOCapsDeDDKKtEOLicMh1NdmMOicicBdAaAOnD9lDF5mTZcpPQL2cW76krBdXGA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-113.jpg)
 
 栈道萌娃，  
 衬得天更蓝、树更绿，  
@@ -48,6 +55,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

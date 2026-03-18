@@ -1,3 +1,10 @@
+---
+title: Youth
+date: 2018-04-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Youth.
 ======
 
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     冷暖自知。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSWgUtPjD9XOz8tOvDwKQWvMMibBLpCeN6GkzDsSUgQlbd8BkLpqokShGpyRibzPrU5vvhricIJ6oicVg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-601.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSWgUtPjD9XOz8tOvDwKQWvS1DxsJlcS1X1MDdCvQ2rd6RNHZMeibibfj3R1SlhO8icdaqcEJjsHSXpw/0?wx_fmt=jpeg)
 
@@ -33,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     大家快来呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSWgUtPjD9XOz8tOvDwKQWvyO6EGY0C3q0WpWsJiafBQdibBCbCeV818vYGVAy793btRiciaSrotZBN9A/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-602.jpg)
 
 投稿方式详见“阅读原文”~欢迎点赞留言转发发发。  
 

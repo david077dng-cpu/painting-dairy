@@ -1,3 +1,10 @@
+---
+title: Mr. Detective and ... guess who~
+date: 2019-02-06
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Mr. Detective and ... guess who~
 ================================
 
@@ -37,7 +44,7 @@ Mr. Funny Mr. Funny [PaintingDiary](javascript:void\(0\);)
 
 找一个可以陪伴一生的朋友。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRicU58BFO182z8hfCajHI25QwbT974XY6qzeu9YoQ0bonnBIaEmdTNV9wwUufl6s6Xhh7LqC33tow/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-326.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRicU58BFO182z8hfCajHI25POgsrGXd9icccuXGPNIPwr3kzRmiaNmiaz8U6m9JROJCKKYSt67xJgayQ/640?wx_fmt=jpeg)
 

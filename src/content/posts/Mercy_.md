@@ -1,3 +1,10 @@
+---
+title: Mercy
+date: 2019-03-18
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Mercy.
 ======
 
@@ -5,7 +12,7 @@ Mercy.
 
 在小说阅读器中沉浸阅读
 
-    今天画尊菩萨净化一下心灵，开始新的一周。   **![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTweibYoL9NAgPsUFFttSC2njUJsIVcia4P1UJYu1C6iatLthUiatNkuClCnGClQsJsBV4ePCObFRVcRw/0?wx_fmt=jpeg)**
+    今天画尊菩萨净化一下心灵，开始新的一周。   **![](/painting-dairy/images/image-307.jpg)**
 
     当时看《我在故宫修文物》时，里面有一集木匠师傅一边刻着菩萨，一边唠家常似的说：
 
@@ -29,13 +36,13 @@ Mercy.
 > 
 > **中国古代人讲究格物，就是以自身来观物，又以物来观自己。**
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTweibYoL9NAgPsUFFttSC2nPyxOlfxHibz6sYCKfnUVxyvyVXM54fhhzLvoicztFZszgm1eClfNMpJA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-308.jpg)
 
     图片来源：我在故宫修文物  
 
     今天在画菩萨时，脑海中就闪现了这句话。画完的菩萨笑容有点诡异啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，但我发誓，我是个好人。![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)     
 
-    ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTweibYoL9NAgPsUFFttSC2niaBVW8lhSzKzuoqm04m6h0RzN4YFyW0lNuKu4ruB9fm2ELDb0ZHj2Gw/0?wx_fmt=jpeg)
+    ![](/painting-dairy/images/image-309.jpg)
 
     今天仍是临摹的胶带，胶带名：从你的全世界路过——印度篇。   
 

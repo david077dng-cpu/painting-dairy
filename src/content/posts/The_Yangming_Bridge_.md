@@ -1,3 +1,10 @@
+---
+title: The Yangming Bridge
+date: 2020-06-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 The Yangming Bridge.
 ====================
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 就决定将这个视角下的风景留下来。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSqibBibDaOgulBstYt99QKfYnzA9ibjH1x3thjbEkEcxlkCbPNibib8j5Y8Kw5TejETCEGpd5offlfQow/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-533.jpg)
 
 原来阳明桥就是由一个余姚的校友捐建的，
 
@@ -35,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSqibBibDaOgulBstYt99QKfYefIWQ4T8rhS6bthE8vgGDcHRTI6piaiadSLma2IldfweTZtiapjfYQLCQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-534.jpg)
 
 欢迎点赞、评论and转发发发~  
 

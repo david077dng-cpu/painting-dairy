@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQuqgc6p9F1WN72UXTwdf1oVWCpE8Dpib3M3YPJX1k9QsicalN7z1vOdKenlklibWDOkCEMwOicoLyhOA/0?wx_fmt=jpeg)
+---
+title: Dear Grandma
+date: 2018-05-09
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-141.jpg)
 
 Dear Grandma.
 =============
@@ -25,7 +32,7 @@ Dear Grandma.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQuqgc6p9F1WN72UXTwdf1odupoqD7TCeqTlRDAYA0VcvgqUfqibxl6qjiaRjEAYMVNckhib49SPQpVQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-142.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQuqgc6p9F1WN72UXTwdf1oibxUTHmiaPvvamFLkfpOtgWicEo1ywSMbVA1RAoC1313jH2g69zdweicwA/640?wx_fmt=jpeg)
 
@@ -43,7 +50,7 @@ Dear Grandma.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

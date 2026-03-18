@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSl4UMdjGU4AnYcQ4UG7yf69MhEauKzGX8lmJ1vedTDXIla7IzBXmzSoUNhPLAOLZRJqmmseXubibw/0?wx_fmt=jpeg)
+---
+title: Late Autumn
+date: 2019-03-19
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-274.jpg)
 
 Late Autumn.
 ============
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 所以夕阳斜照时分，秋意甚浓。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSl4UMdjGU4AnYcQ4UG7yf67s0NYhrdbkppjfkJZD3TNlibZ1gRjC2uqiarCKfU8W84ehLKKs9p0rGg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-275.jpg)
 
 立冬意味着冬天的开始，
 

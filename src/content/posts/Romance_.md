@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRnOX54o5Dcia0trHp0FeA9Web5UxRfJ4buSHvePtVhsicgmwvlCrEOXia6LribHaIHFIpibFibWSK4PjCQ/0?wx_fmt=jpeg)
+---
+title: Romance
+date: 2019-11-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-416.jpg)
 
 Romance.
 ========
@@ -11,7 +18,7 @@ Romance.
 
 感谢旅行中的老李投稿～  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRnOX54o5Dcia0trHp0FeA9Wt7xIOENIqtN4ia04riafP2ZdUmLK2k6ra1qbOxrI0QJvZF0MG9geUH4g/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-418.jpg)
 
 有幸来到太原，遇见“晋祠”。
 
@@ -25,7 +32,7 @@ Romance.
 
 在这里我想分享一则古柏齐年的故事，一个关于千年周柏的爱情传说……
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRnOX54o5Dcia0trHp0FeA9WdfcR3fEjmZicfDZVkzkibDpNibK4EczYqbMbLeJiaNmfXR0jBLicSVLDYlg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-417.jpg)
 
 据说这株古柏为周代所植，距今已有3000年的历史。
 
@@ -65,6 +72,6 @@ Romance.
 
 欢迎点赞、评论and转发发发发～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

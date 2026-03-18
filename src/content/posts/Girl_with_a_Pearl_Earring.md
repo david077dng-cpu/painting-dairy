@@ -1,3 +1,10 @@
+---
+title: Girl with a Pearl Earring
+date: 2019-11-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Girl with a Pearl Earring
 =========================
 
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 还一直画不像，心累。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ8c8TzjskJiaveSMkhD4mEs5P8c4Z734e6jmqfibrdicbBlibQvrPWJzozbZiaiayVMuyVt3krg9AZgiarQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-192.jpg)
 
 放出原画来，以免误导孩子们![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
 
@@ -27,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 是不是很美！！
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ8c8TzjskJiaveSMkhD4mEs3dRCQJP03oHopicT9prN9TA3yT7pbAULH7u01DHoZ4NqicpQsBiaiaL6pA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-193.jpg)
 
 约翰内斯·维米尔，
 
@@ -70,7 +77,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 
@@ -78,6 +85,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

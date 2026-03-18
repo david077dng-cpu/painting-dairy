@@ -1,3 +1,10 @@
+---
+title: A Little Happiness
+date: 2018-08-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 A Little Happiness.
 ===================
 
@@ -11,13 +18,13 @@ A Little Happiness.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSXQFZcuibmDhPAyicbDIZZY34uxTMH7Gc32ia8yvmTTtvQTRtgfETjXRjdmCCGXYGp2A1sia17R7NyBQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-19.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSXQFZcuibmDhPAyicbDIZZY3QLT1iaO3RDFULmsHGPARMwymTsw0oEh44oUlVPpyB5SbtWoSgVp2AWg/640?wx_fmt=jpeg)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSXQFZcuibmDhPAyicbDIZZY3iahlqDRzJErIiaVrw3QCFibj6t7ZGNBsQ035FsaHIrdyqdLvMKVdHfNRg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-20.jpg)
 
     读完几行字加一张照片，
 

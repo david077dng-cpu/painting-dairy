@@ -1,3 +1,10 @@
+---
+title: Blessing
+date: 2017-02-18
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Blessing.
 =========
 
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQYMPPv3iakFVElXkiaN1Cd0mxXWHTKerU9AG4GkJwib62oraKJvEWmoNXRE4KhqxUnFr4OqNg5o3REg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-86.jpg)
 
 今天画天津的天后宫，
 
@@ -41,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 晚安 ~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQYMPPv3iakFVElXkiaN1Cd0mOAOiacGQf2XYl0kN3nucWmMib29EnfFKiaU6Xd0M01QGEX3umibp6DO5Vw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-87.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

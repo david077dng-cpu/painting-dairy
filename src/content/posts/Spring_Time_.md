@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRWQu5Sfuib9SmvTHuTjEuVWmdwnQLkOLA9TIQWia0BbjsibMcLgqQFwm6tS6SvRIKY5LyYD1g9VDc1w/0?wx_fmt=jpeg)
+---
+title: Spring Time
+date: 2018-12-19
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-436.jpg)
 
 Spring Time.
 ============
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 临摹一幅美丽的风景～  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRWQu5Sfuib9SmvTHuTjEuVWxhkd0Z0ic61CYPahUuGSM9eTSJuoPdndcqNNcAqmicO2J1ak9UW6sohA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-437.jpg)
 
 临摹还是很有助于开拓视野的。
 
@@ -49,6 +56,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 蟹蟹～  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)  
+![](/painting-dairy/images/image-5.gif)  
 
 [阅读原文](javascript:;)

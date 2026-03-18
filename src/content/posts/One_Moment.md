@@ -1,3 +1,10 @@
+---
+title: One Moment
+date: 2017-10-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 One Moment
 ==========
 
@@ -11,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     来自一本叫《**走走画画——卡卡桑的旅绘生活**》的书。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGdxpMkXrePeddWUXxnicW41krxpDSF58zb9sx1edy2ibC10yHTA6nd8IsZUU1nwXxp5huWUjIKHug/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-378.jpg)
 
     作者在书中描写到去柏林时的经历：
 
@@ -27,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 >     **我只想要那棵金色的大树，以及等车的人，像在一个空旷的舞台上。**
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGdxpMkXrePeddWUXxnicW4snKJcVPEI4eAeY3TNYpwpJ2p220QhLo3NolyX9Ro9fmKdziclRU1z4Q/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-379.jpg)
 
   
 
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     生活中有太多这种惊艳的瞬间，如果能把它们记录下来，就不要让它们转瞬消失在记忆中……
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGdxpMkXrePeddWUXxnicW4VJichSuE02ic881ge11Q5nEeucqdLg1cia1jgqoOMXHDZzMy9oHdtm0WA/0?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-380.jpg)  
 
     自从开了这个公众号，每天都开心得像个傻子![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F604.png)。十分感激大家的支持和鼓励！深深地鞠躬。
 
@@ -45,4 +52,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎大家扫码订阅公众号，更欢迎大家转发~转发~转发~     
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-164.jpg)

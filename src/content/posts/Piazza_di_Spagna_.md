@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQRV832ykG45MO3BjH02iafv7WaZLoiayJpUt8RPzic0BcPBWmueJwNsK5ajREDibPJDMy4pibdzEASpNA/0?wx_fmt=jpeg)
+---
+title: Piazza di Spagna
+date: 2019-12-01
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-401.jpg)
 
 Piazza di Spagna.
 =================
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 身后的教堂钟声又给眼前景色增添了一种神圣又珍贵的独特气质。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQRV832ykG45MO3BjH02iafvajLnjZbicH4fsmLkuv3KIf5uwGm6T3ZBL87HpFFvz0WVIXIMI6BEicng/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-402.jpg)
 
 阶梯之下的步行街熙熙攘攘，  
 

@@ -1,3 +1,10 @@
+---
+title: CLIME(〃'▽'〃)
+date: 2019-04-24
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 CLIME(〃'▽'〃)
 ============
 
@@ -41,7 +48,7 @@ CLIME(〃'▽'〃)
 
 ”  
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRNbGfG1CeO5sFm7wrcXHDCQ9RJjjYiaXRiawM3lePXzFFdsZ7pzt9hKeK9lxVAkCFL1ok7AVep73oQ/0/jpeg)
+![](/painting-dairy/images/image-97.jpg)
 
 王博
 
@@ -135,7 +142,7 @@ CLIME(〃'▽'〃)
 
 谭门的“小朋友们”，羡慕你们这么团结有爱。在此特别感谢三人学习小组的陪伴和支持！最后，祝福谭门大家庭越来越好！拜托2018对我们都好一些~~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRNbGfG1CeO5sFm7wrcXHDCwl9sdvNW5DiakQdVMfFg2dLyhwQibibvUxSMlpp64ic3Jk9gsx6JFqTorw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-98.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRNbGfG1CeO5sFm7wrcXHDCCk24Bu4rjBpwlibJAqg5ZFQHAqLbrv9zCNmS54QlZBhrm1D8EUDpJQA/0?wx_fmt=jpeg)
 
@@ -147,7 +154,7 @@ CLIME(〃'▽'〃)
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRNbGfG1CeO5sFm7wrcXHDCQ0ZEEwiaCnldZUiaS5sDRx0qS71Bq8iaYicAG0BeYgKwxjo4ITMmm3J5Hw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-99.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_gif/LrricHMqxdb3xpgBlbwspAiayaZG3uuDNNFM8FE1xtbRAnpKm674eoiaU3nuBLMQOBNias9eOb3J10X9ibeSGiaD6wGg/0/gif)
 

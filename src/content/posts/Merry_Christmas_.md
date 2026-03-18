@@ -1,3 +1,10 @@
+---
+title: Merry Christmas
+date: 2019-10-14
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Merry Christmas.
 ================
 
@@ -21,13 +28,13 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_png/235vePiaPuGaHe2q4Kzrb6wibhmyqqUaR3umP7tKcjefLMlmjx4gdx8fR9icu7ZpZ5WjvibjkfO57VtZOibIBmqZrQg/0/png)
+![](/painting-dairy/images/image-310.jpg)
 
 哈，还是被窝舒服～![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ8ySZK2uT1icTBez7AmkIs5XpJ9h1h5e7mcxvuDobsdCrVjLac5bWNzJ8AO4657wOdXwuD4uomPAA/0?wx_fmt=jpeg)
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ8ySZK2uT1icTBez7AmkIs5Dg0FP4uibOYiaL9JwHTicgfzCf6uLsWLGsFUkHcru8yUh3IJt8BePOia3w/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-311.jpg)
 
     今天还有一个让我很开心的事情，就是俺的爹地居然给俺投稿啦～～～ 
 
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ8ySZK2uT1icTBez7AmkIs5RxfnHawnicb2MPP0NEvTdbtfzGMbeeefVsniaRStgqmvYRUOEiabIlVicw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-312.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
 

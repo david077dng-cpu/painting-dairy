@@ -1,3 +1,10 @@
+---
+title: The Kitchen God
+date: 2018-05-04
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 The Kitchen God.
 ================
 
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTNic6uL3XVgVqQgr6KEO8Ace8LdOD9IGHBiaolxY5ccrNwtjDtPUygwpavXr9fRpWs2RtEibibPn46Rg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-498.jpg)
 
     画个灶王爷宣传一下传统文化习俗。
 
@@ -41,7 +48,7 @@ mua![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/
 
 晚安![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTNic6uL3XVgVqQgr6KEO8Ac1UshEV3ZoE9Yva8V96icw21roTmCaDSRnLP3PnxqceF2fialibBQ91lUQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-499.jpg)
 
 点击“阅读原文”，照片变水彩。  
 

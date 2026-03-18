@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTQh6l8ds4IPcbMQcpg8HD3nTaBXelLnmI0p31wMObfS1XibsXGG7Aj9H5wvr1wIEzRlrUL3La793Q/0?wx_fmt=jpeg)
+---
+title: Florence
+date: 2018-11-23
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-183.jpg)
 
 Florence.
 =========
@@ -9,7 +16,7 @@ Florence.
 
 今天的文章来自胡博士，感谢胡博士投稿～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTQh6l8ds4IPcbMQcpg8HD3gUsfstAnzDEb6qsPj1EHmyic0ZtaKJrJ5mlFYD3AQ8YyZLkIQ7hLfpA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-185.jpg)
 
     意大利的三个地方，我们喜欢罗马和威尼斯更多一些，这两个城市各具特色而且反差比较大。而逛完罗马，再去佛罗伦萨，整体的感觉就弱了一些。但是在佛罗伦萨的几个“遇见”让我们心里暖暖的，所以我还是想写写这个城市。
 
@@ -21,7 +28,7 @@ Florence.
 
     李老师将老桥的历史沧桑和如今的繁华鲜活糅合进光影的变化中，便有了这幅我非常喜欢的作品。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTQh6l8ds4IPcbMQcpg8HD3aYicp30CLSMr8ULb64CAo8ny00Sr9jMvAgGC1hdSx3SnHoMUhYoHrSA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-184.jpg)
 
     爬过四层台阶，来到米开朗琪罗广场眺望全城，老桥依旧是视线中的亮点。广场上有一处多层台阶，很多人聚在这里一边享受音乐，一边和身旁的爱人、朋友等待着佛罗伦萨的傍晚。
 

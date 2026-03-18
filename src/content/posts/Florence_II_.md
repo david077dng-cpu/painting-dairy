@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjR6TkygUFBQJoT6N4NEHtkRlguJRO5BcwEjYQnakeSDnEpY7TCiaFFgZsDrOJZYvOsAPibMfPTEn25Q/0?wx_fmt=jpeg)
+---
+title: Florence II
+date: 2019-04-08
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-186.jpg)
 
 Florence II.
 ============
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 它是世界五大教堂之一，曾被评为世界上最美的教堂。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR6TkygUFBQJoT6N4NEHtkRQsVNMo9fHVzhbLl1OMqNGRO89qswm6Ur1Ff9leU5llVv1gqsXSgmrA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-187.jpg)
 
 在这个艺术之都，到处都是画家，
 
@@ -41,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR6TkygUFBQJoT6N4NEHtkRpLtD30fZtiaQuIa6Ip8QgOe22k91AebvT4bm4AzllpvRqE0L0Zibzj6g/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-188.jpg)  
 
 当时看到很多人一边喝红酒一边坐在台阶上看夕阳，
 

@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSdfNgLeaPFmGVttziaNofDx3cic1hZCfRP5YwiabIPGtIXdAp3lo6uNuPf8qDwsrhaGxprUBqH7x7uQ/0?wx_fmt=jpeg)
+---
+title: Happy New Year
+date: 2019-03-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-231.jpg)
 
 Happy New Year.
 ===============
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 祝大家都可以锦鲤附身，明年暴富![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSdfNgLeaPFmGVttziaNofDx3TCgw3czrv0APia5wyCf83tibibsogMkxiatiaN9hI3nvMt9HBic1JalG4hw/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-232.jpg)  
 
 一年年过的真是太快了，
 

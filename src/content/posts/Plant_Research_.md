@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQ4SGwCTDy0vRXLBOd5ZUEnUGnIG3XXdWvLN5VF92QIY7WKcfskxib7KV8Via3AUSibasINcHKRRaI1Q/0?wx_fmt=jpeg)
+---
+title: Plant Research
+date: 2018-06-12
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-406.jpg)
 
 Plant Research.
 ===============
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ4SGwCTDy0vRXLBOd5ZUEn9CeLUQibarnFW1yFCKAZYSYrwxpNudgtmW7BQ07TjzHtDcmUJXDUfRA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-407.jpg)
 
 > 鸟鸣传来，那清脆的发条
 > 
@@ -53,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 >   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ4SGwCTDy0vRXLBOd5ZUEnia47Nd6ib2uQOfuf42Y70bCaIT7NvB1Q4t2QwoMM2akLQBj8ibo2R1bXQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-408.jpg)
 
 今天的画是临摹网上大神的画作，
 

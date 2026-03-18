@@ -1,3 +1,10 @@
+---
+title: Memories of Old Beijing
+date: 2019-11-14
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Memories of Old Beijing.
 ========================
 
@@ -21,7 +28,7 @@ Memories of Old Beijing.
 
     我看得呆了，自己的牙齿也动起来。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSY2pqLuCcTviallNCAETYqTe54fyIQZ9Eh0dkNtrQN3b0pic9K6mm5jMKSQCVfWcia3cLVKydvBXiavQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-306.jpg)
 
     老师教给我，要学骆驼，沉得住气的动物。
 
@@ -43,7 +50,7 @@ Memories of Old Beijing.
 
     “也许，你的想法更美些。”
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UqQTMiay3wVnk8sGJIEMF5lcjNzWeuRRNWhE7d7hUdQfmHmKhqPzIC7Q/640?wx_fmt=gif)
+![](/painting-dairy/images/image-159.gif)
 
 超级喜欢《城南旧事》的第一章，
 
@@ -61,7 +68,7 @@ Memories of Old Beijing.
 
 大师心中一定也是充满温情与童趣的吧。
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UqQTMiay3wVnk8sGJIEMF5lcjNzWeuRRNWhE7d7hUdQfmHmKhqPzIC7Q/640?wx_fmt=gif)
+![](/painting-dairy/images/image-159.gif)
 
 祝大家中秋快乐~
 
@@ -71,6 +78,6 @@ Memories of Old Beijing.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

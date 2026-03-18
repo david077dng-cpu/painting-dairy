@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjS2aRico6EUZDyDXCQTsWRgBbUnMdSuZyhyR8Ihgic0WdN8Dw30vs0k8Q7eZicStM0oNib0mhoWP0fNoQ/0?wx_fmt=jpeg)
+---
+title: The New Year is Around the Corner
+date: 2017-11-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-510.jpg)
 
 The New Year is Around the Corner.
 ==================================
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 想为新年的主角画一幅画～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS2aRico6EUZDyDXCQTsWRgB7X9xa8K57WKn2lib4aok1lrXjtj5zXAN65jcpTtjdHmBGibBQnKQHWaw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-511.jpg)
 
 不管生活如何，
 
@@ -35,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 给大伙儿拜年啦![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_83.png)～
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39SibTpWPD7VVWRGW9icOjDwDUK71NzYZmVyGhoia4MTpics8BGiauXTUJvqg/640?wx_fmt=png)
+![](/painting-dairy/images/image-2.png)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

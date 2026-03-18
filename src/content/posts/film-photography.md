@@ -1,4 +1,11 @@
 ---
+title: film-photography
+date: 2020-12-01
+category: 随笔
+description: 一篇文章
+---
+
+---
 title: 为什么我开始用胶片拍照
 date: 2026-03-10
 category: 摄影

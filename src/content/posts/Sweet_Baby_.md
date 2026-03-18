@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQiaymI2sdudxian5MfggH8JryDVXRSQEgxNxgia0Z07WtmsgzvL2frPE7j0P4aoaIB1TJeUP61TzMicg/0?wx_fmt=jpeg)
+---
+title: Sweet Baby
+date: 2017-12-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-443.jpg)
 
 Sweet Baby.
 ===========
@@ -47,7 +54,7 @@ Sweet Baby.
 
 而我只是其中一个爱你的人  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQiaymI2sdudxian5MfggH8JrCibOG2fMVMFIojPuV3LibhBXmq5CibxxaYeR8EnZGFXszRT5WiaodhBaAg/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-444.jpg)  
 
 不管是什么东西
 
@@ -79,7 +86,7 @@ Sweet Baby.
 
 你已经睡着……
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQiaymI2sdudxian5MfggH8JrCIicooib44q8htSr4rMucpfeNuC1k2gLtBo6VELib8TiaOyU0XSk60lnMQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-445.jpg)
 
 今天画了一个眼睛超级大的宝宝~
 

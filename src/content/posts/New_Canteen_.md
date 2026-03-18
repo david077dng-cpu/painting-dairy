@@ -1,3 +1,10 @@
+---
+title: New Canteen
+date: 2019-05-01
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 New Canteen.
 ============
 
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQbdap1ialXcMaQpz96mny4F3V8Qvnoe3MqllmOfauIamfgwmLRMZEIzvIqO9UoXUR7AP5MSOibmjNg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-358.jpg)
 
 看着厨师慢条斯理地摆弄着，
 
@@ -25,4 +32,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、评论and转发发发发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQbdap1ialXcMaQpz96mny4FK27BZ73iasVdewO1wjjMJQZraD766hqyGHMhichsGdx69HDXzmTJdbMw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-359.jpg)

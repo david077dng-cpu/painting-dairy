@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTcp6kSkGy3WqhBBJwMyuEpz4xP1wicwHtvfzPU4Jyop4jIXStibaCXibIRjtQib3ibvZs3syicgmnibtPnA/0?wx_fmt=jpeg)
+---
+title: Sweet Dream
+date: 2017-06-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-446.jpg)
 
 Sweet Dream.
 ============
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 可以很安心。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTcp6kSkGy3WqhBBJwMyuEpBzsqVVJK19iaHeuvKt6Mf2QW3hWjcsB48SSgWuZ9NibhsbGsfuic4Cn9Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-447.jpg)
 
 希望全世界的妈妈们永远健康快乐～
 

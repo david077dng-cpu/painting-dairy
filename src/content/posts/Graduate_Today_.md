@@ -1,3 +1,10 @@
+---
+title: Graduate Today
+date: 2018-04-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Graduate Today.
 ===============
 
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 好奇妙呀～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQPoeib3ZoBFJnLM03SqW6YlaZ8DmnATibrHViclcVZVibSzyEdjvGhBGdT4KPcggmwDV33kd77UMa6mw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-207.jpg)
 
 要开始人生新阶段了，
 
@@ -35,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

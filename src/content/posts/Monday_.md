@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTnUAKaZqfSbFs9ehPNOe0h8JfVKLSgib4MMqIRrU2SQWibzwiaBJ2FibLicLUqAfdTCbrAPQLOliaSYzIg/0?wx_fmt=jpeg)
+---
+title: Monday
+date: 2019-02-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-314.jpg)
 
 Monday.
 =======
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 翻到这张电影海报时，我的心情……  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTnUAKaZqfSbFs9ehPNOe0hobaNf0iamRW1Rep0QQpqekb9X3BQOp6eTjvz7T3mQwyHl5XKeRQCH1Q/640?wx_fmt=png)
+![](/painting-dairy/images/image-315.png)
 
 不过1月18号那天还是北野武74岁的生日呢～
 
@@ -47,7 +54,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 大家早点睡～电量充满，
 
-积极乐观地迎接新一周的挑战![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTnUAKaZqfSbFs9ehPNOe0hyKa5GEZdQqU6kXZjM2Xrragb2shRu5BzqHlZzKM1HuesVJ08VgOXNA/640?wx_fmt=png)  
+积极乐观地迎接新一周的挑战![](/painting-dairy/images/image-316.png)  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTnUAKaZqfSbFs9ehPNOe0hr8OAkFBkY2yU3R4lHUwkZibkHXR7U635WnOia4YBDbAgw53BurG6qvzw/640?wx_fmt=jpeg)
 
@@ -57,6 +64,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 但是北野武的电影，
 
-我一直看不太懂![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTnUAKaZqfSbFs9ehPNOe0hqbGxM6kicvWSTgPQicrY2K2tFT2MfpI0LKic7rm8PtNyasntZsKibZHBGg/640?wx_fmt=png)
+我一直看不太懂![](/painting-dairy/images/image-317.png)
 
 欢迎小伙伴们留言和我交流交流哇～

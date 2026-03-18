@@ -1,3 +1,10 @@
+---
+title: Huajiachi Campus
+date: 2018-03-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Huajiachi Campus.
 =================
 
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 先画为敬。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRkmO6DeJSRBciawZnLF9k9tPlxfsqmddibgpibVBq1pBvsOe4Wl6XU0LnQMAhmQYicTuQQictHTtrInNA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-254.jpg)
 
 碑后写道：
 
@@ -47,7 +54,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、评论and转发。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRkmO6DeJSRBciawZnLF9k9tx2qHBttUbC4VvkWUVLqKbyM7utcCicF9LEqibZGoIp4lDSns74zcsNibw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-255.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

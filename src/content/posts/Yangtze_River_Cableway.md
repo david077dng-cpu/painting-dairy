@@ -1,3 +1,10 @@
+---
+title: Yangtze River Cableway
+date: 2018-09-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Yangtze River Cableway
 ======================
 
@@ -35,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 改天再来。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0NchNUtWI2dPD2dqmFZsU2NM9ZS8aRqXXicMH9VOLTjVvbQGISNNhPibIrMaP5pm9dHBvtIsuicYZA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-591.jpg)
 
   
 
@@ -43,4 +50,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

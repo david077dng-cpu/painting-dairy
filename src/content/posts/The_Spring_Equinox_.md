@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSkCKibflyO9cnKaiaJuR27175XMpjXWCSwrWny9FOwpnxZCO9YHQDU9Lz73kdtJckRiaVmlYBU7fA1A/0?wx_fmt=jpeg)
+---
+title: The Spring Equinox
+date: 2018-12-10
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-518.jpg)
 
 The Spring Equinox.
 ===================
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 今天就画一张春景吧～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSkCKibflyO9cnKaiaJuR2717RJdMAhRFEetdmGuPYYM7MwNdxhicNBtXZykghoEuZuHNB4l8ric8s0Uw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-519.jpg)
 
 > 乾坤平分昼夜，  
 > 

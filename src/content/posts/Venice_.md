@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjS9ed4fPuS8956noQ8sfmibj5hHo8t4ukwprbBjXrq6DxibqnibS3JtY60w1By6sIIIX3PgJHhQibpvJQ/0?wx_fmt=jpeg)
+---
+title: Venice
+date: 2019-04-27
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-562.jpg)
 
 Venice.
 =======
@@ -9,7 +16,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 继续国庆之旅游记～威尼斯。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS9ed4fPuS8956noQ8sfmibjzJy4JNEky97qt0gyhTtnDvQtHXG94chqNCoRqpdmSKbMvibB5Ce4TibA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-564.jpg)
 
 去威尼斯之前，路上遇到的所有人都千叮咛万嘱咐：  
 
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 我对威尼斯的防备之心就消失得无影无踪了。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS9ed4fPuS8956noQ8sfmibjpcPIsg6s92ML75TqXtHWVjorckumdmXpicf1omTcmWDnkXXIW0vVLZg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-563.jpg)
 
 威尼斯实在是太美了，  
 

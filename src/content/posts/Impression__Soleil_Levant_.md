@@ -1,3 +1,10 @@
+---
+title: Impression, Soleil Levant
+date: 2017-06-24
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Impression, Soleil Levant.
 ==========================
 
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 就源于这日出印象。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQUhETn0ficjjcics0fTGvHzpW3DhPVqOtDV6IPBE1r8MHiaXTicicdJGaFhBlw4sT8npcLnXtUCZQaLOQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-259.jpg)
 
 突破了传统画作的写实风格，
 
@@ -45,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 听着远处船的汽笛声。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 
@@ -53,6 +60,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

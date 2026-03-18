@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjR6wNeLXzEW6Dq3TAJBjzc2dPIKU9M09iat2LdFhs5GUhqFT2IF6b99xbe0WL04bEkIp7AZpxjGTTQ/0?wx_fmt=jpeg)
+---
+title: Pass by the Qinghai Lake
+date: 2020-11-09
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-397.jpg)
 
 Pass by the Qinghai Lake.
 =========================
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR6wNeLXzEW6Dq3TAJBjzc2njNzCiamTw5CI3ZZia54j6okE0dmqprS0uTL5GibicF44obFWoxATg9osg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-398.jpg)
 
 青海湖真的好美呀，
 
@@ -45,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 真的太美了。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 今天看到浙大博士的新闻，
 
@@ -61,6 +68,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

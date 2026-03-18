@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjS045TvTQnHJbSm49NGHRUHiah6QQ49Nia1faHAzPKNfjRTS5VVufGgmubHL3kk9ibD5EibJdQ5q36fRA/0?wx_fmt=jpeg)
+---
+title: I Love Flyfish
+date: 2018-05-27
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-256.jpg)
 
 I Love Flyfish.
 ===============
@@ -19,7 +26,7 @@ I Love Flyfish.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS045TvTQnHJbSm49NGHRUH7T6FxN1qLL8u81ESoNZT7icOosV0XPIwbOTamibUgrCyseXY0C8llaZg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-257.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
 
@@ -35,6 +42,6 @@ I Love Flyfish.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

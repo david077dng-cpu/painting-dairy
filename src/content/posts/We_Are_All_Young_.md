@@ -1,3 +1,10 @@
+---
+title: We Are All Young
+date: 2020-11-11
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 We Are All Young.
 =================
 
@@ -7,7 +14,7 @@ ZCL ZCL [PaintingDiary](javascript:void\(0\);)
 
 今天图片来自老博投稿 ~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT8lwXTrn04mFOvXCqER9ZzqdNibL40tP4xXDNJXEib20k54QFTUuibxOUZ5AXy5w7R4K37yZVIyNBuA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-568.jpg)
 
     作为老博们其实激情和热血都已经远离了，那种不顾一切的冲劲儿也被消磨的所剩无几了，每天重复的实验和无休无止的文献将生活挤压得很单薄压抑。
 
@@ -19,7 +26,7 @@ ZCL ZCL [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT8lwXTrn04mFOvXCqER9ZzTbJGJFJs8AVRbuTEbGwP5lvuGwE6aeHbiaPeuzjSDowI4KOA5qnjqJw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-569.jpg)
 
     师妹也相当开心，虽然在比赛过程中她一直很紧张，紧张到心态有些崩塌，不过到最后IG还是取得胜利，照片上就是她在比赛现场的笑容，她这时的笑容让我觉得很不一样~
 
@@ -29,7 +36,7 @@ ZCL ZCL [PaintingDiary](javascript:void\(0\);)
 
     感觉师妹也在看到喜欢的选手后扫除了实验失败的阴霾，重新找到了自己的信心，希望她记住此刻的鼓舞和跳动的热血，加油！
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT8lwXTrn04mFOvXCqER9ZzNVeYTAw3iaNKdx3EHhvZyCibduNAq9gRo13Uwo69OlopF02a60RZW9mQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-570.jpg)
 
 今天是一篇有爱的文章，
 

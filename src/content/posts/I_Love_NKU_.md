@@ -1,3 +1,10 @@
+---
+title: I Love NKU
+date: 2018-12-24
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 I Love NKU.
 ===========
 
@@ -33,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR5XIU5FSibsWXuJddYehh7sEXcgyUezx6PHp6rAMa8AePRkRqhFpNRNToNeWvZsE36r80ANN1nIvg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-258.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR5XIU5FSibsWXuJddYehh7sls0bDQuY3AFV2icicEJP6aBUcUnWc5ks3AQKpMEib7ILpVUtCL1eOsJfA/640?wx_fmt=jpeg)
 
@@ -45,4 +52,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 敬请期待~
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39SibTpWPD7VVWRGW9icOjDwDUK71NzYZmVyGhoia4MTpics8BGiauXTUJvqg/640?wx_fmt=png)
+![](/painting-dairy/images/image-2.png)

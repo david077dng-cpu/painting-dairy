@@ -1,3 +1,10 @@
+---
+title: Landmark
+date: 2017-11-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Landmark.
 =========
 
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ9HxCPp2I46Z9ZRxQkdr99f9pQZeq5u90Bdu0h1RfSQd2yPyYubJXmnbcLv0icVy6LDibzdVBuWhMA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-270.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ9HxCPp2I46Z9ZRxQkdr99YRfj9NgzPSFpg2wib7XLBHvSfNbKuOOpJ4ToLahWnuGrkyJknMicgrPA/640?wx_fmt=jpeg)
 
@@ -35,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎长按“福”关注公众号 ~  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39SibTpWPD7VVWRGW9icOjDwDUK71NzYZmVyGhoia4MTpics8BGiauXTUJvqg/640?wx_fmt=png)
+![](/painting-dairy/images/image-2.png)
 
 点击“阅读原文”，照片变水彩~  
 

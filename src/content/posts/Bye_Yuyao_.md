@@ -1,3 +1,10 @@
+---
+title: Bye Yuyao
+date: 2017-02-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Bye Yuyao.
 ==========
 
@@ -21,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 度过了一段开心的时光。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRicU58BFO182z8hfCajHI25v3hAOVDd1nvT4qgZq5q2nziaDfl3Bwt9SC4GtKzy4icla0u9MvxtiaXtA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-95.jpg)
 
 今天这张是我在余姚拍的最喜欢的一张照片，
 
@@ -39,4 +46,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRicU58BFO182z8hfCajHI25lJ4qibo565Tx1CJMBwlicZFddT1ZlrFzaPW1NAicwQvXOPk5Wibmuaicg4A/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-96.jpg)

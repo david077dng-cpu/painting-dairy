@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQTFlbrKmib0icwlVmyMAFMwDNJU3vXTH2oN4sawcyEpOJhFUjRIl8uibiaaGXiaibOVtC3sXSlFREnMBeQ/0?wx_fmt=jpeg)
+---
+title: Gondola
+date: 2017-12-14
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-199.jpg)
 
 Gondola.
 ========
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 从彩色的楼房之间摇曳出来的时候。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQTFlbrKmib0icwlVmyMAFMwDJpiaQcZwm4365on89q7abcC0t8hW39oIvSWzSSHziaXCZ4F9kVPnrCicA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-200.jpg)
 
 倒影映衬蓝天和蓝色的贡多拉，
 
@@ -55,6 +62,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 更欢迎投稿，左下阅读原文～谢谢～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

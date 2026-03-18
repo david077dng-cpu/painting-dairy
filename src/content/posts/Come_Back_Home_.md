@@ -1,3 +1,10 @@
+---
+title: Come Back Home
+date: 2018-05-09
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Come Back Home.
 ===============
 
@@ -31,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTnrTibDKXINtlnvKvVGDmEm2SFGUqrl0HvWClpDlzialD7Ng6ckJmO87DkoxayB1yhU65hgMBUdgLg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-120.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTnrTibDKXINtlnvKvVGDmEmDtItuYmsd4C8fCQKeJjh87Xak6Tt4yC2uPCkLERajKocolqmDibUeWA/0?wx_fmt=jpeg)
 
@@ -51,4 +58,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 晚安~  
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTnrTibDKXINtlnvKvVGDmEmGVEFQ7eGzSrNOWScwCdMsxLuib7SAnq6n71qs4LMvmmS1NC5IAcGtMQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-121.jpg)

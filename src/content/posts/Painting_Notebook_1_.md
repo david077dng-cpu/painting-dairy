@@ -1,3 +1,10 @@
+---
+title: Painting Notebook 1
+date: 2020-05-21
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Painting Notebook 1.
 ====================
 
@@ -25,4 +32,4 @@ http://mp.weixin.qq.com/s/trc26pB4YO6vLg1Cgaq-cg
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRkmO6DeJSRBciawZnLF9k9tfYFFEwib7oGq5FzvrIu1a6httUGMYmQnib5EEz3SttyUR0wkE8pNFzlw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-391.jpg)

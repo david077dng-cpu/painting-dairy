@@ -1,3 +1,10 @@
+---
+title: Sommer in Peking
+date: 2018-02-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Sommer in Peking.
 =================
 
@@ -11,7 +18,7 @@ Sommer in Peking.
 
 我十分开心。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYv6Lv1Ah7nreFMThPMWbExZkNGiaImM7JczNZGEzrZFml2qKXQb5jPfk8InbHVFiaHTJ4CvD8gUtw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-435.jpg)
 
 上周陪同学逛北京，  
 
@@ -83,7 +90,7 @@ Sherlock说过匆忙做决定是件危险的事情。
 
 下周考试，预祝北语德语1班的小伙伴们“大吉大利，晚上吃鸡”！
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYv6Lv1Ah7nreFMThPMWbExZkNGiaImM7JczNZGEzrZFml2qKXQb5jPfk8InbHVFiaHTJ4CvD8gUtw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-435.jpg)
 
 胡博士考完试就快要出国了，
 

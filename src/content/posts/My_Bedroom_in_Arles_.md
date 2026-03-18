@@ -1,3 +1,10 @@
+---
+title: My Bedroom in Arles
+date: 2018-07-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 My Bedroom in Arles.
 ====================
 
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 武则天派人临摹的《万岁通天帖》现在都是国宝级文物。  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)  
+![](/painting-dairy/images/image-14.gif)  
 
 今天临摹的是梵高的《阿尔勒的卧室》，
 
@@ -45,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 梵高的第一版《阿尔勒的卧室》，
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSsk1dd2wq0rbgVlWofKbQPibfE6DsHTfNo3x9iahcPM5DXeBB0vgrPJ61DJWKFI3iaiaibZKzzcHZBVrA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-330.jpg)
 
 1888年9月，
 
@@ -93,7 +100,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 大家加油～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
   
 

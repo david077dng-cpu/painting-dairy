@@ -1,3 +1,10 @@
+---
+title: Fast and Furious
+date: 2020-11-14
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Fast and Furious.
 =================
 
@@ -9,7 +16,7 @@ Fast and Furious.
 
 感谢这位喜爱骑行的同学～  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/painting-dairy/images/image-14.gif)
 
 就如网文所言：
 
@@ -27,13 +34,13 @@ Fast and Furious.
 
 不骑车，你就永远不知道，除了朝九晚五上班以外，还可以这样自由和快乐的生活着。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTOncMiaXCDfiajfJGkRPKuQ1KRallRYr2g8T2odg73vakC1YlBgxGv5yoQibqGXxiaTKATy18RCxRicxA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-170.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

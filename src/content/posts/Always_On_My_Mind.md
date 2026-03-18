@@ -1,3 +1,10 @@
+---
+title: Always On My Mind
+date: 2020-04-22
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Always On My Mind
 =================
 
@@ -17,7 +24,7 @@ Always On My Mind
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39VBxmxn89JK3j6qn1ZGsWby2vGzTmiczMwBzYtxiakJvzRiaiaG6u24w9jQ/0/jpeg)
+![](/painting-dairy/images/image-37.jpg)
 
 2015年｜夏
 
@@ -53,7 +60,7 @@ Always On My Mind
 
     “我好爱你们！”
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39daKO8reKticYap2rnbeJdoiaibu3alibJh5IvsctpN0IYFib1KaXWur4nQA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-38.jpg)
 
      关于这次旅行，实在是太多美好的回忆了。
 
@@ -63,4 +70,4 @@ Always On My Mind
 
     好啦，今天太长了，先到这里吧，欢迎留言或转发~~
 
-    ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39BNgWwnRJvqfic1wCwibolUICKS5d6SL5L8XO0WzOZRI0LpIYlveNsiaYw/0?wx_fmt=jpeg)
+    ![](/painting-dairy/images/image-39.jpg)

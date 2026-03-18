@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSicviaNH1ZYz190uuqSDggW3ibfhFHLOccfHicWHvicRed05nrMwwLjuwEaXYzpGl36eU2ic6nglwefNmg/0?wx_fmt=jpeg)
+---
+title: House Cleaning
+date: 2019-06-15
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-252.jpg)
 
 House Cleaning.
 ===============
@@ -33,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 大家都准备得怎么样啦😄～  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSicviaNH1ZYz190uuqSDggW3kHNByvibUyNRVseolEEqtDpceM3ibrA1avKPWXy8gyEJjAPs86dRTHVQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-253.jpg)
 
 劳动得太久，发的有点晚了～  
 
@@ -42,6 +49,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 欢迎留言、转发or给个在看～  
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

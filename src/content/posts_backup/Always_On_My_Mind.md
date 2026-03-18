@@ -1,0 +1,66 @@
+Always On My Mind
+=================
+
+原创 HZ HZ [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+    今天比较特殊，是我的一位挚友写的文章，并且投了她自己的画。她说她是粉丝投稿，但我想让她也成为公众号的主人。我们俩画的风格很不一样，刚好互补。
+
+    终于腾出时间蹭一波福利~~~自打这个公众号开展以来，我一直在想有什么可以投稿的，想来想去，还是最喜欢这一刻。
+
+    2015年5月22日，计划许久的四人行真的开始了，这是我人生第一个盼望许久就走起的事情，而且直到现在，说起这几年印象最深的旅行，不假思索，肯定是这次泰山之旅。
+
+   那天一早是从闻名世界的趵突泉开始的，人多到只能远远的和它自拍。看到没，指着的那个就是趵！突！泉！
+
+    厉害吧。  
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39VBxmxn89JK3j6qn1ZGsWby2vGzTmiczMwBzYtxiakJvzRiaiaG6u24w9jQ/0/jpeg)
+
+2015年｜夏
+
+   趵突泉之后，就是25个小时没合眼，爬泰山的“精神历练”，那时候心底所有的“不可能”，都酿成了成功后的激动，感觉到老也会一直津津有味地念叨着。
+
+    出征前的霸气合影。
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39icRu0JMJaemtRqROvaYzIgfV4WexEIaYefgQYaQKrfNE5fRcWFCeJsA/0/jpeg)
+
+2015年｜夏  
+
+    短短几句话其实是说不完我的心情的，正好趁着人多，我就勇敢多“表白”一下。
+
+    我和三位的缘分开始得算是比较晚的了，三年高中，临近高考才开始熟悉，所以对于后面几年的发展，真是出乎意料。
+
+    中间的事情有的已经淡去，但是淘洗剩下的，都是闪光的回忆和温暖的陪伴。
+
+    我的成长一直磕磕绊绊，中间走了不少的弯路，所幸每到关键时刻，都会有她们英明的指点。
+
+    还记得我第一次遇到工作中的不公，特别害怕的时候，下意识地，就是告知她们，而她们不顾一切地出现，让我那一刻真的看到了天使，我也将牢记一生。
+
+    静静的古灵精怪，栗子的沉稳大气，以及灵子每一次都打破常规，享受生活的态度，又是催促我积极向上的动力。
+
+    与她们为伍，才知自己的不足，也懂得什么叫知足。“帮我在眼中镶星星的人”，这样的名号感觉非常的合适。
+
+    最后，唯一的愿望，就是都好好的，可以分享彼此所有的阶段。
+
+   她们从我的短发，到长发，又到短发，每一个阶段都有她们的见证，所以我一定也要让她们看看我瘦的样子（语气突然不对）。
+
+     呐，慢慢加油吧~
+
+    说了这么多，我就是想表示我太爱这三位小伙伴了，平时不会说那么肉麻的话，这个机会正好可以让我直抒胸臆。
+
+    “我好爱你们！”
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39daKO8reKticYap2rnbeJdoiaibu3alibJh5IvsctpN0IYFib1KaXWur4nQA/0?wx_fmt=jpeg)
+
+     关于这次旅行，实在是太多美好的回忆了。
+
+     我们特意选了这位作者的生日那天出发，三个人还偷偷准备了小蛋糕。
+
+     途中让我印象最深刻的就是这位作者，从泰山下来之后，我们去还租的军大衣时，到处找不到她，一看居然已经倒在旁边草丛里悄咪咪睡着了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。也是心大，典型的此作者之风格……
+
+    好啦，今天太长了，先到这里吧，欢迎留言或转发~~
+
+    ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39BNgWwnRJvqfic1wCwibolUICKS5d6SL5L8XO0WzOZRI0LpIYlveNsiaYw/0?wx_fmt=jpeg)

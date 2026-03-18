@@ -1,0 +1,36 @@
+Zhoushan Campus.
+================
+
+LCX LCX [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+专属于海洋学院的舟山校区，
+
+坐落在舟山群岛，四面环海。
+
+小编去舟山玩的时候，
+
+逛过一次舟山校区。
+
+不知道是不是因为只有一个学院，
+
+还是因为放假，
+
+整个校区人少极了，
+
+有种世外桃源的感觉。  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8FhGsm0zZkpkZdRXsBjnKS5hMOLcFe09jKlYbZV1GWrjBhJQ4BcowvQWg/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UqQTMiay3wVnk8sGJIEMF5lcjNzWeuRRNWhE7d7hUdQfmHmKhqPzIC7Q/640?wx_fmt=gif)
+
+祝大家……国际消费者权益日快乐~
+
+欢迎评论、点赞and转发发~  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fht2jF1bJvBQXmkDFgrUDFFkeFPBdwWwY74kIgbkT3HIVK2vucT7M4HQ/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+
+[阅读原文](javascript:;)

@@ -1,3 +1,10 @@
+---
+title: Blossom of Snow
+date: 2019-09-27
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Blossom of Snow.
 ================
 
@@ -27,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSnqOLKxYtDumhDo0Cqiasfn4mXcpvzajuaicq8jyb46RNHk54NJFXETiaRMBiaP7pwkNibmvcoPRkS4WQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-91.jpg)
 
 另外，
 
@@ -53,4 +60,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 舍不得我的室友们![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_12.png)。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSnqOLKxYtDumhDo0CqiasfnejicbB8yGtptia9HuUZuC2D3uE9iaQlkakWKzGvPMwibSYkzCcZCSwianVw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-92.jpg)

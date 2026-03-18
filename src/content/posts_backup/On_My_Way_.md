@@ -1,0 +1,58 @@
+On My Way.
+==========
+
+繁花落尽…… 繁花落尽…… [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+今天的照片来自投稿~~
+
+是个喜欢骑行的同学。
+
+TA的名字太长了，
+
+原谅我用……来替代。  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTXZwum4ShFyB26LN3JnEMEsFoF11biaN9BYz07qPaibhtHYVGjHjary2wjqnBkjwY4kIJMG2icZ8XBQ/640?wx_fmt=png)
+
+> 喜欢在路上的感觉，
+> 
+> 这是每一个骑车旅行人的最质朴表达。
+> 
+> 在空旷望不到头的路上骑行。
+> 
+> 自由自在的骑行，
+> 
+> 想停就停，
+> 
+> 想走就走。
+> 
+> 向着目标前进，
+> 
+> 不在乎旅行的终点，
+> 
+> 在乎的是沿途的风景和欣赏风景的心情。
+> 
+> 这是一种完全融入大自然的旅行方式，
+> 
+> 最真实的自由感觉。
+> 
+> ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTXZwum4ShFyB26LN3JnEMEYBj2cckmkjEpQlpiad4UibgiaLwF0tujO5ZY0MnZ4rIQjBvhtpDsEuGVQ/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTXZwum4ShFyB26LN3JnEMEsFoF11biaN9BYz07qPaibhtHYVGjHjary2wjqnBkjwY4kIJMG2icZ8XBQ/640?wx_fmt=png)
+
+    今天的照片是黑白的，
+
+    我也十分尊重原著地画了单色，
+
+    还挺神奇的，
+
+    只用一个颜色也别有一番趣味。
+
+    欢迎点赞、评论、转发~  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTXZwum4ShFyB26LN3JnEMEjRQrHgNvWHUJmBfZowQgicPq7EwADqatNTKptxIKmibBxzH6Yiah9OduA/640?wx_fmt=jpeg)
+
+点击“阅读原文”，照片变水彩~  
+
+[阅读原文](javascript:;)

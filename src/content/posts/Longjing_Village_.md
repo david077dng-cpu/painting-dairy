@@ -1,3 +1,10 @@
+---
+title: Longjing Village
+date: 2018-01-15
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Longjing Village.
 =================
 
@@ -35,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 摘下今年最新鲜的茶尖。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQrMnictV4xuBvXGt1zaczGibUibzv607HGq4NjPKqyDFrz4SqxbGNvYaEe96wWG7XYEYib8wj0HQp57w/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-289.jpg)
 
 走在龙井村里，
 
@@ -65,4 +72,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

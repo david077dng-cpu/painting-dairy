@@ -1,3 +1,10 @@
+---
+title: To Hebe
+date: 2019-05-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 To Hebe.
 ========
 
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 她是她自己。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTJrKibjqq7cgB6EYT0RuIXX45Whib51QibAa8IDmiaMVGlqLyIQunRBwQiahcIsicyluOw2vX4yhmecibxA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-547.jpg)
 
 当她谁都不看，
 
@@ -55,7 +62,7 @@ enjoy自己的变化，
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

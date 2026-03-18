@@ -1,3 +1,10 @@
+---
+title: Mother's Day
+date: 2020-06-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Mother's Day.
 =============
 
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT6NtrLq4uKOO0MXqSgVkmshFjAqZ2etiap1gnNLVVibeJ6HxzsOmKCeEviaROQ7VnQ3d22wqAPGUQxw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-320.jpg)
 
   
 
@@ -25,4 +32,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT6NtrLq4uKOO0MXqSgVkmsibeTxVWtia6vibRxJcqbfuutiaUaxkmhS82DYcdvDibicbPcHyNasPNOicKdQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-321.jpg)

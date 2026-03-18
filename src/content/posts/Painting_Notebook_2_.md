@@ -1,3 +1,10 @@
+---
+title: Painting Notebook 2
+date: 2018-03-02
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Painting Notebook 2.
 ====================
 
@@ -15,4 +22,4 @@ Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
 
 明天画更多的鼻形~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsicgsGalk7icYDgg7Biato4rJsTxz4zY8GxLZciard3Wakgia0E5stJOn1BA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-392.jpg)

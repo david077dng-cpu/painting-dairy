@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdicVgib8PN0CVuko02BNhibSGLcxfGdmOVPwibqqD1vVOj8fOFGQOicjBbcwQ/0?wx_fmt=jpeg)
+---
+title: The Beaten Path
+date: 2019-10-20
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-467.jpg)
 
 The Beaten Path.
 ================
@@ -19,19 +26,19 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 丝毫不比他的音乐逊色。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdicP5N73CFGHXiaBcia4NquX73EwEYfDUOpdNENZ7ASjFvMznBpjyokEQYQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-468.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdic7AF9aCHLwLmHETzicUCZoWOGLQouJ6gS8tt7GzkLDO2liadbdhA2Yecw/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdicIskf9RcHI8rDzSSW6wicjATeI5KUrLBWyib1k1pe6IibJeC34uEmKeQhA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-469.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdicuUAGMlLAbdgvNgu8M5zgF75O4aHBQ27w46YYNcE3rkFho4Z9GzmXrg/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdiccN0dh5wGhgLiael74G6n8YrqfKu4QGhibNFxDRchwX0kjicRWpp1ekbJw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-470.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdic7HG5YUjLQH5pKNAiaohBneice9Px84O10ko620yVqLa1wgKFvFNw5u9w/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdicgcsvymwiaHXoeofOk5ojwZadNUWCUR0cLiaxn40icz7p3B1MncB4ohxsA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-471.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdic6Kc9VREKQGiaRrXf2YibicDJUk8xl9PljeSAicOvMutj0VIYBSjojGbEMg/640?wx_fmt=jpeg)
 
@@ -41,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 不过公路旅行的摇滚feel还是很浓的。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdicFviaZHtqjKzBibEXK2gUsceQGiajBQObPRu2wCicENlSBaofojib4IUweAw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-472.jpg)
 
 就像展览结语所说，  
 
@@ -57,4 +64,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎转发、评论or给个“在看”～  
 
-下周见～晚安![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdicohJVNj5icpNvSrXUPb1ytOkiayTC00RAbrUUDic343LPsO39kIWUNbF0Q/640?wx_fmt=png)～
+下周见～晚安![](/painting-dairy/images/image-473.png)～

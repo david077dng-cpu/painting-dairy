@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQaeh7UWh1FcO0sC0BsnicFttXmJiaWuscfVp5jIgvgXWhJePCYCBVuvCDguBxepTJJycZkczgfDMibw/0?wx_fmt=jpeg)
+---
+title: New Year In the Forbidden City
+date: 2020-06-18
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-362.jpg)
 
 New Year In the Forbidden City.
 ===============================
@@ -49,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 献给大家拜个早年～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQaeh7UWh1FcO0sC0BsnicFtVoOMYRzh1kVLSaqicOxHmiaRCN0XGhicND0wLBMicRGVlJJicgj5B3PuNjg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-363.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
@@ -67,7 +74,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

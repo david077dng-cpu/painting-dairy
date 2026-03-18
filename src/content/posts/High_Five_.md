@@ -1,3 +1,10 @@
+---
+title: High Five~
+date: 2018-05-23
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 High Five~
 ==========
 
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRbiamCrlasP2iaZchIe9lukACCKib9qqhOV07RSz8c6pUp8SjXTvAGoxOhW4wUba7gExFkqNOUmtKhA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-246.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRbiamCrlasP2iaZchIe9lukAZiawbianMGGWKfQdA2a7YXMtVcSRIWdnXIsROEQx7SQhUQZCIH7ibUyZg/640?wx_fmt=jpeg)
 
@@ -41,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 祝大家晚安~![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39SibTpWPD7VVWRGW9icOjDwDUK71NzYZmVyGhoia4MTpics8BGiauXTUJvqg/640?wx_fmt=png)
+![](/painting-dairy/images/image-2.png)
 
 点击“阅读原文”，照片变水彩~
 

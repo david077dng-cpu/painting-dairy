@@ -1,3 +1,10 @@
+---
+title: Hi December~
+date: 2017-10-12
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Hi December~
 ============
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     俗话说得好，人有失足，马有失蹄，我今天就失蹄了……![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTDYvCxh0z2Q7fWqnOTF8I3GGtibQ0S5MajB9mq4u7TmgicUGhvttlZEM4n5oYkN3fv1ct4hqVsMqBw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-245.jpg)
 
 没有对比就没有伤害，下面请看原图：  
 
@@ -35,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     最后打个广告，欢迎大家扫码订阅~ 更欢迎大家转发转发转发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-164.jpg)

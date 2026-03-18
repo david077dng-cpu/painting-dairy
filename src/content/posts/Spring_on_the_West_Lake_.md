@@ -1,3 +1,10 @@
+---
+title: Spring on the West Lake
+date: 2018-07-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Spring on the West Lake.
 ========================
 
@@ -11,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 西湖上泛舟的人也多了起来。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTe76aiaKc2ft2Um1ny2J5xU4MH7KuHg3ows2fBHKFWwiaIlyfcxbuMYbxq9XHW9kXQq0fUC3YSpCeg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-438.jpg)
 
 还记得在刚入学的那个秋天，
 
@@ -43,11 +50,11 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 毕竟是许仙白娘子同款![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UHaLSQn62Zr46EpuxmZwjgDyEk0T1lgkmPiccTI3U3jngLHAricSh2Ylw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-178.gif)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTe76aiaKc2ft2Um1ny2J5xUksyE1dyyubO5ic2eYAYfFYqyW1QxIK6NJlg8BFicU0JsqMALFtpFtkpA/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
   
 

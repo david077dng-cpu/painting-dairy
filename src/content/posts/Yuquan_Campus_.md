@@ -1,3 +1,10 @@
+---
+title: Yuquan Campus
+date: 2017-01-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Yuquan Campus.
 ==============
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGe6G1p6p4lR0fFrYjCIYBdCEdQ5Pln0eCsfHPYTNVlCjXxFzLC5tk3DsggEUWxxk5iaknp0ZkSQg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-603.jpg)
 
 玉泉校区的毛主席雕像，
 
@@ -43,7 +50,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 都重新充满能量。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGe6G1p6p4lR0fFrYjCIYBvxQibrZb3W0FtvibuxHlK3fysqv2WVPZ83hVBia28qpCXWbtBIDeEfbfw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-604.jpg)
 
 欢迎点赞、评论and转发发发~  
 

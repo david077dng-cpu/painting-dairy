@@ -1,3 +1,10 @@
+---
+title: Nara Deer
+date: 2017-06-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Nara Deer.
 ==========
 
@@ -5,13 +12,13 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR8ejD4P8l3JDslFXFHExsNYPdP9JbaLnBaU7071Ppr7icDDt1Y6egibibalocj33Af9qkq8nus0Wz6Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-350.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR8ejD4P8l3JDslFXFHExsNoybYVlLe2C1yiaaMF31516ENdickQrLS2ibWlz6sIsVTfLxOgIUVlnv3w/640?wx_fmt=jpeg)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR8ejD4P8l3JDslFXFHExsNQgFCQLtkvG9xGepicWcibIsFE7I2Y8DSQibYPqd1VOveIlP2WpybpzJSg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-351.jpg)
 
     这种意料之外的神奇瞬间，
 
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎评论&点赞&转发  ~     
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR8ejD4P8l3JDslFXFHExsNSCZsZlBSSogOiaOACaUm0M8L7toeLQmRj3KaxzHFptCnVEymCQvDagQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-352.jpg)
 
     点击“阅读原文”，把那一瞬间变成水彩吧 ~
 

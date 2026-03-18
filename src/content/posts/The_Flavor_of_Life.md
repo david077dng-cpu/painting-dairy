@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjThwOfJAibtnZ9V6j2NTkXlCicTmnkutnMmI8YdsDicz9mO6zCUyB6bNb9pBe0Wdx2iaxDB7ExKPW4sYg/0?wx_fmt=jpeg)
+---
+title: The Flavor of Life
+date: 2017-03-02
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-494.jpg)
 
 The Flavor of Life
 ==================
@@ -21,7 +28,7 @@ The Flavor of Life
 
 是发展道路上最大的绊脚石。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjThwOfJAibtnZ9V6j2NTkXlCzWn789v6L8y1SIy2I4wtaOs72e1F03js8I4g7TuvOdfuAkCRsGBdMQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-495.jpg)
 
 有时看别的大画家画集里面，
 
@@ -53,7 +60,7 @@ The Flavor of Life
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 说了半天，
 
@@ -67,7 +74,7 @@ The Flavor of Life
 
 有什么想对小编说的欢迎留言呀！
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)  
 

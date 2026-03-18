@@ -1,3 +1,10 @@
+---
+title: Winter Solstice
+date: 2020-02-16
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Winter Solstice.
 ================
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 冬至吃饺子，才不会冻耳朵~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQEibPFTI3XXWqRRLyIFEhOZ2cDxCOTkuzozVt0NAnxzVPOXDiberbK9eZn2hBEY9XPsDc0c2F6a8Kw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-583.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQEibPFTI3XXWqRRLyIFEhOZ9XgWQ2YgSTL1XiaJBiaIJ8qicNCezC6G9N0ViaVqhDiaSictJxnhhYOm5ZsA/0?wx_fmt=jpeg)
 
@@ -21,4 +28,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎转发或留言~ 比心![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_66.png)~
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQEibPFTI3XXWqRRLyIFEhOZ5dW9ufXE4fvpJ9o7gb9LrlnuW70HZW88ia8j7QB6wTfDOExLFau5udQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-584.jpg)

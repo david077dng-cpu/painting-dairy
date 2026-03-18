@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQ7IVKF7t0iahZz7kVJvhMxCaALQcg4zC7Mv9z82P90XvDwzZcNC3j9Xj6ZoepibPWia8lqInKHNpHPQ/0?wx_fmt=jpeg)
+---
+title: This Weekend
+date: 2019-11-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-535.jpg)
 
 This Weekend.
 =============
@@ -39,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 觉得自己还能跑个几圈。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ7IVKF7t0iahZz7kVJvhMxCibocUsNUxLWJJAYhsexRPX1ODdqN1LLbBAch3gDvZCzL1icRo9iatygiaQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-536.jpg)
 
 白居易诗里说：
 
@@ -59,7 +66,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

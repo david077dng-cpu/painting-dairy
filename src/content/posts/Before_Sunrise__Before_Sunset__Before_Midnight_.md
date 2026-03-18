@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQ0D6eWdTDqMIibU2ywRvqDP1Jrc1xKwz7DMTUrI9W6v9BCjVSnribcNXdt7fH43ustTD1ot2pGWOdQ/0?wx_fmt=jpeg)
+---
+title: Before Sunrise, Before Sunset, Before Midnight
+date: 2019-11-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-65.jpg)
 
 Before Sunrise, Before Sunset, Before Midnight.
 ===============================================
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0D6eWdTDqMIibU2ywRvqDPVf7MiaVkFpeJpjzTvgsn5uhyicYH2W8icjB6l4ceficeFM2Wk7QYPR4aSw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-66.jpg)
 
 这三部电影里的每一句话都是值得记在小本本上的经典。  
 
@@ -39,11 +46,11 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0D6eWdTDqMIibU2ywRvqDPD5ibI1SqAXEprwLqhLrw7fibUiazXgPiaHQ9VSMV9DrqsSD7giacVzOm6ow/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0D6eWdTDqMIibU2ywRvqDPqJdTUJUovPYiblzs0AfTIXfCcryW9zpoQmUhLW6oBYkt4zmNfNIYg6Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-67.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0D6eWdTDqMIibU2ywRvqDPNlPvuMZbEqXhqADiaADjgNWHlChjSLTzSIsGPLpDNWGsSw4GfNnJI2w/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0D6eWdTDqMIibU2ywRvqDPXmFt3giciaeARrlDMytS2rHMPiaBAmXrPn51p0N3DiaM2kDwmc2iafX3B1A/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-68.jpg)
 
 好啦，今天就到这～  
 

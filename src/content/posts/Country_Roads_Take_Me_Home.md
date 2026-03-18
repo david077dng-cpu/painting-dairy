@@ -1,3 +1,10 @@
+---
+title: Country Roads Take Me Home
+date: 2018-02-20
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Country Roads Take Me Home
 ==========================
 
@@ -41,7 +48,7 @@ Country Roads Take Me Home
 
 一如他们从未离开。
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRaOuUlGzsPN4YrVx6zhdKoDicicmYhdWfOx9p9MNMTibOaAwicRHYW28FohVUdRCXrh7gYtAmbybvH8A/0/jpeg)
+![](/painting-dairy/images/image-130.jpg)
 
  如今毕业一年有余，
 
@@ -87,7 +94,7 @@ P.S.
 
 欢迎转发、留言、投稿呀~
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRaOuUlGzsPN4YrVx6zhdKo1DLzVVW8T8VgwdjUNuicGeqtiawHvv8xkI0OicQmpT4JVlnPx3uqSFSBQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-131.jpg)
 
   
 

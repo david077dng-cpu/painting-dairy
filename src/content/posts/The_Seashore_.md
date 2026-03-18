@@ -1,3 +1,10 @@
+---
+title: The Seashore
+date: 2018-01-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 The Seashore.
 =============
 
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSPAKic2qeOSN5lh352gxic1sQqbbQZ9ibBvFKibsT4J5qqnibz65SGOWH7GU3cmDoWvYBxiczBBmJRZ1Sg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-517.jpg)
 
 发呆是我在海边最喜欢做的事情，
 
@@ -43,7 +50,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Ut2ABIK15q1xGLyGNBicPMcGvYib2cf7phLJ5DnVqJxnxo9yVedTRpC5Q/640?wx_fmt=gif)
+![](/painting-dairy/images/image-144.gif)
 
 好啦，欢迎点赞、评论and转发~
 

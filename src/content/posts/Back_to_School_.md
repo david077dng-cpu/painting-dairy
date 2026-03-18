@@ -1,3 +1,10 @@
+---
+title: Back to School
+date: 2018-01-24
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Back to School.
 ===============
 
@@ -21,13 +28,13 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 满园春色真让人流连忘返啊~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSax0GhO0SPwjXPXfXnNA5guyvpN4UAXFQkXdtBDWKaVkLARMNkPS5H0vFxa3dNYnvpibZfhTr3jdg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-56.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)  
 
 欢迎点赞、评论and转发发发发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSax0GhO0SPwjXPXfXnNA5g8U5Cy8KjVGZl5QntGlz9icSK8lyQcjbZgE3dlZvooXnaDG1HBw1eeZg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-57.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

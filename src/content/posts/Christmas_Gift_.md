@@ -1,3 +1,10 @@
+---
+title: Christmas Gift
+date: 2018-10-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Christmas Gift.
 ===============
 
@@ -95,14 +102,14 @@ Christmas Gift.
 
 Max
 
-![](http://mmbiz.qpic.cn/mmbiz_png/vE6VzoHA0m54HiamZFrCOLa1sDca8qs72AbM5xSDIBCYGcjtG9c3sYLX8tgJ92QocSfEzvuLqrfJmEWGBsq2gnw/0/png)  
+![](/painting-dairy/images/image-115.jpg)  
   
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSaP7NjjIdfJfRibjODsljib5VicicPGTEJH6VyVjM1HadeRYYoWcyYIUH09tEblib1lpKF7wx7Amp1iaVg/0?wx_fmt=jpeg)
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSaP7NjjIdfJfRibjODsljib5WAQyv2dwufkC6YSPsRIbdMwicJWgnVBXUEhXHibTNTjiakBbiawaLxplNA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-116.jpg)
 
     这种共同战胜自己，共同成长的经历，是最美好的~
 
@@ -116,7 +123,7 @@ Max
 
     欢迎投稿！ 欢迎留言！！ 欢迎转发！！！
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSaP7NjjIdfJfRibjODsljib5pekR9MBd7xtE9gjzxsbU1zyaprSjtn2cauyNEXvkAAMicALGWX14UBg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-117.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
 

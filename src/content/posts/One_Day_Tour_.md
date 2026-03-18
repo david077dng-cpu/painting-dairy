@@ -1,3 +1,10 @@
+---
+title: One Day Tour
+date: 2020-10-08
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 One Day Tour.
 =============
 
@@ -27,7 +34,7 @@ One Day Tour.
 
 今天就从北京最有名的胡同开始～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQNPdAOb617nqrgXdv2sLMf2Ex5UeXg3ce2Vyr6A9gx9qxW1o833b9bRnFNHq796HN7TFRBueU1qA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-377.jpg)
 
 胡同里的时光，
 
@@ -63,7 +70,7 @@ One Day Tour.
 
 喜欢坐在院子前面喝喝茶，下下棋。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 今天去齐白石故居，
 
@@ -89,7 +96,7 @@ One Day Tour.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

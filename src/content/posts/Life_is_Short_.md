@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQMicE6htib8l4BaZItnjlmyBGFEeI9SsNiaUlQNrg32zR79rHDMYQIVuwm3ju1xjfQlAjyE0gc1yv0A/0?wx_fmt=jpeg)
+---
+title: Life is Short
+date: 2019-05-01
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-280.jpg)
 
 Life is Short.
 ==============
@@ -13,7 +20,7 @@ Life is Short.
 
 这周确实有些事儿很想记录和分享一下。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQMicE6htib8l4BaZItnjlmyB5lYPBk5dicTvL3BibdLTve1zQCt6b4PMRZWuAqN9wbIfTz64TgibuJyGA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-281.jpg)
 
 这周末花了两天的时间参加急救培训。
 
@@ -36,6 +43,6 @@ Life is Short.
 欢迎转发、给个“在看”让更多人看到～看到是一方面，行动起来更重要～  
 晚安![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)～  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

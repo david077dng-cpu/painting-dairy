@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQmX8E8jyAJZ8W13tuNkWsq5R5h5t7ib1b0xtrF4gG7u7sFZEicPICSlLicKFReHTBibJFD0ZeBibaQtlQ/0?wx_fmt=jpeg)
+---
+title: Sweet Music, Sweet Life
+date: 2020-12-10
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-451.jpg)
 
 Sweet Music, Sweet Life.
 ========================
@@ -25,7 +32,7 @@ Sweet Music, Sweet Life.
 
 每首曲目演奏完都会赢得阵阵欢呼和互动。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmX8E8jyAJZ8W13tuNkWsqpkFvU9ibW3XK8baaZpmvAiczS410acfv0p6UpQBVibuPic8aibXyxch4CJg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-452.jpg)
 
 海河上游船穿梭，
 
@@ -53,6 +60,6 @@ Sweet Music, Sweet Life.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

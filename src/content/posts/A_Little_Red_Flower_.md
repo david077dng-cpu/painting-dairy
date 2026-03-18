@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6NibTe5gJJibFibfGBe6m9icyqLaLOt6bypsNkGpdnt5r0cI93oghqsSlRA/0?wx_fmt=jpeg)
+---
+title: A Little Red Flower
+date: 2019-06-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-21.jpg)
 
 A Little Red Flower.
 ====================
@@ -13,9 +20,9 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 记录一下元旦假期看的电影~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)送你一朵小红花![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-22.jpg)送你一朵小红花![](/painting-dairy/images/image-22.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6TBt1H0nMyHhamHHxlSVuEJKQNW9KCLehYfRQdGO8nJDMUibuRecwlaw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-23.jpg)
 
 电影讲述了两个抗癌家庭的故事，  
 
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 世界依旧充满善意，让我们一起加油吧！
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-22.jpg)![](/painting-dairy/images/image-22.jpg)![](/painting-dairy/images/image-22.jpg)![](/painting-dairy/images/image-22.jpg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)
 
 新的一年，祝大家身体健康，事事如意，心想事成~
 

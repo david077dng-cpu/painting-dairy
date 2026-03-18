@@ -1,3 +1,10 @@
+---
+title: Zijingang Campus
+date: 2017-06-14
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Zijingang Campus
 ================
 
@@ -27,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQblaY6KQZYpoC5A8eJvziaLGonDOAfBHxVqISOtJEe6GSVjTkPuIH3DGQEOGmMpCibGJzoosp3InDQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-610.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQblaY6KQZYpoC5A8eJvziaLjX5rEOInsPkicU3R65YAeZ9PbmGTJoqAj75LVjpUIXnBTibXWPqC0iauA/640?wx_fmt=jpeg)
 
@@ -45,7 +52,7 @@ Painting Diary第一期就是去年画的月牙楼，
 
 我还会再回来画它的。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Ut2ABIK15q1xGLyGNBicPMcGvYib2cf7phLJ5DnVqJxnxo9yVedTRpC5Q/640?wx_fmt=gif)
+![](/painting-dairy/images/image-144.gif)
 
 欢迎点赞、评论and转发。  
 

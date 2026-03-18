@@ -1,0 +1,48 @@
+I Love NKU.
+===========
+
+LCX LCX [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+> 渤海之滨，
+> 
+> 白河之津，
+> 
+> 巍巍我南开精神。  
+
+画天津怎能不画南开，
+
+画南开怎能不画天大。
+
+今天先从南开美丽的主楼画起。
+
+主楼正对学校南门，
+
+前面有我们敬爱的周总理像，
+
+所有的毕业生都会在总理像前面合影，
+
+然后再把学士帽高高的抛起，
+
+代表我们毕业了。
+
+一起抛学士帽时的场景还历历在目，
+
+转眼已经毕业快三年了。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR5XIU5FSibsWXuJddYehh7sEXcgyUezx6PHp6rAMa8AePRkRqhFpNRNToNeWvZsE36r80ANN1nIvg/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR5XIU5FSibsWXuJddYehh7sls0bDQuY3AFV2icicEJP6aBUcUnWc5ks3AQKpMEib7ILpVUtCL1eOsJfA/640?wx_fmt=jpeg)
+
+今天画的头晕眼花，
+
+画窗户居然让我回想起被答题卡支配的恐惧![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+
+明天画天大，
+
+敬请期待~
+
+![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39SibTpWPD7VVWRGW9icOjDwDUK71NzYZmVyGhoia4MTpics8BGiauXTUJvqg/640?wx_fmt=png)

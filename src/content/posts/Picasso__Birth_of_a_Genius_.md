@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSLAicibEvPVInyMIOTMYquCoVEzoTB41iaFZYeoucDxiacb93b6pVREIG3c9oAHHekiapUtrgHBtmnjVQ/0?wx_fmt=jpeg)
+---
+title: Picasso, Birth of a Genius
+date: 2017-11-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-403.jpg)
 
 Picasso, Birth of a Genius.
 ===========================
@@ -33,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 呈现出了多种风格。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSLAicibEvPVInyMIOTMYquCoxQENRCVYmQoAO6VFVW5aCHQ0oUI2zgRdFJXvEbVTZwJr9pdbmocOtw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-404.jpg)
 
 今天画的《吻》是展览中的最后一幅画，
 
@@ -53,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 以及《艺术家的第二任妻子肖像》，
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSLAicibEvPVInyMIOTMYquCoxmEB9wA5rxXWMED4x9dtvKiabfCv3JTIM4tehYjq7HA1mWXDhM3G95w/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-405.jpg)
 
 这两幅肖像的构图被结合到《吻》之中，
 
@@ -73,6 +80,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

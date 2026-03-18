@@ -1,3 +1,10 @@
+---
+title: A Small Church
+date: 2017-08-01
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 A Small Church.
 ===============
 
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 喜欢这个角落的风景。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRkbY0xibbl0WKC4XnXLKXNTHum28DX4RSibn3OOkuIBhMaMWgQOicEhId511sXGUeUGcZ7rhymmZnTw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-27.jpg)
 
   
 

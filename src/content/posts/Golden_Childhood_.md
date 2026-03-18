@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTItAN9hYU8L9HloFXaiaEP81g7SFibUdwn4CSjuSXr9GKphu9hiaDnExVPBLW4ibrjegwnORS2CvptSQ/0?wx_fmt=jpeg)
+---
+title: Golden Childhood
+date: 2018-08-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-196.jpg)
 
 Golden Childhood.
 =================
@@ -11,7 +18,7 @@ Golden Childhood.
 
 感谢投稿！！
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/painting-dairy/images/image-14.gif)
 
 大风车吱呀吱呦呦地转，
 
@@ -33,7 +40,7 @@ Golden Childhood.
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTItAN9hYU8L9HloFXaiaEP8WDLsqEnZokDbzE4ZiaIPuHeHQUWZnBW9O6EmI3gtYdMFwzbNwTAJUCw/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/painting-dairy/images/image-14.gif)
 
 之前画过一个小婴儿～
 
@@ -49,6 +56,6 @@ Golden Childhood.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

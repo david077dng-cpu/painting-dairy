@@ -1,3 +1,10 @@
+---
+title: A Warm Welcome
+date: 2017-08-02
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 A Warm Welcome.
 ===============
 
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 今天画的是寨子中苗家人的拦门酒。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQMFMB4Qfw0839FeVEhRPgA3wkuPztpPpEGjevItyf5AujhAiaJdyJ35urjuaRokeHHngcrpPhlV9w/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-34.jpg)
 
 拦门酒是苗家待客的最高礼节，  
 
@@ -35,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

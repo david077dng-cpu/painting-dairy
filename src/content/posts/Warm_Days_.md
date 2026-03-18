@@ -1,3 +1,10 @@
+---
+title: Warm Days
+date: 2017-12-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Warm Days.
 ==========
 
@@ -5,11 +12,11 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTJOAoI3VRqYtdWCia4B5EgcZGEg0iaichItVV7zpHbFEM0hQzCxbrpD0HjxWWUHxs4uTVWf9Z1OkIKQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-565.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTJOAoI3VRqYtdWCia4B5EgcIxYBNqaH2JAj89thCk8JpR5V23OTGmnDBPLtncYIKZTsI8N1QbKN6A/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTJOAoI3VRqYtdWCia4B5EgcfJfGxn9XUI3eKHXQvZrggxhZHFkP8iab1b2eaOmER8G7vbXLBibNDBlw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-566.jpg)
 
     今天的idea来自师妹：
 
@@ -31,4 +38,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎点赞、留言、转发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTJOAoI3VRqYtdWCia4B5EgceHfhricsKUUEvERw8M3yKkdNfXh6lNF0RcgRFiaZOnfCBwGBLuZQCXGg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-567.jpg)

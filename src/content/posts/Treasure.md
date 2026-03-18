@@ -1,3 +1,10 @@
+---
+title: Treasure
+date: 2017-12-14
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Treasure
 ========
 
@@ -9,7 +16,7 @@ Treasure
 
     里面有“瓷母”之称的各种釉彩大瓶……真是与众不同啊，然后乾隆农家乐般的审美又一次火了。（下图看一遍乐一遍![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F61D.png)，来自百度）：   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS1AgMmQlvMn2gX3gIycicT7icrx8k2kuJPFuTPJoPPblSooY5bdiaD4sO9UAOde1WjtRUS7rXG6ia5Hw/0?wx_fmt=jpeg)    下面这个就是——各种釉彩大瓶。
+![](/painting-dairy/images/image-560.jpg)    下面这个就是——各种釉彩大瓶。
 
     不论是它的名字，还是它的长相都很精彩啊。
 
@@ -23,7 +30,7 @@ Treasure
 
     雪中的紫禁城一定超美。  紫禁城马上就要迎来600岁的生日了，好期待故宫举办的各种活动~![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_42.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS1AgMmQlvMn2gX3gIycicT7nUfxuqnpAOCRXF19Sg4OiadpibaOO7tu6vlIYQ8hib91TY9rHJhRjXg1w/0?wx_fmt=jpeg)![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS1AgMmQlvMn2gX3gIycicT7yEMDnJjoGofNibdMl7rxiaNVAyxW0avLhUKPbh7E5ibYScoia7OctAic1HQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-561.jpg)![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS1AgMmQlvMn2gX3gIycicT7yEMDnJjoGofNibdMl7rxiaNVAyxW0avLhUKPbh7E5ibYScoia7OctAic1HQ/0?wx_fmt=jpeg)
 
     今天的画还是临摹的胶带![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，希望大家会喜欢。
 
@@ -31,7 +38,7 @@ Treasure
 
     欢迎长按二维码关注~   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-164.jpg)
 
   
 

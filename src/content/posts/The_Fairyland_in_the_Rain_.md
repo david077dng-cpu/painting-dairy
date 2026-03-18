@@ -1,3 +1,10 @@
+---
+title: The Fairyland in the Rain
+date: 2019-02-20
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 The Fairyland in the Rain.
 ==========================
 
@@ -17,7 +24,7 @@ The Fairyland in the Rain.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQuaPLjsnCczEcA1YNw2xeGz9gibKFauxt2bEicR6t3PHbUw7sOgR6w5JhAdq3lC6oxjwgQTpe1cTQA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-488.jpg)
 
 四月去了一趟徽州，
 
@@ -41,7 +48,7 @@ The Fairyland in the Rain.
 
 风景仍然触动人心。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQuaPLjsnCczEcA1YNw2xeGPXbotcmmIEH5F61Iv24OhWVsjd93OYicqtDDMA6ZyYye2WgqkPia0OPA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-489.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
@@ -63,7 +70,7 @@ The Fairyland in the Rain.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

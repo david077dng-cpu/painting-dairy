@@ -1,3 +1,10 @@
+---
+title: Mr.Detective 1
+date: 2019-11-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Mr.Detective 1.
 ===============
 
@@ -9,4 +16,4 @@ Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTKHA6qTGgjm8HtqIKV6Sib4BGZAUpfP3lN22kTicslJ0XCwUGW0bJLZzFPSwFosA8Hv81KX2B8ho2A/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-322.jpg)

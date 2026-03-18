@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRwzK1OuictUib2udjAkyue22uqChwLqtibUYGPGmLTwSzgicicUJw93KQdWicpGjWXzKTEkM1mYcLcoJLg/0?wx_fmt=jpeg)
+---
+title: Becoming
+date: 2017-05-27
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-60.jpg)
 
 Becoming.
 =========
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRwzK1OuictUib2udjAkyue22OR7ic6UX5FLEGqwiaqBJmna6iaTBC1dNxaIrTMoPYBJGLMCuQ122ibicpDQ/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-61.jpg)  
 
 她先生贝拉克·奥巴马天赋极高，
 

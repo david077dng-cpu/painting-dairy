@@ -1,3 +1,10 @@
+---
+title: You Are My Destiny
+date: 2020-11-12
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 You Are My Destiny.
 ===================
 
@@ -31,7 +38,7 @@ You Are My Destiny.
 
 悸动的小种子![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_66.png)。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQOXhFOciaoia4mM8E6H50IFI0KlPQRXthXeHbgQ7siblsJCSBbV6RGPhxYKPa7ibf0icYfgCqn0icf7u5A/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-597.jpg)
 
 哈哈哈，
 
@@ -101,7 +108,7 @@ You Are My Destiny.
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQOXhFOciaoia4mM8E6H50IFImU27WXXgTPKV2ZGYxlJ2Iy8CibIvq0uWW5nTBz22wxddPmos9sVhktg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-598.jpg)
 
     哈哈，好甜蜜呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，
 
@@ -115,7 +122,7 @@ You Are My Destiny.
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/5TyibOWiaKUjSqkeqybegUDPsqNjczItc9gujcXc0BwRHzZtc4eL1mQjib7TzN9Sq6CYbmrZIWYrbsKByF5FO6CQA/0/jpeg)
+![](/painting-dairy/images/image-599.jpg)
 
   
 投稿点击“阅读原文”

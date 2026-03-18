@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRGnrMN6ZLibT2Lhyuxn41G2j8tVLKu8VhF6X5RBU7SjYI9lpvkascTEtYw1VaiaicvfjwCS8libYWThQ/0?wx_fmt=jpeg)
+---
+title: December
+date: 2019-11-01
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-146.jpg)
 
 December.
 =========
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 和自己的年龄一样，  
 不太适应![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRGnrMN6ZLibT2Lhyuxn41G2iaV4jCicZ2o3DY1PCULIULvMYeWJIGfwM79Yc8ntTsmaGpXIOBX6La7A/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-147.jpg)
 
 今天没喝到腊八粥，  
 给自己画一碗，  
@@ -31,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

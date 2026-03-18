@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRgu8Hhfd3vAO2XAiagJ7lkI61y97B9N55Du6H1VFz3QMsAYjDEbtdbYe8AicwuUTOanThsBFH0qZjA/0?wx_fmt=jpeg)
+---
+title: Mystery Clock
+date: 2017-12-15
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-345.jpg)
 
 Mystery Clock.
 ==============
@@ -21,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 都没有神秘钟这么有意思。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRgu8Hhfd3vAO2XAiagJ7lkIziaWedsN9CdN6icpcTscBnQFjeHGVt3bafctap22ib8ia2icLicJHFa63H1w/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-346.jpg)
 
 神秘钟(Mystery Clock)占据了卡地亚至关重要的一个篇章。
 
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 是一个“制表奇迹”。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRgu8Hhfd3vAO2XAiagJ7lkIx992UzwGA1Kwh3ibkPs8pwIUMElfAI54NXqLA2tYGE2TXMDFhoX8AoA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-347.jpg)
 
 究竟是什么能量让指针克服地心引力，
 
@@ -55,7 +62,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 而圆盘的金属边框被隐匿在时标圈下。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRgu8Hhfd3vAO2XAiagJ7lkIpsLkC12TfkNf5ibdnOtYEFkrVbgGBy4DxHW5kNUaNw5rG3lIPBeq9bA/640?wx_fmt=jpeg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRgu8Hhfd3vAO2XAiagJ7lkI1JpU0qf4LpJpvYM4hO6w2zumxBu1UGdicwP3Kq1ATuFLI7AqVIzCWUg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-348.jpg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRgu8Hhfd3vAO2XAiagJ7lkI1JpU0qf4LpJpvYM4hO6w2zumxBu1UGdicwP3Kq1ATuFLI7AqVIzCWUg/640?wx_fmt=jpeg)
 
 一百多年来，
 
@@ -67,7 +74,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 正是这不变的追求，成就了卡地亚的奇迹。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRgu8Hhfd3vAO2XAiagJ7lkIic3tX4H5CEdiafqD3PXD81d1M3uConmWxgNPPwCDwVQQbqQKPOqKz0ibw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-349.jpg)
 
 今天的钻石真的是画不出来blingbling的感觉，
 

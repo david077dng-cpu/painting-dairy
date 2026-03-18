@@ -1,3 +1,10 @@
+---
+title: Never Be Forgotten
+date: 2019-04-20
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Never Be Forgotten.
 ===================
 
@@ -7,7 +14,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 今天的照片来自投稿。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTGGjMmZotfddppBTlJLHicpib7J3QFm1gwOmxeDicUiaNOxMzmbF6g8QWLQyDhs3LzLWyOWdB1IaRUSQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-357.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTGGjMmZotfddppBTlJLHicpibVJaO5Fs8khoVGDII9VI8g1XDsTALXeS0DiaYvxX2J9E4szeYseqpTg/640?wx_fmt=jpeg)
 
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 但充满着无限的可能。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTGGjMmZotfddppBTlJLHicpib7J3QFm1gwOmxeDicUiaNOxMzmbF6g8QWLQyDhs3LzLWyOWdB1IaRUSQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-357.jpg)
 
 全国大部分高校都有“逸夫楼”，
 

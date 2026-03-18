@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQVhiaeE6XTgACKkNfuxOuyK0Iib15zFSeDdrS5CATZFolzRdhbahmbQ8tbWYMkRFDKXQnpojQhyIFg/0?wx_fmt=jpeg)
+---
+title: Lamma Island
+date: 2020-06-06
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-267.jpg)
 
 Lamma Island.
 =============
@@ -9,7 +16,7 @@ Lamma Island.
 
 今天的照片来自师妹的投稿～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQVhiaeE6XTgACKkNfuxOuyK5lMIFpsDSj1q7icN5OtF1Vcxdias5Tz7M5BaykhXLZzPHericdia9eQpjQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-269.jpg)
 
 许久没有投稿，有点想念师姐的手稿（意图相当明显：就是来索小画儿的）。  
   
@@ -45,7 +52,7 @@ Lamma Island.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQVhiaeE6XTgACKkNfuxOuyKenBnRu5beVlLq14s0g5q27QuNOHiaKHY6XiaHf2rGvMJaBvzgE5CtlNQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-268.jpg)
 
   
 

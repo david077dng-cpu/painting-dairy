@@ -1,3 +1,10 @@
+---
+title: Beining Park
+date: 2018-03-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Beining Park.
 =============
 
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 园内建筑在策划设计上颇具匠心。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSe5GFb2W49UbCwFl85C0Zx48CptgHL2uAq0EyN5P1J1Wo6n7j7qQNd3ln0nADVHLYpuGiaVicsLuow/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-69.jpg)
 
 今天画的是天津北宁公园的致远塔，  
 
@@ -49,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在公园的各个方向都能看到致远塔的身影。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 

@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRrm49tjic7OQKW2STQ1EfsXPNKIVFPYORfJSbV9qPubbmuu7xiaGSrfUoo3nk2xeYQdjugACbbtk3w/0?wx_fmt=jpeg)
+---
+title: The Lantern Festival
+date: 2017-05-06
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-500.jpg)
 
 The Lantern Festival.
 =====================
@@ -33,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 许个愿望，希望疫情可以赶快过去![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRrm49tjic7OQKW2STQ1EfsXmsTacibSDP4xjEdOwgD1SC27Xic42rCg3r3nwS47YvCKrg5YXWE7KT8A/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-501.jpg)  
 
   
 
@@ -41,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 我想吃“冰淇淋的诱惑”了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjRrm49tjic7OQKW2STQ1EfsXfUZI4J9YWouNibJu96WKM2sV4yggBqpMXGicUgLP664Y1AoibJ1UgoxXg/640?wx_fmt=png)  
+![](/painting-dairy/images/image-502.png)  
 
 应该要很久以后才能吃到了……  
 

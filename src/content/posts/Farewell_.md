@@ -1,3 +1,10 @@
+---
+title: Farewell
+date: 2019-04-20
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Farewell.
 =========
 
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 是时候离开了。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRcNsrjZwgl4JyZuGcHmR6IFsODBibDneOyrE2HS3ACRnX3MQo7NlwZkw6WAniauqjMicH32j2UDA4LA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-169.jpg)
 
 道别了月牙楼，
 
@@ -35,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

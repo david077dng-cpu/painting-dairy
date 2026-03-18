@@ -1,3 +1,10 @@
+---
+title: Best Regards
+date: 2019-07-21
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Best Regards.
 =============
 
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRpwGaamHo5b43QHlGibvtzfsnLn6DbJDAY3Axx5BeOpGIEOul9sZ1icia19WWE6VLWFHpcfDDMCrVDw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-74.jpg)
 
   
 
@@ -37,6 +44,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 点击“阅读全文”查看投稿方式
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/AdHQWAnA6YMHK0ub1cLG7KEoAFUTrkfFPP88tFC3tYeRtBr4nlu1gwF01NGs05Wht6yMduCzcD7llIEw79BTpg/0/gif)
+![](/painting-dairy/images/image-75.jpg)
 
 [阅读原文](javascript:;)

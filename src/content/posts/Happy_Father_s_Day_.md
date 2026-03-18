@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjS5fmibXxy4hA9UzdnTEYM5u8qZytReMs0wAPG3ibSAHHia45nxib7RJl81E38wzXjALxnCDk4I8TxE0w/0?wx_fmt=jpeg)
+---
+title: Happy Father's Day
+date: 2017-07-16
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-222.jpg)
 
 Happy Father's Day.
 ===================
@@ -31,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 突然感觉到了“父亲”这个词的重量。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS5fmibXxy4hA9UzdnTEYM5uB9ue33Q3N3w5bjnzRcibx3hrnVMlV8SF8ibSlt0pTVYPtOgUO1nCS5Eg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-223.jpg)
 
 但我山寨的这幅……
 
@@ -55,6 +62,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎留言、转发and给一个“在看”呦～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

@@ -1,3 +1,10 @@
+---
+title: Love and Peace
+date: 2017-04-11
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Love and Peace
 ==============
 
@@ -11,7 +18,7 @@ Love and Peace
 
     战争与灾难让我们失去了太多的亲人。我们一定要珍惜现在得来不易的和平。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRQlLf0KXWyIc9zEnicpmuiaUw3E7yAkjJ1VbfS94tq0M2Qmgsnpub4rssP81Dxiaics3GER4YfV28ncA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-294.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRQlLf0KXWyIc9zEnicpmuiaUZR4aRDZKWH7htPp3UEibFUMBEIJWoiaLQaK6nrUqHWzF1S8nXEJS97yg/0?wx_fmt=jpeg)
 
@@ -25,4 +32,4 @@ Love and Peace
 
     长按二维码关注公众号，欢迎大家留言~~~或转发转发转发~~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-164.jpg)

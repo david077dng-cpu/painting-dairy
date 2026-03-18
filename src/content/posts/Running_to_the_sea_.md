@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQ3fibhxt5EbcnBPBorFWcAbzTBAdeKfucCibYI7u7xicDlWmA52W8Eu2o37yZ0PkwYrHeQciaB8RWLpg/0?wx_fmt=jpeg)
+---
+title: Running to the sea
+date: 2017-06-19
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-420.jpg)
 
 Running to the sea.
 ===================
@@ -21,12 +28,12 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在外面活动就像海鲜一样，
 
-不是被烧烤就是被清蒸![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQ3fibhxt5EbcnBPBorFWcAbJ26yjcicbuIww1bJ9k0kPBNDOOI52ibWvD8lY78r7DrN68HqDZyNN35A/640?wx_fmt=png)。
+不是被烧烤就是被清蒸![](/painting-dairy/images/image-421.png)。
 
 还好高温杀菌![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQ3fibhxt5EbcnBPBorFWcAbaicFLjvlZsn4Y3SuPuBqoOyhtqu14Z5L8hmTbkbEzRDRibiaJic6vhicNicg/640?wx_fmt=png)。  
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ3fibhxt5EbcnBPBorFWcAbAD7utiaxYegbsaV5icUAib2pCBI2nzqC5symlWPHKl6VBv4YSmL6aqV1A/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-422.jpg)
 
 果然吃货的游记都是围绕美食展开的![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQ3fibhxt5EbcnBPBorFWcAbJ26yjcicbuIww1bJ9k0kPBNDOOI52ibWvD8lY78r7DrN68HqDZyNN35A/640?wx_fmt=png)……
 

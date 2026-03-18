@@ -1,3 +1,10 @@
+---
+title: Say Goodbye to November
+date: 2019-08-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Say Goodbye to November
 =======================
 
@@ -13,17 +20,17 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     我是从27号开始的，把前几天的补在这里。这个系列是按照一卷埃及主题的胶带画的，不是写生，也不是原创。胶带如下图所示：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl37Gsibv7PicUlAP6gtYexSmbURp7QibHr6aNEvL8CXM7ckSicvwzzUjCNTw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-428.jpg)
 
     从高中就很向往埃及，希望以后能有机会在埃及写生。每张都只画了一个角落，旁边空出来写地址。
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSFDYUPrLCL6PHElAeiadyexToq6zCvvUNDehMvej3cmWhHjXdB4yd1Skw4heWgSQuepqqn0dgSoBQ/0?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSFDYUPrLCL6PHElAeiadyexKUyUQFc77LWCiaUiavycyZktJvSDLUabUgSXsqwIdXn9IW6Qlh5X5dUA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-429.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSFDYUPrLCL6PHElAeiadyexDGibA1RTwiaL2CtP60lmbKXXErLwibqSUAey1dBId5CZWtgOhtF5peAYg/0?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3PDG2H8WxRydMyVNb82AS7BlJicJa9YS6qicRVFN4kzxnYfrREcHpRj4g/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-430.jpg)
 
     画的过程真的很享受，我爱水彩![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)。
 
@@ -35,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     最后放个广告，欢迎大家订阅公众号
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-164.jpg)

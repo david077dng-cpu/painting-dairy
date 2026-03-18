@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQLTuClAmXMno95XhvZBFLD7qibUkianJDHcSb5Iic3Vd7niayLZbkSic1arFYhHe0t9Ek92F2bsgKKUhg/0?wx_fmt=jpeg)
+---
+title: Embrace
+date: 2019-05-16
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-152.jpg)
 
 Embrace.
 ========
@@ -11,7 +18,7 @@ Embrace.
 
 超幸福的一家人~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQLTuClAmXMno95XhvZBFLDqjOG3xQP8V5f9v3yrjZooPfOrYFNEd5ibvLqMEEMkEI4gdpmnYAjt3Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-154.jpg)
 
 爷爷奶奶八十多了，
 
@@ -33,7 +40,7 @@ Embrace.
 
 伸手想摸摸老太太的脸。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQLTuClAmXMno95XhvZBFLDw4pV3Kl8GuCpEPicOiciacpaEAwiaz866paTREBw52sNZShSOJAdUmNeJg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-153.jpg)
 
 爷爷奶奶一辈子相亲相爱，
 

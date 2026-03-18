@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQxhsSUYNZN204myLz5Ddn2a6JtLLGUZLhhBj0icycT4wiaTIzYhMWcX1AJzHqrFVw5I8ic6wVxARQrw/0?wx_fmt=jpeg)
+---
+title: Winter Days
+date: 2019-11-12
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-581.jpg)
 
 Winter Days.
 ============
@@ -9,7 +16,7 @@ LRC LRC [PaintingDiary](javascript:void\(0\);)
 
 今天是一篇关于家乡天津的安利作品![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，感谢投稿～  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQxhsSUYNZN204myLz5Ddn2wRa6bfiaLs4x6R2Qe84MicRlemico2BcbFOBAK7xrEgNE6BDarzLbCMvQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-582.jpg)
 
 每到冬天，海河开始结冰，就陆续有海鸥飞来。随着结冰面积扩大，海鸥越来越多。或许是因为冬季海上实在太冷，这些可爱的吃货们才会到城市里来“化缘”。  
 
@@ -32,6 +39,6 @@ LRC LRC [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)  
+![](/painting-dairy/images/image-5.gif)  
 
 [阅读原文](javascript:;)

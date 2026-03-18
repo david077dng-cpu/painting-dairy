@@ -1,3 +1,10 @@
+---
+title: Best Present Ever ~
+date: 2017-11-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Best Present Ever ~
 ===================
 
@@ -11,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 当当当当 ~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQUQIukicTKxM6OQFDnHicBug5zFQYRUENY8iciasARiajO6bb5rZ67fhWZZqrrSlMc6xIYCAqiapVEXnaw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-71.jpg)
 
 小伙伴们从元旦就开始藏着掖着，
 
@@ -41,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQUQIukicTKxM6OQFDnHicBugiaXRdxylLL7ykcSFU4tg5YDEjLaJgXvxiaj08ckLXV4xzaPZo8ibgkb1w/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-72.jpg)
 
   
 
@@ -49,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎评论、留言and转发发发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQUQIukicTKxM6OQFDnHicBugwnVQicDY9TlibU0icNwiaRicd44GC23UNeZZsIQkAhvxGynJFSDDdWeZyTA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-73.jpg)
 
 点击“阅读原文”，照片变水彩~~  
 

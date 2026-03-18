@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQhjFma8szJmvk24uGScCTsNVAayWRDql5eA6kIKXnzoX9NSTKr7hBLF0NGQeFd3pdtAgEHpoQ0ZA/0?wx_fmt=jpeg)
+---
+title: Little Women
+date: 2018-09-08
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-282.jpg)
 
 Little Women.
 =============
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 就是《小妇人》啦～有没有猜对～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQhjFma8szJmvk24uGScCTs9X9TictraU6ibxPn0fYbiaLExvdOkV5crkyC7fpib6sa3uLw6Ce11GINtg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-283.jpg)
 
 电影从一个圣诞夜开始，
 

@@ -1,3 +1,10 @@
+---
+title: Take a Nap
+date: 2018-03-20
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Take a Nap.
 ===========
 
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     这就是画画的魅力吧，可以把同一个故事，以不同的情感展示出来。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTvvGT5DSQHTTibH2xoJa42aK8Mm3304ja1HKb8z2X4787bBQFxkdnU2qWMEP2wBJTxfFGOfNFBq2g/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-456.jpg)
 
     看照片想起了俺的奶奶。
 
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     在她心里，我可能永远都是拿着零花钱在校门口小摊儿上买吃的的小孩吧。
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTvvGT5DSQHTTibH2xoJa42a2zuzkfD4pDqMteDG3SibhnFrn0ehTXiazYqicvTGCyv14s946mCQbjicBQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-457.jpg)
 
     祝大家周末愉快，别忘去看看老人~
 

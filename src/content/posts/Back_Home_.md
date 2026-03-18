@@ -1,3 +1,10 @@
+---
+title: Back Home
+date: 2017-02-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Back Home.
 ==========
 
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjREJ4UQ355iciayKGFUvD1L3azpH2ZlqEfpNOI8ZBgRXwKJ5JbdiaWzMUiaZwwzFUBsLJsTk3XvW2Pv8w/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-54.jpg)
 
   
 
@@ -45,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     好啦，欢迎点赞、留言、转发。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjREJ4UQ355iciayKGFUvD1L3af0fytyoPEibibiaR9WqZx6A1VcnnB7odaDJ0LwEHnwLkvHqLEejZa1GuA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-55.jpg)
 
 点击“阅读原文”，照片变水彩    ~  
 

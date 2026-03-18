@@ -1,3 +1,10 @@
+---
+title: Last Summer
+date: 2019-08-18
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Last Summer.
 ============
 
@@ -19,7 +26,7 @@ Last Summer.
 
 记录下三个人的美好时光。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTe0ic6NnYYic0zbh9UZDauUr1jHke0WRZ3KCAYwgvdOpSk7UQsJQRJOEibzv9wUTFZibbubkdyCgTwHw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-271.jpg)
 
 2017年｜夏
 
@@ -67,7 +74,7 @@ Last Summer.
 
 这样就不用虐狗了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTe0ic6NnYYic0zbh9UZDauUrkTMdWaD0MkNJdpRUmwCodoCBaibHnPFHSZq6jGGbK5JmckYWFjcdiamQ/0?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-272.jpg)  
 
     今天投稿的是俺的高中同学~
 
@@ -79,7 +86,7 @@ Last Summer.
 
     不要让本公众号被秀恩爱的占领了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。  
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTe0ic6NnYYic0zbh9UZDauUrCmQibtJku1IGjusT4GzQPfMe75VvwyzYo1KSuCbnEbUO5msmfROpJ8Q/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-273.jpg)
 
       
 

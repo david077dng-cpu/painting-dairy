@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQkEY9iao5vatMyDoSZYakicUk96kSfvkM9X0E2lMYUN3J2AaQrPYhAibmc02rCzFzY1axmOPeZkic1mQ/0?wx_fmt=jpeg)
+---
+title: Birth of Venus
+date: 2019-11-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-81.jpg)
 
 Birth of Venus
 ==============
@@ -21,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 春之神送来美丽的裙子，
 
-“女神就是女神哇![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQkEY9iao5vatMyDoSZYakicUy4aichOczO9YpBY7Vs9W2kCl99OrZgaZKOLZVTn8xicxM4g5DBCoJnFQ/640?wx_fmt=png)～
+“女神就是女神哇![](/painting-dairy/images/image-82.png)～
 
 出场都这么不一样”  
 
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 放个原画在这里吧，
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQkEY9iao5vatMyDoSZYakicUU2TicapkUkeFibSBqbg1YjaibskAT803YB0VhyUU9qKBkJherfEwNiaXuQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-83.jpg)
 
 好啦祝大家下周学习工作顺利，
 

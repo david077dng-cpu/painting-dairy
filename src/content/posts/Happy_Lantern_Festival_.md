@@ -1,3 +1,10 @@
+---
+title: Happy Lantern Festival~
+date: 2019-02-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Happy Lantern Festival~
 =======================
 
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSaGpYQAibib7YrNpZ6LR60yFWw8tzWqiamKsEibI7foyjibEozQ6ZiaWHJFrice2bBgRIDUH3WnA2lY8sxg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-228.jpg)
 
 画中永远是最美好的，
 
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 不然连这点儿都吃不着了。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSaGpYQAibib7YrNpZ6LR60yFGAbHkc9Id7KDy69tc07wUHHSNUT9FQ7GOU3omnETp8SjpWCXVuQalQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-229.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UJOHy6MRzqC7hZ2mxjhbwONBhEU5xkmUZw2gt1nQNibmoYpmY2MYzAaw/640?wx_fmt=gif)
 
@@ -33,4 +40,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSaGpYQAibib7YrNpZ6LR60yFJqnI5oNvicBgtS3vLGTF61C1adjNt3VmEW39CylXy9T099efTLkCVpg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-230.jpg)

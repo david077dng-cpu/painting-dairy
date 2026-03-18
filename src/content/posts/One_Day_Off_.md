@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRcALYueOlRTIEy4ibFSzLr3q2vib2FibQKXCvFibpNmQP28IVc6X4ibbY6hZrSmx3rSmJsZuWYiaial4hhw/0?wx_fmt=jpeg)
+---
+title: One Day Off
+date: 2017-11-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-375.jpg)
 
 One Day Off.
 ============
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 可以回味一周![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_2.png)～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRcALYueOlRTIEy4ibFSzLr323w10iaGKdW6VYpr1Tlgqn9aqo6k9iblWC9uCy8a0xPmhqNXKt4q9AqQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-376.jpg)
 
 必须画一下记录下来，
 
@@ -43,6 +50,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

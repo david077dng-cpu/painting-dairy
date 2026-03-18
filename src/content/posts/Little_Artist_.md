@@ -1,3 +1,10 @@
+---
+title: Little Artist
+date: 2020-09-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Little Artist.
 ==============
 
@@ -13,7 +20,7 @@ Little Artist.
 
 送给小宝贝～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/painting-dairy/images/image-14.gif)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSRbLjLjrGmjv3rZH9ww2OicrNRU6xNt3d4lOicl98nicEAqJpu7fRD4SicJQk2oZQLoKdeSZ8iabokbOA/640?wx_fmt=jpeg)
 
@@ -43,7 +50,7 @@ Little Artist.
 
 　　因为贪睡忘了上学……
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 今天的文章充满了童趣哇，
 
@@ -61,4 +68,4 @@ Little Artist.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

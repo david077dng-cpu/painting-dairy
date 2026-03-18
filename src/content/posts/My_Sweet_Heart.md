@@ -1,3 +1,10 @@
+---
+title: My Sweet Heart
+date: 2017-02-16
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 My Sweet Heart
 ==============
 
@@ -23,11 +30,11 @@ Sunday
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_png/uJlBx0QiaVsicbZdKvCRN7LZEeeUsXpOib2G4HcLPvqhpbgDLWfY0oyzicekPsw35WhJjmyWw5icv6P6SiaTI8iakeylg/0/png)
+![](/painting-dairy/images/image-343.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/uJlBx0QiaVsicbZdKvCRN7LZEeeUsXpOib2CSqlibMsujsQVLPn2Ba6vvkgxh8MRia9HMLiaEEWDu9lial79Sf66EhYBQ/0/png)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQw9LibjZ9eRpOAWicmGLic9ibKibuxERgVExpNnnjEJ7epkkE74pdNYPP7HouSlCmIKrRDaqVMBT9WyuA/0/jpeg)
+![](/painting-dairy/images/image-344.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQw9LibjZ9eRpOAWicmGLic9ibKIxJdl8VNYVKHT3YT7C0I5bqzIPib1dheoLeb0M8bMwBaVWlrvB79ebQ/0?wx_fmt=jpeg)
 
@@ -37,7 +44,7 @@ Sunday
 
     如果喜欢的话，欢迎留言或者点赞，更欢迎转发转发~                
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-164.jpg)
 
     投稿请按“**阅读原文**”  
 

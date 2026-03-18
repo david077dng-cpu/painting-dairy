@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjThGCH4Ecia1EOsDJHMXMgeSGOAZEXz5us1eFJRg6wmYUpAMmEBgQiaWphmI2MvAZ6v0jBVWpzia1MMA/0?wx_fmt=jpeg)
+---
+title: First Step
+date: 2018-09-16
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-180.jpg)
 
 First Step.
 ===========
@@ -27,7 +34,7 @@ First Step.
 
 《人生第一步》就是其中一幅。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjThGCH4Ecia1EOsDJHMXMgeSibTcgae5XaFbIW8g7yXj9TiarX9lD3Xxlf5OsP8zxOxoLVERhSay513w/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-181.jpg)
 
 温馨的色调，
 
@@ -129,11 +136,11 @@ First Step.
 
 最后放上梵高和米勒的原画～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjThGCH4Ecia1EOsDJHMXMgeSefUdWaNj5YLAsK5TtczcfMOwyqdPO7f8LticcavOEU4raRFUwosDWdQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-182.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjThGCH4Ecia1EOsDJHMXMgeSSHKRibgCz5JEKEXj5iaVBhd9QaeMXqlHPCxb7hyyY0iaiaTBCQt4dCSMGg/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 哦，祝大家光棍节快乐～～～
 
@@ -143,6 +150,6 @@ First Step.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

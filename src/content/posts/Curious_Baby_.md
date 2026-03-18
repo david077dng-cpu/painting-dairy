@@ -1,3 +1,10 @@
+---
+title: Curious Baby
+date: 2018-11-16
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Curious Baby.
 =============
 
@@ -17,7 +24,7 @@ Curious Baby.
 
 欢迎更多投稿呀～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/painting-dairy/images/image-14.gif)
 
 今天的投稿来自麻麻的一个好朋友～
 
@@ -43,7 +50,7 @@ hiahiahia，
 
 每次看都能回忆起当时的场景。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 每次旅行都会有这种小意外，
 
@@ -65,4 +72,4 @@ hiahiahia，
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

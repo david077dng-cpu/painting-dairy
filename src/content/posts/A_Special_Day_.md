@@ -1,3 +1,10 @@
+---
+title: A Special Day
+date: 2018-06-08
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 A Special Day.
 ==============
 
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS3aiaY3YQjywln66WdiaBvuIEh6ibutXMtMYle4Bxpjm83rxdWRb54iagW5Kvaw7WsblJB3A9lTs3VEg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-28.jpg)
 
   
 
@@ -33,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     好不舍。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS3aiaY3YQjywln66WdiaBvuIC57fxf8hYDyXcNibicShROSVWgJhhicewRACqMgnLDLFpibX32VGlHJ4lQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-29.jpg)
 
 好啦，欢迎评论、转发and投稿~  
 

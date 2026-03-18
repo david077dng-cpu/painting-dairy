@@ -1,3 +1,10 @@
+---
+title: Dear Daughter
+date: 2017-06-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Dear Daughter
 =============
 
@@ -9,7 +16,7 @@ Dear Daughter
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSsOsXEXePeBA10KMicOmBTibzMse7ibtTs5w5NJGzWyLNsBNVQica1F0yKVy0fFecrK7474VTicn33rGQ/0/jpeg)
+![](/painting-dairy/images/image-139.jpg)
 
   
 
@@ -43,7 +50,7 @@ Dear Daughter
 
 妈妈  
 
-![](http://mmbiz.qpic.cn/mmbiz_png/jCm3390sweFtQJw9LhbwcBDk1w3fAxDbYYHdGMia15LgeStPFXTxQfNbXticj4OxG6Z69YsXJhyxv1OIBXrWPMOQ/0/png)
+![](/painting-dairy/images/image-140.jpg)
 
   
 

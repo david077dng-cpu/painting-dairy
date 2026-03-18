@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRWVuEcrc10r2RA8ic7uop29mbQOd5NP7giaja4x5EYU9bqHVnguu9jzVlEDeR39Fp66UWVmKaZasDA/0?wx_fmt=jpeg)
+---
+title: The Creation of Adam
+date: 2020-01-11
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-482.jpg)
 
 The Creation of Adam.
 =====================
@@ -11,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 不过依旧是最爱的山寨名画系列~
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjRWVuEcrc10r2RA8ic7uop29vHetk2RSialNicV3UDU9KibZ3QOrdwvMJ2H1AwmYVoicdS4AlgYeu6FK1Q/640?wx_fmt=png)
+![](/painting-dairy/images/image-483.png)
 
 今天这幅《创造亚当》最早在中学美术书上就打过照面，  
 
@@ -39,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 传递到亚当那一瞬间的触电感觉。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRWVuEcrc10r2RA8ic7uop29AnenN8xTvOkwBY6aUCDhMSx3Yzr8Y8mWgRznN3doMTu8nauhkP6dyA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-484.jpg)
 
 整个教堂都不让拍照![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjRWVuEcrc10r2RA8ic7uop29IxMW9oHdictNmPicsGQsN1rjCtjw5fNm9eabTtjm1vA8rT7dbaWk9m8w/640?wx_fmt=png)，  
 
@@ -55,6 +62,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

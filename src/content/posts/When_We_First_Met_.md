@@ -1,3 +1,10 @@
+---
+title: When We First Met
+date: 2018-12-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 When We First Met.
 ==================
 
@@ -69,7 +76,7 @@ When We First Met.
 
 也更了解自己了。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTFGLyjicFOnjFUKrbrmYQetndAItAiaG4eNH0llIFuxeWYY44JrMMxTFqexg0qGCogBkaBPNMVPocQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-574.jpg)
 
 十几年的友谊，
 
@@ -101,7 +108,7 @@ When We First Met.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

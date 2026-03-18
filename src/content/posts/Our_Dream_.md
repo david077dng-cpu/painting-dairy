@@ -1,3 +1,10 @@
+---
+title: Our Dream
+date: 2017-08-02
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Our Dream.
 ==========
 
@@ -9,7 +16,7 @@ Our Dream.
 
 感谢投稿的旁友～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTejI3fnELgSZB8lIlC2tLrYvXJctElyuOo2mZzPFDIvT70TTRZ1UjzewUiapnGXicFLyraukYmZKnQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-381.jpg)
 
 2016圆妈妈和我的梦～
 
@@ -21,9 +28,9 @@ Our Dream.
 
 西藏我还回来![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTejI3fnELgSZB8lIlC2tLrDTib7bbyZ68l3prphjIjPSIgkvhNWq67KYmiaMM0l5jlVcqYibnvzKtdw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-382.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTejI3fnELgSZB8lIlC2tLrYvXJctElyuOo2mZzPFDIvT70TTRZ1UjzewUiapnGXicFLyraukYmZKnQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-381.jpg)
 
 祝勇《西藏：远方的上方》里面说：
 
@@ -65,6 +72,6 @@ Our Dream.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

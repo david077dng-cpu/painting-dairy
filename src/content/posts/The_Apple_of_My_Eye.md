@@ -1,3 +1,10 @@
+---
+title: The Apple of My Eye
+date: 2019-06-12
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 The Apple of My Eye
 ===================
 
@@ -15,11 +22,11 @@ HRM HRM [PaintingDiary](javascript:void\(0\);)
 
     当时她门牙旁边各掉了一颗牙，一笑就能起到喜剧片的效果……
 
-![](http://mmbiz.qpic.cn/mmbiz_png/LuARjQUPtXLEVUqPArhoxsQLl48HJRYDwehg6G3EjquPeh9wcR3IibpD27yNsrWvcHVo8KWuzO5ZoPmYYUglCSQ/0/png)
+![](/painting-dairy/images/image-464.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQnMC9psj56jEoMjAUrib6FnMmibcJ0Wbu5oficKBC1XvTr9zTPUVoibTsyGiauaA1zaS42kOZX8t1ccJQ/0?wx_fmt=jpeg)
 
-![](http://mmbiz.qpic.cn/mmbiz_png/LuARjQUPtXLEVUqPArhoxsQLl48HJRYDw5YCFlic3GZOq8KBeRiaLE9Yaa7Py7t0U3o01ibYtRkcWdXpM4XicJeLfQ/0/png)
+![](/painting-dairy/images/image-465.jpg)
 
     我和弟弟相差一岁，别人也常常以此来羡慕我爸妈，说他们儿女双全。
 
@@ -49,7 +56,7 @@ HRM HRM [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQnMC9psj56jEoMjAUrib6FnzYjVD2xwDkbvvNGOF7ZYicbA6mnRibmmATb31Pe3zibKNacWlkWObDRoA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-466.jpg)
 
     很喜欢今天的文风~ 欢迎更多热爱生活的小伙伴投起稿来~
 

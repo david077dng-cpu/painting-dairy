@@ -1,3 +1,10 @@
+---
+title: Daily Life
+date: 2018-09-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Daily Life.
 ===========
 
@@ -7,7 +14,7 @@ Alone Alone [PaintingDiary](javascript:void\(0\);)
 
 今天照片来自三月的一个投稿～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/painting-dairy/images/image-14.gif)
 
 这里是天津市河北区的月牙河，
 
@@ -31,7 +38,7 @@ Alone Alone [PaintingDiary](javascript:void\(0\);)
 
 重要的是有发现美的眼睛……
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR23ichLWziaiaDWNSDyUYTL9VKbIhJ0eE6o6KfJvo3EVbocwtCc0iaNgyM9leM4WI7Aic3Wd1bSrJkDzA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-134.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
@@ -57,4 +64,4 @@ Alone Alone [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

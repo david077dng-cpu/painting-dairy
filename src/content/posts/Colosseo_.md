@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSicddbc22x006UqPqKhTdklYZicl7ZXxyOzxFhMjibjC5P4nln0JUnrFdd3s2w9k56mzYz3BEpPuib1A/0?wx_fmt=jpeg)
+---
+title: Colosseo
+date: 2020-12-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-118.jpg)
 
 Colosseo.
 =========
@@ -39,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSicddbc22x006UqPqKhTdklGibFI46oaxk5GNibWaF1ibgFaM1KvLQmur1Z6Fhu4XgZcS3g0o8zncrZw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-119.jpg)
 
   
 
@@ -61,6 +68,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 欢迎点赞、转发and给个“在看”哦~

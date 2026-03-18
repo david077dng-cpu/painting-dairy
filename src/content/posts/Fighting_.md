@@ -1,3 +1,10 @@
+---
+title: Fighting~
+date: 2019-12-12
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Fighting~
 =========
 
@@ -15,7 +22,7 @@ Icecream Icecream [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/painting-dairy/images/image-14.gif)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTJQIErex7pEoIdPvnwDCWJzicLmPTho84jrqia3LwaqsClHzjB3tQNq9lCTZltqJZvEEwib5WFpzWrw/640?wx_fmt=jpeg)
 
@@ -43,7 +50,7 @@ haha是不是很美腻（表示在分校呆着很想这里
 
 FIGHTING！！
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/painting-dairy/images/image-14.gif)
 
 突然想起来前一阵小编同学还提议画一下小编高中呢，
 

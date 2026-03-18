@@ -1,3 +1,10 @@
+---
+title: On My Way
+date: 2017-10-14
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 On My Way.
 ==========
 
@@ -13,7 +20,7 @@ TA的名字太长了，
 
 原谅我用……来替代。  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTXZwum4ShFyB26LN3JnEMEsFoF11biaN9BYz07qPaibhtHYVGjHjary2wjqnBkjwY4kIJMG2icZ8XBQ/640?wx_fmt=png)
+![](/painting-dairy/images/image-369.png)
 
 > 喜欢在路上的感觉，
 > 
@@ -37,7 +44,7 @@ TA的名字太长了，
 > 
 > 最真实的自由感觉。
 > 
-> ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTXZwum4ShFyB26LN3JnEMEYBj2cckmkjEpQlpiad4UibgiaLwF0tujO5ZY0MnZ4rIQjBvhtpDsEuGVQ/640?wx_fmt=jpeg)
+> ![](/painting-dairy/images/image-370.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTXZwum4ShFyB26LN3JnEMEsFoF11biaN9BYz07qPaibhtHYVGjHjary2wjqnBkjwY4kIJMG2icZ8XBQ/640?wx_fmt=png)
 
@@ -51,7 +58,7 @@ TA的名字太长了，
 
     欢迎点赞、评论、转发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTXZwum4ShFyB26LN3JnEMEjRQrHgNvWHUJmBfZowQgicPq7EwADqatNTKptxIKmibBxzH6Yiah9OduA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-371.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

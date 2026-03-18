@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRMvpznLme43o7SOmQAa88ruUW0Wf3Lhia5wTVHA2WhU0cbSJSib5fwdmobaUL8p9dfo2wDMNU0sfnw/0?wx_fmt=jpeg)
+---
+title: One Day In Berlin
+date: 2017-11-23
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-372.jpg)
 
 One Day In Berlin.
 ==================
@@ -19,7 +26,7 @@ One Day In Berlin.
 最神奇的是没有进站检票，  
 完全凭自觉买票。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRMvpznLme43o7SOmQAa88rVp5rpUb39ZuU4IuIBgdwhhoe00oWR072edicVb8tjFbLY8o2CTJwtMg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-373.jpg)
 
 “查票员”随机上车抽查，  
 如果发现逃票就会重罚60欧。  
@@ -41,7 +48,7 @@ One Day In Berlin.
 例如「Eimer liebt dich 」，是「桶子爱你」。  
 研究每个路过的垃圾桶也算得上最神奇的旅行体验了。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRMvpznLme43o7SOmQAa88rQHRQ1c8HgpT5Bn0IYNur1nc25ZhvHNqAbMqFIib5xTibLIWyKwLHOrvw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-374.jpg)
 
 好啦，欢迎评论、转发or给个“在看”哦~
 

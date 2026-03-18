@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSxrKwdeYbEBiaU9WCHot1yIGdhNYqySa9nUiczuxYDlkEP0uZmWptattoPelNl2IyxPicyKEGKaAnlA/0?wx_fmt=jpeg)
+---
+title: New Start
+date: 2017-09-06
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-360.jpg)
 
 New Start.
 ==========
@@ -37,7 +44,7 @@ _如这照片里的意境，_
 
 _走得更美好更久远。_
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSxrKwdeYbEBiaU9WCHot1yI5Rd6ElxWLGCJNm8SCibMon12zCkavTMOg5UknkYjIicH0lh8VrhzIoyQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-361.jpg)
 
 很巧诶，这周末小编也搬了家，
 

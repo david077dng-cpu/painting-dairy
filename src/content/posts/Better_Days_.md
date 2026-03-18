@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTpXhDNt5GAGjQ2WkibeniaAADb0U7fswnibDgqrAFia7abhYniakFMLgYhia30zoxSu0aZAs7ODbldicxEg/0?wx_fmt=jpeg)
+---
+title: Better Days
+date: 2017-02-08
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-78.jpg)
 
 Better Days.
 ============
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 高考完，我们就变成大人了，但从来没有一节课教过我们，如何变成大人。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTpXhDNt5GAGjQ2WkibeniaAAia9EmHibEiaRicPBrvMQoYuddUEic4iaPVrpyB3Z8Q4SGEDkH2e0VTrNwFnQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-79.jpg)
 
 这个课的任课老师只有时间。  
 
@@ -49,6 +56,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 勇敢直面一切。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTpXhDNt5GAGjQ2WkibeniaAAmgxCVJsCrVia494DIN6qEyIKUuCZdxl5S19kaN6ib2QQoPdfsQDUJ7RA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-80.jpg)
 
 欢迎留言、转发or给个“在看”呦～

@@ -1,3 +1,10 @@
+---
+title: First Hi
+date: 2020-11-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 First Hi.
 =========
 
@@ -9,7 +16,7 @@ Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQwJklZrhq2J40f3gKXI8HicM8gYfT5YJy4s6LnpSQVeiaVbWJWaxkJriaISMjDoVPawhpCTPFZDr6vg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-179.jpg)
 
   
 

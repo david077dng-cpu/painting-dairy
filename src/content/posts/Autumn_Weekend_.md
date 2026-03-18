@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQyO6uDm5Ribb8laUIjBSCF4iaXb6ueRFQ7U62P5DEudUBRtibqramaxDKzY6R3sP4XibcGiccl23jUQww/0?wx_fmt=jpeg)
+---
+title: Autumn Weekend
+date: 2019-11-02
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-52.jpg)
 
 Autumn Weekend.
 ===============
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 稍稍有点遗憾。
 
-不过画的时候就可以“为所欲为”了![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQyO6uDm5Ribb8laUIjBSCF4jq2PrsuPtSwNWjTLic1U9iak9iaEy26RP8ibZUlbDA8qDX29KpblziabLDA/640?wx_fmt=png)，
+不过画的时候就可以“为所欲为”了![](/painting-dairy/images/image-53.png)，
 
 果断画成金色的～  
 

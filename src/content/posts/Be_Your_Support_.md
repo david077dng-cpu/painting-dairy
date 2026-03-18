@@ -1,3 +1,10 @@
+---
+title: Be Your Support
+date: 2019-10-14
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Be Your Support.
 ================
 
@@ -31,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     ![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSHicgqYqMgFY9GgQKus9SuXGBTU00kECzwSkEDVcHfAS8eZq0NAjn3IZU8ztyfwnljCktr4UuOpmw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-58.jpg)
 
   
 
@@ -43,7 +50,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎留言、点赞and转发发发发~         
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSHicgqYqMgFY9GgQKus9SuXv4SZyO09m0p05AeVBTO9uDribM8bVV59KwGgzvwhib6ByWtfOzPoWlXg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-59.jpg)
 
 点击“阅读原文”，照片变水彩 ~  
 

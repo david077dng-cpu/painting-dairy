@@ -1,3 +1,10 @@
+---
+title: Till The End Of The World
+date: 2018-09-01
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Till The End Of The World.
 ==========================
 
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSNF59M4icSZibsOYibeuCun32EpYVqWwR6aJ4ticmlG9qqHWmxJKoLxmgicx6fFloBBwAd2AibH1hSpusQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-545.jpg)
 
 悄悄立一个flag，
 
@@ -33,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎评论、转发、点赞~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSNF59M4icSZibsOYibeuCun32icjILNhIpeHWgOQTHPheaOkwR5nmgZ9ZWWwPErpuicfSrkcpibs9tafIQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-546.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

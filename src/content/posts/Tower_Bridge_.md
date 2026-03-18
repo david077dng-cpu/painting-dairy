@@ -1,3 +1,10 @@
+---
+title: Tower Bridge
+date: 2017-03-02
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Tower Bridge.
 =============
 
@@ -11,7 +18,7 @@ We are all in the gutter, but some of us are looking at the stars.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSIc3sZ09MSP0NLprVmwIavHRZibpHWlicib4Mk4ZIsmSLnnUUkZog9epQSHoeDUz3dErH8dibBDEzHOg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-551.jpg)
 
     今天的句子……不翻译了，
 
@@ -31,7 +38,7 @@ We are all in the gutter, but some of us are looking at the stars.
 
       
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSIc3sZ09MSP0NLprVmwIavojdNDia0Yibb19N2pPDnVM95qyXm1hMDIVLzOCibiccHKUERkYsM46y5zA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-552.jpg)
 
     今天已经弹尽粮绝了，
 
@@ -43,7 +50,7 @@ We are all in the gutter, but some of us are looking at the stars.
 
     欢迎留言、转发和投稿~     
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSIc3sZ09MSP0NLprVmwIav3nPO8ohzpLQmiaEWC9zEbJxuPeuLCQpTSbvAoPs6zuC3x2akvmgF6Hg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-553.jpg)
 
 点击阅读原文，投稿吧~
 

@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTLOicQ2cT0WtTeRGFNVG0MozUwvt2bW187rpqxic1RWAyq9lLwiadibHqw9e5SdbT42PqlZP4bnkPlEg/0?wx_fmt=jpeg)
+---
+title: Dear 小编
+date: 2019-08-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-143.jpg)
 
 Dear 小编.
 ========
@@ -21,7 +28,7 @@ Dear 小编.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Ut2ABIK15q1xGLyGNBicPMcGvYib2cf7phLJ5DnVqJxnxo9yVedTRpC5Q/640?wx_fmt=gif)
+![](/painting-dairy/images/image-144.gif)
 
 Dear 小编：
 
@@ -35,7 +42,7 @@ Dear 小编：
 
         其实这次的相聚我是有点忐忑的，我怕我们会已经有隔阂，我怕我们会冷场尴尬。但完全没有，只是觉得时间怎么那么快那么短，分叉的那个路口真的有太多太多不舍，下次相见不知又要多久。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTLOicQ2cT0WtTeRGFNVG0MoEHvsGibqIgN2HtRskGCPFVKP8jibtfp8xPaDhLd8d4rBFyoU4jjhHia4Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-145.jpg)
 
         想来你毕业走的其实很突然，至少对于我是这样的感觉，突然到连离散的宴席都没有，除了毕旅，你的毕业可以说我什么都没参与，虽然我一度很在意你是第二天拍毕业照，为什么说只晚上在宿舍拍拍，有埋怨，但遗憾大于埋怨。你的离开我连送都没送你，现在想来真是惭愧，也不知道那个时候的我在想什么，码论文吗？有那么紧急吗？
 
@@ -47,7 +54,7 @@ Dear 小编：
 
 （完）
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Ut2ABIK15q1xGLyGNBicPMcGvYib2cf7phLJ5DnVqJxnxo9yVedTRpC5Q/640?wx_fmt=gif)
+![](/painting-dairy/images/image-144.gif)
 
 在北京已经呆了半年多了，
 
@@ -73,6 +80,6 @@ Dear 小编：
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

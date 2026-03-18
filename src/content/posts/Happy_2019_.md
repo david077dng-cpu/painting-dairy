@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjT1o27zlOQiaMsibHfSP4zu4CAfBPw2oks12kVIw1fvibrNLMMibwyaStZvhysKZ8Wfia4doNeLgsgNoGw/0?wx_fmt=jpeg)
+---
+title: Happy 2019
+date: 2018-07-28
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-213.jpg)
 
 Happy 2019.
 ===========
@@ -35,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 和最美好的期待。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT1o27zlOQiaMsibHfSP4zu4CIwe4R8ddfHQhdZ1G5oPSXD2NfJ82bFn59icplfDRaa9u9Y4MUjJ9qibA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-214.jpg)
 
 祝大家新年快乐~
 
@@ -49,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

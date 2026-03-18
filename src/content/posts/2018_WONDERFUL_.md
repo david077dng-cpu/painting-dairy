@@ -1,3 +1,10 @@
+---
+title: 2018 WONDERFUL~
+date: 2020-08-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 2018 WONDERFUL~
 ===============
 
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     Everything 旺旺~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmicI5zSYeqwbbG0PgxptMKrevSQzpjpbiaWq1RzX4tQuCzgichybeKVSRoZgy6tibIo6axdCMqxTlQw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-1.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmicI5zSYeqwbbG0PgxptMKsReJrLsGG7Pp6vOC95g3AicdnSxDDYQvmLNbBaMdm5YGSw18tZFtnQA/640?wx_fmt=jpeg)
 
@@ -25,4 +32,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     新年旺旺旺旺~~  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39SibTpWPD7VVWRGW9icOjDwDUK71NzYZmVyGhoia4MTpics8BGiauXTUJvqg/640?wx_fmt=png)
+![](/painting-dairy/images/image-2.png)

@@ -1,3 +1,10 @@
+---
+title: Afternoon Sunshine
+date: 2018-11-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Afternoon Sunshine.
 ===================
 
@@ -21,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR2DUumIle8iaARicItjHsyyv5XOBH4icLXIueFsOcpDycBicRqJJDhUrb3PhMVicnFJialIjXpXfeusgGw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-35.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR2DUumIle8iaARicItjHsyyvhtPA6eaRseoMPjJbkKMdenibJjclXFlBXTEltbpldZteVE8BovD8hCQ/640?wx_fmt=jpeg)
 
@@ -33,4 +40,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     再画一张![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_04.png)。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR2DUumIle8iaARicItjHsyyvtibCm7VyLv4IBiapCvZian5sIO8kNj9NJAtlDu0hGhN6O66ZDiafe4KeJg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-36.jpg)

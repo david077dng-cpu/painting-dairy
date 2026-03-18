@@ -1,3 +1,10 @@
+---
+title: Goose, Goose, Goose
+date: 2017-12-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Goose, Goose, Goose.
 ====================
 
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     从老远就把我吸引过去了。     
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8FTzJVIfdsDKJ5eibWBcRqMYAkaNNicVuqiaQPgjNb6aOgczVSs788V85UQvKPgMg2YIj7uJiccn1fw/0?wx_fmt=jpeg)    青绿色的池塘中，
+![](/painting-dairy/images/image-204.jpg)    青绿色的池塘中，
 
     几只大白鹅排排站，
 
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     内心OS：“没见过世面![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_46.png)”  
 
-    ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8FTzJVIfdsDKJ5eibWBcRqowZnZtM0g855oju7pFFKCwcyly3ykyp99M7LNbrHnFDXlgQAJxJSdg/0?wx_fmt=jpeg)
+    ![](/painting-dairy/images/image-205.jpg)
 
     今天写那个“兰亭白鹅”的时候，
 
@@ -53,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎点击“阅读原文”投稿~  
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8FTzJVIfdsDKJ5eibWBcRqj7xQNqiaJiapjZ2S8pFTz1rdC49EZibxKHA5SNicPHorgX31Ss07Rdjt5Q/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-206.jpg)
 
   
 

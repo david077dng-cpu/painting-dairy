@@ -1,3 +1,10 @@
+---
+title: It's a Beautiful Night
+date: 2018-01-10
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 It's a Beautiful Night.
 =======================
 
@@ -21,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 没想到这么快就到了这天。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTpepcIlWpemaGA2QSbRRrnY1VLIbiaibIHjYP7qL3iaiaib1YTlyEOXbBNWxObAtqv0VDUpD30Dnw4eZA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-266.jpg)
 
 站在你身边见证你一生最重要、最美丽的时刻，
 
@@ -45,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

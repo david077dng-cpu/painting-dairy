@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjS116JYGDmjOUI1Tm1D7KBU9Ouuia98tPcvrPABMicGiaJoKpvuITeAk7LrtCicQpgvWtKmibYXehNXdwg/0?wx_fmt=jpeg)
+---
+title: Beer Bike
+date: 2018-12-16
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-62.jpg)
 
 Beer Bike.
 ==========
@@ -11,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 找些原来有意思的照片练习一下水彩技法吧。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS116JYGDmjOUI1Tm1D7KBUcGsTU1icj8gvsFfctqqJWu8hprs0MSBMz4X6lpOejpMrHXXPtMzqLnw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-63.jpg)
 
 今天这个远看像个婴儿车的东西，
 
@@ -43,7 +50,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 还蛮有意思的。  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjS116JYGDmjOUI1Tm1D7KBU6Rl60EaTFKNaLeapoUOYOwmymt95ZE8WCJDjmLjjjAky7jGPo2P9Tg/640?wx_fmt=png)
+![](/painting-dairy/images/image-64.png)
 
 好啦，今天先到这。
 

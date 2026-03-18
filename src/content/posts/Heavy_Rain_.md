@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTjAZibvS7xZNZvYGhO5QlvmjjzsQpKWuPicLI9rHYlI5B7Dnpwnv7iceVwcJ7eeCpfibUWI91YB1jfmw/0?wx_fmt=jpeg)
+---
+title: Heavy Rain
+date: 2017-02-21
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-243.jpg)
 
 Heavy Rain.
 ===========
@@ -45,7 +52,7 @@ Heavy Rain.
 
 对颜色更加敏感了吧。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTjAZibvS7xZNZvYGhO5QlvmmjEyreKC5SN9YKnoGCROTxk11cuHUeTRe8G7DLF9Aneq99hArZcDeg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-244.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTjAZibvS7xZNZvYGhO5QlvmsicIz5ElqmGHV3YibqC4sj7l4WfRFlzeypgiakcO9NOSksjhYia7IxiacicA/640?wx_fmt=jpeg)
 
@@ -71,6 +78,6 @@ Heavy Rain.
 
 自己带自己回家。”  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

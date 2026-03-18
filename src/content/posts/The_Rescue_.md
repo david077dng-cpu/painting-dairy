@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQU9LQd3bvn9icOHmCicflV08gf3VT8Mh7BI89QhdswicNmqyKjcsPMw8A9k3oqHckoARMGGsW1NLOhA/0?wx_fmt=jpeg)
+---
+title: The Rescue
+date: 2020-06-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-515.jpg)
 
 The Rescue.
 ===========
@@ -33,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 向英雄们致敬！Salute！('-'\*ゞ
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQU9LQd3bvn9icOHmCicflV088wOweAJQgbpjmHXBOevImwrNC6q6ic1IaXmjaV9fJxYXdB9wflPMFUQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-516.jpg)
 
 另外，这次电影里出现了女机长~好帅呀![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQU9LQd3bvn9icOHmCicflV08pqHicqk9jVVo8cS4ich0micaJ7UHtegUYc9CiaT06BT7p2K3xqefVPrW0g/640?wx_fmt=png)~
 

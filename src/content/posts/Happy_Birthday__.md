@@ -1,3 +1,10 @@
+---
+title: Happy Birthday！！
+date: 2019-10-06
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Happy Birthday！！
 ================
 
@@ -5,7 +12,7 @@ Happy Birthday！！
 
 在小说阅读器中沉浸阅读
 
-![](http://mmbiz.qpic.cn/mmbiz_png/6k3D86Bickt5lVEBNicShhPQPhcicsPMekDH2KuMMnicRtvicrzSqicHxW7icnSO6udll88X9Is2aQqgicGlMNoELPSZeQ/0/png)
+![](/painting-dairy/images/image-217.jpg)
 
     今天是一位小仙女的生日，我邀请了她的好友为她画画像，由于有位朋友技术比较生疏…
 
@@ -21,7 +28,7 @@ Happy Birthday！！
 
 首先，是手写的祝福。
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8bnucts8DUxt8ChtDwlScWSyuSIza2H3063zsicSpaa2Dbq0d6XodJEba8IGaqicvLJ8XSVHAMPibA/0/jpeg)
+![](/painting-dairy/images/image-218.jpg)
 
   
 
@@ -41,7 +48,7 @@ Happy Birthday！！
 
 永远像那天那么开心哦~
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8bnucts8DUxt8ChtDwlScYYiaVauH0f23l9Cl80Via5dPPwl5Zbh2vs23yMicEXy41hx7jvsSuwOBg/0/jpeg)
+![](/painting-dairy/images/image-219.jpg)
 
   
 
@@ -83,7 +90,7 @@ Happy Birthday！！
 
 （原谅我是手残党，如果我画眼睛，担心会被绝交……在我心目中她不是爱财，而是一个有经商头脑的美少女！）
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8bnucts8DUxt8ChtDwlScuUtDywJH5wzZ71iar3fKrbclH0JicJ26xPcRjtvalgVxgvua2ibueufVg/0/jpeg)
+![](/painting-dairy/images/image-220.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/6k3D86Bickt5lVEBNicShhPQPhcicsPMekDH2KuMMnicRtvicrzSqicHxW7icnSO6udll88X9Is2aQqgicGlMNoELPSZeQ/0/png)
 
@@ -97,4 +104,4 @@ Happy Birthday！！
 
     好啦，今天先到这， 欢迎留言！欢迎转发！！欢迎投稿！！！
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8bnucts8DUxt8ChtDwlScaWPvmfCN5b4nWTc8XicHHRPwMyPdoiczfu3ibqknUEZzRaEPEaH90FQicw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-221.jpg)

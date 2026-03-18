@@ -1,3 +1,10 @@
+---
+title: Chinese Chess
+date: 2019-01-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Chinese Chess.
 ==============
 
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 当然以上全部来自笔者的想象。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRCYmKD4CAsVt3L5833fvVrvxAsBZf511icAJ3cmOpd43mnMaicJhzwV8f7FkbTb3MRX087okeyxl1A/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-114.jpg)
 
 不过感谢二位大爷，
 

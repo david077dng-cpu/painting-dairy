@@ -1,0 +1,48 @@
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRMvpznLme43o7SOmQAa88ruUW0Wf3Lhia5wTVHA2WhU0cbSJSib5fwdmobaUL8p9dfo2wDMNU0sfnw/0?wx_fmt=jpeg)
+
+One Day In Berlin.
+==================
+
+原创 LCX LCX [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+  
+
+最近远赴德国找胡博士玩，  
+已经在柏林呆了一天多的时间，  
+有两个东西给我留下印象最深，  
+……地铁和垃圾桶。  
+坐了四五次地铁才发现这里的地铁木有安检，  
+并且可以牵着狗狗上地铁，  
+也可以推着自行车上地铁，  
+最神奇的是没有进站检票，  
+完全凭自觉买票。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRMvpznLme43o7SOmQAa88rVp5rpUb39ZuU4IuIBgdwhhoe00oWR072edicVb8tjFbLY8o2CTJwtMg/640?wx_fmt=jpeg)
+
+“查票员”随机上车抽查，  
+如果发现逃票就会重罚60欧。  
+今天就遇到了查票员，  
+当我哆哆嗦嗦拿出票时，  
+我自己和帮我买票的胡博士都屏气凝神，  
+生怕之前买错了车票。  
+还好顺利过关，  
+我俩相视一笑，长舒一口气。  
+  
+另外一个特别有意思的就是城市中优秀的垃圾桶们，  
+每个垃圾桶都是高调的亮橙色，  
+并且因地制宜，
+
+不同位置的垃圾桶写着不同的字。  
+例如位在博物馆前人行道上的垃圾桶，写的就是「Museum of modern trash」，就是「现代垃圾的博物馆」![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。  
+有的垃圾桶也会和人对话。  
+例如写着「Gib's mir」，就像是叫你把垃圾「拿来！」。  
+例如「Eimer liebt dich 」，是「桶子爱你」。  
+研究每个路过的垃圾桶也算得上最神奇的旅行体验了。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRMvpznLme43o7SOmQAa88rQHRQ1c8HgpT5Bn0IYNur1nc25ZhvHNqAbMqFIib5xTibLIWyKwLHOrvw/640?wx_fmt=jpeg)
+
+好啦，欢迎评论、转发or给个“在看”哦~
+
+Danke schön~ 谢谢~

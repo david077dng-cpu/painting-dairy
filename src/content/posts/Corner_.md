@@ -1,3 +1,10 @@
+---
+title: Corner
+date: 2019-06-16
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Corner.
 =======
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > ——《春水》 冰心
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRcTzEdV71F12sY2ZwBCpx8snwYCMKYbHs7ehvzkahVpibBgdOMU7OHMRIt5cibTvUAvfNVAogkHWfw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-127.jpg)
 
     今天的画来自太后娘娘投稿![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)
 
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRcTzEdV71F12sY2ZwBCpx8kbUG207Ey03VvrjwjOOiaxibic6ciaiczHQM6mbWMNZvV7PbytN4qQAic7Jg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-128.jpg)
 
     周末来了，
 
@@ -51,7 +58,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     祝大家周末愉快![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)。
 
-    ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRcTzEdV71F12sY2ZwBCpx8IGZ1Xuib5XibxEtAZ9HTDAOZtBX0R53gia1TdWib7fT0gvGoGm4iaYbNL8Q/0?wx_fmt=jpeg)
+    ![](/painting-dairy/images/image-129.jpg)
 
 点击阅读原文投稿吧~
 

@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSNlxeSDwoic9qeZrYJhT9uHGltNnQlnP4s9sdua8AQxmM1RxHkSsCUNiao4Q6hWDFv35ns90Lg041w/0?wx_fmt=jpeg)
+---
+title: Autumn In Beijing
+date: 2020-12-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-49.jpg)
 
 Autumn In Beijing.
 ==================
@@ -21,7 +28,7 @@ Autumn In Beijing.
 
 一定会很美很美。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSNlxeSDwoic9qeZrYJhT9uHoB0lGJYus6cdw90kM7dwCMh3ZuFbia9GRbvO0Eu4iaBrCLUZGlwoceOg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-50.jpg)
 
 我到的时候正好是中午，
 
@@ -47,7 +54,7 @@ Autumn In Beijing.
 
 果然这才是北京。。。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjSGdxpMkXrePeddWUXxnicW4xKRrkiaHlAK1MgbnQoNpSufwHReqPrfKicQ8sKnIicaFaicgp5I99Hv3xA/640?wx_fmt=png)
+![](/painting-dairy/images/image-51.png)
 
 今天的一日游很惊喜，
 

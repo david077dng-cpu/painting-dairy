@@ -1,3 +1,10 @@
+---
+title: Heaven's Door
+date: 2019-12-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Heaven's Door.
 ==============
 
@@ -5,7 +12,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTLSZrLxEMFUvmqWxZoibJK0UZxbccfOHglpUNXQB5SiapvpW9B2ZnR67mpyGnEXPm8X1eOV2vx6ODQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-240.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTLSZrLxEMFUvmqWxZoibJK0pEb2VuXZktQMOS64icyjzM3gE65zS3lwXlMkdSCxx1DNiaNbQC5Hg6Jw/640?wx_fmt=jpeg)
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 上面的文字是捐献这座鸟居的人的名字和日期：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTLSZrLxEMFUvmqWxZoibJK0EGRq7BxsV2U4ubNHhIB02SHFQcwSxbDicA5xw3jJVhmibxXxTnBWjSEg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-241.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTLSZrLxEMFUvmqWxZoibJK0wGibfOYBxj2WmBKgalfQGhTVMmuPHCe9oYd8vUcVSdysHGTs5BfyJ9A/640?wx_fmt=jpeg)
 
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     好了，欢迎评论点赞and转发~~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTLSZrLxEMFUvmqWxZoibJK0PIGD9kOksJLTLqaqSHjgpX65wVBhQ9VnMzgkPoicNWtaBqXrxug2JYg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-242.jpg)
 
 点击“阅读原文”把照片变成画吧~  
 

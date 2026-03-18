@@ -1,3 +1,10 @@
+---
+title: Endless Love
+date: 2019-01-19
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Endless Love.
 =============
 
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQJtISZkc70STLicamKY3ibcJibo1j2IuFSIVfalpyuPjbTiaxmOPVSREdN1Dr2Ppwg8M9rZjLofU2Lhg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-158.jpg)
 
   
 
@@ -35,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UqQTMiay3wVnk8sGJIEMF5lcjNzWeuRRNWhE7d7hUdQfmHmKhqPzIC7Q/640?wx_fmt=gif)
+![](/painting-dairy/images/image-159.gif)
 
   
 
@@ -49,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 附上徒弟今天画的柯南~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQJtISZkc70STLicamKY3ibcJEmTjENPfVZibHoebdwuynNcZicpic626u2rFKEtiaIOEIYWtXe8IZia9z4w/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-160.jpg)
 
 是不是很有感觉~
 
@@ -61,4 +68,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎评论、转发and转发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQJtISZkc70STLicamKY3ibcJEjxN07SX6BibWaHcHJCZic7hgC8u6N3VjOdks4nicQNq6eoAWZ2iaMobyg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-161.jpg)

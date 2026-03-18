@@ -1,3 +1,10 @@
+---
+title: For Mako
+date: 2020-03-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 For Mako.
 =========
 
@@ -19,10 +26,10 @@ Mr. Funny Mr. Funny [PaintingDiary](javascript:void\(0\);)
 
 欠了六天的影评，就到这吧。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQPoeib3ZoBFJnLM03SqW6Yljf5zx2543wpEz2vQWor49XWianDd4z41sHoeibEwa8iaXpxp4OhpwWXCA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-189.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

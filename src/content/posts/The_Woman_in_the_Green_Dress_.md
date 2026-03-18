@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTOnSUjEdBhctDa6vzeCichADiaCh1MDsyNct5veHlHK3Y8jCMWDFQicNOGibXnBgEY5xp8Sia9DMjwUUw/0?wx_fmt=jpeg)
+---
+title: The Woman in the Green Dress
+date: 2017-04-28
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-530.jpg)
 
 The Woman in the Green Dress.
 =============================
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 特别能感受到画中人的气质和魅力。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTOnSUjEdBhctDa6vzeCichAqict0tTDoNDXTRotibSn4B1ficibZpYOAvM5QJK9zzooW6aTXdBB1Ieyxw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-531.jpg)
 
 这幅画里面的绿衣女子正是当时莫奈的女朋友，  
 
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 笔下更多的是：草垛、花园、水塘、小桥，  
 
-还有他越画越大的睡莲![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTOnSUjEdBhctDa6vzeCichAz18jibkKbp2ybZiaGmmf57c7KFQSlLfJmB3icnvIEfXTccicwcljgC8ZTw/640?wx_fmt=png)。  
+还有他越画越大的睡莲![](/painting-dairy/images/image-532.png)。  
 
 好啦，今天就到这，  
 

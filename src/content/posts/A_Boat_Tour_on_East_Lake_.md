@@ -1,3 +1,10 @@
+---
+title: A Boat Tour on East Lake
+date: 2017-04-22
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 A Boat Tour on East Lake.
 =========================
 
@@ -7,7 +14,7 @@ LJX LJX [PaintingDiary](javascript:void\(0\);)
 
     今天的投稿来自于一次绍兴东湖之旅。
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/7sqjFUWsmFp0BjZqPypXMuBWzUaibtz2LzeecB9zQA6THAHKiasr6F9DeXIVprgy63KtZrbEicCH1rD3TwKE6Fyzw/0/gif)
+![](/painting-dairy/images/image-15.jpg)
 
 古镇，老屋，石桥，小溪，
 
@@ -25,7 +32,7 @@ LJX LJX [PaintingDiary](javascript:void\(0\);)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTgWPficg5DtRIicAsCENcVjMfd0nSDH0eOWJhBXibVibou64p1GARibOUXcOCa9CE7K7Q99icPWb4IKR7A/0/jpeg)
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/LmgYGfyJscqxO4upB7R3MVTe2c7cK2Tzg0VSubLrKF7AQyANVHIPmz3ia2DqticucCWWsOWk0j09qJ9Gc5pC3gog/0/gif)
+![](/painting-dairy/images/image-16.jpg)
 
 欢迎点赞~转发~~投稿~~~
 

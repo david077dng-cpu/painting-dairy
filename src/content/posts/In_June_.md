@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSfiaQnvic0YWjmpojJAibU5y1moTgsnZ0orv2v1fI8C6dPKmNAF674Qic3jooWUYq2feMQ1ic9ltib8Sfg/0?wx_fmt=jpeg)
+---
+title: In June
+date: 2020-07-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-260.jpg)
 
 In June.
 ========
@@ -19,7 +26,7 @@ In June.
 
 亭亭玉立，一尘不染的粉色荷花。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSfiaQnvic0YWjmpojJAibU5y1LjviaK20A2xAp1O0YVYib8l3D19Ut910Abk9rUEeUHjricgdpyuotsyVA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-261.jpg)
 
 她们的美神笔马良也难画难描。
 
@@ -45,6 +52,6 @@ In June.
 
 欢迎评论、转发and给个“在看”～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQEkgxeVMibddvbFRIBIUH5Omicl0AibQWU6LTqIcibicGGe813jqYQiaenFZJxGqwicKjqdTicTBm746WlQw/0?wx_fmt=jpeg)
+---
+title: Long Time No See
+date: 2018-03-11
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-284.jpg)
 
 Long Time No See.
 =================
@@ -20,7 +27,7 @@ Long Time No See.
 裹的和俄罗斯套娃一样的人出现在我视线中的时候，  
 我简直要从窗台飞下去了～  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQEkgxeVMibddvbFRIBIUH5OfNwUjQCLnRmiaZyLHhBZJ9CcL4fxvxnSqGzoeY8rdytQJKwZA89QCsg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-285.jpg)
 
 三爷今儿又双叒叕落枕了，  
 但依然稳定地发挥欠揍的天分。  
@@ -34,7 +41,7 @@ Long Time No See.
 最后我终于拿到了三爷的墨宝，  
 独家订制cp，  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQEkgxeVMibddvbFRIBIUH5OKY3t6iaC02lALtQafe8l3G4liagD3uuQia6w88B0DL0pN7icAuXhgEP74w/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-286.jpg)
 
 据她说是今年的巅峰之作，  
 心满意足～
@@ -43,7 +50,7 @@ Long Time No See.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

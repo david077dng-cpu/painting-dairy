@@ -1,3 +1,10 @@
+---
+title: Yesterday Once More
+date: 2017-12-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Yesterday Once More
 ===================
 
@@ -18,7 +25,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     **这种历史悠久的小洋楼儿天津有很多哒，欢迎大家来天津走走~**
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjREp1ciaYErX2b7uwBS9B8q85OiaxviagHyibdoq3IyiaTVs0LkaVJxpo4EloAf99UCgC2ibe8xrV6qTiblQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-595.jpg)
 
     **今天的画风比较抽象，和平时不太一样，没有太多写实的阴影，希望你们也会喜欢~**
 
@@ -26,7 +33,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     这幅画来自于一卷美丽的胶带，如下图所示：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjREp1ciaYErX2b7uwBS9B8q8yAic1DARQKs6JEEbbLzeSpTq3SicEGOKZTKxfm3uzwEm3rDUFDQSfAnQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-596.jpg)
 
     喜欢的话欢迎订阅公众号~ 更加欢迎点赞或转发转发转发~~~
 

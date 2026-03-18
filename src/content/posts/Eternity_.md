@@ -1,3 +1,10 @@
+---
+title: Eternity
+date: 2018-02-01
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Eternity.
 =========
 
@@ -5,7 +12,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTPZjPr7ibdD3S8jW2EXXK9F5oQgmDWu8EnqKAsnGJJRzyNQWoZyu7WE5GGdewOgVSqUrmeQB0R7UA/0?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-165.jpg)  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTPZjPr7ibdD3S8jW2EXXK9F1rW1npSiapJbXdvPM9LmTRA7194avo8tibw4A1YSYARgjazNKibV9YdBw/0?wx_fmt=jpeg)
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     画一张表敬意。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTPZjPr7ibdD3S8jW2EXXK9Fj46dIdLpwiczGGSmibjS2fazXnIpjWsfQeXnfWhg68KYuwT4qtia4Cqyg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-166.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTPZjPr7ibdD3S8jW2EXXK9FLCKic5gAWkVZdc5MXN5XUeeUKOBpEXedssVLCGdtymHcXQzKCWZspfQ/0?wx_fmt=jpeg)
 
@@ -31,4 +38,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎点赞、评论和转发~
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTPZjPr7ibdD3S8jW2EXXK9FrEmfQDfCzXCoyXzVdW0TOKfnibdT8eyThGOpU9D9dExtuJHKVoLvBqw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-167.jpg)

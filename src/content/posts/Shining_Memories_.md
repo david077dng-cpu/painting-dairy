@@ -1,3 +1,10 @@
+---
+title: Shining Memories
+date: 2019-03-21
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Shining Memories.
 =================
 
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ7DbpwAUbFRjQm3UZDiaXXibY10vlS5ib0tbehw6jBa8icibI1KuHLdY2kHj65KNN85okBVYAYXhibeNcQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-432.jpg)
 
   
 
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎评论、转发and投稿~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ7DbpwAUbFRjQm3UZDiaXXibqDwjgRp4ErXNDLAN0qLxoUD4OyAWYp6ZbKjJ5aFIgOrGWl1eiblIKUA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-433.jpg)
 
 点击“阅读原文”，照片变水彩 ~  
 

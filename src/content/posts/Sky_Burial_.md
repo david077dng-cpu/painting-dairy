@@ -1,3 +1,10 @@
+---
+title: Sky Burial
+date: 2020-11-06
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Sky Burial.
 ===========
 
@@ -31,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 灵魂会随着飞翔的秃鹫回归天界。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQicL9jABKiahxORIyBhibic1U2ScmlxtAPTk1NZibZle3b0m0Fx3ejGaDQ17fkh8xJsnxu8drNicW9tlCg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-434.jpg)
 
 藏族人用最后的属于自己的一点点物质，
 
@@ -57,7 +64,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 

@@ -1,3 +1,10 @@
+---
+title: The Theatre in Zijingang
+date: 2020-01-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 The Theatre in Zijingang.
 =========================
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 里面这个冷呀。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsKRhUj8WibE9zicRp11roGBspodIzBdniaiabt5Oe6UoK432IEKdDo48zrA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-526.jpg)
 
 小剧场坐落在月牙楼对面，
 

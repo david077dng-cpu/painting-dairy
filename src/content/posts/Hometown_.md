@@ -1,3 +1,10 @@
+---
+title: Hometown
+date: 2020-11-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Hometown.
 =========
 
@@ -5,7 +12,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQaISSMI3zNaiaFlVAYXMicTC1otiaCKIgotJ0NFIPqIGbXOO8tvZYULtRLamW8q8kZEezicCu0gSrQvw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-249.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQaISSMI3zNaiaFlVAYXMicTCYk15kvt5YicEyhe23hrxPYUHuO46gydS5Ymnlics6caILN3TIu4uLkmA/0?wx_fmt=jpeg)
 
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
  （下图来自百度）  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQaISSMI3zNaiaFlVAYXMicTCLlARnsyyQI5icCdO59pZlbTNqohbdiaMicXAkpaliaRC54wicTxAScibazNA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-250.jpg)
 
   
 
@@ -27,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     好啦，欢迎评论、点赞和转发~  
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQaISSMI3zNaiaFlVAYXMicTCPw4hicZibWqRbSutcgiaFdCKWqguPTSfgoDzhfwOR8PzWeJZpLwibcQWLw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-251.jpg)
 
 点击“阅读原文”留下你的投稿~  
 

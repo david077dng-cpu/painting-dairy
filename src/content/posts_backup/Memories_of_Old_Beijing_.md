@@ -1,0 +1,76 @@
+Memories of Old Beijing.
+========================
+
+林海音 林海音 [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+    骆驼队来了，停在我家的门前。
+
+    它们排列成一长串，沉默地站着，等候人们的安排。
+
+    天气又干又冷。
+
+    拉骆驼的摘下了他的毡帽，秃瓢儿上冒着热气，是一股白色的烟，融入干冷的大气中。
+
+    另外一个拉骆驼的在招呼骆驼们吃草料。它们把前脚一屈，屁股一撅，就跪了下来。
+
+    爸爸已经和他们讲好价钱了。人在卸煤，骆驼在吃草。
+
+    我站在骆驼面前，看它们吃草料咀嚼的样子：那样丑的脸，那样长的牙，那样安静的态度，它们咀嚼的时候，上牙和下牙交错的磨来磨去，大鼻孔里冒着热气，白沫子沾满在胡须上。
+
+    我看得呆了，自己的牙齿也动起来。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSY2pqLuCcTviallNCAETYqTe54fyIQZ9Eh0dkNtrQN3b0pic9K6mm5jMKSQCVfWcia3cLVKydvBXiavQ/640?wx_fmt=jpeg)
+
+    老师教给我，要学骆驼，沉得住气的动物。
+
+    看它从不着急，慢慢地走，慢慢地嚼；总会走到的，总会吃饱的。
+
+    也许它们天生是该慢慢的，偶然躲避车子跑两步，姿势很难看。
+
+    骆驼队伍过来时，你会知道，打头儿的那一匹，长脖子底下总会系着一个铃铛，走起来，“当、当、当”的响。
+
+    “为什么要系一个铃铛？”我不懂的事就要问一问。
+
+    爸爸告诉我，骆驼很怕狼，因为狼会咬它们，所以人类给它们戴上了铃铛，狼听见铃铛的声音，知道那是有人类在保护，就不敢侵犯了。
+
+    我的幼稚心灵中却充满了和大人不同的想法，我对爸爸说：
+
+    “不是的，爸！它们软软的脚掌走在软软的沙漠上，没有一点点声音，你不是说，它们走上三天三夜都不喝一口水，只是不声不响地咀嚼着从胃里倒出来的食物吗？一定是拉骆驼的人类，耐不住那长途寂寞的旅程，所以才给骆驼戴上了铃铛，增加一些行路的情趣。”
+
+    爸爸想了想，笑笑说：
+
+    “也许，你的想法更美些。”
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UqQTMiay3wVnk8sGJIEMF5lcjNzWeuRRNWhE7d7hUdQfmHmKhqPzIC7Q/640?wx_fmt=gif)
+
+超级喜欢《城南旧事》的第一章，
+
+每次看到写骆驼的那段，
+
+都会忍不住跟着骆驼动起嘴巴来。
+
+巧的是爸爸上午刚给我转了这位水彩插画作者关维兴的故事，
+
+下午就在书店看到了他出的插画版的城南旧事。
+
+感觉很奇妙。
+
+可以把作家的文字变成这么生动的画作，
+
+大师心中一定也是充满温情与童趣的吧。
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UqQTMiay3wVnk8sGJIEMF5lcjNzWeuRRNWhE7d7hUdQfmHmKhqPzIC7Q/640?wx_fmt=gif)
+
+祝大家中秋快乐~
+
+欢迎点赞、留言and转发发发~
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+
+[阅读原文](javascript:;)

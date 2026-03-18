@@ -1,3 +1,10 @@
+---
+title: Mama's Papa
+date: 2017-09-12
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Mama's Papa
 ===========
 
@@ -9,7 +16,7 @@ Mama's Papa
 
 **照片故事**
 
-![](http://mmbiz.qpic.cn/mmbiz_png/aJoIpGphficicZgq0JA11gHw34YBz28LOSNbKEnQvLtviaM5NGLFH2k0f1kwTmWbLgsmrU9GQwlCr38Iw6mMw5kibQ/0/png)
+![](/painting-dairy/images/image-297.jpg)
 
 “这是今年外公80岁生日的一张抓拍，
 
@@ -69,15 +76,15 @@ Mama's Papa
 
 于是有了这张照片。”
 
-![](http://mmbiz.qpic.cn/mmbiz_png/Rwic7pNiamLg7E5lT9LKIH6udkhLAwEJn9I7WWvqGSoa5WszDkKyEKlMerhrEayyRg60C0rpxBibYebibsJkib62fxQ/0/png)
+![](/painting-dairy/images/image-298.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/Rwic7pNiamLg7E5lT9LKIH6udkhLAwEJn9Js3af31cs1MPLy4H8qAvjun8G5Namia03dKKD8NAwudLKbqsDgCXKLQ/0/png)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGz2UZaPU91p15pvo4K6ul9ORA1ucvwnQqAhybhLDUGfELbMBSO3sPaBIBTmmVVUmcdod8e9jq7g/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-299.jpg)
 
 **关于dear外公**
 
-![](http://mmbiz.qpic.cn/mmbiz_png/aJoIpGphficicZgq0JA11gHw34YBz28LOSNbKEnQvLtviaM5NGLFH2k0f1kwTmWbLgsmrU9GQwlCr38Iw6mMw5kibQ/0/png)
+![](/painting-dairy/images/image-297.jpg)
 
 外公年轻的时候是个会计，退休后一直和外婆过着城市人民歆羨的农耕式田园生活。
 
@@ -149,7 +156,7 @@ ohlala,
 
 美好也常相随。
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQGz2UZaPU91p15pvo4K6ulsfviaUzKbP98lO6G4uJ23dgrU7Rm8bUy4KY6CicicYESXpGtrvZ0JnTVw/0/gif)
+![](/painting-dairy/images/image-300.jpg)
 
 **最后的最后**
 
@@ -163,7 +170,7 @@ ohlala,
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGz2UZaPU91p15pvo4K6ulVKPwDp0qu878wlDPv7yicI2GwL38GwB9mSbzGtHqJSKNImaRHibZJYIg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-301.jpg)
 
     今天的文章是不是很棒！感谢师妹的投稿，她最后夸我那几句实在是句句发自肺腑啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)
 
@@ -171,4 +178,4 @@ ohlala,
 
     长按关注我们吧~  
 
-    ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGz2UZaPU91p15pvo4K6uluMVIupX40kEopTkOmtGstaooHlqsWaqoOdLA4Ria1YmhEblalILLhXQ/0?wx_fmt=jpeg)
+    ![](/painting-dairy/images/image-302.jpg)

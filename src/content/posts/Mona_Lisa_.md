@@ -1,3 +1,10 @@
+---
+title: Mona Lisa
+date: 2017-09-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Mona Lisa.
 ==========
 
@@ -17,7 +24,7 @@ you'd be my Mona Lisa.
 
 老夫的少女心呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSZjiahcCAwJ7lGmWDqKRUq41YI0ia5yo4YD2CJcNk4onDjV8riauoJ3FrBTXLRFtoHkKLPVJC9K11Ng/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-313.jpg)
 
 如果票选世界上最著名的画作，
 
@@ -45,7 +52,7 @@ you'd be my Mona Lisa.
 
 都可以感受到大师不朽的精神。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 为了满足某些朋友找不同的爱好，
 
@@ -57,7 +64,7 @@ you'd be my Mona Lisa.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
   
 

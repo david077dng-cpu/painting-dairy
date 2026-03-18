@@ -1,3 +1,10 @@
+---
+title: Mr. Detective
+date: 2019-05-24
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Mr. Detective.
 ==============
 
@@ -11,7 +18,7 @@ Mr.Funny在消失了好几天之后，
 
 撒花~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSt6rfb9cjLX9f2Cq5SEgBdVC3fQWR9qqQE5F8SxNxDdVmHHxviak2L2CHZJFicm6Fa82JDrTDc8nnA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-325.jpg)
 
 今天还有一个特殊的投稿人~  
 

@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjStUSmO4HUwuUgNbG4Pj3Bia2OmyicuK8H59GeO1fc7NfWibb1C4OBAT7kFKiaEylkbNTlFibn2mib9kltQ/0?wx_fmt=jpeg)
+---
+title: My Babe, My Piggy～
+date: 2017-11-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-327.jpg)
 
 My Babe, My Piggy～
 ==================
@@ -11,7 +18,7 @@ My Babe, My Piggy～
 
 感谢投稿～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjStUSmO4HUwuUgNbG4Pj3BiaTUlhhtCTCsAur1DTXUMvibciblQ91FbTXj3yBJ0v0V8UTJSgM4n9urYQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-328.jpg)
 
 处女座饲养员，男，30岁。
 
@@ -25,7 +32,7 @@ My Babe, My Piggy～
 
 你说过陪伴是最长情的告白，那么宠溺就是告白后的呵护。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjStUSmO4HUwuUgNbG4Pj3BianySZDOey8MibNiaJWn2iajSjZWIkn6KqbH8w9dFnSBR8dVzsiaX1BFQXCA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-329.jpg)
 
 2018年4月29日，你的生日，那一天我们结束了漫长的恋爱，我们结婚了！一周年快乐！  
 
@@ -39,7 +46,7 @@ My Babe, My Piggy～
 
 也祝我们结婚一周年快乐！
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjStUSmO4HUwuUgNbG4Pj3BiaTUlhhtCTCsAur1DTXUMvibciblQ91FbTXj3yBJ0v0V8UTJSgM4n9urYQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-328.jpg)
 
 哎～呀～好丰盛的狗粮啊，
 

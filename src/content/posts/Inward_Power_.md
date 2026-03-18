@@ -1,3 +1,10 @@
+---
+title: Inward Power
+date: 2017-07-19
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Inward Power.
 =============
 
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0UXPG2lEmxSUnqlJk0cmIxknOoPAfqwlFscc1VmGDh5EkUsCV9NZqicGbEKHd4eCCrkzfibRoW9tA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-264.jpg)
 
     此心安处是吾乡，
 
@@ -39,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0UXPG2lEmxSUnqlJk0cmIoiavs1Tsc59mqV6gRSQTg6oU1XuiaQCXD471TEMXgMJUB9qvgb7h3TIQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-265.jpg)
 
   
 

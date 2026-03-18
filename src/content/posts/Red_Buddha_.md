@@ -1,3 +1,10 @@
+---
+title: Red Buddha
+date: 2018-07-11
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Red Buddha.
 ===========
 
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 下面这张是我超级喜欢的一张，
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQv24KSq7rkrVO3EbFRgNygmzgQgKySfZTnJv2BbIwLWZzwlthMlsgpDWdT2uSv6TSBuhibncWAwFw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-410.jpg)
 
 她说她看到这个景色就不自觉地用了金色来渲染。
 
@@ -41,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 我决定挑战一下色达的佛学院。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQv24KSq7rkrVO3EbFRgNygjr2lP6ktppWJbicDTe5qyEcEdz80LxzWwU8nYib2Pv4wbxqjicdkkhwLA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-411.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQv24KSq7rkrVO3EbFRgNygdkCrTlaH5EzSfU2Vrlgo3ZVex2spMxA4JzN5ssUmkbjPVkTicFt2fCQ/640?wx_fmt=jpeg)
 
@@ -53,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 希望可以与大家共勉。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 
@@ -61,6 +68,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

@@ -1,3 +1,10 @@
+---
+title: Loving Vincent
+date: 2019-01-24
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Loving Vincent.
 ===============
 
@@ -23,13 +30,13 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_png/agPBEQHTf5ibI8tZ9cicLMVZ7nTWm4YicIpQzFt5seam3icicQSufDV4fnpVv5IP4v0bxCfzqjicibOPnobVX8OuqCG8Q/0/png)
+![](/painting-dairy/images/image-290.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/agPBEQHTf5ibI8tZ9cicLMVZ7nTWm4YicIpQzFt5seam3icicQSufDV4fnpVv5IP4v0bxCfzqjicibOPnobVX8OuqCG8Q/0/png)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSscFxSJN6Y5eY13EcaUoVftnicwUic9f3w9zIviamWWuzfWliaoTNaKLBrwzfNSqK7ia5LWia0tZzpTK1w/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-295.jpg)
 
     结尾单色的梵高画像让我好震撼，
 
@@ -65,7 +72,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     欢迎投稿，点击阅读原文查看投稿方式。
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSscFxSJN6Y5eY13EcaUoVfubficQiciaIk7X9iabVVWMiaicr8gfc5JuItAELIDCpQmtwlLvBdnebiaqzww/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-296.jpg)
 
   
 

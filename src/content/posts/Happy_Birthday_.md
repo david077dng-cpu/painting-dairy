@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRicbrIIaWbWzAKb6WrpfPjAYEqsdfWqcy6XdJeI4w888kQdibaUARniaksKYs0017icvibibDiafYSkIr7w/0?wx_fmt=jpeg)
+---
+title: Happy Birthday~
+date: 2019-03-12
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-215.jpg)
 
 Happy Birthday~
 ===============
@@ -23,7 +30,7 @@ mua～
 
 生日快乐～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRicbrIIaWbWzAKb6WrpfPjAKKq4jKcYJBmaUZicHPibNXMibbcjFrNIRLHGoo4gf8476JzEImzic57uWw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-216.jpg)
 
 嘿嘿，
 

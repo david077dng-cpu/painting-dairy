@@ -1,3 +1,10 @@
+---
+title: The Very Beginning
+date: 2018-06-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 The Very Beginning
 ==================
 
@@ -9,7 +16,7 @@ The Very Beginning
 
     我最熟悉的月牙楼！！！找实习时画的，当时心情很down，坐在湖边看月牙楼能看好久，后来就想把它画下来。
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSFDYUPrLCL6PHElAeiadyex7KSMCYxahD9anS9ROcNh7FD2aspnVCSMPRzsCriahtZ5bNRVAia2tHRw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-527.jpg)
 
     美丽的行政楼和图书馆！！！每一个进入紫金港的人都会被它们惊艳到。
 

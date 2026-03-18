@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRwJHlNfTcicadVcMf8pJofYjPMFKtZYtIMMR9Htpr5OSP63nUPGofiazL4IOt3qMA3KNGibvIPBup8A/0?wx_fmt=jpeg)
+---
+title: Caught in Time
+date: 2019-03-22
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-104.jpg)
 
 Caught in Time.
 ===============
@@ -27,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 就是被我画的有点……
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRwJHlNfTcicadVcMf8pJofY0mT8qq76VHsxXxSRp9umGjjOAO9HNuvsrn3rYxO1EEGAbAdNIYz9lg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-105.jpg)
 
 帅哥不好画，有压力🙈，  
 

@@ -1,3 +1,10 @@
+---
+title: A Bite of Tianjin
+date: 2018-04-11
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 A Bite of Tianjin.
 ==================
 
@@ -31,7 +38,7 @@ A Bite of Tianjin.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRhFibl6mADRiafd36sdWKN7CIoiatiagqA066RrJicrKXpb6z6c7nN8xAd8fEXAzPK3gP5s4Ns1dZbNHA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-11.jpg)
 
 当你在大冬天来到天津，
 
@@ -49,7 +56,7 @@ A Bite of Tianjin.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRhFibl6mADRiafd36sdWKN7CUwX7SI6aBAlNAL61GG6fTrQgmtftCN4oWfPbGrq5hySL59Qu6eZXXg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-12.jpg)
 
 今天失策啊，
 

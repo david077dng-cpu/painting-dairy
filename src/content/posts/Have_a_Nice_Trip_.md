@@ -1,3 +1,10 @@
+---
+title: Have a Nice Trip
+date: 2018-08-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Have a Nice Trip.
 =================
 
@@ -17,7 +24,7 @@ Have a Nice Trip.
 
     **今天画的是一辆日本的电车，来自一卷胶带**（胶带名：“从你的全世界路过——日本”）。
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQw9LibjZ9eRpOAWicmGLic9ibKEaCyVUyvrnXYayFUpicUuW2wglN5j8JZv0Fy4rF0klafTnxZCxA6ecw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-238.jpg)
 
     **每次看到电车，都会想起《千与千寻》里面千寻和无脸人一起坐电车的画面。**
 
@@ -31,7 +38,7 @@ Have a Nice Trip.
 
     **好了，车来了，一路顺风~ 祝你周末愉快~ 拜拜~**
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQw9LibjZ9eRpOAWicmGLic9ibKAEkPqyPjMQDznnPaczmibmI3P418BUXw2SeG5fbX2HNHVE07Kp6Uzfw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-239.jpg)
 
     昨天有一些小伙伴问怎么投稿，可以点击下面阅读原文查看投稿方法~
 

@@ -1,3 +1,10 @@
+---
+title: Rome Was Not Built in One Day
+date: 2019-02-23
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Rome Was Not Built in One Day.
 ==============================
 
@@ -27,4 +34,4 @@ Mr.Funny Mr.Funny [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTGGjMmZotfddppBTlJLHicpqhia5R8DBiapAjJFjhNvDdAbFwdbcEIwcf9m4vd4N0L6eqqJrIjRkgJw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-419.jpg)

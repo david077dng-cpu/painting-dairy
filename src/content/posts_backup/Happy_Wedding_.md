@@ -1,0 +1,51 @@
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQ5JLDsEibYX5bXtmqj7nRgibmI3nNoUl187QUB6rVbmh0X8QGEt2e9QIGgTVeLUnn79jSlj4bEDiaXg/0?wx_fmt=jpeg)
+
+Happy Wedding.
+==============
+
+原创 HRM&LCX HRM&LCX [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+今天是一朵美丽的玉兰花嫁人的日子～
+
+在今天过完之前，
+
+送上胡博士和小编的祝福～
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ5JLDsEibYX5bXtmqj7nRgibicckibhFpmb0OyugjZKzVTdh6xtU0dV2sOXrdDtsF5tMFsj7y9mIAicjg/640?wx_fmt=jpeg)
+
+> 他将是你的新郎 从今以后他就是你一生的伴  
+> 他的一切都将和你紧密相关 福和祸都要同当
+> 
+> 她将是你的新娘 她是別人用心托付在你手上  
+> 你要用你一生加倍照顾对待 苦或喜都要同享
+> 
+> 一定是特別的缘分 才可以一路走来变成了一家人  
+> 他多爱你几分 你多还他几分 找幸福的可能  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ5JLDsEibYX5bXtmqj7nRgibnIFvLzJIgXT3BgibHpDxKiaEqS4CHLGtaWMlR1rJvPfCgwzG7T1DcSjw/640?wx_fmt=jpeg)
+
+顺着记忆往回到了沈农，看到了初次见面有点高冷的你，看到了在教室里竞选班长的你，看到了在社团组织活动忙前顾后的你，看到了杨亚辉表白的那个晚上认真思考的你，看到了东教五楼那间昏暗的教室里埋头复习的你……跟着小吃街上逛吃逛吃的我们，听到了从6舍418传出的爽朗笑声（估计是在逗四岁这个开心果吧~），感受到了毕业那年我们在沈阳北站互相道别时的不舍……
+
+感谢缘分和你的努力，我们得以在浙里继续陪伴彼此。那个时候你在备考，早出晚归，虽然一天中很难好好的见你一面，但是知道你在身边就已经心安。后来结识春晓, 我们互诉衷肠，互相帮助。你们是我的老师，我的挚友。感慨这些青葱岁月，更感恩遇到你们。最后，祝福你和杨亚辉新婚快乐，永远幸福！
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ5JLDsEibYX5bXtmqj7nRgibicckibhFpmb0OyugjZKzVTdh6xtU0dV2sOXrdDtsF5tMFsj7y9mIAicjg/640?wx_fmt=jpeg)
+
+挤在同一间小小宿舍的日子，  
+
+现在想来真是每一分钟都十分珍贵。
+
+找工作时互相打气的场景还历历在目，
+
+如今，你已经又完成了一件人生大事。
+
+真希望时间能够走的慢点。
+
+好啦，衷心祝福这个新成立的小家庭快乐幸福～
+
+最美的新娘子，新婚快乐～  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ5JLDsEibYX5bXtmqj7nRgibicckibhFpmb0OyugjZKzVTdh6xtU0dV2sOXrdDtsF5tMFsj7y9mIAicjg/640?wx_fmt=jpeg)

@@ -1,3 +1,10 @@
+---
+title: Happy Valentine’s Day
+date: 2017-03-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Happy Valentine’s Day.
 ======================
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTcRDNuSrficiajicWibLWFMT1eqS6BOLhduAeoUXNVcjmV507UXs4zf9WSBg1F75j6kwIicxVqYXkKzIQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-233.jpg)
 
   
 
@@ -25,7 +32,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎评论、点赞and转发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTcRDNuSrficiajicWibLWFMT1eVqfYkp9jVequFUOI9XupQV3tBsus9KZVo4tr6mrrPIM8ZhPH6raPIw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-234.jpg)
 
 点击“阅读原文”，照片变水彩。  
 

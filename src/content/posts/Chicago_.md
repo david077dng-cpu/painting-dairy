@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTW3cWYe7tqkvEjMXIW2YGzxd9iaDcbFfOfaoMU47xNLCBX7br3gPr4yj2ID2uLuteESanNWn7L0IQ/0?wx_fmt=jpeg)
+---
+title: Chicago
+date: 2018-06-11
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-110.jpg)
 
 Chicago.
 ========
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 最惊艳的依旧是这段监狱中六个女囚犯的歌舞片段～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTW3cWYe7tqkvEjMXIW2YGze57szZboJOZ5jBk89ic7eiaXX4pKjqK1LY8WOrNgNybDib3eXbISXiaXfw/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-111.jpg)  
 
 最后推荐获得过75届奥斯卡最佳影片奖在内多项国际大奖的同名电影《芝加哥》。  
 

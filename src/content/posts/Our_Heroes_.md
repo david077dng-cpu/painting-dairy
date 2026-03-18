@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRob1cqA81Yow4NiaeEYicag0kMAx6ic07EHvO2rf5Bh4ia0KcTicTSibnpuf3c60UVEYEjHsibria2HFnSMA/0?wx_fmt=jpeg)
+---
+title: Our Heroes
+date: 2017-09-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-383.jpg)
 
 Our Heroes.
 ===========
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 感谢你们！  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRob1cqA81Yow4NiaeEYicag0sB4uAfA0G2nIPAOkwsGAqbGo19PUibY2h7WMtP8yWjNA9P1cLXGoOdw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-384.jpg)
 
 今天的素材来自一位读者的投稿，
 

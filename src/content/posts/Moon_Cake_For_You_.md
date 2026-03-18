@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTGtXxWOHSTiaHOkmJpxlzicymkpbOWVWFnNSNwt4H4PKRZz9iafoXaYmlP4u0WtZdqfHcCW0c4rRYrA/0?wx_fmt=jpeg)
+---
+title: Moon Cake For You~
+date: 2017-06-21
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-318.jpg)
 
 Moon Cake For You~
 ==================
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > 节选自《四世同堂》
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTGtXxWOHSTiaHOkmJpxlzicy8QoTc7BiaZG9O3P5cBgq3mCTtyZWNUyUCsmv9co1hz6oFCnYCQSB9mg/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-319.jpg)  
 
 挺过盛夏，终于迎来了舒适惬意的秋天。
 
@@ -33,6 +40,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 小长假快乐~  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

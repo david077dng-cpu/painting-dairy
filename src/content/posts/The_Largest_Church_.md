@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQJu9eG7P4AFOOpwC1UBPhc1MbvERGlwtUkHwibPFkmLLdkLLPMa4KMae9JZ4ooyrSnkQcgvViaQLaA/0?wx_fmt=jpeg)
+---
+title: The Largest Church
+date: 2020-02-15
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-503.jpg)
 
 The Largest Church.
 ===================
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 表达出来了。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQJu9eG7P4AFOOpwC1UBPhco5bNQqyJiaXHPzkvk9InE2ic3nUjicETN5Nicjgd2d3WNcNAASkgT6uCrQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-504.jpg)
 
 这是梵蒂冈的圣彼得大教堂，
 
@@ -39,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 将这一刻永远镌刻在记忆中。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQJu9eG7P4AFOOpwC1UBPhcg5acCRS2iclGJIsnicrXM15tAx3CSFicjvIveUk7ldyqq71sTwExib9ZKA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-505.jpg)
 
 蓝色的穹顶出自米开朗基罗的设计，  
 
@@ -63,7 +70,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 以后要探索更多，画得更干净些！  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQJu9eG7P4AFOOpwC1UBPhcVQiaD0Wn4mPXkT971cqpNllbM1ic0AlDyzKZHmVvKic7MKK4QzNfnHMjA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-506.jpg)
 
 欢迎评论、转发or给个“在看”呦～  
 

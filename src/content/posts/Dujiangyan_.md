@@ -1,3 +1,10 @@
+---
+title: Dujiangyan
+date: 2017-05-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Dujiangyan.
 ===========
 
@@ -33,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 可以说都江堰是惠泽万世的一个大工程。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ1hQHbtP2zrt7zicZYX67icVAlAtMbOXiaxypMW1Wx17dX6VwicIcI0M1Ul8icoIfc23a5UgHO3fUia98A/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-148.jpg)
 
 图上画的左边叫宝瓶口，
 
@@ -71,7 +78,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 今天没时间在水彩纸上好好画了，
 

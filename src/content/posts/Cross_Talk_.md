@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQ4NuCWkJcQxPX7VH95PDmuYncYvfI2kicFPddjG4VBHYULVBB4OZc9hh9VoclnLZtUp62gPt4MvSg/0?wx_fmt=jpeg)
+---
+title: Cross Talk
+date: 2020-07-01
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-132.jpg)
 
 Cross Talk.
 ===========
@@ -27,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 超级受大家欢迎的休闲娱乐活动。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ4NuCWkJcQxPX7VH95PDmuUg70M7TtUCjj825x9scYvVNHKdvJrvP7ocq3dUeNRCOO8J0oODv9Lw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-133.jpg)
 
 天津有很多可以听相声的茶馆，
 
@@ -35,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 绝对不虚此行![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_44.png)。。。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 欢迎点赞、留言and转发发发~
 
@@ -43,6 +50,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

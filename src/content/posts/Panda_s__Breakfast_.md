@@ -1,3 +1,10 @@
+---
+title: Panda’s Breakfast
+date: 2017-05-23
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Panda’s Breakfast.
 ==================
 
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 又能受人敬仰的生活。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSsKFicUnFjwRNDjxWw334hHn71Fj0AXqRjicY1TmGdtYHE6ORUD8rFl6SrcW939fxKsaJOuhNA5ppg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-395.jpg)
 
 拍到一只偷瞄树上别的熊猫屁屁的大熊猫。  
 
@@ -37,10 +44,10 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 根本停不下来。
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjSsKFicUnFjwRNDjxWw334hHLmeezjAMiabZiciae7mU63LbWWbicFB5RYATkSh5EyQL5Uicw6Enb3LWxUw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-396.gif)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

@@ -1,3 +1,10 @@
+---
+title: Rest In Peace
+date: 2017-03-27
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Rest In Peace.
 ==============
 
@@ -33,7 +40,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 > 
 > I did not die. 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRETu3XicZraBQP9zCeG08kHexhBFicHzB2yYAOzeSVm6Uq9ZSupzKl9iaA2TicicsibQRkaYD0CTsdqRLQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-414.jpg)
 
 > 不要在我墓前哭泣。
 > 
@@ -67,7 +74,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRETu3XicZraBQP9zCeG08kHv1RLlqFic1dyj8Nsfa2VdpFm0Gib8uibUK6iaoQ0w1A0PSdFKQrFlq2vibA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-415.jpg)
 
     今天一早得知了一个消息，
 

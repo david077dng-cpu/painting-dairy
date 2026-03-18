@@ -1,3 +1,10 @@
+---
+title: A Bite of Sichuan
+date: 2020-04-28
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 A Bite of Sichuan.
 ==================
 
@@ -33,10 +40,10 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 真是一碗不够呀～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRuLKibNQ8MCE5vpZHryeAEHwHTmic1eSrWOanmaoNp3HshcWSthmJ9Gia4alIr5rtEfo96q8od2SNCQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-9.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSPicGBnEFUTvVOf6ybJajRhCDJLL2viaV6ElIJMkLjSWnoCU2Pj1t9zsl0yxchaDoHBNBKvus6iagHA/0?wx_fmt=jpeg)
+---
+title: Full of Love
+date: 2019-11-02
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-190.jpg)
 
 Full of Love.
 =============
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSPicGBnEFUTvVOf6ybJajRhGrvv9LwGvFGibV6v23GpHSX0fPnzNy3RUibluGobrm8OwIBaFCjphLpQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-191.jpg)
 
   
 

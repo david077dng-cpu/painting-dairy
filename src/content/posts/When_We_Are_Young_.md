@@ -1,3 +1,10 @@
+---
+title: When We Are Young
+date: 2017-12-20
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 When We Are Young.
 ==================
 
@@ -23,7 +30,7 @@ When We Are Young.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSib6qBYR9RaYlRlUoE1menKc9ibAICA7KLVjZ8mic2c747LorPxwRcXqBH0WBQzEvVlwzHADxAyxzzA/0?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-571.jpg)  
 
   
 
@@ -51,7 +58,7 @@ When We Are Young.
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSib6qBYR9RaYlRlUoE1menK5cg6DgcykVrt62PE9icflkGt6PwUpsPOLWD8m0ibbGh1kVuLIr6sR8sQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-572.jpg)
 
     说好了不要大合影呢![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
 
@@ -71,7 +78,7 @@ When We Are Young.
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSib6qBYR9RaYlRlUoE1menKjpBHfkFcCnbL9bERibpUkJRSW5RDojAIeuL5mfagF3mmKDwxTRZiaqNA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-573.jpg)
 
 点击阅读全文查看投稿方式~  
 

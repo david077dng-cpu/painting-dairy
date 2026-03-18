@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSLJKBicNnl75qUicr5GehJ3gHEkSj91FKeYT4hVWdyTGxIvot0JiaobVaB3NYiaQsuKIibKZYVuEzibQcA/0?wx_fmt=jpeg)
+---
+title: Sunny
+date: 2019-06-18
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-441.jpg)
 
 Sunny.
 ======
@@ -21,7 +28,7 @@ Sanny Sanny [PaintingDiary](javascript:void\(0\);)
 
 希望2020剩下的四分之三是幸福的，希望成长！
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSLJKBicNnl75qUicr5GehJ3gVEJCRrFbJS07vjG7ibRhz3vGa4XREKGZ4sfFVlST6CZBLGGkZUUhbrA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-442.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSLJKBicNnl75qUicr5GehJ3gPh8xRGg4eLpKzh721A4Lqy1RehMV92dZOx54VoayfvUcbyO6wuBWtw/640?wx_fmt=jpeg)
 
@@ -35,6 +42,6 @@ Sanny Sanny [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

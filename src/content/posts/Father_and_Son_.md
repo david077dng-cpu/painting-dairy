@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTaLGeEGzT6Ly8a2TicaN5COwCVUOofeeFnJFAr491PfQZqticqoAjgdQ5cKdw3Me5K1GxhmDOIN2uA/0?wx_fmt=jpeg)
+---
+title: Father and Son
+date: 2017-04-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-171.jpg)
 
 Father and Son.
 ===============
@@ -11,7 +18,7 @@ Father and Son.
 
 感谢分享旅途故事～  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTaLGeEGzT6Ly8a2TicaN5COtfBvAibPhW96bmCLYPicypnvpKicCrdwxO2Wsj3kZNlvqF8N8GxcX1xJw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-172.jpg)
 
 2014年春节，
 
@@ -19,7 +26,7 @@ Father and Son.
 
 奔向诗和远方![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)...  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTaLGeEGzT6Ly8a2TicaN5CON5lT3n8XqIq13mo83axiatmYrdiaiakLyGicxTKu5sbk1OIBvibzMe4EpxA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-173.jpg)
 
 云南大理的崇圣寺三塔，  
 
@@ -43,7 +50,7 @@ Father and Son.
 
 当然，现在已然是英俊青年...![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F604.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTaLGeEGzT6Ly8a2TicaN5COtfBvAibPhW96bmCLYPicypnvpKicCrdwxO2Wsj3kZNlvqF8N8GxcX1xJw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-172.jpg)
 
 还记得18年4月的一张故事感很强的画嘛～
 
@@ -73,6 +80,6 @@ Father and Son.
 
 也欢迎点赞、留言and转发发发发～  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

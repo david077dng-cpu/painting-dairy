@@ -1,3 +1,10 @@
+---
+title: ZJU in White
+date: 2019-06-19
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 ZJU in White.
 =============
 
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ8gBfaIFqKkHMPS8UZObHXcksK7f0zF1urDic3ic6Pm77vcNV8YAkBDNvoSlLcjeIbaK4yOxgQXqAg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-605.jpg)
 
   
 
@@ -35,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-    ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ8gBfaIFqKkHMPS8UZObHX5vxYH5tfHWxMEYQlXWwovZibBYIPz45mTPtZpnbMWmWmrasSRnYYeGA/640?wx_fmt=jpeg)
+    ![](/painting-dairy/images/image-606.jpg)
 
 点击“阅读原文”把照片变水彩~  
 

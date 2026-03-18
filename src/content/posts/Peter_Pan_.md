@@ -1,3 +1,10 @@
+---
+title: Peter Pan
+date: 2017-08-27
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Peter Pan.
 ==========
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 但不论是色彩还是人物都很让人爱不释手。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQrWK2PhnzbmvWux8hlibF10QNCKSB2Au7W76WXEylaGVeOTqibOPKZYsSMIJqjtDeeddicmc2GUXNsw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-399.jpg)
 
 Mary Blair在大学毕业后辗转换了几个工作后，
 
@@ -33,13 +40,13 @@ Mary Blair的艺术感性充满了独特的魅力，
 
 Mary Blair本人，
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQrWK2PhnzbmvWux8hlibF10kS5FxTEicU1zibjvqrE9O5eun7ibsCbu22icXF6uIGoydhrS2ptPuoJs3g/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-400.jpg)
 
 感受一下原画的魅力：
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQrWK2PhnzbmvWux8hlibF10YLaIDAWJibFu2mpR9Nqkrq8SicOYLmr9S58RJyNWdkgklOFrZLSNqlwA/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 愿大家今晚都有个好梦～晚安～  
 
@@ -49,6 +56,6 @@ Mary Blair本人，
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

@@ -1,3 +1,10 @@
+---
+title: A Cute Bridge
+date: 2017-05-13
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 A Cute Bridge.
 ==============
 
@@ -27,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 另一头就是古文化街。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTT4R9Aud1TJINHZtIsKVqArJhu6l9ib21zgm54TjTtQkX5ok22zxZJawlOn4SIOblnxH58VgD5HAg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-17.jpg)
 
 狮子林桥离家很近，
 
@@ -53,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 十分有爱。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTT4R9Aud1TJINHZtIsKVqAxAoz53nwB51SM4Q1cQUUpoW2jhdOicn6x1GYt3CXu782ctHVE3Tl6SQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-18.jpg)
 
 好啦，欢迎评论、点赞and转发~  
 

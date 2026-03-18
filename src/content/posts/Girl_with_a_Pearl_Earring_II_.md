@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSZVtf9dsgzOjl5npeHddKfBlKo6icjoIiapvsibibIeSIyTRp4eHicv0AKGNOXc41vBcibqKFusqwupvBQ/0?wx_fmt=jpeg)
+---
+title: Girl with a Pearl Earring II
+date: 2020-01-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-194.jpg)
 
 Girl with a Pearl Earring II.
 =============================
@@ -27,7 +34,7 @@ Girl with a Pearl Earring II.
 
 纸也不会因为抹了太多层颜色而吸附不了更多的颜色。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSZVtf9dsgzOjl5npeHddKf9TpGv1icadeUaImN82KsL9xwicn5AJtIPMWUwWXbkuXqsldUeAuHa0Iw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-195.jpg)
 
   
 

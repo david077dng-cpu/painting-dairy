@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRrGuibiaB2HYKj9Dia1cbwOrkDwozoYia7xhSygAAeHms6CmlS7r17MGziaE1lia8qYWc5eheOeZa8FLAA/0?wx_fmt=jpeg)
+---
+title: Green Book
+date: 2017-03-19
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-210.jpg)
 
 Green Book.
 ===========
@@ -35,7 +42,7 @@ Green Book.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRrGuibiaB2HYKj9Dia1cbwOrkjcx77E1uJkvZlHVsiajWP5qfaTF4icZYgB90Gdf3IQtib4kcqLcZ0JVFg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-211.jpg)
 
 三月初的时候，  
 
@@ -73,7 +80,7 @@ emmm…春天到了，
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRrGuibiaB2HYKj9Dia1cbwOrkIpyNFwr1ae3wLKFmMCrZJMpicqFgUpRbiaibiahVoKSoVAgoJwWT7vqdDw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-212.jpg)
 
 欢迎点赞、评论and转发发发发～
 

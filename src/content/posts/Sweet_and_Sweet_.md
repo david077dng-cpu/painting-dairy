@@ -1,3 +1,10 @@
+---
+title: Sweet and Sweet
+date: 2020-09-28
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Sweet and Sweet.
 ================
 
@@ -31,7 +38,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTKHA6qTGgjm8HtqIKV6Sib45WDNIpYnXHqhXrl0HA7bSRvnlY8V5vugMgGhfzpxBMC8zPbPs8afRQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-453.jpg)
 
 之前看过一篇文章，
 
@@ -51,4 +58,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTKHA6qTGgjm8HtqIKV6Sib4tcx6layDZ7WzfgIWKtv3rb6TiaqdxmgBU2EFLC8LYOCqzbLibzRVlJUQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-454.jpg)

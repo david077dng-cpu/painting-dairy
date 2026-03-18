@@ -1,3 +1,10 @@
+---
+title: Yes, I Do
+date: 2020-02-06
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Yes, I Do.
 ==========
 
@@ -13,7 +20,7 @@ Yes, I Do.
 
 白头到啦哈~
 
-![](http://mmbiz.qpic.cn/mmbiz_png/ttO5vef3jsyKQXICT7zHlJTrmqnT0J9TnKCGwCVvN27cEoZeTBzXxfEiasibaSeq4cTHX7DRBfIMibac2Giat4Fgxw/0/png)
+![](/painting-dairy/images/image-592.jpg)
 
     2018年1月1日，
 
@@ -45,7 +52,7 @@ Yes, I Do.
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSqw2chVoWkLGUR6wc0zzichX2PT8HXgic7FIRM9loUruFnBv9UvNBLLwknwVUKo29qXIibZBNNA4CqA/0/jpeg)
+![](/painting-dairy/images/image-593.jpg)
 
   
 
@@ -95,7 +102,7 @@ Yes, I Do.
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_png/ttO5vef3jsyKQXICT7zHlJTrmqnT0J9TnKCGwCVvN27cEoZeTBzXxfEiasibaSeq4cTHX7DRBfIMibac2Giat4Fgxw/0/png)
+![](/painting-dairy/images/image-592.jpg)
 
 好齁儿![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
 
@@ -103,7 +110,7 @@ Yes, I Do.
 
 欢迎留言！！点赞！！转发发发发发！！！
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSqw2chVoWkLGUR6wc0zzichGN1A1W9jAHoKEyHAHeUnLYPzLXArJ6o1M4tngD6q9dItQcecfj8aOA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-594.jpg)
 
   
 

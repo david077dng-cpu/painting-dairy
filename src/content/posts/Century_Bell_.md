@@ -1,3 +1,10 @@
+---
+title: Century Bell
+date: 2017-09-28
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Century Bell.
 =============
 
@@ -23,13 +30,13 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSfgw29eKdVsVVfpDBTKNFRl9FKHcQ2XT9oyibLlYoFTwmt6mXiczFx9HCB7Rlr0MAJHP4EEgZyh3HQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-108.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSfgw29eKdVsVVfpDBTKNFR1HPHOTGRbfLD4HSuekPqO10PNicjrI1LXgu09NGtMv8bOCH3icdMFiaxg/640?wx_fmt=jpeg)
 
 欢迎点赞、评论and留言~
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39SibTpWPD7VVWRGW9icOjDwDUK71NzYZmVyGhoia4MTpics8BGiauXTUJvqg/640?wx_fmt=png)
+![](/painting-dairy/images/image-2.png)
 
 点击“阅读原文”，照片变水彩~  
 

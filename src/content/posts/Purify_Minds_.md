@@ -1,3 +1,10 @@
+---
+title: Purify Minds
+date: 2019-02-07
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Purify Minds.
 =============
 
@@ -15,7 +22,7 @@ Purify Minds.
 
 感谢投稿的小伙伴～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/painting-dairy/images/image-14.gif)
 
 人生总有那么一次会沾满了灰土，
 
@@ -31,7 +38,7 @@ Purify Minds.
 
 至少，在这里，与世无争。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQibJmFcAiaZ5KpzauuTEicNUPnpcEF62ZsNaT9gjXEtFORMSpenjk31NeFPhodP1gGcpNsibvoczJT7Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-409.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
 
@@ -41,4 +48,4 @@ Purify Minds.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

@@ -1,3 +1,10 @@
+---
+title: Zhijiang Campus
+date: 2020-12-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Zhijiang Campus.
 ================
 
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 之江校区还是电影《唐山大地震》的取景地。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSt6rfb9cjLX9f2Cq5SEgBdnIiblQgCaj2kT9tN2FBEwcOfibJfLg2sViaOicrf6DQicFN3N7ia5ibQ5icYtg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-607.jpg)
 
 我有一个私藏的游玩线路，
 
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 强烈推荐给每位来杭州玩的旁友们。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UHaLSQn62Zr46EpuxmZwjgDyEk0T1lgkmPiccTI3U3jngLHAricSh2Ylw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-178.gif)
 
 欢迎点赞、评论and转发发发~  
 

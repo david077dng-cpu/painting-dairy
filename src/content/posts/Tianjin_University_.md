@@ -1,3 +1,10 @@
+---
+title: Tianjin University
+date: 2017-11-02
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Tianjin University.
 ===================
 
@@ -13,7 +20,7 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
 小编拜托了一位天大的小伙伴写了今天的文字。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSSiaZ28lib5N0fZQjC7ySCYCTE3WPLMtgtwWEzOzkHCYlbPcXtUdsIPFOXiajUKOwXKlIxezKllSibxA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-542.jpg)
 
   
 
@@ -45,7 +52,7 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSSiaZ28lib5N0fZQjC7ySCYCvvbv8PCLicCibKjgoNAWX7l9QdnO9OtZYy0DJpzM0vT9EEnKexK0DgDA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-543.jpg)
 
 这四年间，
 
@@ -81,7 +88,7 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSSiaZ28lib5N0fZQjC7ySCYCaViau5TVR7qguiaO2CHudjibiaEt3RvuU19uyjpQdEGnEibkNjU7wye0Ahg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-544.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

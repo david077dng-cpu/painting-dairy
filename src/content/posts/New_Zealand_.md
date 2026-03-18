@@ -1,3 +1,10 @@
+---
+title: New Zealand
+date: 2017-11-21
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 New Zealand.
 ============
 
@@ -15,7 +22,7 @@ New Zealand.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSlGKmZ4LBlgDp4ibKUmrBprsIAiag3e4PVv0nzxNy892NAx2RKgG6s3C4XbibiazQx68jYSicA3hRgVTw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-366.jpg)
 
   
 
@@ -61,11 +68,11 @@ New Zealand.
 
 希望毕业论文和答辩一切顺利。
 
-![](http://mmbiz.qpic.cn/mmbiz_png/ibklTsUvIL2A2BWVyDRL05wTDYvyCQaleHSSic6d4cwmnfAfuGscOoAYWnlCzo8YhdgEIEraf2WL4x0W5FuyaTYw/0/png)
+![](/painting-dairy/images/image-367.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSlGKmZ4LBlgDp4ibKUmrBpr1Hbn6RdkiaRgL5KAiccOcsFbz8weTCOT3JaOG1wIheCVMesM8Q8wXwhg/0?wx_fmt=jpeg)
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/L93S6iaACG1sFbHyuXyub3WohBsVCbTiaSVgeqYnosBvY1perIkiaVwaHaiatTUjbDbkc5uicLVqRjTVE0UtkuCREqA/0/gif)
+![](/painting-dairy/images/image-368.jpg)
 
 欢迎点赞and转发and投稿~
 

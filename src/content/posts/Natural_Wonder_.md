@@ -1,3 +1,10 @@
+---
+title: Natural Wonder
+date: 2017-02-10
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Natural Wonder.
 ===============
 
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 大自然真是神奇。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQjFAMoXvvbtKsPDoI9P6YGXFN7xibQsSw4qvM1YqicGaZIQl7WsDXsXjqm5lpgjtPv9JHxPjaZoIfw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-356.jpg)
 
 怪不得张艺谋拍黄金甲的时候，
 
@@ -45,4 +52,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

@@ -1,0 +1,98 @@
+Sommer in Peking.
+=================
+
+原创 HMR HMR [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+感谢今天投稿的，我的好盆友～胡博士![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。
+
+胡博士最近莅临北京学习德语 ，
+
+我十分开心。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYv6Lv1Ah7nreFMThPMWbExZkNGiaImM7JczNZGEzrZFml2qKXQb5jPfk8InbHVFiaHTJ4CvD8gUtw/640?wx_fmt=jpeg)
+
+上周陪同学逛北京，  
+
+在南锣鼓巷寄明信片的时候，
+
+想起了去年夏天给妹妹在胡同里拍的这张照片。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYv6Lv1Ah7nreFMThPMWbEzCbvPCshnK8OrAucEfBicgpexaVAia9wdMenjX2oAqCrvUe98xAciap2g/640?wx_fmt=jpeg)
+
+想着也要写一下今年夏天的故事：
+
+— Was machen Ihr am Wochenende？
+
+    （你们这周末干了什么？）
+
+— Deutsch wiederholen.
+
+    （……复习德语）
+
+— Gut, was noch?
+
+    （还有吗？）
+
+— Emmmm ... Schlafen ...
+
+    （emm……睡觉……）
+
+— ... ...
+
+— ... ...
+
+这是北语德语1班每周一早上老师和同学间的对话。
+
+下周德语考试、游泳结课、NASPAA收尾，
+
+回家写论文、陪家人，
+
+估计没有时间和心情来总结这段“莫名其妙”的体验了。
+
+姑且就选择今天，整理一下，安放在Frau Li（李女士）的平台上。  
+
+Sherlock说过匆忙做决定是件危险的事情。
+
+对于在杭州读书的我，来北京当然算不上什么危险，但是回想起北语的住宿、待办的签证手续、暑期在外超长待机的忐忑，这还真是一个冲动的选择。
+
+不过，这份“冲动”就像是一盆水，
+
+让《牡丹亭少女》现了原形，
+
+手账本上也就有了北京夏天的味道。
+
+还记得刚到北语第一天，
+
+我怀着对传说中二人间的巨大期待，办完了住宿手续。
+
+可当我左手一个行李箱，右手一个背包，嘴里叼着新鲜出炉的住宿单看到宿舍楼时，心里的小恶魔送了一个尴尬而不失礼貌的微笑……
+
+不过还好，结识了三位可爱的室友。
+
+除德语外，游泳是这个夏天的另一大收获。
+
+基本上被教练扔下过水的，在课程结束时都学会了，
+
+我非常荣幸成为了其中之一。
+
+这周六班级聚餐，在饭桌上又进一步认识了班上几个同学。
+
+感慨同学们太可爱，时间过得有点快。
+
+下周考试，预祝北语德语1班的小伙伴们“大吉大利，晚上吃鸡”！
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYv6Lv1Ah7nreFMThPMWbExZkNGiaImM7JczNZGEzrZFml2qKXQb5jPfk8InbHVFiaHTJ4CvD8gUtw/640?wx_fmt=jpeg)
+
+胡博士考完试就快要出国了，
+
+我表示很悲伤……
+
+更大的舞台在等着她，
+
+希望早日学成归来，报效祖国！
+
+俺在北京等你～
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYv6Lv1Ah7nreFMThPMWbExNsTbAuWS4U7BolGiaeuTFWaO9gQJyc9z8aKTJcmvzicuWPKAD7xw5bQ/640?wx_fmt=jpeg)

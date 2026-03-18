@@ -1,3 +1,10 @@
+---
+title: A Temple in Shaoxing
+date: 2018-10-09
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 A Temple in Shaoxing.
 =====================
 
@@ -13,11 +20,11 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSB7j4Nywtibj5q5ACGAiajdLqmIib6icb4iawgMLmomO3rIjNLiaQkCPiaqZxt580XA9cJsvEfbs3qsIicYA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-30.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSB7j4Nywtibj5q5ACGAiajdL6bWRaAY5NnB5KrpMpwlkvOgXYroTKIrycMo7tFS7fUicTV9J8O25tpg/0?wx_fmt=jpeg)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSB7j4Nywtibj5q5ACGAiajdL3AnqSN0Riaropll8dVh8ouwDkuicGpRibbquyCJfCTJicEq7mAWMFoGCrA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-31.jpg)
 
 又到周五啦~
 

@@ -1,3 +1,10 @@
+---
+title: Animal World
+date: 2020-01-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Animal World.
 =============
 
@@ -11,7 +18,7 @@ LCX & 晨 LCX & 晨 [PaintingDiary](javascript:void\(0\);)
 
 生机勃勃的 ~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQsQqQiaWouIBz0Io6rakibAWTb97QcZrbUiaenArZIg16icHyeMk13UGnPlqHCjRfYadXvUeiauP8gb9A/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-40.jpg)
 
 并且, 喜大普奔,  
 
@@ -23,7 +30,7 @@ TA画了第一幅水彩作品，
 
 有点艺术家的感觉![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_42.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQsQqQiaWouIBz0Io6rakibAW2UW1CnBaZuJ0LqHCxxoObe4abLvwibZ6YlkcxrevK8CvS0FekRNst0A/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-41.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQsQqQiaWouIBz0Io6rakibAWIX3xQBPaCKHLvRmX2KVE4fWpPFqktGZsXcklFOsStdtwnUoXVvSxpQ/640?wx_fmt=jpeg)
 
@@ -31,7 +38,7 @@ TA画了第一幅水彩作品，
 
     欢迎点赞、评论and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQsQqQiaWouIBz0Io6rakibAWAtib0ELZQEy7jX27sXOy1g4fDC4TNM4jeWEJDluJOMlXYQ6QBVdhZQw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-42.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

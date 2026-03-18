@@ -1,3 +1,10 @@
+---
+title: Final Step
+date: 2019-03-20
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Final Step.
 ===========
 
@@ -15,7 +22,7 @@ Final Step.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQTVS9t3IgAyUpxA1WsdDr7WTibtYJiblzGpN0h3HIxssMB9S47mfeJx764ALYVQjTjtbugicf93ic9Kw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-177.jpg)
 
   
 
@@ -69,7 +76,7 @@ Final Step.
 
 何事秋风悲画扇。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UHaLSQn62Zr46EpuxmZwjgDyEk0T1lgkmPiccTI3U3jngLHAricSh2Ylw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-178.gif)
 
 今天唠叨了点，
 

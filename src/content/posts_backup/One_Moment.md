@@ -1,0 +1,48 @@
+One Moment
+==========
+
+LCX LCX [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+    今天画风有点可爱……卡通风水彩![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+
+    言归正传，今天临摹了一幅很打动我的作品，这也是我憧憬旅绘生活的开始。
+
+    来自一本叫《**走走画画——卡卡桑的旅绘生活**》的书。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGdxpMkXrePeddWUXxnicW41krxpDSF58zb9sx1edy2ibC10yHTA6nd8IsZUU1nwXxp5huWUjIKHug/0?wx_fmt=jpeg)
+
+    作者在书中描写到去柏林时的经历：
+
+>     **柏林的深秋簌簌地就来了，先从公交站旁黄金的杨树开始。**
+> 
+>     **本来是要去超市买东西，隔着马路望见对面树下等车的行人。他们安静地望着车来的方向，像是看穿了季节。**
+> 
+>     **风吹落的叶子像春天的花瓣，安静地落在站台周围。**
+> 
+>     **这个时段德国人是不扫大街上的落叶的，为了让所有人都可以感受秋天的滋味。**
+> 
+>     **远远拍了一张，怎么构图都不能拍出我想要的场景感，因为相机忠实交代了周围的写字楼和其他无关紧要的东西。**
+> 
+>     **我只想要那棵金色的大树，以及等车的人，像在一个空旷的舞台上。**
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGdxpMkXrePeddWUXxnicW4snKJcVPEI4eAeY3TNYpwpJ2p220QhLo3NolyX9Ro9fmKdziclRU1z4Q/0?wx_fmt=jpeg)
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGdxpMkXrePeddWUXxnicW4trEEDP21x9T4icOwsBtianSC9j2TPagvxiaFsiazGjqpH3ufVF8wMIQbtw/0?wx_fmt=jpeg)
+
+    我没有见过那个画面，但是作者的那幅作品和配的文字让我一直记得这个moment。
+
+    生活中有太多这种惊艳的瞬间，如果能把它们记录下来，就不要让它们转瞬消失在记忆中……
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGdxpMkXrePeddWUXxnicW4VJichSuE02ic881ge11Q5nEeucqdLg1cia1jgqoOMXHDZzMy9oHdtm0WA/0?wx_fmt=jpeg)  
+
+    自从开了这个公众号，每天都开心得像个傻子![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F604.png)。十分感激大家的支持和鼓励！深深地鞠躬。
+
+    祝大家周末愉快~
+
+    欢迎大家扫码订阅公众号，更欢迎大家转发~转发~转发~     
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)

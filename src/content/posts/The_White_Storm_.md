@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSIODiaK5LcTNdDhtqSMdup5ZWibkAUvwu1jib2fz9c74lkMaquxIuysWPiciablbnSopcGPjBsYBic1s1Q/0?wx_fmt=jpeg)
+---
+title: The White Storm
+date: 2019-09-18
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-528.jpg)
 
 The White Storm.
 ================
@@ -21,7 +28,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 紧张又刺激。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSIODiaK5LcTNdDhtqSMdup5qh8jDJgvJGr0TPw0U7EuYrwETFltoSWocKZ1125M5VEY8WRCcASbWQ/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-529.jpg)  
 
 电影的剧情和节奏都很棒，  
 

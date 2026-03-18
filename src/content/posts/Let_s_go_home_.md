@@ -1,3 +1,10 @@
+---
+title: Let's go home
+date: 2017-08-19
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Let's go home.
 ==============
 
@@ -31,7 +38,7 @@ Let's go home.
 
      
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSX9Vjf4En6NUQX31Ck9Xo0MUwmtO2tOx6475bOB1CLBsEc96cYicLzA7GhNp5h9TWJXC56fKO3XcA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-276.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSX9Vjf4En6NUQX31Ck9Xo0n97ruETcU8p71dib7aW6XSMLuoP1hecBRX7J7yEvy110CUssUCicG6sA/0?wx_fmt=jpeg)
 
@@ -45,4 +52,4 @@ Let's go home.
 
     欢迎大家投稿，这样我就不会天天画楼了。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-164.jpg)

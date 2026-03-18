@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTCJVLbKtqgbmiceviaH6pBo9VesoYQNEyn9sYSOtLFWDdA3ovKgjmdMaEXvHN3iaTribUOAR3KSv4s7w/0?wx_fmt=jpeg)
+---
+title: Eileen Chang
+date: 2020-05-01
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-149.jpg)
 
 Eileen Chang.
 =============
@@ -9,9 +16,9 @@ Eileen Chang.
 
    今天偶然看到一本《张爱玲私语录》，拿起来翻翻，几句话、几行字让我立刻回忆起了之前读《天才梦》时的惊艳。读其他文字，作者是讲述者，站在面前，但读她的文字时，她便成为思想的触角，甚至站在我的头脑里，指挥着所有。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCJVLbKtqgbmiceviaH6pBo9Y8Z9fSUic7fqn0ZG06YfIaBcNranrBxhhPSZZon5yt6wkQzmbxUUNnA/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-150.jpg)  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCJVLbKtqgbmiceviaH6pBo9an2iabWxtbBQrUyvibvur9wYZpjYHUSpFgLvzCCEcMrgcpvAyeXvgKSQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-151.jpg)
 
     附上《天才梦》片段：  
 

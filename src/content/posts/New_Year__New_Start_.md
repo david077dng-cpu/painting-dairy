@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSC7ZWdrEkFchQU3pMGCGI1z665qqicsPELWu4PZVk0LFj2jLOib4MvfG3er733mFfnOicicMNhhvMmQQ/0?wx_fmt=jpeg)
+---
+title: New Year, New Start
+date: 2018-04-14
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-364.jpg)
 
 New Year, New Start.
 ====================
@@ -21,7 +28,7 @@ New Year, New Start.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSC7ZWdrEkFchQU3pMGCGI19AabQAq8hydMibiaupas1DVyT8S1jrwExeB7W9XAJl3xspVicpx2KeeSA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-365.jpg)
 
 现在回看起来还是能想起那天中午那家餐厅热闹的样子。  
 
@@ -68,6 +75,6 @@ New Year, New Start.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)  
+![](/painting-dairy/images/image-5.gif)  
 
 [阅读原文](javascript:;)

@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQVfSsJWGYEMQSmKUoFY6cNU37kvOSHyl55oMIondjLOysbeoYbsfUYNzhhSdibOnulzyHKuc8A3dA/0?wx_fmt=jpeg)
+---
+title: The City of Art
+date: 2020-08-01
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-480.jpg)
 
 The City of Art.
 ================
@@ -53,7 +60,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQVfSsJWGYEMQSmKUoFY6cNvw8YibXcT6JzswHqleVpyC1nqtYod5mDcibMIU7N1vfhj8Ng9JFFwvkg/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-481.jpg)  
 
 现在国外的疫情好严重啊，  
 
@@ -67,6 +74,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

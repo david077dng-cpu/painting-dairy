@@ -1,3 +1,10 @@
+---
+title: Golden Memories
+date: 2018-09-14
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Golden Memories.
 ================
 
@@ -10,7 +17,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     **今天的画来自于老师拍的一张照片，给老师的摄影技术点赞。![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_06.png)**
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSViaWx3N9VIGvGMxL77VQsOQicibibSeGxib0zc7XaLvEwBsTLibucKX0FeKAOCr2FgOWTIBAX4qALMKUw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-197.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSViaWx3N9VIGvGMxL77VQsO0SsMHHUQqOibNz3vzRuictIFg5uViae46k7Y0V6GaUdVCQ6KMB0VHia6Yw/0?wx_fmt=jpeg)
 
@@ -20,10 +27,10 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSViaWx3N9VIGvGMxL77VQsO42qUtGfg7dt6icY35Smz6ekqibgwpPQY7hQlWGFLzYmnmC9ErGVsym0Q/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-198.jpg)
 
     如果有小伙伴对自己的摄影作品很是满意，可以发给我哦~ 有当时的故事更好~  
 
     昨天公众号的粉丝破百啦~ ![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F389.png)感谢每一个订阅的人~ 欢迎大家点赞或转发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-164.jpg)

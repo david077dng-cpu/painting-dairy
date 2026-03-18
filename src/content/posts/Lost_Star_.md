@@ -1,3 +1,10 @@
+---
+title: Lost Star
+date: 2018-02-24
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Lost Star.
 ==========
 
@@ -9,7 +16,7 @@ Lost Star.
 
     今天投稿的是一位小朋友 ，她讲述了一个伤感的故事。
 
-![](http://mmbiz.qpic.cn/mmbiz_png/agPBEQHTf5ibI8tZ9cicLMVZ7nTWm4YicIpQzFt5seam3icicQSufDV4fnpVv5IP4v0bxCfzqjicibOPnobVX8OuqCG8Q/0/png)
+![](/painting-dairy/images/image-290.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/agPBEQHTf5ibI8tZ9cicLMVZ7nTWm4YicIpQzFt5seam3icicQSufDV4fnpVv5IP4v0bxCfzqjicibOPnobVX8OuqCG8Q/0/png)
 
@@ -41,7 +48,7 @@ Lost Star.
 
     我很想他。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ70fJtkPzcwIJkmXedAZoLSsrQdicgicavOUM9oib1AfNqCpNYGdA0aNAq400fEd4zRhhQJDWQvpl5Q/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-291.jpg)
 
     最近爸爸的朋友在狗市买了一只小拉布拉多犬，非常可爱。
 
@@ -55,7 +62,7 @@ Lost Star.
 
     所以，我还在考虑要不要这只小坏蛋~
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ70fJtkPzcwIJkmXedAZoLBgSvoFMR4bYODtiblYbfbwfmjDWvtXj3k0M34oWtl2qB5mkvL0jOhLA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-292.jpg)
 
     今天的故事，好伤感。  
 
@@ -69,7 +76,7 @@ Lost Star.
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ70fJtkPzcwIJkmXedAZoLIJYurApcC9PyIXlMRBsIcZYkHSmVwb2FErbOSuPGoF2WSZOupKgkibw/0?wx_fmt=jpeg)
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/vBumFbNwibdic7nMYJOKpLiaMAXUZaZBLXptOKSL5Fw6eiaWXSnubr7vDkzlxibzktiaJBT2fv0ONVJLsSweLpFj8RoQ/0/gif)
+![](/painting-dairy/images/image-293.jpg)
 
   
 

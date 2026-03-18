@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQvleb6EtnCf9v1KQtpia4roHG725U27BXUib1IFfTuZI6IJsyKrHnyLiajXWDD1JicVNkx6C8klcXsTw/0?wx_fmt=jpeg)
+---
+title: Encounter
+date: 2020-07-18
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-155.jpg)
 
 Encounter.
 ==========
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQvleb6EtnCf9v1KQtpia4roJkIauonZG1nn6uib6WNHIKVQnUA4Licic68mLLFrAs2NicicwOI4rQywYEg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-156.jpg)
 
 北京很大，不敢说就是我的故乡。我的故乡很小，仅北京城之一角，方圆大约二里，东和北曾经是城墙，现在是二环路。其余的北京和其余的地球我都陌生。二里方圆，上百条胡同如罗网，我在其中活到了四十岁。不是我曾居于其间，是它们构成了我。密如罗网，每一条胡同都是我的一段历史、一种心绪。
 
@@ -23,7 +30,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQvleb6EtnCf9v1KQtpia4roMmCUca6paQAfyrePfWqDRUu9t8wdSUaXWvbCBGsJUqVWrWK1Gic7xDQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-157.jpg)
 
   
 
@@ -39,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQvleb6EtnCf9v1KQtpia4roJkIauonZG1nn6uib6WNHIKVQnUA4Licic68mLLFrAs2NicicwOI4rQywYEg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-156.jpg)
 
 史铁生的文字会让人沉静，
 

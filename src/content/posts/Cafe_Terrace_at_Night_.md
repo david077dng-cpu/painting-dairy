@@ -1,3 +1,10 @@
+---
+title: Cafe Terrace at Night
+date: 2017-01-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Cafe Terrace at Night.
 ======================
 
@@ -11,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 《阿尔夜间的露天咖啡座》。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTq6rt4GcddODHDC0FnxeH6SWSYkMre89Q7HtO25EDzGHkZqwIvRR2cZvlNPAuYjicIgKIuyr6KUSQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-100.jpg)
 
 这幅画是梵高画中最爱，
 
@@ -35,7 +42,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 放张大师原图，
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTq6rt4GcddODHDC0FnxeH67aeKjEzXd5kWG9f96T5b9uvo8zvb5Wwa6lTHGSfiaZlhCL2czxHhvicw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-101.jpg)
 
 临摹这幅画我发现，
 
@@ -49,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
 

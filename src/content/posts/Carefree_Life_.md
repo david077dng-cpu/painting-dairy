@@ -1,3 +1,10 @@
+---
+title: Carefree Life
+date: 2018-08-03
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Carefree Life.
 ==============
 
@@ -32,7 +39,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     希望老人们身体健康，快乐幸福~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYrViaQtII8kc9AlAvyOT66FZhJWtKWGuAg3cGq7skUFCgIhBNXoA9Q749oDN0eWgHt1FTm85yDicw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-102.jpg)
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYrViaQtII8kc9AlAvyOT66EywLqHVBYafyMTE2Pc7wJiawEAYpmWnbmLW3L2gpicFFSTfE4Wur0nNQ/0?wx_fmt=jpeg)
 
@@ -48,4 +55,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     晚安~
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYrViaQtII8kc9AlAvyOT66bJ8dtywA1SkQz49ic3x1I9qKPZXyndIebibrBrvcicx9ib6PrFTjpJ9LOg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-103.jpg)

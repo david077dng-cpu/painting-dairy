@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRbA4x0ibfy0T5VTgQLibNgIJicFuEctM2GU93L5wK3RmTSMzt6sETuIzAbsyv0nDnowApcAVWDk3bsQ/0?wx_fmt=jpeg)
+---
+title: The Catcher in the Rye
+date: 2019-07-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-474.jpg)
 
 The Catcher in the Rye.
 =======================
@@ -16,7 +23,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 “我呢，就站在那混账的悬崖边。我的职务是在那儿守望，要是有哪个孩子往悬崖边奔来，我就把他捉住......我只想当个麦田里的守望者。”
 ==================================================================
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRbA4x0ibfy0T5VTgQLibNgIJ8Lo7OAswKR5MK5AykcWz8ZwNkFjkvUY6wicYTnqkrrNUE0uwBBzzMbQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-475.jpg)
 
 想看这本书是因为之前看《晓说》的时候，
 
@@ -40,7 +47,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 不管是守望者还是被守望的人，都能是幸福的。  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjSGdxpMkXrePeddWUXxnicW4xKRrkiaHlAK1MgbnQoNpSufwHReqPrfKicQ8sKnIicaFaicgp5I99Hv3xA/640?wx_fmt=png)今天的视频同样放在下面，  
+![](/painting-dairy/images/image-51.png)今天的视频同样放在下面，  
 
 欢迎大家评论留言，告诉我你的感受～  
 

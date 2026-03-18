@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQc5oYBdFEnQiaJp2FK0CeA9EMGmbkwIgZ6f3NxRTy6QhJTn3YVKl9vplPvu6dgQiacTv5BcM1ZLayw/0?wx_fmt=jpeg)
+---
+title: Traveling in October
+date: 2020-05-02
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-558.jpg)
 
 Traveling in October.
 =====================
@@ -35,7 +42,7 @@ Traveling in October.
 
 多看看祖国的大好河山。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQc5oYBdFEnQiaJp2FK0CeA933aeM91M7ZsvqHIzPuNANXoIItiacqRZhtiaGGqvXJiaOEoiazGO87DwSw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-559.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQc5oYBdFEnQiaJp2FK0CeA9IhZCKxuUqBDH79hc6yAJxQoP2VW5rMib8gA9Yh8HwJUScsz6OgTTF0A/640?wx_fmt=jpeg)
 

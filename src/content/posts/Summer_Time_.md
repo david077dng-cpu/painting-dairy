@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSzKFImZQhN4qa0o5WiaXvFp9fU5YYWgHSeq4EqANe9sRFzBXmsCJm430pO1Ic3RCChJ0ialKXzc6icg/0?wx_fmt=jpeg)
+---
+title: Summer Time
+date: 2019-04-18
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-439.jpg)
 
 Summer Time.
 ============
@@ -37,12 +44,12 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 一起好好享受夏天吧！
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSzKFImZQhN4qa0o5WiaXvFpuJJLvgwWfgtsNnKQWaiaIpOXZVvLcgfddIkUIH11Und8XicTK5BM0JKg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-440.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSzKFImZQhN4qa0o5WiaXvFpic4CaNv6BdcO64t9O0I5gDaicUYd30rd1gWSdGGbLVQjy3tzUM6vpfCQ/640?wx_fmt=jpeg)
 
 欢迎评论、转发and给个“在看”～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

@@ -1,3 +1,10 @@
+---
+title: Tears In Heaven
+date: 2018-08-05
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Tears In Heaven.
 ================
 
@@ -11,7 +18,7 @@ Tears In Heaven.
 
     **![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)这位夏天什么都没做的同学，连投稿都这么潇洒。还好你的照片美。**
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTSPuLTzyziawxfPE1wZicjhvPksSHbD4VTL4icdpmNS4VNa00ZaeIKwNwhMejl33z2XgaIW1JWSf6KA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-461.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTSPuLTzyziawxfPE1wZicjhvDEnfFFgpcGvfFc2PlyUxawibHJTPMzfaHwD3PZJZcjuasaXbJicj9h7w/0?wx_fmt=jpeg)
 
@@ -19,7 +26,7 @@ Tears In Heaven.
 
     **在这里有个著名的西湖十景——雷峰夕照。如下图，来自百度：**
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTSPuLTzyziawxfPE1wZicjhvjoYJz4Tzv01RuMcbbWIwviaHNME9TH09ictFibfyibIEdFaLB2icLNrEqWQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-462.jpg)
 
     **这已经是我在杭州的第三年了，应该也是最后一年了。**
 
@@ -29,7 +36,7 @@ Tears In Heaven.
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTSPuLTzyziawxfPE1wZicjhvMd7rPV2115PXT3OZbQkgHdj3RMclQ0tSnNsoiaXlYVyHOvZNEnKHPGw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-463.jpg)
 
     本公众号长期征集大家的摄影作品和小故事，希望有故事爱摄影的小伙伴积极投稿啊~
 
@@ -39,4 +46,4 @@ Tears In Heaven.
 
     更欢迎关注或转发~转发~转发发发发发~~~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-164.jpg)

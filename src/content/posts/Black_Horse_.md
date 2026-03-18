@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSlczIn0RxAsBzqSc7YMlDEm5wDSzKAtdmV7Qic19OVD15acK7NxicjDABTrCTDC0eDYfoc1hs5J2Cw/0?wx_fmt=jpeg)
+---
+title: Black Horse
+date: 2017-07-09
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-84.jpg)
 
 Black Horse.
 ============
@@ -64,7 +71,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 1962年7月28日  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSlczIn0RxAsBzqSc7YMlDEjYV5uXiaDzxXQf58YL56mTBiaYp0rUdZibR2TKnWokgcoR4XvzOOT1ibJw/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-85.jpg)  
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSlczIn0RxAsBzqSc7YMlDEWzClWSjon0Zofw1sWvEQ0ruXHciaTRs2asnLL9mtSosbE5kmHicgzIuw/640?wx_fmt=jpeg)
 
@@ -104,7 +111,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSlczIn0RxAsBzqSc7YMlDEjYV5uXiaDzxXQf58YL56mTBiaYp0rUdZibR2TKnWokgcoR4XvzOOT1ibJw/640?wx_fmt=jpeg)  
+![](/painting-dairy/images/image-85.jpg)  
 
 好啦，欢迎留言、转发and给个“在看”哦～  
 

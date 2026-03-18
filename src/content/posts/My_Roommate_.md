@@ -1,3 +1,10 @@
+---
+title: My Roommate
+date: 2017-02-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 My Roommate.
 ============
 
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 委屈她一个老博穿着小硕的衣服陪我拍照。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTW2iarWVIGO3hnwzrB2UXyKzeib6Ju2TgOCh0s3D7F7zSI5N2NhJusWBrLqDgLjuhxcBia0mhtgsJicQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-336.jpg)
 
 越画越不舍，
 
@@ -35,4 +42,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

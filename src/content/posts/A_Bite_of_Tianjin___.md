@@ -1,3 +1,10 @@
+---
+title: A Bite of Tianjin Ⅲ
+date: 2020-05-24
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 A Bite of Tianjin Ⅲ.
 ====================
 
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTia0ib18iaJPEGqHHUyvmdjiaYBAhrOrUVaC8AnjnRicydJboK0jxwtKkgQp75vMrTJJydIibJp1fbiavjw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-13.jpg)
 
 今天画的是夹果子的，
 
@@ -41,7 +48,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 感兴趣的朋友可以去看看~  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/painting-dairy/images/image-14.gif)
 
 欢迎评论、点赞and转发发发发~  
 

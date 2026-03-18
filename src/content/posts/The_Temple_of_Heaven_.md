@@ -1,3 +1,10 @@
+---
+title: The Temple of Heaven
+date: 2020-01-15
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 The Temple of Heaven.
 =====================
 
@@ -17,7 +24,7 @@ The Temple of Heaven.
 
     今天临摹了天坛。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSWFhicdYkoLIPZDeMuVXvIoCL3ucSKs2JcnYkauz7cZa4J6zicgsO8KclKQ5GwCpfEicTBGicoX9fNFw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-523.jpg)
 
     小时候去过一次天坛。
 
@@ -45,7 +52,7 @@ The Temple of Heaven.
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSWFhicdYkoLIPZDeMuVXvIorySJA6D9gFAk90IU6B73CDlA5hmSiaZ5Jwwej9YVxDubWbS4xibJFoQA/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-524.jpg)
 
     昨天画完锦鲤，
 
@@ -67,7 +74,7 @@ The Temple of Heaven.
 
     所以欢迎投稿哇~~
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSWFhicdYkoLIPZDeMuVXvIoh60tiawqyvUzIkX5vMCqy6QsXgicsXIiavH58DkWcQIdOqgTtDsVAr4ibg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-525.jpg)
 
 点击阅读全文投稿 ~
 

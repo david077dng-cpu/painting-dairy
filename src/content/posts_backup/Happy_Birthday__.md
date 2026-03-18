@@ -1,0 +1,100 @@
+Happy Birthday！！
+================
+
+原创 塑料姐妹花 塑料姐妹花 [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+![](http://mmbiz.qpic.cn/mmbiz_png/6k3D86Bickt5lVEBNicShhPQPhcicsPMekDH2KuMMnicRtvicrzSqicHxW7icnSO6udll88X9Is2aQqgicGlMNoELPSZeQ/0/png)
+
+    今天是一位小仙女的生日，我邀请了她的好友为她画画像，由于有位朋友技术比较生疏…
+
+    所以……
+
+    抱小孩的看客，请注意抱好自己的小孩。
+
+    未成年看客，请在爸妈陪同下观看。
+
+    有心脏病的看客，请在大夫指导下阅读本次推送。    
+
+不正常的正正是好正正
+
+首先，是手写的祝福。
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8bnucts8DUxt8ChtDwlScWSyuSIza2H3063zsicSpaa2Dbq0d6XodJEba8IGaqicvLJ8XSVHAMPibA/0/jpeg)
+
+  
+
+**不想当爸爸的灵子不是好宝宝**
+
+亲爱滴生日快乐~
+
+上次和你去镰仓玩，
+
+才知道你这么喜欢灌篮高手~
+
+上次摄影技术不行，
+
+没拍到电车驶过的一刹那，
+
+今天我自己给你画一个~
+
+永远像那天那么开心哦~
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8bnucts8DUxt8ChtDwlScYYiaVauH0f23l9Cl80Via5dPPwl5Zbh2vs23yMicEXy41hx7jvsSuwOBg/0/jpeg)
+
+  
+
+静静的静静儿想静静
+
+    上高中时，我们都坐第一排，
+
+但这中间的距离，
+
+感觉有十万八千里那么远。
+
+三年，没什么交集，
+
+基本上也没说过话。
+
+对她的印象大概就是“子豪”，
+
+偶尔因为她的同桌有啥动静，
+
+会不经意间瞟到她一眼。
+
+毕业后，在某人的撮合下，
+
+小团体终于成立。
+
+到现在，
+
+我们相识已经进入第十个年头，
+
+“塑料姐妹花”坚固得不得了。
+
+在这个特别的日子，
+
+祝我可爱美丽大方温柔的小闺蜜
+
+生日快乐！
+
+撒花~~~
+
+（原谅我是手残党，如果我画眼睛，担心会被绝交……在我心目中她不是爱财，而是一个有经商头脑的美少女！）
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8bnucts8DUxt8ChtDwlScuUtDywJH5wzZ71iar3fKrbclH0JicJ26xPcRjtvalgVxgvua2ibueufVg/0/jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz_png/6k3D86Bickt5lVEBNicShhPQPhcicsPMekDH2KuMMnicRtvicrzSqicHxW7icnSO6udll88X9Is2aQqgicGlMNoELPSZeQ/0/png)
+
+    最后一位朋友真是机智啊……  
+
+    能看到这里的都是真爱啊。
+
+    祝小仙女生日快乐~
+
+    爱你（づ￣3￣）づ╭❤～
+
+    好啦，今天先到这， 欢迎留言！欢迎转发！！欢迎投稿！！！
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8bnucts8DUxt8ChtDwlScaWPvmfCN5b4nWTc8XicHHRPwMyPdoiczfu3ibqknUEZzRaEPEaH90FQicw/0?wx_fmt=jpeg)

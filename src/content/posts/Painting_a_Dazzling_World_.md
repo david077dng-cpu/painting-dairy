@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTRwjOeruaKux3baxLL7EKicIlvSNy3CLoLFqDle5P990fsb5Z2PH5RXlNkHmDXzWvgYribHUVmGOvQ/0?wx_fmt=jpeg)
+---
+title: Painting a Dazzling World
+date: 2017-08-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-393.jpg)
 
 Painting a Dazzling World.
 ==========================
@@ -27,7 +34,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 但也要注意收集幸福的瞬间～  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTRwjOeruaKux3baxLL7EKic1ic36AciacqyaCTpoLU9he3UUen9m9icI4fbuTo1pF38159zPJSjf5RHw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-394.jpg)
 
 吼啦，欢迎评论、转发or给个“在看”～
 

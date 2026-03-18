@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRvMb5pibvYmATtTdiaxiaflYY7micgiaaibJsic8kibCvrD0lEdRmNnqLbJvWN654U6NoE5KHJ0NUdoB6OBg/0?wx_fmt=jpeg)
+---
+title: Where did our memory go?
+date: 2018-11-26
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-575.jpg)
 
 Where did our memory go?
 ========================
@@ -39,7 +46,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 都是一片空白。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRvMb5pibvYmATtTdiaxiaflYYg0b8MccPlk9ibEc6wQbbuNdE6m2h7IZibiceJjicJrtE1Jz5NHYs3h0Xvg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-576.jpg)
 
 我记得当时看到这篇文章的时候，
 
@@ -57,7 +64,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRvMb5pibvYmATtTdiaxiaflYY6ES1tvBF6YTibFKnvCDukKGicrb0MmZjtgNUuxvUF3dsatsnmJib37rdg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-577.jpg)
 
 本来想儿童节发的，
 

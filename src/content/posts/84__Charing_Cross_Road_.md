@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSoyIs4ZOXJuMWBZ3L014VQfaVtDXG0QyejlPWWlIWdlNYrcSZhrAbeia7sJXiaMqNYlThMyHUeK1NQ/0?wx_fmt=jpeg)
+---
+title: 84, Charing Cross Road
+date: 2017-03-04
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-6.jpg)
 
 84, Charing Cross Road.
 =======================
@@ -11,7 +18,7 @@
 
 就一直想把查令十字街的这间小旧书店画下来。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSoyIs4ZOXJuMWBZ3L014VQcuj8dHMFHqnmWAbw5JeVMRafRuibLzXPSJmnK8ic1Wj5ibrTBeRJWpjkg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-7.jpg)
 
 这本小书很薄，也没有叙述什么故事，
 
@@ -57,7 +64,7 @@
 
 “你们若恰好路经查令十字街84号，请代我献上一吻，我亏欠她良多……”
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSoyIs4ZOXJuMWBZ3L014VQ2TIxINjebHd5lDpRVBzHbtDVagfibLb4W3IcVMr5zJgaGbzKDA8ibYqQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-8.jpg)
 
 加速视频放在后面，  
 

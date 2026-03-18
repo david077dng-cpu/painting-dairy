@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjT2gEX86UTxlY9PF6VyZZnfZ7C8mtxsOEp0IjvOnVjFv1gNUgOeaCaueVKjsUUGCV6PbibMId9xQ4A/0?wx_fmt=jpeg)
+---
+title: Grain Rain
+date: 2020-05-24
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-208.jpg)
 
 Grain Rain.
 ===========
@@ -37,7 +44,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT2gEX86UTxlY9PF6VyZZnfH1ZuiafSWmkhxchibnDATuk5CWuWN5rUaaMSL3VxMELCwedztr4ax9Jg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-209.jpg)
 
   
 

@@ -1,3 +1,10 @@
+---
+title: Best Mom Ever
+date: 2019-06-06
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Best Mom Ever.
 ==============
 
@@ -11,7 +18,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 祝所有的母亲幸福快乐！
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTMKoMQMUtEXYzrAb937iao5MZYPsbBTYEibMbCj63sLhmJacLscblBc0bfYW4wibhHJE4hvZpicCX20g/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-70.jpg)
 
 我还记得小学第一次送妈妈母亲节礼物的时候，
 
@@ -45,7 +52,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 相信每个家庭难念的经都会短很多。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 本来想集中全篇的火力来夸我麻麻的，
 
@@ -65,6 +72,6 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

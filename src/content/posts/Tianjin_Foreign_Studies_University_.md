@@ -1,3 +1,10 @@
+---
+title: Tianjin Foreign Studies University
+date: 2018-11-12
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Tianjin Foreign Studies University.
 ===================================
 
@@ -9,7 +16,7 @@ Tianjin Foreign Studies University.
 
 小编邀请了Mr.Funny来写一点关于学校的回忆。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR4HHS4iavaHdFgBYichGoLKJuQsziab8eDWe5ER9fRg6x29ZZ5RpoYFWiaSUBOrzP2zVHFB9gmsVw2jA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-540.jpg)
 
 转眼间，已经离校3年。
 
@@ -33,7 +40,7 @@ Tianjin Foreign Studies University.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR4HHS4iavaHdFgBYichGoLKJn9vtXJDOIhkQib59h7k2DSprUqTzP6ibLIlLbwHq3n6kY9ybCMUMW7jw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-541.jpg)
 
 有时候提到外院，
 
@@ -63,7 +70,7 @@ Tianjin Foreign Studies University.
 
 也意味着开始真正成为一名“天外人”。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR4HHS4iavaHdFgBYichGoLKJuQsziab8eDWe5ER9fRg6x29ZZ5RpoYFWiaSUBOrzP2zVHFB9gmsVw2jA/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-540.jpg)
 
 外国语大学可算是天津学校中最洋气的一个了，
 

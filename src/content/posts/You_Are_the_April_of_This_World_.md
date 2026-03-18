@@ -1,3 +1,10 @@
+---
+title: You Are the April of This World
+date: 2018-05-11
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 You Are the April of This World.
 ================================
 
@@ -11,7 +18,7 @@ You Are the April of This World.
 
 感谢投稿～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGG4hDsIb2u1IoEGibvFoQIfzY5NREOp0AqtV6yWSh1ybPhd7EXL38d0plPy1yEKUUfSAnFLfpzGw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-600.jpg)
 
 我说你是人间的四月天；
 
@@ -29,7 +36,7 @@ You Are the April of This World.
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGG4hDsIb2u1IoEGibvFoQI4RsAKdrPECfe88Ppic7jFS4vRxLCiaSRYR765tL18BoIFBbgwvCUCyEw/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGG4hDsIb2u1IoEGibvFoQIfzY5NREOp0AqtV6yWSh1ybPhd7EXL38d0plPy1yEKUUfSAnFLfpzGw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-600.jpg)
 
 小编特意赶在四月结束之前，
 
@@ -47,6 +54,6 @@ You Are the April of This World.
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGG4hDsIb2u1IoEGibvFoQIDSsUgctxK2lgSo9wc1RXon150SrTZ11GXBiawm6JZFWor8CUUrJ75AA/640?wx_fmt=jpeg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)
 
 [阅读原文](javascript:;)

@@ -1,3 +1,10 @@
+---
+title: Faith
+date: 2018-05-17
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Faith.
 ======
 
@@ -17,7 +24,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 许多藏族人都会在这许愿祈福。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTYgBfp1Fu2Iv0BH3aa5sCCzeibakJ9JpkpwlmHoasL2CFnI8Mj5KDKRaxqNX7syq3XiavkTtTqekYg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-168.jpg)
 
 据我观察，
 
@@ -39,4 +46,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-10.jpg)

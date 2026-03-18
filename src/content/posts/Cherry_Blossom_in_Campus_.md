@@ -1,3 +1,10 @@
+---
+title: Cherry Blossom in Campus
+date: 2017-04-25
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Cherry Blossom in Campus.
 =========================
 
@@ -9,7 +16,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 校车停泊的地方。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTpDpBEITxRysY0OCgxvpMBlOUvfFdjFZNuoydvyXTj5NmItqyKPMbTib0xiaWmwKHSRshO3ZFnicDicg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-109.jpg)
 
 我的宿舍有个好听的名字：紫云，
 
@@ -29,7 +36,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-45.jpg)
 
 小编今天开始了毕业旅行，
 

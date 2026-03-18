@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjRuSTtcrY36Z6bYIpNbiaHRgeq5Ha8nyibJQvXP66NU4hiccDzkWHTLPdcTXoribIRxT05VmnBT32ZMibA/0?wx_fmt=jpeg)
+---
+title: Centenary
+date: 2020-07-28
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-106.jpg)
 
 Centenary.
 ==========
@@ -13,7 +20,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 作为对百年校庆的小小献礼～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRuSTtcrY36Z6bYIpNbiaHRgazfiaLMrGM6ibu6f8icPRxicxJzNAz4N3FnUDeM3eQptuNlYutQY2VIGKQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-107.jpg)
 
 每次从南门走进来的时候，
 
@@ -34,4 +41,4 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 欢迎留言、转发or给个“在看”呦～  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/painting-dairy/images/image-5.gif)

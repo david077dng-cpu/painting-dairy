@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTKzB6bvAFmZymRXZp485licFgGZUG9VicKWiaFjTCzdP8TbNOKmTE6pZCQUdC0RoVPJ47GoRPuu1V9w/0?wx_fmt=jpeg)
+---
+title: The Pietà
+date: 2019-12-04
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-512.jpg)
 
 The Pietà.
 ==========
@@ -15,7 +22,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 今天画中展现的是圣彼得大教堂中的雕塑《圣殇》。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTKzB6bvAFmZymRXZp485licZBz3OLuh8fzzc0a0HfbWjpKb6Hpsa6uH4tRlE8jbN65kWcSD76yZmg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-513.jpg)
 
 米开朗基罗创作这幅雕塑时年仅24岁，
 
@@ -49,7 +56,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTKzB6bvAFmZymRXZp485lic8Trh2PwaQVSzrrbEAOXbdymLiaM4M5vNvTTGcIM8jicRle4qK4reG0cg/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-514.jpg)
 
 不是很懂宗教知识，
 

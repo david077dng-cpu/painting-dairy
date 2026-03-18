@@ -1,4 +1,11 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSWCZts2RGobsuJYuuPoOjEdaH3Aiazxa3Qh4wMw2TB3uibwyvz2XWMLyicyOI3Yw8JenIgjwEKzpxcA/0?wx_fmt=jpeg)
+---
+title: Long Time No See, Wuhan
+date: 2019-03-24
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
+![cover_image](/painting-dairy/images/image-287.jpg)
 
 Long Time No See, Wuhan.
 ========================
@@ -19,7 +26,7 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 依旧闪着耀眼的光芒。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSWCZts2RGobsuJYuuPoOjEibia8y0qnY2KIXnvkgnY34yg5uRL37mIiclJjmVEND6Cz4CKwkb3EDLnQ/640?wx_fmt=jpeg)
+![](/painting-dairy/images/image-288.jpg)
 
 画一张水彩记录下这历史性的时刻，
 

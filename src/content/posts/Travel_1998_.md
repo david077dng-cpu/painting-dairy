@@ -1,3 +1,10 @@
+---
+title: Travel 1998
+date: 2017-11-22
+category: 随笔
+description: 在小说阅读器中沉浸阅读
+---
+
 Travel 1998.
 ============
 
@@ -15,7 +22,7 @@ Travel 1998.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQrTtL31D7aTVcSQsiba3KWZkI0WUU7IsQDJWVU9oHjTuIo0h5BiaVVcCP3pwks3To8CIgoIz0Owibwg/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-554.jpg)
 
   
 
@@ -43,7 +50,7 @@ Travel 1998.
 
     都可以拍一部美囧了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/5ia4IJn4FcEUs1jPBtiasRlV2n0OyBTia7oGibmBWibXHtAVmbCQhf8ggTHnuAJrOaw0m9HAYSaQgSPGlTFRaCFjdjQ/0/gif)
+![](/painting-dairy/images/image-555.jpg)
 
     记得到美落地时，接待我们的老美叫Doug。
 
@@ -61,7 +68,7 @@ Travel 1998.
 
     这也是所谓的东西文化差异吧。
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/5ia4IJn4FcEUs1jPBtiasRlV2n0OyBTia7oGibmBWibXHtAVmbCQhf8ggTHnuAJrOaw0m9HAYSaQgSPGlTFRaCFjdjQ/0/gif)
+![](/painting-dairy/images/image-555.jpg)
 
     Doug是个很好的人，其实他是我们的经理。
 
@@ -81,7 +88,7 @@ Travel 1998.
 
     甚是开心，好得意![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/5ia4IJn4FcEUs1jPBtiasRlV2n0OyBTia7oGibmBWibXHtAVmbCQhf8ggTHnuAJrOaw0m9HAYSaQgSPGlTFRaCFjdjQ/0/gif)
+![](/painting-dairy/images/image-555.jpg)
 
     我的孩子在09年学访交流时到过美国布法罗。
 
@@ -89,7 +96,7 @@ Travel 1998.
 
     盼望这一时刻早些到来![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)。
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQrTtL31D7aTVcSQsiba3KWZ0N9zm4Wib1L4qSvhg86JeYbJiapYYVxiacGXeY82VRkJUODMK5TQ1woDw/0?wx_fmt=jpeg)
+![](/painting-dairy/images/image-556.jpg)
 
     哈哈哈 ![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F604.png)，好有意思的游记，一篇来自98年的游记。
 
@@ -101,7 +108,7 @@ Travel 1998.
 
     好啦，欢迎投稿！欢迎留言！！欢迎转发！！！！
 
-    ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQrTtL31D7aTVcSQsiba3KWZV0Pk7FjKJZ612tCU16huBR3Ws47sBuiceGqc0aL0ZYA2ibBgmZCCnjbA/0?wx_fmt=jpeg)  
+    ![](/painting-dairy/images/image-557.jpg)  
 
 ![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
 
