@@ -40,4 +40,3 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
     点击“阅读原文”，把那一瞬间变成水彩吧 ~
 
-[阅读原文](javascript:;)

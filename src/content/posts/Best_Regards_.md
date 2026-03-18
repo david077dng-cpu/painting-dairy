@@ -46,4 +46,3 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-75.jpg)
 
-[阅读原文](javascript:;)

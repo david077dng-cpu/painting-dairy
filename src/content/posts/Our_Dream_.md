@@ -74,4 +74,3 @@ Our Dream.
 
 ![](/images/image-5.gif)
 
-[阅读原文](javascript:;)

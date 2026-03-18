@@ -80,4 +80,3 @@ Memories of Old Beijing.
 
 ![](/images/image-5.gif)
 
-[阅读原文](javascript:;)

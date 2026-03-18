@@ -46,4 +46,3 @@ LJX LJX [PaintingDiary](javascript:void\(0\);)
 
 这里，投个稿吧 ~
 
-[阅读原文](javascript:;)

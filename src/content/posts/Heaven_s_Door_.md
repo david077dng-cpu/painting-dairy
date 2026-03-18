@@ -36,4 +36,3 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 点击“阅读原文”把照片变成画吧~  
 
-[阅读原文](javascript:;)

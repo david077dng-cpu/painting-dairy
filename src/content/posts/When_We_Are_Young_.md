@@ -82,4 +82,3 @@ When We Are Young.
 
 点击阅读全文查看投稿方式~  
 
-[阅读原文](javascript:;)

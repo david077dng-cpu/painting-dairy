@@ -36,4 +36,3 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 投稿点击“阅读原文”  
 
-[阅读原文](javascript:;)

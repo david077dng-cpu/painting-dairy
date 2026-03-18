@@ -36,4 +36,3 @@ HappySophiee HappySophiee [PaintingDiary](javascript:void\(0\);)
 
 点击“阅读原文”，照片变水彩~
 
-[阅读原文](javascript:;)

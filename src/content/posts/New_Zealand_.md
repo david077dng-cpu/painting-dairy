@@ -78,4 +78,3 @@ New Zealand.
 
 点击阅读原文查看投稿方式  
 
-[阅读原文](javascript:;)

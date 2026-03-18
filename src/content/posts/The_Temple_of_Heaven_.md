@@ -78,4 +78,3 @@ The Temple of Heaven.
 
 点击阅读全文投稿 ~
 
-[阅读原文](javascript:;)

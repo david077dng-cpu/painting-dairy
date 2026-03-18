@@ -77,4 +77,3 @@ New Year, New Start.
 
 ![](/images/image-5.gif)  
 
-[阅读原文](javascript:;)

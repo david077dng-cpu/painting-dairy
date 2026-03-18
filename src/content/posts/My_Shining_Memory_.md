@@ -74,4 +74,3 @@ Young Young [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-5.gif)
 
-[阅读原文](javascript:;)

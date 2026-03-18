@@ -44,4 +44,3 @@ LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 投稿方式详见“阅读原文”~欢迎点赞留言转发发发。  
 
-[阅读原文](javascript:;)

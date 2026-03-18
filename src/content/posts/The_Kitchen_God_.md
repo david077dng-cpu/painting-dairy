@@ -52,4 +52,3 @@ mua![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/
 
 点击“阅读原文”，照片变水彩。  
 
-[阅读原文](javascript:;)

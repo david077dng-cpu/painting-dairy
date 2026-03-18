@@ -127,4 +127,3 @@ You Are My Destiny.
   
 投稿点击“阅读原文”
 
-[阅读原文](javascript:;)

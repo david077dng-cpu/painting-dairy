@@ -54,4 +54,3 @@ Our Trip to Wuzhen II.
 
 ![](/images/image-5.gif)
 
-[阅读原文](javascript:;)
