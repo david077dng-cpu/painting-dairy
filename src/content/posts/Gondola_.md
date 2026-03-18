@@ -54,7 +54,7 @@ Gondola.
 
 第一次感受到了“沉醉”是什么样的。  
 
-附上视频～请忽略我的“哇”![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+附上视频～请忽略我的“哇”![](/images/image-1.png)，
 
 实在是由感而发。  
 

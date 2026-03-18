@@ -30,7 +30,7 @@ Running to the sea.
 
 不是被烧烤就是被清蒸![](/images/image-421.png)。
 
-还好高温杀菌![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQ3fibhxt5EbcnBPBorFWcAbaicFLjvlZsn4Y3SuPuBqoOyhtqu14Z5L8hmTbkbEzRDRibiaJic6vhicNicg/640?wx_fmt=png)。  
+还好高温杀菌![](/images/image-125.png)。  
   
 
 ![](/images/image-422.jpg)

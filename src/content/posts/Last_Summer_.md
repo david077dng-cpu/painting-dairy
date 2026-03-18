@@ -40,7 +40,7 @@ Last Summer.
 
 但就是想特别纪念，
 
-看到这个图片也会很开心![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_28.png)，
+看到这个图片也会很开心![](/images/image-87.png)，
 
 我希望我在乎的人在一起哈哈大笑，
 
@@ -52,7 +52,7 @@ Last Summer.
 
 因为那天下雨啊，
 
-吃个黄焖鸡就匆匆回家了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+吃个黄焖鸡就匆匆回家了![](/images/image-5.png)。
 
 那天还逛了逛早市，
 
@@ -72,19 +72,19 @@ Last Summer.
 
 也期待未来的四人行，
 
-这样就不用虐狗了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)
+这样就不用虐狗了![](/images/image-56.png)
 
 ![](/images/image-272.jpg)  
 
     今天投稿的是俺的高中同学~
 
-    上次去找她玩的时候，就各种热情款（nue）待（gou）![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
+    上次去找她玩的时候，就各种热情款（nue）待（gou）![](/images/image-56.png)。
 
     祝你幸福![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
 
     好，欢迎单身同胞们积极投稿，
 
-    不要让本公众号被秀恩爱的占领了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。  
+    不要让本公众号被秀恩爱的占领了![](/images/image-5.png)。  
 
 ![](/images/image-273.jpg)
 

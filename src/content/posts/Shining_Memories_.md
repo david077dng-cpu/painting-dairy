@@ -16,7 +16,7 @@ Shining Memories.
 
     是在天津外院洋味餐厅聚餐时拍的。
 
-    当时好2啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+    当时好2啊![](/images/image-1.png)，
 
     而且最2的那个还在拍照![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)，
 
@@ -34,7 +34,7 @@ Shining Memories.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ7DbpwAUbFRjQm3UZDiaXXibXjpmkHmic8feZpibachCFQGf61LLHrxKxkusBnWUibdjV4fNIgMhFdghA/640?wx_fmt=jpeg)
+![](/images/image-130.jpg)
 
     画认识的人格外的累啊，
 

@@ -12,7 +12,7 @@ Youth.
 
 在小说阅读器中沉浸阅读
 
-    Sorry又这么晚![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+    Sorry又这么晚![](/images/image-5.png)。
 
     论文终于先交上去了，
 
@@ -28,9 +28,9 @@ Youth.
 
 ![](/images/image-601.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSWgUtPjD9XOz8tOvDwKQWvS1DxsJlcS1X1MDdCvQ2rd6RNHZMeibibfj3R1SlhO8icdaqcEJjsHSXpw/0?wx_fmt=jpeg)
+![](/images/image-187.jpg)
 
-    这电影你们是不是都看过好久了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+    这电影你们是不是都看过好久了![](/images/image-5.png)。
 
     希望我的画能勾起你们当时的感受。  
 

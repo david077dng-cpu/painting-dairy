@@ -58,11 +58,11 @@ Romance.
 
 凤尾柏至今依然郁郁葱葱，只是树身主干下方有一个巴掌大的椭圆形树洞，里面树结像是一只眼睛，人们称之为“龙眼”，传说因其老伴被伐，“龙眼”经常流泪。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRnOX54o5Dcia0trHp0FeA9Wt7xIOENIqtN4ia04riafP2ZdUmLK2k6ra1qbOxrI0QJvZF0MG9geUH4g/640?wx_fmt=jpeg)
+![](/images/image-124.jpg)
 
 虽然小编也去过山西，
 
-但是可能被当地的好吃的蒙蔽住了双眼![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
+但是可能被当地的好吃的蒙蔽住了双眼![](/images/image-5.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
 
 错过了这么美的故事，
 

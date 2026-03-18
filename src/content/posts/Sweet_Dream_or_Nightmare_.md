@@ -33,7 +33,7 @@ Sweet Dream or Nightmare.
 
     这让我很是惊讶。  
 
-    我猜很多人也有过二选一的难题吧![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。
+    我猜很多人也有过二选一的难题吧![](/images/image-7.png)。
 
     之前听许子东老师讲张爱玲的《第一炉香》。
 
@@ -45,7 +45,7 @@ Sweet Dream or Nightmare.
 
     张恨水的女主角，醒的时候很喜欢，做梦的时候就有犯罪感；
 
-    请问大家，哪一个比较严重？哪个更没得救？![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)
+    请问大家，哪一个比较严重？哪个更没得救？![](/images/image-7.png)
 
 ![](/images/image-449.jpg)
 
@@ -59,7 +59,7 @@ Sweet Dream or Nightmare.
 
       ![](/images/image-450.jpg)
 
-    今天又画楼了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，不过故事明天就有了，I promise.
+    今天又画楼了![](/images/image-1.png)，不过故事明天就有了，I promise.
 
     敬请期待！
 

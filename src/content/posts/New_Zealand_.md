@@ -70,7 +70,7 @@ New Zealand.
 
 ![](/images/image-367.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSlGKmZ4LBlgDp4ibKUmrBpr1Hbn6RdkiaRgL5KAiccOcsFbz8weTCOT3JaOG1wIheCVMesM8Q8wXwhg/0?wx_fmt=jpeg)
+![](/images/image-112.jpg)
 
 ![](/images/image-368.jpg)
 

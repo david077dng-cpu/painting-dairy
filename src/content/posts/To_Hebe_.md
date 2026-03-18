@@ -52,7 +52,7 @@ enjoy自己的变化，
 
 这是多么快乐的人生。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTJrKibjqq7cgB6EYT0RuIXX0ib96TetsxkkKwqmHQkibOoLKzMica6J9YwOXAXcZUu5zAib5niagC7ziafw/640?wx_fmt=jpeg)
+![](/images/image-164.jpg)
 
 今天Mr.Funny送了一枚印章给我，
 

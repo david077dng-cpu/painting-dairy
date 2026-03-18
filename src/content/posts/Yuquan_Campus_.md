@@ -54,4 +54,4 @@ Yuquan Campus.
 
 欢迎点赞、评论and转发发发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGe6G1p6p4lR0fFrYjCIYBLhUSiacTh3SmRabvts2iatm9nayn1RfVXt7LgzDD9eVBga0ERiaM2x7jQ/640?wx_fmt=jpeg)
+![](/images/image-188.jpg)

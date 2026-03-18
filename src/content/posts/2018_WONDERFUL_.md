@@ -25,7 +25,7 @@ description: 在小说阅读器中沉浸阅读
 
 ![](/images/image-1.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmicI5zSYeqwbbG0PgxptMKsReJrLsGG7Pp6vOC95g3AicdnSxDDYQvmLNbBaMdm5YGSw18tZFtnQA/640?wx_fmt=jpeg)
+![](/images/image-1.jpg)
 
     欢迎转发旺旺~~
 

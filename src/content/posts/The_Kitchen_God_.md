@@ -20,7 +20,7 @@ The Kitchen God.
 
 让玉皇大帝赏罚。
 
-不知道会不会提到俺的公众号![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+不知道会不会提到俺的公众号![](/images/image-5.png)。
 
   
 
@@ -30,7 +30,7 @@ The Kitchen God.
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTNic6uL3XVgVqQgr6KEO8AcS1htfyfWGJRodGyf3c2TBxDXF6LuoXxkcZgkj8SBV0ficWQeJXAZp5g/640?wx_fmt=jpeg)
 
-如此清新脱俗的年画风有木有很意外![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)~
+如此清新脱俗的年画风有木有很意外![](/images/image-7.png)~
 
 还有两点题外话，
 
@@ -44,7 +44,7 @@ The Kitchen God.
 
 不要太在乎那些无关的人。
 
-mua![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_52.png), love you all.
+mua![](/images/image-151.png), love you all.
 
 晚安![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)~  
 

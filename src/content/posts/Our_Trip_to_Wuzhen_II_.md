@@ -16,7 +16,7 @@ Our Trip to Wuzhen II.
 
 今天的文章，来自旅行中的老李。
 
-旅行中的老李，真是个诗人呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。  
+旅行中的老李，真是个诗人呀![](/images/image-7.png)。  
 
 ![](/images/image-389.jpg)
 

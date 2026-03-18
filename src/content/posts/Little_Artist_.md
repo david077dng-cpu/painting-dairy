@@ -22,7 +22,7 @@ Little Artist.
 
 ![](/images/image-14.gif)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSRbLjLjrGmjv3rZH9ww2OicrNRU6xNt3d4lOicl98nicEAqJpu7fRD4SicJQk2oZQLoKdeSZ8iabokbOA/640?wx_fmt=jpeg)
+![](/images/image-89.jpg)
 
        挥舞着画笔
 
@@ -58,7 +58,7 @@ Little Artist.
 
 小宝贝和她麻麻一样，
 
-有湖水一般的大眼睛![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_54.png)。
+有湖水一般的大眼睛![](/images/image-90.png)。
 
 今天不仅练习了画人
 

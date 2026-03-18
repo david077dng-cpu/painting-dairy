@@ -14,7 +14,7 @@ LRC LRC [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-今天是一篇关于家乡天津的安利作品![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，感谢投稿～  
+今天是一篇关于家乡天津的安利作品![](/images/image-56.png)，感谢投稿～  
 
 ![](/images/image-582.jpg)
 
@@ -22,7 +22,7 @@ LRC LRC [PaintingDiary](javascript:void\(0\);)
 
 大量海鸥集结在海河之上，成为天津冬日最靓丽壮观的风景。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQxhsSUYNZN204myLz5Ddn2CPVEuBf99IKnlXca6bIBrJsRiaBbV7WvOeHheUwfQKUATjTl8bIAKQg/640?wx_fmt=jpeg)  
+![](/images/image-177.jpg)  
 
 天气晴好，和同事朋友一块逛逛海河沿岸，欣赏漫天飞舞的海鸥。
 

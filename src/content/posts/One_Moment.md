@@ -12,7 +12,7 @@ One Moment
 
 在小说阅读器中沉浸阅读
 
-    今天画风有点可爱……卡通风水彩![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    今天画风有点可爱……卡通风水彩![](/images/image-1.png)。
 
     言归正传，今天临摹了一幅很打动我的作品，这也是我憧憬旅绘生活的开始。
 
@@ -38,7 +38,7 @@ One Moment
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSGdxpMkXrePeddWUXxnicW4trEEDP21x9T4icOwsBtianSC9j2TPagvxiaFsiazGjqpH3ufVF8wMIQbtw/0?wx_fmt=jpeg)
+![](/images/image-116.jpg)
 
     我没有见过那个画面，但是作者的那幅作品和配的文字让我一直记得这个moment。
 
@@ -46,7 +46,7 @@ One Moment
 
 ![](/images/image-380.jpg)  
 
-    自从开了这个公众号，每天都开心得像个傻子![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F604.png)。十分感激大家的支持和鼓励！深深地鞠躬。
+    自从开了这个公众号，每天都开心得像个傻子![](/images/image-55.png)。十分感激大家的支持和鼓励！深深地鞠躬。
 
     祝大家周末愉快~
 

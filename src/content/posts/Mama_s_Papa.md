@@ -78,7 +78,7 @@ Mama's Papa
 
 ![](/images/image-298.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_png/Rwic7pNiamLg7E5lT9LKIH6udkhLAwEJn9Js3af31cs1MPLy4H8qAvjun8G5Namia03dKKD8NAwudLKbqsDgCXKLQ/0/png)
+![](/images/image-95.jpg)
 
 ![](/images/image-299.jpg)
 
@@ -116,7 +116,7 @@ Mama's Papa
 
 **写在最后**
 
-![](http://mmbiz.qpic.cn/mmbiz_png/aJoIpGphficicZgq0JA11gHw34YBz28LOSNbKEnQvLtviaM5NGLFH2k0f1kwTmWbLgsmrU9GQwlCr38Iw6mMw5kibQ/0/png)
+![](/images/image-96.jpg)
 
 今年是我极其偷懒的一年了，
 
@@ -160,7 +160,7 @@ ohlala,
 
 **最后的最后**
 
-![](http://mmbiz.qpic.cn/mmbiz_png/aJoIpGphficicZgq0JA11gHw34YBz28LOSNbKEnQvLtviaM5NGLFH2k0f1kwTmWbLgsmrU9GQwlCr38Iw6mMw5kibQ/0/png)
+![](/images/image-96.jpg)
 
     谢谢美美又多才的小编创办了这个有意思的公共号（羞愧于发现得太迟）……
 
@@ -172,7 +172,7 @@ ohlala,
 
 ![](/images/image-301.jpg)
 
-    今天的文章是不是很棒！感谢师妹的投稿，她最后夸我那几句实在是句句发自肺腑啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)
+    今天的文章是不是很棒！感谢师妹的投稿，她最后夸我那几句实在是句句发自肺腑啊![](/images/image-56.png)
 
     好啦，欢迎投稿~~~留言~~~~和点赞~~~~~
 

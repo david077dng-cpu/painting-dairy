@@ -28,7 +28,7 @@ Have a Nice Trip.
 
     **每次看到电车，都会想起《千与千寻》里面千寻和无脸人一起坐电车的画面。**
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQw9LibjZ9eRpOAWicmGLic9ibKV3HIcW2iaFBlxJVRHI01fOOibNVUN23Wd951lEbia2aXiaT6nCaQg4Zziaw/0?wx_fmt=jpeg)
+![](/images/image-72.jpg)
 
     **“人生就是一列开往坟墓的列车，路途上会有很多站口，没有一个人可以至始至终陪着你走完，你会看到来来往往、上上下下的人。**
 
@@ -44,7 +44,7 @@ Have a Nice Trip.
 
     喜欢的话欢迎长按二维码关注~ 更加欢迎留言或转发转发转发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/images/image-49.jpg)
 
   
 

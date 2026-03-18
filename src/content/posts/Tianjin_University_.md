@@ -72,7 +72,7 @@ ZJ ZJ [PaintingDiary](javascript:void\(0\);)
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSSiaZ28lib5N0fZQjC7ySCYCTE3WPLMtgtwWEzOzkHCYlbPcXtUdsIPFOXiajUKOwXKlIxezKllSibxA/640?wx_fmt=jpeg)
+![](/images/image-162.jpg)
 
 天大和南开一直以来都难舍难分，
 

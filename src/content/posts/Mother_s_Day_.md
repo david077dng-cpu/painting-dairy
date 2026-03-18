@@ -18,7 +18,7 @@ Mother's Day.
 
     居然说不让我发她过生日的东西，
 
-    怎么可能![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。
+    怎么可能![](/images/image-7.png)。
 
   
 

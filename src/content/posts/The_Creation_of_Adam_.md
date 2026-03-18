@@ -48,7 +48,7 @@ The Creation of Adam.
 
 ![](/images/image-484.jpg)
 
-整个教堂都不让拍照![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjRWVuEcrc10r2RA8ic7uop29IxMW9oHdictNmPicsGQsN1rjCtjw5fNm9eabTtjm1vA8rT7dbaWk9m8w/640?wx_fmt=png)，  
+整个教堂都不让拍照![](/images/image-146.png)，  
 
 行吧，把它装进脑子里带走好了。  
 

@@ -20,7 +20,7 @@ The Dragon Boat Festival.
 
 过什么节必须画什么吃的。
 
-所以收下这两枚粽子吧~![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_04.png)
+所以收下这两枚粽子吧~![](/images/image-16.png)
 
 ![](/images/image-486.jpg)
 
@@ -46,7 +46,7 @@ Yummy～
 
 祝大家端午小长假玩的开心~
 
-高考的小盆友们加油![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F4AA.0.png)~  
+高考的小盆友们加油![](/images/image-147.png)~  
 
 欢迎点赞、评论，
 

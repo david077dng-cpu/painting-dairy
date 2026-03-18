@@ -34,11 +34,11 @@ A Trip to Hongkong.
 
 今天临摹了网上的一张画，
 
-Mr. Funny居然都没有拿的出手的照片![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+Mr. Funny居然都没有拿的出手的照片![](/images/image-14.png)。
 
 热烈欢迎大家投稿哇，
 
-父亲节不是要到了嘛～![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)
+父亲节不是要到了嘛～![](/images/image-7.png)
 
 欢迎点赞、留言and转发发发~
 
@@ -46,5 +46,5 @@ Mr. Funny居然都没有拿的出手的照片![](https://res.wx.qq.com/mpres/htm
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/image-12.gif)
 

@@ -16,7 +16,7 @@ Bring Myself Closer To You.
 
 里面小女孩超可爱，
 
-老友胡全程![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_2.png)。
+老友胡全程![](/images/image-25.png)。
 
 女主角就是在这座桥上，
 
@@ -32,7 +32,7 @@ Bring Myself Closer To You.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT8lwXTrn04mFOvXCqER9ZzKiaBcicVt4ke0m8s5aY50xjxQn5M7tdSPrAXkiaSt0eaI5YQocrVLBoew/640?wx_fmt=jpeg)
+![](/images/image-26.jpg)
 
 今天画这些木纹可真为难，
 

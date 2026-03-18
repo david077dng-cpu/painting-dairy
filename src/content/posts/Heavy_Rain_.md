@@ -54,7 +54,7 @@ Heavy Rain.
 
 ![](/images/image-244.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTjAZibvS7xZNZvYGhO5QlvmsicIz5ElqmGHV3YibqC4sj7l4WfRFlzeypgiakcO9NOSksjhYia7IxiacicA/640?wx_fmt=jpeg)
+![](/images/image-74.jpg)
 
 今天临摹了一幅网上的作品，
 

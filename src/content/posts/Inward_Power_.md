@@ -30,7 +30,7 @@ Inward Power.
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ0UXPG2lEmxSUnqlJk0cmIPHiclzfdQL4yibeko7GSU7wibQjK4iaeULvLquT0lcpiazLibRXib6x7L3jiaw/0?wx_fmt=jpeg)
+![](/images/image-84.jpg)
 
     今天又去抱胶带们的大腿了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，  
 

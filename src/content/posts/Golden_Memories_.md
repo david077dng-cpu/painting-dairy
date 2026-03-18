@@ -15,7 +15,7 @@ Golden Memories.
     ****这个季节的紫金港校区超级美，一进校门就可以沿着一路的银杏树走到实验室。**  
 **
 
-    **今天的画来自于老师拍的一张照片，给老师的摄影技术点赞。![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_06.png)**
+    **今天的画来自于老师拍的一张照片，给老师的摄影技术点赞。![](/images/image-64.png)**
 
 ![](/images/image-197.jpg)
 
@@ -31,6 +31,6 @@ Golden Memories.
 
     如果有小伙伴对自己的摄影作品很是满意，可以发给我哦~ 有当时的故事更好~  
 
-    昨天公众号的粉丝破百啦~ ![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F389.png)感谢每一个订阅的人~ 欢迎大家点赞或转发~  
+    昨天公众号的粉丝破百啦~ ![](/images/image-65.png)感谢每一个订阅的人~ 欢迎大家点赞或转发~  
 
 ![](/images/image-164.jpg)

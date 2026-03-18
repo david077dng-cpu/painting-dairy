@@ -14,7 +14,7 @@ Hometown.
 
 ![](/images/image-249.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQaISSMI3zNaiaFlVAYXMicTCYk15kvt5YicEyhe23hrxPYUHuO46gydS5Ymnlics6caILN3TIu4uLkmA/0?wx_fmt=jpeg)
+![](/images/image-78.jpg)
 
     等过年回家，
 

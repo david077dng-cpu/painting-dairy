@@ -14,7 +14,7 @@ The Beaten Path.
 
 在小说阅读器中沉浸阅读
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdicpyO9yB7SBrVexib1zp37z684hho1n1u3fbyojrtNYNXW9SEvJQcxvBQ/640?wx_fmt=jpeg)  
+![](/images/image-141.jpg)  
 
 昨天去看Bob Dylan的画展，十分惊艳，
 
@@ -28,7 +28,7 @@ The Beaten Path.
 
 ![](/images/image-468.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdic7AF9aCHLwLmHETzicUCZoWOGLQouJ6gS8tt7GzkLDO2liadbdhA2Yecw/640?wx_fmt=jpeg)
+![](/images/image-142.jpg)
 
 ![](/images/image-469.jpg)
 
@@ -36,7 +36,7 @@ The Beaten Path.
 
 ![](/images/image-470.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdic7HG5YUjLQH5pKNAiaohBneice9Px84O10ko620yVqLa1wgKFvFNw5u9w/640?wx_fmt=jpeg)
+![](/images/image-143.jpg)
 
 ![](/images/image-471.jpg)
 

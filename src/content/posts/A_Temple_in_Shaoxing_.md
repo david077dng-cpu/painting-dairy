@@ -22,7 +22,7 @@ A Temple in Shaoxing.
 
 ![](/images/image-30.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSB7j4Nywtibj5q5ACGAiajdL6bWRaAY5NnB5KrpMpwlkvOgXYroTKIrycMo7tFS7fUicTV9J8O25tpg/0?wx_fmt=jpeg)
+![](/images/image-16.jpg)
 
 ![](/images/image-31.jpg)
 
@@ -32,7 +32,7 @@ A Temple in Shaoxing.
 
 欢迎点赞、转发和投稿~
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSB7j4Nywtibj5q5ACGAiajdLXcYko2yZx4y5RCrMKBRbydXm1oO0zQGNgsIrrcubia1tW8ZrVXHJvmA/0?wx_fmt=jpeg)
+![](/images/image-6.jpg)
 
 投稿点击“阅读原文”  
 

@@ -30,7 +30,7 @@ Goose, Goose, Goose.
 
     近看原来都站在了水管上，
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8FTzJVIfdsDKJ5eibWBcRqhItBydnwRK4LYKQAjNDwer9ocQDsliar1VYs9DIicXe53BICpU8vgWgg/0?wx_fmt=jpeg)
+![](/images/image-66.jpg)
 
     现在的鹅都机智啊，  
 
@@ -42,7 +42,7 @@ Goose, Goose, Goose.
 
     感觉到了远处两个高冷鹅，
 
-    内心OS：“没见过世面![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_46.png)”  
+    内心OS：“没见过世面![](/images/image-67.png)”  
 
     ![](/images/image-205.jpg)
 
@@ -50,7 +50,7 @@ Goose, Goose, Goose.
 
     找到了小时候画国画时的感觉，
 
-    那种画蛇添足的感觉![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    那种画蛇添足的感觉![](/images/image-1.png)。
 
     如果画值10块，
 

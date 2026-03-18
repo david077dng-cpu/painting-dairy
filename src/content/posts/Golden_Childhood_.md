@@ -38,7 +38,7 @@ Golden Childhood.
 
 明天的好朋友。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTItAN9hYU8L9HloFXaiaEP8WDLsqEnZokDbzE4ZiaIPuHeHQUWZnBW9O6EmI3gtYdMFwzbNwTAJUCw/640?wx_fmt=jpeg)
+![](/images/image-63.jpg)
 
 ![](/images/image-14.gif)
 

@@ -64,7 +64,7 @@ The Flavor of Life
 
 说了半天，
 
-今天还是选了一个美美的角落![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+今天还是选了一个美美的角落![](/images/image-1.png)，
 
 是一家我很喜欢去的书店一角～
 
@@ -76,5 +76,5 @@ The Flavor of Life
 
 ![](/images/image-10.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)  
+![](/images/image-15.gif)  
 

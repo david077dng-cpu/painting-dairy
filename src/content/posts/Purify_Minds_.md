@@ -40,7 +40,7 @@ Purify Minds.
 
 ![](/images/image-409.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/image-31.jpg)
 
 喜欢这里的纯粹，
 

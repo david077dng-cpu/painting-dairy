@@ -42,7 +42,7 @@ Bye Yuyao.
 
 再见余姚，也许……
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRicU58BFO182z8hfCajHI25t1mqPUXPLsosjjGyK3qZ9JMTpYs7BUN1DVTNMF2JhIREXkm9gBP0eg/640?wx_fmt=jpeg)
+![](/images/image-27.jpg)
 
 欢迎点赞、留言and转发~  
 

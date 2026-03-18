@@ -40,7 +40,7 @@ Alone Alone [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-134.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/image-31.jpg)
 
 忘记在哪里看到一篇文章，
 

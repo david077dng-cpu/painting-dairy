@@ -46,6 +46,6 @@ Woman with a Parasol-Madame Monet and Her Son.
 
 那祝大家下周学习、工作愉快，
 
-\= = 不就是上六天嘛，加油吧![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjSGxw3rx4QT3NyDve1dN2xicMP9anUEnGD8C7ccv7yBuHCoff4pgv4vFO8x5dUYooicA64ibibsMIYNjw/640?wx_fmt=png)，
+\= = 不就是上六天嘛，加油吧![](/images/image-181.png)，
 
 哦不对，加油吧![](/images/image-589.png)

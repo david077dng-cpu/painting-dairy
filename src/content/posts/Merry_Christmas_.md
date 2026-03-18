@@ -24,7 +24,7 @@ Merry Christmas.
 
 让圣诞老人尽情地塞礼物🎅。
 
-并且避免看到朋友圈满屏的秀恩爱![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+并且避免看到朋友圈满屏的秀恩爱![](/images/image-1.png)。
 
   
 
@@ -38,7 +38,7 @@ Merry Christmas.
 
     今天还有一个让我很开心的事情，就是俺的爹地居然给俺投稿啦～～～ 
 
-    但是我是不会告诉你们哪篇是他投的![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)～
+    但是我是不会告诉你们哪篇是他投的![](/images/image-7.png)～
 
     欢迎留言！！！欢迎转发！！！！
 

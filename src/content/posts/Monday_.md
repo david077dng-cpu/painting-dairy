@@ -14,7 +14,7 @@ Monday.
 
 在小说阅读器中沉浸阅读
 
-不知道大家看到封面有没有被吓到![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTnUAKaZqfSbFs9ehPNOe0h7ibJcOBRtiaJzuMtPonb4lMOxDT7vsRBnA6B3s1icGBgB7km18n80nibqg/640?wx_fmt=png)，  
+不知道大家看到封面有没有被吓到![](/images/image-99.png)，  
 
 但内容其实很日常哈～  
 
@@ -56,7 +56,7 @@ Monday.
 
 积极乐观地迎接新一周的挑战![](/images/image-316.png)  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTnUAKaZqfSbFs9ehPNOe0hr8OAkFBkY2yU3R4lHUwkZibkHXR7U635WnOia4YBDbAgw53BurG6qvzw/640?wx_fmt=jpeg)
+![](/images/image-100.jpg)
 
 加速视频放在下面～
 

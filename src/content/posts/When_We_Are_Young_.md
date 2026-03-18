@@ -14,7 +14,7 @@ When We Are Young.
 
     今天投稿的是一位小中学生~
 
-    ta对小编真是好呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    ta对小编真是好呀![](/images/image-1.png)。
 
 “
 
@@ -60,7 +60,7 @@ When We Are Young.
 
 ![](/images/image-572.jpg)
 
-    说好了不要大合影呢![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    说好了不要大合影呢![](/images/image-1.png)。
 
     但是这个小宝贝写的还蛮好的，
 
@@ -70,7 +70,7 @@ When We Are Young.
 
     想起了本科参加合唱团的情景。
 
-    五月的鲜花们![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)，
+    五月的鲜花们![](/images/image-7.png)，
 
     你们还记得吗。
 

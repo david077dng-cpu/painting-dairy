@@ -16,7 +16,7 @@ Concentrate.
 
 写生书店有感。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTxewickEg6fuFJrU3ImJf600blrzFNJHUlQlOr7pw5SxYPHZQS8PIdJVrhRtMLOqRha2exraROHzQ/640?wx_fmt=jpeg)
+![](/images/image-43.jpg)
 
 如果想要把哪个地方深深地印在脑子里，  
 把它画下来是最有效的方法。  
@@ -41,7 +41,7 @@ Concentrate.
 有关上个月故宫卡地亚展的作品，  
 贴在这里共享～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTxewickEg6fuFJrU3ImJf60FRUb3oTZiaRP5S6qLH8hlYcGib1pvAKA1iaf4yKE2HDJo7GibaadFaPb2A/640?wx_fmt=jpeg)
+![](/images/image-44.jpg)
 
 欢迎评论、转发and给个"在看"～  
 

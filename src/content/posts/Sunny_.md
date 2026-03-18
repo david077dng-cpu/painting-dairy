@@ -18,7 +18,7 @@ Sanny Sanny [PaintingDiary](javascript:void\(0\);)
 
 感谢投稿～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSLJKBicNnl75qUicr5GehJ3gPh8xRGg4eLpKzh721A4Lqy1RehMV92dZOx54VoayfvUcbyO6wuBWtw/640?wx_fmt=jpeg)
+![](/images/image-134.jpg)
 
 今年清明节没有了去年的凄惨，因为遇到了生命中珍贵的人，生活也更加充实。
 
@@ -30,7 +30,7 @@ Sanny Sanny [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-442.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSLJKBicNnl75qUicr5GehJ3gPh8xRGg4eLpKzh721A4Lqy1RehMV92dZOx54VoayfvUcbyO6wuBWtw/640?wx_fmt=jpeg)
+![](/images/image-134.jpg)
 
 看照片中的背影就能感受到满满的好心情～
 

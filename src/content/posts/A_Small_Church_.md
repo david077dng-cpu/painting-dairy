@@ -30,4 +30,4 @@ A Small Church.
 
 欢迎评论、点赞、转发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRkbY0xibbl0WKC4XnXLKXNTOCyXNnpjNS6CDicia00wENRO85hCyyLCEvoRRYO4ibUpZa7wkEAfpoBlA/640?wx_fmt=jpeg)
+![](/images/image-13.jpg)

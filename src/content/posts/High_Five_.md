@@ -38,7 +38,7 @@ High Five~
 
 ![](/images/image-246.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRbiamCrlasP2iaZchIe9lukAZiawbianMGGWKfQdA2a7YXMtVcSRIWdnXIsROEQx7SQhUQZCIH7ibUyZg/640?wx_fmt=jpeg)
+![](/images/image-76.jpg)
 
 有没有感受到解放的喜悦气氛~
 
@@ -46,7 +46,7 @@ High Five~
 
 好啦，欢迎评论、点赞and转发~
 
-祝大家晚安~![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)
+祝大家晚安~![](/images/image-77.png)
 
 ![](/images/image-2.png)
 

@@ -22,7 +22,7 @@ Happy New Year.
 
 今天画一幅锦鲤送给大家，
 
-祝大家都可以锦鲤附身，明年暴富![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
+祝大家都可以锦鲤附身，明年暴富![](/images/image-56.png)。
 
 ![](/images/image-232.jpg)  
 
@@ -36,5 +36,5 @@ Happy New Year.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/image-15.gif)
 

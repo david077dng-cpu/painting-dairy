@@ -38,7 +38,7 @@ A Warm Welcome.
 
 景美人美酒也美。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/image-2.jpg)
 
 欢迎点赞、留言and转发发发~
 

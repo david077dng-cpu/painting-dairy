@@ -34,7 +34,7 @@ Panda’s Breakfast.
 
 拍到一只偷瞄树上别的熊猫屁屁的大熊猫。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSsKFicUnFjwRNDjxWw334hHmibsswIiaybYe7iccPC2KA0qqYM3Aj8NQs72FGOSU5WicxRicuO0lWfuDsQ/640?wx_fmt=jpeg)
+![](/images/image-120.jpg)
 
 三岁前的大熊猫格外喜欢爬树，
 

@@ -12,7 +12,7 @@ Sommer in Peking.
 
 在小说阅读器中沉浸阅读
 
-感谢今天投稿的，我的好盆友～胡博士![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。
+感谢今天投稿的，我的好盆友～胡博士![](/images/image-7.png)。
 
 胡博士最近莅临北京学习德语 ，
 
@@ -26,7 +26,7 @@ Sommer in Peking.
 
 想起了去年夏天给妹妹在胡同里拍的这张照片。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYv6Lv1Ah7nreFMThPMWbEzCbvPCshnK8OrAucEfBicgpexaVAia9wdMenjX2oAqCrvUe98xAciap2g/640?wx_fmt=jpeg)
+![](/images/image-131.jpg)
 
 想着也要写一下今年夏天的故事：
 
@@ -102,4 +102,4 @@ Sherlock说过匆忙做决定是件危险的事情。
 
 俺在北京等你～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYv6Lv1Ah7nreFMThPMWbExNsTbAuWS4U7BolGiaeuTFWaO9gQJyc9z8aKTJcmvzicuWPKAD7xw5bQ/640?wx_fmt=jpeg)
+![](/images/image-132.jpg)

@@ -28,7 +28,7 @@ Best Present Ever ~
 
 今天收到专门为我画的画，
 
-老泪纵横![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_5.png)
+老泪纵横![](/images/image-4.png)
 
 尤其我之前还嘲笑了一下，
 
@@ -40,7 +40,7 @@ Best Present Ever ~
 
 以后多画几幅，
 
-我不嫌多![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。
+我不嫌多![](/images/image-7.png)。
 
 今天为二位作者画一幅合影，
 
@@ -52,7 +52,7 @@ Best Present Ever ~
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQUQIukicTKxM6OQFDnHicBugtap1vDwV2743aU8JLyoCfrSczYSiaic4lVsfvlnTfaGDFcS1pBwtzK0Q/640?wx_fmt=jpeg)
+![](/images/image-37.jpg)
 
 欢迎评论、留言and转发发发~  
 

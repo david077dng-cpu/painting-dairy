@@ -16,7 +16,7 @@ One Day Off.
 
 只有一天的周末更要好好过。
 
-今天真是一饱口福![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_15.png)～
+今天真是一饱口福![](/images/image-114.png)～
 
 品尝到了小伙伴煎的牛排，
 
@@ -32,7 +32,7 @@ One Day Off.
 
 对勤劳贤惠、厨艺精湛的小伙伴表示万分的感激和赞赏，
 
-同时表示以后我也很愿意常去做客![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)
+同时表示以后我也很愿意常去做客![](/images/image-56.png)
 
 趁着天色还早赶紧发出来，
 

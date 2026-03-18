@@ -98,7 +98,7 @@ P.S.
 
   
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/cwbIC82FV7jOmiaibOvSahl9M0NBzPZ67VVmhZpY8bHyLurXVf0xQ6ArfXB99qUUe6fPSlmA03o1Z19sWw8BKXPA/0/gif)
+![](/images/image-45.jpg)
 
 点击“阅读原文”查看投稿方式  
 

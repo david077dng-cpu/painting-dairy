@@ -68,7 +68,7 @@ Embrace.
 
 陪你看细水长流。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQLTuClAmXMno95XhvZBFLDqjOG3xQP8V5f9v3yrjZooPfOrYFNEd5ibvLqMEEMkEI4gdpmnYAjt3Q/640?wx_fmt=jpeg)
+![](/images/image-52.jpg)
 
 简直幸福温暖到让人落泪呀~
 

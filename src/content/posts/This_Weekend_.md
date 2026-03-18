@@ -26,7 +26,7 @@ This Weekend.
 
 还是需要有些仪式感的，
 
-之后的每年都会想办法吃到饺子![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
+之后的每年都会想办法吃到饺子![](/images/image-56.png)。
 
 度过了黑夜最长的一天，
 
@@ -62,7 +62,7 @@ This Weekend.
 
 下次冬至还是回趟家吧。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/image-31.jpg)
 
 欢迎点赞、留言and转发发发~
 

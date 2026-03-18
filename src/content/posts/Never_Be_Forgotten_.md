@@ -16,7 +16,7 @@ Never Be Forgotten.
 
 ![](/images/image-357.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTGGjMmZotfddppBTlJLHicpibVJaO5Fs8khoVGDII9VI8g1XDsTALXeS0DiaYvxX2J9E4szeYseqpTg/640?wx_fmt=jpeg)
+![](/images/image-108.jpg)
 
 香港城市大学邵逸夫创意媒体中心，
 
@@ -42,4 +42,4 @@ Never Be Forgotten.
 
 这才是真正的永垂不朽吧。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTGGjMmZotfddppBTlJLHicpdt4jf9cwRE6MSJrP50q9osKicxicvl2vRUBuNib3ibPX04NAqn0ia7gYRrg/640?wx_fmt=jpeg)
+![](/images/image-109.jpg)

@@ -48,7 +48,7 @@ Picasso, Birth of a Genius.
 
 几乎可以将这件作品看作是他对自我存在的一种冥想。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjSLAicibEvPVInyMIOTMYquCoQzNviasMF2qcgdhia7ia1NXd0Wr2Hhh92nHCKwqFicSUkHLEYjQpcU1wXg/640?wx_fmt=png)
+![](/images/image-122.png)
 
 毕加索将面对死亡与身体机能衰退的感受，
 

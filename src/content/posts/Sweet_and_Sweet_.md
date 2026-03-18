@@ -50,7 +50,7 @@ Sweet and Sweet.
 
 还有“倍儿哏儿”都是例子。
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9U0EYjbSo1ojo2WdfRZVibllZOaicpIy8QpJ8hulvUkxN6CfA5mvF1bGPQ/640?wx_fmt=gif)
+![](/images/image-136.gif)
 
 欢迎大家留言补充更多例子 ~  
 

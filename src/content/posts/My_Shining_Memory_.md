@@ -46,7 +46,7 @@ Young Young [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-339.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRKKdXAKflKjUzgTy2F5AcWUbHda0o1OhqGeIWFokeIRiaAicKTIfKoRPSPARlVd1bpRV6vtO9Yv42g/640?wx_fmt=jpeg)
+![](/images/image-104.jpg)
 
 看着这个房子，小编也想起了老家的房子，
 

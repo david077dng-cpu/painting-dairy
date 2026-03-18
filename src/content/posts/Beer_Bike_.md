@@ -14,7 +14,7 @@ Beer Bike.
 
 在小说阅读器中沉浸阅读
 
-最近不知道画些什么好![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/Cold.png)，
+最近不知道画些什么好![](/images/image-34.png)，
 
 找些原来有意思的照片练习一下水彩技法吧。  
 
@@ -44,7 +44,7 @@ Beer Bike.
 
 细细想来，
 
-这么多人“聚众酒驾”还真有点刺激![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/Watermelon.png)…
+这么多人“聚众酒驾”还真有点刺激![](/images/image-35.png)…
 
 从网上找了一张图片看下车头的样子，
 
@@ -60,5 +60,5 @@ Beer Bike.
 
 下周见～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/image-12.gif)
 

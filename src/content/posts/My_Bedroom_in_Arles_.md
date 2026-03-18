@@ -14,7 +14,7 @@ My Bedroom in Arles.
 
 今天开启一个新的系列，
 
-“名画水彩山寨系列”![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+“名画水彩山寨系列”![](/images/image-5.png)。
 
 逛博物馆的时候，
 
@@ -36,7 +36,7 @@ My Bedroom in Arles.
 
 万一哪天真作失传了，
 
-我这个山寨版本没准就会出现在几百年后的博物馆里了呢![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+我这个山寨版本没准就会出现在几百年后的博物馆里了呢![](/images/image-5.png)。
 
 万一呢，  
 
@@ -48,7 +48,7 @@ My Bedroom in Arles.
 
 今天临摹的是梵高的《阿尔勒的卧室》，
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSsk1dd2wq0rbgVlWofKbQP081ZnbFKzUic64doBoptNfcOPwwV4EF7Q6L3TpSEQxzuibX5kaNibXfMg/640?wx_fmt=jpeg)
+![](/images/image-103.jpg)
 
 梵高的第一版《阿尔勒的卧室》，
 
@@ -106,4 +106,4 @@ My Bedroom in Arles.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/images/image-35.jpg)

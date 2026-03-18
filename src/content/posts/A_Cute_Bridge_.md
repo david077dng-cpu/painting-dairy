@@ -48,7 +48,7 @@ A Cute Bridge.
 
 非常可爱。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTT4R9Aud1TJINHZtIsKVqAibIicX30SOwpl2CbmxH5UbB2hTKRUjbh5l8IKic97KA20j3pTLEiaYUrXQ/640?wx_fmt=jpeg)
+![](/images/image-8.jpg)
 
 有没有看到图中小狮子亮亮的爪子~
 
@@ -64,7 +64,7 @@ A Cute Bridge.
 
 好啦，欢迎评论、点赞and转发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39SibTpWPD7VVWRGW9icOjDwDUK71NzYZmVyGhoia4MTpics8BGiauXTUJvqg/640?wx_fmt=png)
+![](/images/image-3.png)
 
 点击“阅读原文”，照片变水彩~  
 

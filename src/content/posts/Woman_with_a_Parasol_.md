@@ -28,7 +28,7 @@ Woman with a Parasol.
 
 下面是原作，
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTXCHA5FSMVmzBglYWjRO1ychQbMj0iaZfD2r5ib6EGZyDZEZ78qfBVXAibiaI5O8nzHlicjHRUI5kCGEQ/640?wx_fmt=jpeg)
+![](/images/image-180.jpg)
 
 印象派画家擅长把瞬间的感受记录下来传递给他人。
 
@@ -56,7 +56,7 @@ Woman with a Parasol.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/images/image-35.jpg)
 
   
 

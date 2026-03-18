@@ -48,7 +48,7 @@ Happy Father's Day.
 
 还是放上原画:
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS5fmibXxy4hA9UzdnTEYM5unaIdM6tnrWC9o6udqcXwtJvmgTlz1Pzib2ebibERBaDeYRIoktQMXIVw/640?wx_fmt=jpeg)
+![](/images/image-69.jpg)
 
 油画《父亲》
 

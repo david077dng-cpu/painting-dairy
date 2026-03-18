@@ -16,7 +16,7 @@ Happy Valentine’s Day.
 
 大家画朵花。
 
-没有给女朋友买花的赶紧转给她![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_06.png)
+没有给女朋友买花的赶紧转给她![](/images/image-64.png)
 
   
 

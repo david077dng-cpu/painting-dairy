@@ -14,7 +14,7 @@ Heaven's Door.
 
 ![](/images/image-240.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTLSZrLxEMFUvmqWxZoibJK0pEb2VuXZktQMOS64icyjzM3gE65zS3lwXlMkdSCxx1DNiaNbQC5Hg6Jw/640?wx_fmt=jpeg)
+![](/images/image-73.jpg)
 
 下面这幅是伏见稻荷千本鸟居，
 

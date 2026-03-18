@@ -28,11 +28,11 @@ TA画了第一幅水彩作品，
 
 是TA蛙鹅子的写真，
 
-有点艺术家的感觉![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_42.png)
+有点艺术家的感觉![](/images/image-20.png)
 
 ![](/images/image-41.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQsQqQiaWouIBz0Io6rakibAWIX3xQBPaCKHLvRmX2KVE4fWpPFqktGZsXcklFOsStdtwnUoXVvSxpQ/640?wx_fmt=jpeg)
+![](/images/image-9.jpg)
 
     以后争取师徒二人多出几期 ~
 

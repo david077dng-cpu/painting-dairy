@@ -42,7 +42,7 @@ Take It Slow.
 
 让我们静静地享受周日午后的时光。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTBHmHJ57W32rQO9LIPUUaB2OKEMticKSMbsyhDOsSI030xuVM2GzicoRibTj7CAzFInCCUHUkrj2uaQ/640?wx_fmt=jpeg)
+![](/images/image-137.jpg)
 
 上班之后更加珍惜周末，
 

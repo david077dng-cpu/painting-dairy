@@ -70,7 +70,7 @@ The City of Art.
 
 不过，好好工作才能好好玩耍，  
 
-又是新的一周，加油吧![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/KeepFighting.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/KeepFighting.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/KeepFighting.png)！
+又是新的一周，加油吧![](/images/image-145.png)![](/images/image-145.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/KeepFighting.png)！
 
   
 

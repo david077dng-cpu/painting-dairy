@@ -42,7 +42,7 @@ I Love NKU.
 
 ![](/images/image-258.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjR5XIU5FSibsWXuJddYehh7sls0bDQuY3AFV2icicEJP6aBUcUnWc5ks3AQKpMEib7ILpVUtCL1eOsJfA/640?wx_fmt=jpeg)
+![](/images/image-80.jpg)
 
 今天画的头晕眼花，
 

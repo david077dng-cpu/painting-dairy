@@ -35,7 +35,7 @@ Long Time No See.
 于是我就请她喝了杯咖啡，  
 一分钟之后她说画完了，
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQEkgxeVMibddvbFRIBIUH5OZmgD4b19XW8JzAohicTJrJ5xLynLTKZU7AcuaZ7rjNDgQtmkx4ocobw/640?wx_fmt=jpeg)
+![](/images/image-91.jpg)
 
 ![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F633.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_18.png)“你把我咖啡吐出来！！”  
 最后我终于拿到了三爷的墨宝，  
@@ -46,7 +46,7 @@ Long Time No See.
 据她说是今年的巅峰之作，  
 心满意足～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/image-31.jpg)
 
 欢迎点赞、留言and转发发发~
 

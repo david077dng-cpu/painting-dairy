@@ -14,7 +14,7 @@ Come Back Home.
 
 **今天看《国家宝藏》最新一期，**
 
-**最后一个国宝故事太感动了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_5.png)。**
+**最后一个国宝故事太感动了![](/images/image-41.png)。**
 
 **这个国宝叫皿方罍，**
 
@@ -34,7 +34,7 @@ Come Back Home.
 **以五千万美金被我们重新买了回来，  
 **
 
-**皿方罍器身和器盖终于在故乡团圆了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_5.png)。**
+**皿方罍器身和器盖终于在故乡团圆了![](/images/image-41.png)。**
 
   
 

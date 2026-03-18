@@ -76,7 +76,7 @@ One Day Tour.
 
 先是被大师画的鸭子戳中了萌点，
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQNPdAOb617nqrgXdv2sLMfMfvqYphRMnEaRmMcpjsuDIWxWJJCPGAFI71hYcuw47Uia9fticNrEDoA/640?wx_fmt=jpeg)
+![](/images/image-115.jpg)
 
 后来听到大师也曾经苦于找不到自己的风格，
 
@@ -100,5 +100,5 @@ One Day Tour.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/image-15.gif)
 

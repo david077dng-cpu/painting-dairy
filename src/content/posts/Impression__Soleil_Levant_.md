@@ -32,7 +32,7 @@ Impression, Soleil Levant.
 
 原画作如下：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQUhETn0ficjjcics0fTGvHzpHgwuahzq8lZ76LClAQV81tsLeA6KXkKdYFBO11pcW5Viasms1OPwShw/640?wx_fmt=jpeg)
+![](/images/image-81.jpg)
 
 随着照相技术的发展，
 
@@ -56,7 +56,7 @@ Impression, Soleil Levant.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/images/image-35.jpg)
 
   
 

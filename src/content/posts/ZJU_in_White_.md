@@ -14,7 +14,7 @@ ZJU in White.
 
     今天朋友圈被雪中ZJU刷屏，
 
-    我也来抒发一下![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_04.png)。
+    我也来抒发一下![](/images/image-16.png)。
 
     雪中的求是书院实在太美。
 
@@ -26,7 +26,7 @@ ZJU in White.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ8gBfaIFqKkHMPS8UZObHXD49xyuUcQLEJUhfgbVnve1afIAyatcjwkjftPA36wmJNQW3QCGhl9A/640?wx_fmt=jpeg)
+![](/images/image-189.jpg)
 
     一早起来，
 

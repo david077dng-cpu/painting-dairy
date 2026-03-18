@@ -46,7 +46,7 @@ Sweet Music, Sweet Life.
 
 还有比这更幸福的事情吗？
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmX8E8jyAJZ8W13tuNkWsqkXQjVudnNtYgXfHuBvllXicwzZLU97dcibDZdMnKdtDicZD6lzeU72row/640?wx_fmt=jpeg)  
+![](/images/image-135.jpg)  
 
 马上就要到中秋节啦，
 

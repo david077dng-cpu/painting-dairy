@@ -26,9 +26,9 @@ Best Mom Ever.
 
 给妈妈买了一枝康乃馨，
 
-把我自己感动坏了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
+把我自己感动坏了![](/images/image-17.png)，
 
-觉得自己简直是太孝顺了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
+觉得自己简直是太孝顺了![](/images/image-5.png)，
 
 但是长大了才觉得，
 
@@ -68,7 +68,7 @@ Best Mom Ever.
 
 赶紧转发给妈妈吧～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/images/image-26.jpg)
 
   
 

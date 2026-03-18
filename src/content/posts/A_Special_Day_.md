@@ -18,11 +18,11 @@ A Special Day.
 
     本来想和蛋糕来个合影的，
 
-    没想到半路杀出来一个抢镜的![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    没想到半路杀出来一个抢镜的![](/images/image-14.png)。
 
     看在她这么努力抢镜的份上，
 
-    也把她画上吧![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+    也把她画上吧![](/images/image-5.png)。
 
   
 
@@ -30,7 +30,7 @@ A Special Day.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS3aiaY3YQjywln66WdiaBvuIV717Aiagyz1gktLxWaUIcejQspAydcCnS3MpE3cWBKgpfpoQ2V8BqhA/640?wx_fmt=jpeg)
+![](/images/image-15.jpg)
 
     喜欢实验室过生日的传统 ~
 

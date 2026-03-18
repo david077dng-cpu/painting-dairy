@@ -46,7 +46,7 @@ Blossom of Snow.
 
 顿时圆满了。
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UJOHy6MRzqC7hZ2mxjhbwONBhEU5xkmUZw2gt1nQNibmoYpmY2MYzAaw/640?wx_fmt=gif)
+![](/images/image-23.gif)
 
 另外，
 
@@ -58,6 +58,6 @@ Blossom of Snow.
 
 就要毕业了，
 
-舍不得我的室友们![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_12.png)。
+舍不得我的室友们![](/images/image-24.png)。
 
 ![](/images/image-92.jpg)

@@ -38,7 +38,7 @@ hiahiahia，
 
 感恩～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQXRTUU2lLAiaGZ6Z9ibkdCBfxricVaoVSicJquXxMepbiaDUIdwvzDVLdic7OWylE2Z5Cb4tZCo17PicFCg/640?wx_fmt=jpeg)
+![](/images/image-48.jpg)
 
 阿姨说这张照片是在秦皇岛玩的时候拍下来的，
 

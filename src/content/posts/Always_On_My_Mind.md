@@ -32,7 +32,7 @@ Always On My Mind
 
     出征前的霸气合影。
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39icRu0JMJaemtRqROvaYzIgfV4WexEIaYefgQYaQKrfNE5fRcWFCeJsA/0/jpeg)
+![](/images/image-19.jpg)
 
 2015年｜夏  
 
@@ -66,7 +66,7 @@ Always On My Mind
 
      我们特意选了这位作者的生日那天出发，三个人还偷偷准备了小蛋糕。
 
-     途中让我印象最深刻的就是这位作者，从泰山下来之后，我们去还租的军大衣时，到处找不到她，一看居然已经倒在旁边草丛里悄咪咪睡着了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。也是心大，典型的此作者之风格……
+     途中让我印象最深刻的就是这位作者，从泰山下来之后，我们去还租的军大衣时，到处找不到她，一看居然已经倒在旁边草丛里悄咪咪睡着了![](/images/image-14.png)![](/images/image-1.png)。也是心大，典型的此作者之风格……
 
     好啦，今天太长了，先到这里吧，欢迎留言或转发~~
 

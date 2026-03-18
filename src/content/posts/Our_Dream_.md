@@ -26,7 +26,7 @@ Our Dream.
 
 一种用文字难以描述的美，
 
-西藏我还回来![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)  
+西藏我还回来![](/images/image-117.png)![](/images/image-117.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)  
 
 ![](/images/image-382.jpg)
 
@@ -60,7 +60,7 @@ Our Dream.
 
 夜里，它在我们的上方。”
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTejI3fnELgSZB8lIlC2tLrYvXJctElyuOo2mZzPFDIvT70TTRZ1UjzewUiapnGXicFLyraukYmZKnQ/640?wx_fmt=jpeg)
+![](/images/image-118.jpg)
 
 向去过西藏的探险者们致敬！
 

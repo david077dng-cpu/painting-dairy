@@ -16,7 +16,7 @@ Tears In Heaven.
 
     **配文是：“好像什么事也没做，夏天就过完了，这是《蓝色大门》里的台词，也是看到这张照片时的心情。”**
 
-    **![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)这位夏天什么都没做的同学，连投稿都这么潇洒。还好你的照片美。**
+    **![](/images/image-1.png)这位夏天什么都没做的同学，连投稿都这么潇洒。还好你的照片美。**
 
 ![](/images/image-461.jpg)
 

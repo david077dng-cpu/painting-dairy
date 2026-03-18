@@ -72,7 +72,7 @@ Lamma Island.
 只是想纪念而已，仅此而已。  
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQVhiaeE6XTgACKkNfuxOuyK5lMIFpsDSj1q7icN5OtF1Vcxdias5Tz7M5BaykhXLZzPHericdia9eQpjQ/640?wx_fmt=jpeg)
+![](/images/image-85.jpg)
 
 今天文章是不是超赞！~  
 

@@ -36,7 +36,7 @@ Zijingang Campus
 
 ![](/images/image-610.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQblaY6KQZYpoC5A8eJvziaLjX5rEOInsPkicU3R65YAeZ9PbmGTJoqAj75LVjpUIXnBTibXWPqC0iauA/640?wx_fmt=jpeg)
+![](/images/image-192.jpg)
 
 Painting Diary第一期就是去年画的月牙楼，
 
@@ -56,4 +56,4 @@ Painting Diary第一期就是去年画的月牙楼，
 
 欢迎点赞、评论and转发。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQblaY6KQZYpoC5A8eJvziaLWHfCkePnmDgou8ic5gBL6BicEQTVbVQD747HSjzlQSIriccyIoUgU8KTQ/640?wx_fmt=jpeg)
+![](/images/image-193.jpg)

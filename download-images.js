@@ -72,14 +72,20 @@ async function processArticle(file) {
     const url = match[2];
 
     // 只处理微信图片
-    if (url.includes('mmbiz.qpic.cn') || url.includes('mmbiz.qlogo.cn')) {
+    if (url.includes('mmbiz.qpic.cn') || url.includes('mmbiz.qlogo.cn') || url.includes('res.wx.qq.com')) {
       // 检查是否已经下载过这个URL
       let localPath = downloadedImages.get(url);
 
       if (!localPath) {
         // 生成新的文件名
-        const ext = url.includes('wx_fmt=gif') ? '.gif' :
-                   url.includes('wx_fmt=png') ? '.png' : '.jpg';
+        let ext;
+        if (url.includes('wx_fmt=gif')) {
+          ext = '.gif';
+        } else if (url.includes('wx_fmt=png') || url.endsWith('.png')) {
+          ext = '.png';
+        } else {
+          ext = '.jpg';
+        }
         imageCounter++;
         const filename = `image-${imageCounter}${ext}`;
         localPath = `/images/${filename}`;

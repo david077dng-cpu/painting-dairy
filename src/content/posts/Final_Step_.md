@@ -14,7 +14,7 @@ Final Step.
 
 今天是个值得纪念的日子，
 
-在2018年的妇女节![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，  
+在2018年的妇女节![](/images/image-5.png)，  
 
 我完成了硕士论文答辩，
 
@@ -86,4 +86,4 @@ Final Step.
 
 欢迎点赞、评论and转发。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQTVS9t3IgAyUpxA1WsdDr7jqCkEygge9sd2u3oU6IL8KWQnJ2DxkaJiaXNibBpMn0ZgD5DW0AVDByQ/640?wx_fmt=jpeg)
+![](/images/image-60.jpg)

@@ -20,7 +20,7 @@ December.
 2019年已经过了十几天，  
 还是不太适应这个数字，  
 和自己的年龄一样，  
-不太适应![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。  
+不太适应![](/images/image-1.png)。  
 
 ![](/images/image-147.jpg)
 
@@ -34,7 +34,7 @@ December.
 可以做的还有很多！  
 共勉！  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/image-31.jpg)
 
 欢迎点赞、留言and转发发发~
 

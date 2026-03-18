@@ -42,7 +42,7 @@ One Day In Berlin.
 并且因地制宜，
 
 不同位置的垃圾桶写着不同的字。  
-例如位在博物馆前人行道上的垃圾桶，写的就是「Museum of modern trash」，就是「现代垃圾的博物馆」![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。  
+例如位在博物馆前人行道上的垃圾桶，写的就是「Museum of modern trash」，就是「现代垃圾的博物馆」![](/images/image-56.png)。  
 有的垃圾桶也会和人对话。  
 例如写着「Gib's mir」，就像是叫你把垃圾「拿来！」。  
 例如「Eimer liebt dich 」，是「桶子爱你」。  

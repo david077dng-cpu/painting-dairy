@@ -34,7 +34,7 @@ Dear Grandma.
 
 ![](/images/image-142.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQuqgc6p9F1WN72UXTwdf1oibxUTHmiaPvvamFLkfpOtgWicEo1ywSMbVA1RAoC1313jH2g69zdweicwA/640?wx_fmt=jpeg)
+![](/images/image-50.jpg)
 
 今天的照片来自投稿，
 
@@ -54,5 +54,5 @@ Dear Grandma.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/image-15.gif)
 

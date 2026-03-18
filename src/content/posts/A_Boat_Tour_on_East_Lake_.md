@@ -30,7 +30,7 @@ LJX LJX [PaintingDiary](javascript:void\(0\);)
 
 更喜爱这水乡的水上精灵。  
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTgWPficg5DtRIicAsCENcVjMfd0nSDH0eOWJhBXibVibou64p1GARibOUXcOCa9CE7K7Q99icPWb4IKR7A/0/jpeg)
+![](/images/image-7.jpg)
 
 ![](/images/image-16.jpg)
 
@@ -38,7 +38,7 @@ LJX LJX [PaintingDiary](javascript:void\(0\);)
 
 欢迎长按二维码关注 ~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGz2UZaPU91p15pvo4K6uluMVIupX40kEopTkOmtGstaooHlqsWaqoOdLA4Ria1YmhEblalILLhXQ/0?wx_fmt=jpeg)
+![](/images/image-2.jpg)
 
   
 

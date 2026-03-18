@@ -38,7 +38,7 @@ Blessing.
 
 家乡不再有灾难。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQYMPPv3iakFVElXkiaN1Cd0mCdS5Sddhuib7gMXNGHofCGsraCdt9HiccKqgUabL8ub0uckOiczpp7ILg/640?wx_fmt=jpeg)
+![](/images/image-22.jpg)
 
 今天大扫除翻到了之前留下的门票，
 

@@ -44,7 +44,7 @@ Traveling in October.
 
 ![](/images/image-559.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQc5oYBdFEnQiaJp2FK0CeA9IhZCKxuUqBDH79hc6yAJxQoP2VW5rMib8gA9Yh8HwJUScsz6OgTTF0A/640?wx_fmt=jpeg)
+![](/images/image-167.jpg)
 
 老李说话真是很有时代特色呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)，
 

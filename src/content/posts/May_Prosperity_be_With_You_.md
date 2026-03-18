@@ -22,7 +22,7 @@ May Prosperity be With You.
 
 ![](/images/image-304.jpg)
 
-恭喜发财![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_83.png)~
+恭喜发财![](/images/image-97.png)~
 
 祝大家新年财源广进，步步高升~
 

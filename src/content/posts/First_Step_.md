@@ -138,7 +138,7 @@ First Step.
 
 ![](/images/image-182.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjThGCH4Ecia1EOsDJHMXMgeSSHKRibgCz5JEKEXj5iaVBhd9QaeMXqlHPCxb7hyyY0iaiaTBCQt4dCSMGg/640?wx_fmt=jpeg)
+![](/images/image-61.jpg)
 
 ![](/images/image-45.jpg)
 

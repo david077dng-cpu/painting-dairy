@@ -14,7 +14,7 @@ My Babe, My Piggy～
 
 在小说阅读器中沉浸阅读
 
-今天的文章来自某“饲养员”![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)～  
+今天的文章来自某“饲养员”![](/images/image-56.png)～  
 
 感谢投稿～
 
@@ -58,5 +58,5 @@ My Babe, My Piggy～
 
 投稿也可以哦～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/image-15.gif)
 

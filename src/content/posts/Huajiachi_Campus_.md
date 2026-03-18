@@ -44,7 +44,7 @@ Huajiachi Campus.
 
 诚学府中罕有。  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UJOHy6MRzqC7hZ2mxjhbwONBhEU5xkmUZw2gt1nQNibmoYpmY2MYzAaw/640?wx_fmt=gif)
+![](/images/image-23.gif)
 
 今天又换了粗纹水彩纸，
 

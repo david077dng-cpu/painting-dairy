@@ -22,7 +22,7 @@ New Year, New Start.
 
 在慕尼黑尝当地啤酒时的照片，
 
-别看这么一大扎，其实是无酒精的![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F61D.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
+别看这么一大扎，其实是无酒精的![](/images/image-111.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
 
 这次发现无酒精的啤酒好好喝啊哈哈。
 

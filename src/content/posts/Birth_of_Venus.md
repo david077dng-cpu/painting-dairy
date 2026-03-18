@@ -32,7 +32,7 @@ Birth of Venus
 
 出场都这么不一样”  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQkEY9iao5vatMyDoSZYakicU4owQbtBicricAx215DRM1hZUiaErNejibX8XRChoVFOe1xlZ6OxACe2uFg/640?wx_fmt=jpeg)
+![](/images/image-20.jpg)
 
 放个原画在这里吧，
 

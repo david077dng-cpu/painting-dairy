@@ -18,7 +18,7 @@ New Start.
 
 感谢分享～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSxrKwdeYbEBiaU9WCHot1yIqw2t2picfyG0dKKVmm5mtib90Q3QxvcBjxzp3vG686M7B4Eicpt2ic0UUg/640?wx_fmt=jpeg)
+![](/images/image-110.jpg)
 
 以下是原文：
 

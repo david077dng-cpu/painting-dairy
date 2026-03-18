@@ -22,7 +22,7 @@ If I were a painter,
 
 you'd be my Mona Lisa.
 
-老夫的少女心呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+老夫的少女心呀![](/images/image-1.png)。
 
 ![](/images/image-313.jpg)
 
@@ -38,7 +38,7 @@ you'd be my Mona Lisa.
 
 说每次去看都有五个中国的旅游团在前面，
 
-组成一个师围攻蒙娜丽莎![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+组成一个师围攻蒙娜丽莎![](/images/image-5.png)。
 
 从法国来的朋友也告诉我，
 
@@ -58,7 +58,7 @@ you'd be my Mona Lisa.
 
 放上蒙娜丽莎原图：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSZjiahcCAwJ7lGmWDqKRUq43ib9PZdyDc87u8iaJjtXakvE6AxROpWsHibxw8GcEzBYibibvLBBlcJSrpQ/640?wx_fmt=jpeg)
+![](/images/image-98.jpg)
 
 蒙娜丽莎说：
 

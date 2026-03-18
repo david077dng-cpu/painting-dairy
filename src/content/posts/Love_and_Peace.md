@@ -20,7 +20,7 @@ Love and Peace
 
 ![](/images/image-294.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRQlLf0KXWyIc9zEnicpmuiaUZR4aRDZKWH7htPp3UEibFUMBEIJWoiaLQaK6nrUqHWzF1S8nXEJS97yg/0?wx_fmt=jpeg)
+![](/images/image-94.jpg)
 
     今天的主题是不是太严肃了（图片来自胶带）。
 

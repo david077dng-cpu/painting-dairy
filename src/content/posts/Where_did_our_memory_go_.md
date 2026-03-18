@@ -74,7 +74,7 @@ Where did our memory go?
 
 但还是high到挺晚的，
 
-毕竟，有节不过非好汉……![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)  
+毕竟，有节不过非好汉……![](/images/image-1.png)  
 
 你们还记得小时候的事情吗～
 

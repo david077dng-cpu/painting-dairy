@@ -24,7 +24,7 @@ Father and Son.
 
 一家三口暂别眼前的苟且，
 
-奔向诗和远方![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)...  
+奔向诗和远方![](/images/image-1.png)...  
 
 ![](/images/image-173.jpg)
 
@@ -48,7 +48,7 @@ Father and Son.
 
 是曾经撅着屁股看鬼屋的那小屁孩儿，
 
-当然，现在已然是英俊青年...![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F604.png)
+当然，现在已然是英俊青年...![](/images/image-55.png)
 
 ![](/images/image-172.jpg)
 
@@ -64,7 +64,7 @@ Father and Son.
 
 小编还清晰记得画这张画时的情景……
 
-![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)感谢投稿的小伙伴，
+![](/images/image-56.png)感谢投稿的小伙伴，
 
 你们的回忆，
 

@@ -46,7 +46,7 @@ Our Trip to Wuzhen.
 
 2019.04.20  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UHaLSQn62Zr46EpuxmZwjgDyEk0T1lgkmPiccTI3U3jngLHAricSh2Ylw/640?wx_fmt=gif)  
+![](/images/image-119.gif)  
 
 好啦，今天的故事就讲到这里~
 

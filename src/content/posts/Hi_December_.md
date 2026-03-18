@@ -12,11 +12,11 @@ Hi December~
 
 在小说阅读器中沉浸阅读
 
-    12月第一天，2017年最后一个月怎么过好呢……![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)
+    12月第一天，2017年最后一个月怎么过好呢……![](/images/image-7.png)
 
     每天发完都能收到好多加油，昨天看到好多朋友为我转发，感动到流泪，看着订阅数量一个个涨上来好感动~ 做喜欢的事情好幸福，身边有这么多好朋友支持我、给我出主意更幸福！！！ 最近突然有一步一步朝着梦想前进的感觉了。一步一步似爪牙，似魔鬼的……呸呸呸，跑题了。
 
-    今天画的是小伙伴拍的一张照片，我和她认识快16年了吧，她现在就在这个美丽的大阪大学……读博![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。16年不算什么，再来几个16年照样是好朋友。
+    今天画的是小伙伴拍的一张照片，我和她认识快16年了吧，她现在就在这个美丽的大阪大学……读博![](/images/image-7.png)。16年不算什么，再来几个16年照样是好朋友。
 
     俗话说得好，人有失足，马有失蹄，我今天就失蹄了……![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)
 
@@ -24,7 +24,7 @@ Hi December~
 
 没有对比就没有伤害，下面请看原图：  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTDYvCxh0z2Q7fWqnOTF8I3j2V3uF4JgVXEX1SM0dXT1PkrVKf9dpZ7USrLhvSEnzef7fbghvicWRQ/0?wx_fmt=jpeg)
+![](/images/image-75.jpg)
 
     没错，我就是对自己这么残忍，对比就能发现，今天构图有点问题，地面咋鼓起来了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，技术还是不够娴熟，大家千万不要因为我今天的小失误就取关啊啊啊啊！！！！我会继续努力哒。
 

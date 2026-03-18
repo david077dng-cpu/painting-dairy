@@ -42,7 +42,7 @@ Florence.
 
     PS. 感谢李老师和我哥不远万里来接我回家。跟着李老师总是能够学到新东西，习以为常的街道、房屋、垃圾桶……，李老师都能发现他们的可爱之处和设计者的一些小巧思。她的好奇心和对美的感知，也影响着我开始尝试手绘，果然自己画出来的印象会更加深刻。我也是充分显示了“创造才能”，一首经《小邋遢》改编而成的《小垃圾》成为了意大利之行的主题曲，大抵只有“臭味相投”的人才能大声唱着《小垃圾》，疯疯癫癫的走进佛罗伦萨的夜里。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTQh6l8ds4IPcbMQcpg8HD3gUsfstAnzDEb6qsPj1EHmyic0ZtaKJrJ5mlFYD3AQ8YyZLkIQ7hLfpA/640?wx_fmt=jpeg)
+![](/images/image-62.jpg)
 
 胡博士的文章和她本人一样，既温暖又活泼～
 

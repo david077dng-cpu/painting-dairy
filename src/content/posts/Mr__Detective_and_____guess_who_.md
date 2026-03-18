@@ -46,7 +46,7 @@ Mr. Funny Mr. Funny [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-326.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRicU58BFO182z8hfCajHI25POgsrGXd9icccuXGPNIPwr3kzRmiaNmiaz8U6m9JROJCKKYSt67xJgayQ/640?wx_fmt=jpeg)
+![](/images/image-102.jpg)
 
 今天Mr.Funny为小编和柯南画了张合影~
 

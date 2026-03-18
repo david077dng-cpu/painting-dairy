@@ -66,7 +66,7 @@ My Room.
 
 主要是因为勤劳的小编今天洗了鞋子，
 
-放在窗边晾着而已![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
+放在窗边晾着而已![](/images/image-56.png)。
 
 很喜欢现在住的地方，
 
@@ -82,5 +82,5 @@ My Room.
 
 更加欢迎投稿哦～
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/image-15.gif)
 

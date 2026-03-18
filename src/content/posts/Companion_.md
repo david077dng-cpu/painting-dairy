@@ -44,7 +44,7 @@ Companion.
 
 只安静地陪在奶奶身边。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjScCyBiccKZddAazUvfyVLXYrmmJDaPcG7NQ6XxYzlfPx2nICzrjAxOHSibf8iaFic2Eae88LbBuiaeteg/640?wx_fmt=jpeg)
+![](/images/image-42.jpg)
 
 点点滴滴，
 
@@ -68,5 +68,5 @@ Companion.
 
 ![](/images/image-10.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/image-15.gif)
 

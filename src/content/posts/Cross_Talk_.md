@@ -18,7 +18,7 @@ Cross Talk.
 
 和朋友一起去听了场相声。
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ4NuCWkJcQxPX7VH95PDmu0YmZGOhvgmgDTK26JxXhiaIbyico4XkcT1oUia2mpwBjlZvw9lRr2KX3A/640?wx_fmt=gif)
+![](/images/image-46.gif)
 
 坐在小方桌前面，
 
@@ -40,7 +40,7 @@ Cross Talk.
 
 强烈推荐来天津玩的小伙伴都来试试，
 
-绝对不虚此行![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_44.png)。。。
+绝对不虚此行![](/images/image-47.png)。。。
 
 ![](/images/image-45.jpg)
 

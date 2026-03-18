@@ -16,13 +16,13 @@ Let's go home.
 
     **她像我的家人一样。**
 
-    **感觉她对我，比对她亲弟都好****![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。**
+    **感觉她对我，比对她亲弟都好****![](/images/image-56.png)。**
 
     **有一次我和她姐弟三人出去玩，她弟说元旦想去日本看她。**
 
     **她说不要，元旦要和我玩。**
 
-    **![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)熏疼弟弟一秒钟。**
+    **![](/images/image-5.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)熏疼弟弟一秒钟。**
 
     **她眯眯眼笑的时候超级美，眼睛里有小星星那样。**
 
@@ -34,7 +34,7 @@ Let's go home.
 
     **应该要多笑笑。**
 
-    **其实是超级温暖的人****![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)。**  
+    **其实是超级温暖的人****![](/images/image-38.png)。**  
 
      
 
@@ -42,7 +42,7 @@ Let's go home.
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSX9Vjf4En6NUQX31Ck9Xo0n97ruETcU8p71dib7aW6XSMLuoP1hecBRX7J7yEvy110CUssUCicG6sA/0?wx_fmt=jpeg)
 
-    这几天画楼画的阅读量蹭蹭的往下降啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    这几天画楼画的阅读量蹭蹭的往下降啊![](/images/image-1.png)。
 
     但我还是会继续画的，因为我有你萌这些每天都点进来的小伙伴~
 

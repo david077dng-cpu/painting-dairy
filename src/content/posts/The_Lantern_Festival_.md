@@ -38,7 +38,7 @@ The Lantern Festival.
 
 今天就放个河灯吧～
 
-许个愿望，希望疫情可以赶快过去![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)
+许个愿望，希望疫情可以赶快过去![](/images/image-117.png)
 
 ![](/images/image-501.jpg)  
 
@@ -63,5 +63,5 @@ The Lantern Festival.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)  
+![](/images/image-15.gif)  
 

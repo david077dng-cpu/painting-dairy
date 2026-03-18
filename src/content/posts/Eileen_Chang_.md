@@ -44,7 +44,7 @@ Eileen Chang.
 
     生活的艺术，有一部分我不是不能领略。我懂得怎么看《七月巧云》，听苏格兰兵吹bagpibe，享受微风中的藤椅，吃盐水花生，欣赏雨夜的霓虹灯，从双层公共汽车上伸出手摘树巅的绿叶。在没有人与人交接的场合，我充满了生命的欢悦。可是我一天不能克服这种咬啮性的小烦恼，生命是一袭华美的袍，爬满了蚤子。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCJVLbKtqgbmiceviaH6pBo9an2iabWxtbBQrUyvibvur9wYZpjYHUSpFgLvzCCEcMrgcpvAyeXvgKSQ/640?wx_fmt=jpeg)
+![](/images/image-51.jpg)
 
 用自己的方式向崇拜的人物致敬，
 

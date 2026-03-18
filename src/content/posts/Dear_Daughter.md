@@ -62,7 +62,7 @@ Dear Daughter
 
     投稿方式可以点击阅读全文查看~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/images/image-49.jpg)
 
   
 

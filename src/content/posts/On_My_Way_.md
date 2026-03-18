@@ -46,7 +46,7 @@ TA的名字太长了，
 > 
 > ![](/images/image-370.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjTXZwum4ShFyB26LN3JnEMEsFoF11biaN9BYz07qPaibhtHYVGjHjary2wjqnBkjwY4kIJMG2icZ8XBQ/640?wx_fmt=png)
+![](/images/image-113.png)
 
     今天的照片是黑白的，
 

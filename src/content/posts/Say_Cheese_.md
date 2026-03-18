@@ -12,7 +12,7 @@ Say Cheese.
 
 在小说阅读器中沉浸阅读
 
-    今天的照片和文字来自于师弟的投稿，乍看以为是抒发一直单身的小情绪，实则是在表白室友![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。
+    今天的照片和文字来自于师弟的投稿，乍看以为是抒发一直单身的小情绪，实则是在表白室友![](/images/image-7.png)。
 
     这张照片是去年十一月底室友在宋城帮我拍的。
 
@@ -26,7 +26,7 @@ Say Cheese.
 
 ![](/images/image-424.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/5Te9e4FibPxBHMBaHPBZjONlso7wNyq909CepbAMSNrhfNH28wwBJjbLfKrRYdib6oLuxZTvGZ1nEDdCopVfJAtQ/0/jpeg)
+![](/images/image-126.jpg)
 
 室友
 
@@ -42,7 +42,7 @@ Say Cheese.
 
     先开门见山地直接问了之前联谊的时候加的两个妹子。
 
-![](http://mmbiz.qpic.cn/mmbiz_png/FTEqN5H8LavxxWGnauIsFLKHtG3Q9U4OJdMA7snOibEhb6XePMic0qdzECzbkTVL2geDWvicxBe13DxXnO9O08dvg/0/png)
+![](/images/image-127.jpg)
 
 妹子1
 
@@ -50,7 +50,7 @@ Say Cheese.
 
 不好意思，宋城我去过了，而且我这周末要回家，以后如果去其他地方玩可以叫我。
 
-![](http://mmbiz.qpic.cn/mmbiz_png/FTEqN5H8LavxxWGnauIsFLKHtG3Q9U4OJdMA7snOibEhb6XePMic0qdzECzbkTVL2geDWvicxBe13DxXnO9O08dvg/0/png)
+![](/images/image-127.jpg)
 
 妹子2
 
@@ -122,4 +122,4 @@ Say Cheese.
 
     好啦，今天先到这，欢迎留言或者转发~
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ3WxHy2NltUnu4ruufaxBk0Iib1aKvpb8AyChIwic2MQof4icWNmBEDF6dicyB1Ob3LOd1CVVEbQWZZw/0?wx_fmt=jpeg)
+![](/images/image-128.jpg)

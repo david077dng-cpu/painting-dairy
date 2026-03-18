@@ -42,7 +42,7 @@ The Rescue.
 
 ![](/images/image-516.jpg)
 
-另外，这次电影里出现了女机长~好帅呀![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQU9LQd3bvn9icOHmCicflV08pqHicqk9jVVo8cS4ich0micaJ7UHtegUYc9CiaT06BT7p2K3xqefVPrW0g/640?wx_fmt=png)~
+另外，这次电影里出现了女机长~好帅呀![](/images/image-155.png)~
 
 电影推荐给大家~
 

@@ -46,7 +46,7 @@ When We First Met.
 
 当然，她很有可能因为我可爱的不能够，
 
-于是和我成为了朋友![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)，
+于是和我成为了朋友![](/images/image-7.png)，
 
 但我还记得当时在文中写，
 
@@ -92,7 +92,7 @@ When We First Met.
 
 还有恰好被发现的共同点。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/image-31.jpg)
 
 画了几期水彩山寨名画之后，
 
@@ -112,5 +112,5 @@ When We First Met.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/image-15.gif)
 

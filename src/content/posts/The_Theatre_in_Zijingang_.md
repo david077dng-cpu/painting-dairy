@@ -30,4 +30,4 @@ The Theatre in Zijingang.
 
 在启真湖上构成一道靓丽的风景。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaLfGMgDLVadWLn5aolj39edVfRO6BicH3nkFSVoia0USh5ZqI6GvqX1GzBsMbXFpwQKpe1FxXsaAg/640?wx_fmt=jpeg)
+![](/images/image-158.jpg)

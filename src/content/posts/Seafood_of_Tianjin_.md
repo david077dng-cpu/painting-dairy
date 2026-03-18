@@ -14,7 +14,7 @@ Seafood of Tianjin.
 
 每次回家爸爸都会买螃蟹或者皮皮虾给我开荤，
 
-这是爸爸最爱吃的“零食”![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+这是爸爸最爱吃的“零食”![](/images/image-5.png)。
 
 天津有句老话说：
 
@@ -30,7 +30,7 @@ Seafood of Tianjin.
 
 今天忘了一起画上蘸料了，
 
-大家脑补一下吧![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F61D.png)。
+大家脑补一下吧![](/images/image-111.png)。
 
 ![](/images/image-431.jpg)
 

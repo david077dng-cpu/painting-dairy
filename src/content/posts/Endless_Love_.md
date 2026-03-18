@@ -38,7 +38,7 @@ Endless Love.
 
 发现这些书居然是壁纸。
 
-![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)让我说什么好![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_33.png)。
+![](/images/image-1.png)让我说什么好![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_33.png)。
 
   
 
@@ -52,7 +52,7 @@ Endless Love.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQJtISZkc70STLicamKY3ibcJwZ9zNWUp8m1dusvjAfIcbeZiaHibobUnhUCxUicVkRZ3iaGo7JiaticQPy9w/640?wx_fmt=jpeg)
+![](/images/image-53.jpg)
 
 附上徒弟今天画的柯南~  
 

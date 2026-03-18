@@ -20,7 +20,7 @@ The Very Beginning
 
     美丽的行政楼和图书馆！！！每一个进入紫金港的人都会被它们惊艳到。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSFDYUPrLCL6PHElAeiadyexlbRiaiazAb2KlzibE5Ty88YsTodPm1SIKRL2DicGVFyibeicax8wzACTdqYA/0?wx_fmt=jpeg)
+![](/images/image-159.jpg)
 
   
 

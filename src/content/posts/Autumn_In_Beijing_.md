@@ -64,4 +64,4 @@ Autumn In Beijing.
 
 欢迎点赞、评论、转发or给个“在看”～  
 
-晚安![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjSNlxeSDwoic9qeZrYJhT9uHy8fIIQRq1tX2xFcGc1bE2TWsPAuebWia9KWAjN62BWzfY9mjL5iaSBZA/640?wx_fmt=png)～
+晚安![](/images/image-28.png)～

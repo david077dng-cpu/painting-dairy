@@ -92,7 +92,7 @@ Happy Birthday！！
 
 ![](/images/image-220.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_png/6k3D86Bickt5lVEBNicShhPQPhcicsPMekDH2KuMMnicRtvicrzSqicHxW7icnSO6udll88X9Is2aQqgicGlMNoELPSZeQ/0/png)
+![](/images/image-68.jpg)
 
     最后一位朋友真是机智啊……  
 

@@ -48,7 +48,7 @@ Spring on the West Lake.
 
 推荐西湖泛舟，
 
-毕竟是许仙白娘子同款![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。  
+毕竟是许仙白娘子同款![](/images/image-7.png)。  
 
 ![](/images/image-178.gif)
 

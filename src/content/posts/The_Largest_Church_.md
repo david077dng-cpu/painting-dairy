@@ -58,7 +58,7 @@ The Largest Church.
 
 这是网上找的一张图片，嗯，就当自己看过了哈哈。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQJu9eG7P4AFOOpwC1UBPhcUYTggCbJBDcnuIl0Vmbrgj6NTicjcb4wjqtSt9dCehAhftYqkdzlSRw/640?wx_fmt=jpeg)
+![](/images/image-152.jpg)
 
 水彩真的很神奇，
 
@@ -74,5 +74,5 @@ The Largest Church.
 
 欢迎评论、转发or给个“在看”呦～  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)  
+![](/images/image-15.gif)  
 

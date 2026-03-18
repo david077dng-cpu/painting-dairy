@@ -66,7 +66,7 @@ A Bite of Tianjin.
 
 好啦，欢迎评论、点赞and转发。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRhFibl6mADRiafd36sdWKN7CpPCnJwGNoWUwgeB4mGngdAO4icvmO4niaANxYCHfqfW3LTJYD7s6aibaQ/640?wx_fmt=jpeg)
+![](/images/image-3.jpg)
 
 点击“阅读原文”，照片变水彩。
 

@@ -28,7 +28,7 @@ I Love Flyfish.
 
 ![](/images/image-257.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9Uzygf9TibMoWngQK19Z9D5pHdjJ3QfC3bWu8ltMMwTt6Xhm9IupsXusA/640?wx_fmt=gif)
+![](/images/image-79.gif)
 
 今天的照片来自于我的小室友～感谢投稿～
 

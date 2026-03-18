@@ -51,7 +51,7 @@ Children's Day.
 正好明天是儿童节，  
 先祝大盆友、小盆友们节日快乐～  
 永远天真～  
-下周见，晚安![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjSYXzUMyFo1p1xmBSxOCapsApJKc1AwiaMJxRGoDjISVROmRrtMupfF2ficic5TnEVIPEdcAaqdBtXgg/640?wx_fmt=png)～  
+下周见，晚安![](/images/image-36.png)～  
 
   
 

@@ -22,7 +22,7 @@ Venice.
 
 威尼斯很乱，小偷很多，注意看好自己的东西。  
 
-我 ：![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F633.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F633.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F633.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F631.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F631.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F631.png)。  
+我 ：![](/images/image-170.png)![](/images/image-170.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F633.png)![](/images/image-171.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F631.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F631.png)。  
 
 于是在阳光明媚的一天，
 
@@ -48,7 +48,7 @@ Venice.
 
 没想到有一天可以亲眼看到这一幅幅美景。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS9ed4fPuS8956noQ8sfmibjaDicPgbdbsny0GqIrxkjuqtFUaw5o3RExtibAAlgwjjlicbj2NLmpfYwA/640?wx_fmt=jpeg)
+![](/images/image-172.jpg)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS9ed4fPuS8956noQ8sfmibjzJy4JNEky97qt0gyhTtnDvQtHXG94chqNCoRqpdmSKbMvibB5Ce4TibA/640?wx_fmt=jpeg)
 

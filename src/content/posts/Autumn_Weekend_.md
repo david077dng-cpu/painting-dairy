@@ -42,7 +42,7 @@ Autumn Weekend.
 
 这就是我心目中完美的秋景～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQyO6uDm5Ribb8laUIjBSCF4q7UW9gP0jeRXicytia4kLAlfwibt3WPwdTRvxoEpUlQMd2GFFYoVuqfibg/640?wx_fmt=jpeg)
+![](/images/image-29.jpg)
 
 好啦，今天就到这～  
 

@@ -36,11 +36,11 @@ The New Year is Around the Corner.
 
 你就是最靓的仔！  
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjS2aRico6EUZDyDXCQTsWRgBYOD4xdeP5EaLy7MZh9wNM3cFlNYvJULg9au2FDXDPK0rj3N5IxJIicg/640?wx_fmt=gif)
+![](/images/image-154.gif)
 
 希望今天画风没吓着大伙儿![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，
 
-给大伙儿拜年啦![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_83.png)～
+给大伙儿拜年啦![](/images/image-97.png)～
 
 ![](/images/image-2.png)
 

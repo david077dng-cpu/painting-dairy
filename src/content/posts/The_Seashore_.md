@@ -54,7 +54,7 @@ The Seashore.
 
 好啦，欢迎点赞、评论and转发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSPAKic2qeOSN5lh352gxic1sSDiaAaZs7bf3yichdrp7ZYnMvFJQU4hHh6o8yqmpnYfQVmw4ib698y1dw/640?wx_fmt=jpeg)
+![](/images/image-156.jpg)
 
 点击“阅读原文”，照片变水彩~  
 

@@ -20,7 +20,7 @@ Carefree Life.
 
     田园生活真惬意。
 
-    不知道我粑粑麻麻喜不喜欢这种生活![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。
+    不知道我粑粑麻麻喜不喜欢这种生活![](/images/image-7.png)。
 
 > 　　少无适俗韵，性本爱丘山。  
 > 　　误落尘网中，一去三十年。  
@@ -41,7 +41,7 @@ Carefree Life.
 
 ![](/images/image-102.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSYrViaQtII8kc9AlAvyOT66EywLqHVBYafyMTE2Pc7wJiawEAYpmWnbmLW3L2gpicFFSTfE4Wur0nNQ/0?wx_fmt=jpeg)
+![](/images/image-32.jpg)
 
     最近小编搬家了，换了新环境。  
 

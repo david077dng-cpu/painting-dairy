@@ -38,7 +38,7 @@ In June.
 
 快来吧！不要错过身边的好景～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSfiaQnvic0YWjmpojJAibU5y1rWOsOkcWqibNsiabnnibavZYdGj4EJ4yKKVOWMobpPVCRQCrumkXs032w/640?wx_fmt=jpeg)
+![](/images/image-82.jpg)
 
 今天看到一句话：六月里最美的一天，原来在最后。
 

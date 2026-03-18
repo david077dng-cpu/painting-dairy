@@ -18,7 +18,7 @@ Inner Peace
 > 
 > **——功夫熊猫2**
 
-    周一好像就会比较不开心![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，上面这句话好棒，送给大家，希望每个人都可以找到内心的平静。Love you all~
+    周一好像就会比较不开心![](/images/image-56.png)，上面这句话好棒，送给大家，希望每个人都可以找到内心的平静。Love you all~
 
 ![](/images/image-262.jpg)
 
@@ -26,7 +26,7 @@ P.S.
 
     上面这幅画是按照一个贴纸画的，声明一下，贴纸如下：
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSCTyCo70uKJm6FxhbIxP4FwA3ZEJTIh2u4IE1CBDVB3mPfOdC56S3Wdb7LovhgnuwvTyUx3uebgA/0?wx_fmt=jpeg)
+![](/images/image-83.jpg)
 
 ![](/images/image-263.jpg)
 

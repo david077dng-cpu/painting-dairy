@@ -22,7 +22,7 @@ Corner.
 
 ![](/images/image-127.jpg)
 
-    今天的画来自太后娘娘投稿![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)
+    今天的画来自太后娘娘投稿![](/images/image-7.png)
 
     太后娘娘遛食时，
 
@@ -56,7 +56,7 @@ Corner.
 
     欢迎点赞、转发、留言~~~  
 
-    祝大家周末愉快![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)。
+    祝大家周末愉快![](/images/image-38.png)。
 
     ![](/images/image-129.jpg)
 

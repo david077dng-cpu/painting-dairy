@@ -29,7 +29,7 @@ Yesterday Once More
 
     **今天的画风比较抽象，和平时不太一样，没有太多写实的阴影，希望你们也会喜欢~**
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjREp1ciaYErX2b7uwBS9B8q8UgfCCwFM7aMWP2WbfvvGFMnQf7Vic2CHmxzc72skZ52BeqVVrB0Kiahw/0?wx_fmt=jpeg)
+![](/images/image-184.jpg)
 
     这幅画来自于一卷美丽的胶带，如下图所示：
 

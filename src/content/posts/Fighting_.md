@@ -24,7 +24,7 @@ Icecream Icecream [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-14.gif)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTJQIErex7pEoIdPvnwDCWJzicLmPTho84jrqia3LwaqsClHzjB3tQNq9lCTZltqJZvEEwib5WFpzWrw/640?wx_fmt=jpeg)
+![](/images/image-58.jpg)
 
 大四一总校
 
@@ -62,7 +62,7 @@ FIGHTING！！
 
 更欢迎投稿啊！！  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTJQIErex7pEoIdPvnwDCWJG5HwicH5nTLhsG2zBgbiaSkp1h8klCupBSD7rUDzrrNcTjXzBIAbKUYg/640?wx_fmt=jpeg)
+![](/images/image-59.jpg)
 
 点击阅读原文，查看投稿方式~  
 

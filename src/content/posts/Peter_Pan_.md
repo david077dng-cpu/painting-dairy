@@ -12,7 +12,7 @@ Peter Pan.
 
 在小说阅读器中沉浸阅读
 
-今天这幅小水彩也是山寨名画![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)，
+今天这幅小水彩也是山寨名画![](/images/image-7.png)，
 
 来自Mary Blair的Peter Pan,
 
@@ -44,7 +44,7 @@ Mary Blair本人，
 
 感受一下原画的魅力：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQrWK2PhnzbmvWux8hlibF10YLaIDAWJibFu2mpR9Nqkrq8SicOYLmr9S58RJyNWdkgklOFrZLSNqlwA/640?wx_fmt=jpeg)
+![](/images/image-121.jpg)
 
 ![](/images/image-45.jpg)
 

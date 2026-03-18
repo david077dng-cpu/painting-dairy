@@ -34,7 +34,7 @@ Travel 1998.
 
     首次吃到“薯片”、“打卤馕”。
 
-    当时真的无法接受芝士那种拉着长丝的感觉![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    当时真的无法接受芝士那种拉着长丝的感觉![](/images/image-1.png)。
 
     有的同事也不想吃，
 
@@ -48,13 +48,13 @@ Travel 1998.
 
     担心退房时被罚。
 
-    都可以拍一部美囧了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+    都可以拍一部美囧了![](/images/image-5.png)。
 
 ![](/images/image-555.jpg)
 
     记得到美落地时，接待我们的老美叫Doug。
 
-    还好胸口贴着个标签，要不第一反应就是![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_32.png)……dog
+    还好胸口贴着个标签，要不第一反应就是![](/images/image-166.png)……dog
 
     但是以我的口音怎么把它们区分开呢？
 
@@ -86,7 +86,7 @@ Travel 1998.
 
     最后唱到了“雄赳赳气昂昂，打败美帝野心狼”
 
-    甚是开心，好得意![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
+    甚是开心，好得意![](/images/image-56.png)。
 
 ![](/images/image-555.jpg)
 
@@ -94,7 +94,7 @@ Travel 1998.
 
     我希望能够一家人在一个好的季节重访美国，满足爱人出国游的愿望。
 
-    盼望这一时刻早些到来![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)。
+    盼望这一时刻早些到来![](/images/image-38.png)。
 
 ![](/images/image-556.jpg)
 
@@ -104,7 +104,7 @@ Travel 1998.
 
     希望一家人可以早点实现一起出国玩的愿望。
 
-    到时候再投稿给我画吼~![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_06.png)
+    到时候再投稿给我画吼~![](/images/image-64.png)
 
     好啦，欢迎投稿！欢迎留言！！欢迎转发！！！！
 

@@ -32,7 +32,7 @@ The First Snow In 2020.
 
 画下这路上的雪景分享给大家。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQGo5y9NASoDPYsDE0icZaO6GTP03aVab22gorrLOqZ8VTvJiarg1XtlV4wvXzOl19jK7oCz8LIyMqA/640?wx_fmt=jpeg)
+![](/images/image-149.jpg)
 
 ![](/images/image-491.png)画完之后觉得比起画雪景，
 

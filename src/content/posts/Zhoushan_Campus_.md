@@ -30,7 +30,7 @@ Zhoushan Campus.
 
 ![](/images/image-608.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UqQTMiay3wVnk8sGJIEMF5lcjNzWeuRRNWhE7d7hUdQfmHmKhqPzIC7Q/640?wx_fmt=gif)
+![](/images/image-191.gif)
 
 祝大家……国际消费者权益日快乐~
 

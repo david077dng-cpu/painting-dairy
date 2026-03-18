@@ -36,7 +36,7 @@ Back Home.
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjREJ4UQ355iciayKGFUvD1L3aFtAkiamvwIgN9ibJnsny87bzoBfbhypzHy6zanGmTpex5ahpZeS5e20w/640?wx_fmt=jpeg)
+![](/images/image-30.jpg)
 
     今天开始在家，
 
@@ -48,7 +48,7 @@ Back Home.
 
     马上就要放假了，
 
-    在坚持几天![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_30.png)。
+    在坚持几天![](/images/image-14.png)。
 
     好啦，欢迎点赞、留言、转发。  
 

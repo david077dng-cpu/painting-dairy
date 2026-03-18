@@ -14,7 +14,7 @@ Life is Short.
 
 在小说阅读器中沉浸阅读
 
-今天的画风有点公众号初期的感觉![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，
+今天的画风有点公众号初期的感觉![](/images/image-56.png)，
 
 感谢大家还点进来看![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
 
@@ -34,14 +34,14 @@ Life is Short.
 
 在这里呼吁所有朋友们：
 
-尽早去学，每个城市每个地方都有红十字会，都会举办免费的培训开放给市民去学习，企事业单位也都会有培训，讲师们都很专业，花一些时间去学习真的很值得。并且和小伙伴互相练习包扎脑袋也算是很难得的一次经历了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。  
+尽早去学，每个城市每个地方都有红十字会，都会举办免费的培训开放给市民去学习，企事业单位也都会有培训，讲师们都很专业，花一些时间去学习真的很值得。并且和小伙伴互相练习包扎脑袋也算是很难得的一次经历了![](/images/image-7.png)。  
 
 我们国家急救知识普及率还没有那么高，只能通过每个人自发的努力，才能互帮互助，让生命走的更远。  
 
-我知道有很多是家属粉，家属粉里面有一波是大夫护士老专家们![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，如果我这期有哪里说的不对的，希望可以在留言区纠正～谢谢大伙了。  
+我知道有很多是家属粉，家属粉里面有一波是大夫护士老专家们![](/images/image-56.png)，如果我这期有哪里说的不对的，希望可以在留言区纠正～谢谢大伙了。  
 
 欢迎转发、给个“在看”让更多人看到～看到是一方面，行动起来更重要～  
-晚安![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)～  
+晚安![](/images/image-77.png)～  
 
 ![](/images/image-5.gif)
 

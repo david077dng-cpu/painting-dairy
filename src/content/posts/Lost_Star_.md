@@ -18,7 +18,7 @@ Lost Star.
 
 ![](/images/image-290.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_png/agPBEQHTf5ibI8tZ9cicLMVZ7nTWm4YicIpQzFt5seam3icicQSufDV4fnpVv5IP4v0bxCfzqjicibOPnobVX8OuqCG8Q/0/png)
+![](/images/image-92.jpg)
 
   
 
@@ -74,7 +74,7 @@ Lost Star.
 
     欢迎留言，欢迎转发，欢迎投稿。
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ70fJtkPzcwIJkmXedAZoLIJYurApcC9PyIXlMRBsIcZYkHSmVwb2FErbOSuPGoF2WSZOupKgkibw/0?wx_fmt=jpeg)
+![](/images/image-93.jpg)
 
 ![](/images/image-293.jpg)
 

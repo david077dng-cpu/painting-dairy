@@ -12,6 +12,6 @@ Mr. Funny Mr. Funny [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-画满10张换主题![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_04.png)
+画满10张换主题![](/images/image-16.png)
 
 ![](/images/image-323.jpg)

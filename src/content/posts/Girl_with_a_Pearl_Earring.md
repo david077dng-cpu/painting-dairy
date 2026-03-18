@@ -18,7 +18,7 @@ Girl with a Pearl Earring
 
 以后还是多临摹临摹景色吧，
 
-画人太难了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+画人太难了![](/images/image-1.png)，
 
 这幅画我从上上周就开始画了，
 
@@ -28,7 +28,7 @@ Girl with a Pearl Earring
 
 ![](/images/image-192.jpg)
 
-放出原画来，以免误导孩子们![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
+放出原画来，以免误导孩子们![](/images/image-5.png)，
 
 下图这个是维米尔的原作，
 
@@ -65,7 +65,7 @@ Girl with a Pearl Earring
 
 可以避免以上所有的情况发生，
 
-![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
+![](/images/image-5.png)![](/images/image-5.png)![](/images/image-5.png)![](/images/image-5.png)![](/images/image-5.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
 
 说的跟真事一样，
 
@@ -73,7 +73,7 @@ Girl with a Pearl Earring
 
 新的一周，fighting![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F4AA.0.png)
 
-对啦，女神斯嘉丽·约翰逊在2003年演过电影《带珍珠耳环的少女》，![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)感兴趣的同学们可以看看。
+对啦，女神斯嘉丽·约翰逊在2003年演过电影《带珍珠耳环的少女》，![](/images/image-7.png)感兴趣的同学们可以看看。
 
   
 

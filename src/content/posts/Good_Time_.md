@@ -26,7 +26,7 @@ Good Time.
 
     嘿嘿，有一个包是我的。
 
-    室友大人对我是真爱啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_04.png)。
+    室友大人对我是真爱啊![](/images/image-16.png)。
 
     祝室友大人早日成为一名优秀的博士毕业生，
 
@@ -40,7 +40,7 @@ Good Time.
 
    不得不说，水平很高。
 
-    希望毕业前还能有一起出去玩的机会![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    希望毕业前还能有一起出去玩的机会![](/images/image-1.png)。
 
     欢迎留言、转发、投稿。
 

@@ -18,7 +18,7 @@ Take a Nap.
 
     问了一下背后的故事，发现老奶奶现在和家人一起生活，很开心。
 
-    我就强行画成了温暖的感觉![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。  
+    我就强行画成了温暖的感觉![](/images/image-56.png)。  
 
     并且硬拗了一个温暖的题目![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F61D.png)。
 
@@ -30,7 +30,7 @@ Take a Nap.
 
     奶奶年纪大了之后就变得特别的呆萌。
 
-    每次见我都会偷偷塞给我零花钱![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_5.png)。
+    每次见我都会偷偷塞给我零花钱![](/images/image-41.png)。
 
     其实我已经不缺零花钱了，但是奶奶还是会给我塞。
 
@@ -42,4 +42,4 @@ Take a Nap.
 
     欢迎留言或转发~~ 更加欢迎投稿~~~  
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTvvGT5DSQHTTibH2xoJa42aANIMT9o2iaYdzWs7j2Rdh9kKibZKWheAPtG3CCkAUkM3LyctvAwHDZzA/0?wx_fmt=jpeg)
+![](/images/image-138.jpg)

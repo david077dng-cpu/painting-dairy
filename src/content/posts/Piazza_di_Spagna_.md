@@ -42,7 +42,7 @@ Piazza di Spagna.
 
 是自由、神圣的罗马。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/image-31.jpg)
 
 插播一段夕阳下的教堂钟声~
 

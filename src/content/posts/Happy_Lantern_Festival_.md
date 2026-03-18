@@ -26,7 +26,7 @@ Happy Lantern Festival~
 
 画中永远是最美好的，
 
-但事实却是下面这样子的![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+但事实却是下面这样子的![](/images/image-1.png)，
 
 还好小伙伴给俺打包了元宵，
 

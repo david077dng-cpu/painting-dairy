@@ -12,7 +12,7 @@ HRM HRM [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 
-    今天的照片和文字来自于我敬爱的室友。之前在北京的时候，她领着她的小妹妹来北京看我来着，和她妹妹相比，我室友简直是个不靠谱的老顽童啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    今天的照片和文字来自于我敬爱的室友。之前在北京的时候，她领着她的小妹妹来北京看我来着，和她妹妹相比，我室友简直是个不靠谱的老顽童啊![](/images/image-1.png)。
 
     这是令我比较骄傲的一幅摄影作品，拍摄时间是2014年2月7日。
 
@@ -24,7 +24,7 @@ HRM HRM [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-464.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQnMC9psj56jEoMjAUrib6FnMmibcJ0Wbu5oficKBC1XvTr9zTPUVoibTsyGiauaA1zaS42kOZX8t1ccJQ/0?wx_fmt=jpeg)
+![](/images/image-139.jpg)
 
 ![](/images/image-465.jpg)
 
@@ -36,7 +36,7 @@ HRM HRM [PaintingDiary](javascript:void\(0\);)
 
     初二秋学期开学没多久，老爹来学校接我们回家，小不点在最漂亮的黄昏时分出生了。
 
-    从此，回家就多了一份期盼![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F47B.png)。
+    从此，回家就多了一份期盼![](/images/image-37.png)。
 
     我们相差15岁，但是摩羯座的我和处女座的她却很能玩到一起去。
 
@@ -66,7 +66,7 @@ HRM HRM [PaintingDiary](javascript:void\(0\);)
 
     欢迎转发~~~~与留言~~~~~  
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQnMC9psj56jEoMjAUrib6Fn3xgypgcXxjiabQvcPGIOS0jiabANGqXh2Yic0gYCCWTT0y5YFBhwkiaryw/0?wx_fmt=jpeg)
+![](/images/image-140.jpg)
 
   
 

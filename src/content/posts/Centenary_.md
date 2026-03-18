@@ -37,7 +37,7 @@ Centenary.
 巍巍南开精神永远灿烂。  
 
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRuSTtcrY36Z6bYIpNbiaHRgFkPOjicECy9D5SQCGyjX9QvO2N9DyKFg5Ek2YBBUqBFMaXmfVk1S8yA/640?wx_fmt=jpeg)
+![](/images/image-33.jpg)
 
 欢迎留言、转发or给个“在看”呦～  
 

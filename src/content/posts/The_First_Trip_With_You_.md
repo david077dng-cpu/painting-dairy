@@ -24,7 +24,7 @@ HL HL [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-493.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSCU4oyXKlONybCHt0duGddl7XjOXyInj8vWaRHCGKvaA5iakGC5hE0gutibXSCKnjSJQxoKYsV1Mxg/640?wx_fmt=jpeg)
+![](/images/image-150.jpg)
 
 今天的照片来自一位同学，
 
@@ -38,5 +38,5 @@ HL HL [PaintingDiary](javascript:void\(0\);)
 
 ![](/images/image-10.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/image-15.gif)
 

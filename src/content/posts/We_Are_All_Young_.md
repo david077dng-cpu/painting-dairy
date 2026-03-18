@@ -32,7 +32,7 @@ ZCL ZCL [PaintingDiary](javascript:void\(0\);)
 
     小少年们也真是很有热血，都感染到大龄青年我了~
 
-    回学校后，她有在微博中回复我：“阿葱陪我看了比赛，佛系粉丝每天擦擦自己的狗牌在客场不敢声张自己是狗女儿。很开心能够在现场看了自己喜欢好些年的游戏比赛，尤其还是IG的比赛![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F61D.png)真是值得回忆的经历。还有一周好好做实验，年轻的选手这么努力我们也要努力是嘛![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)”
+    回学校后，她有在微博中回复我：“阿葱陪我看了比赛，佛系粉丝每天擦擦自己的狗牌在客场不敢声张自己是狗女儿。很开心能够在现场看了自己喜欢好些年的游戏比赛，尤其还是IG的比赛![](/images/image-111.png)真是值得回忆的经历。还有一周好好做实验，年轻的选手这么努力我们也要努力是嘛![](/images/image-56.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)”
 
     感觉师妹也在看到喜欢的选手后扫除了实验失败的阴霾，重新找到了自己的信心，希望她记住此刻的鼓舞和跳动的热血，加油！
 
@@ -44,7 +44,7 @@ ZCL ZCL [PaintingDiary](javascript:void\(0\);)
 
 欢迎大家点赞、点评and转发发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT8lwXTrn04mFOvXCqER9Zzbc91TluVawZ83icpIbGCLria5SunlyHBEyvrjuVibkGoCAW3GN48pH6ibA/640?wx_fmt=jpeg)
+![](/images/image-174.jpg)
 
 点击“阅读原文”，照片变水彩~~  
 

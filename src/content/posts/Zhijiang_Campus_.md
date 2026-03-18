@@ -48,4 +48,4 @@ Zhijiang Campus.
 
 欢迎点赞、评论and转发发发~  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSt6rfb9cjLX9f2Cq5SEgBd6JicSBIxAVfic0ic8sE6OibherlkFa7Sl1H5Zp7Wd05jH6LDGiaptu0QEFg/640?wx_fmt=jpeg)
+![](/images/image-190.jpg)

@@ -14,7 +14,7 @@ You Are My Destiny.
 
 圣诞节虐狗，元旦坚决不虐狗！
 
-![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)开玩笑，不虐狗虐啥![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)~
+![](/images/image-7.png)开玩笑，不虐狗虐啥![](/images/image-7.png)~
 
 2017年的最后一天，
 
@@ -22,7 +22,7 @@ You Are My Destiny.
 
     2013年6月1日，
 
-阳光明媚![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_76.png)，
+阳光明媚![](/images/image-38.png)，
 
 穿着篮球衣的你，
 
@@ -36,7 +36,7 @@ You Are My Destiny.
 
 还在心里偷偷种下了一颗，
 
-悸动的小种子![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_66.png)。
+悸动的小种子![](/images/image-179.png)。
 
 ![](/images/image-597.jpg)
 
@@ -110,7 +110,7 @@ You Are My Destiny.
 
 ![](/images/image-598.jpg)
 
-    哈哈，好甜蜜呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，
+    哈哈，好甜蜜呀![](/images/image-56.png)，
 
     希望Sophiee一直这么幸福快乐！
 

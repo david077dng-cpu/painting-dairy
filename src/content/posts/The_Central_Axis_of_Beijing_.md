@@ -57,7 +57,7 @@ The Central Axis of Beijing.
 
 让我们这些打工人可以在这座伟大的城市里面安心打工![](/images/image-478.png)。  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQfA2dS9b9sPYLpew2ObmRU88NWNMrcod18dpsZZfsrzKyRjvuKib1icTTIdDoy6ftXaWMnVF00ep1g/640?wx_fmt=jpeg)
+![](/images/image-144.jpg)
 
 好啦，2020年最后一次推送就到这里啦～  
 

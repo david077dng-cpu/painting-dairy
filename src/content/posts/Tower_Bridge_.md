@@ -44,7 +44,7 @@ We are all in the gutter, but some of us are looking at the stars.
 
     没有投稿，
 
-    我又开始画胶带![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+    我又开始画胶带![](/images/image-5.png)。
 
     没关系。  
 
