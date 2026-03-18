@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Enjoy Your Weekend~
 ===================
 
-LCX LCX [PaintingDiary](javascript:void\(0\);)
+
 
 在小说阅读器中沉浸阅读
 

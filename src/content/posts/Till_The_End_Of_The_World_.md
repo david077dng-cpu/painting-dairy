@@ -8,7 +8,7 @@ description: 在小说阅读器中沉浸阅读
 Till The End Of The World.
 ==========================
 
-LCX LCX [PaintingDiary](javascript:void\(0\);)
+
 
 在小说阅读器中沉浸阅读
 

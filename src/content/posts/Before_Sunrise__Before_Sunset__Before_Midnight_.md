@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 Before Sunrise, Before Sunset, Before Midnight.
 ===============================================
 
-LCX LCX [PaintingDiary](javascript:void\(0\);)
+
 
 在小说阅读器中沉浸阅读
 

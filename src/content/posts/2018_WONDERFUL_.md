@@ -8,7 +8,6 @@ description: 在小说阅读器中沉浸阅读
 2018 WONDERFUL~
 ===============
 
-LCX LCX [PaintingDiary](javascript:void\(0\);)
 
 在小说阅读器中沉浸阅读
 

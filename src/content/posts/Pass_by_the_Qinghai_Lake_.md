@@ -10,7 +10,7 @@ description: 在小说阅读器中沉浸阅读
 Pass by the Qinghai Lake.
 =========================
 
-LCX LCX [PaintingDiary](javascript:void\(0\);)
+
 
 在小说阅读器中沉浸阅读
 
