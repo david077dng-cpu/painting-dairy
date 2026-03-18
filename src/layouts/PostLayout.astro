@@ -5,7 +5,7 @@ const basePath = import.meta.env.BASE_URL;
 ---
 <BaseLayout title={frontmatter.title} description={frontmatter.description}>
   <main style="max-width:760px; margin:0 auto; padding:8rem 2rem 4rem;">
-    <a href={`${basePath}/posts`} style="font-family:'Noto Serif SC',serif; font-size:0.85rem; color:var(--sage); text-decoration:none; display:inline-flex; align-items:center; gap:0.4rem; margin-bottom:2rem;">
+    <a href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}posts`} style="font-family:'Noto Serif SC',serif; font-size:0.85rem; color:var(--sage); text-decoration:none; display:inline-flex; align-items:center; gap:0.4rem; margin-bottom:2rem;">
       ← 返回文章列表
     </a>
 
