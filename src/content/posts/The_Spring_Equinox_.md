@@ -1,0 +1,40 @@
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSkCKibflyO9cnKaiaJuR27175XMpjXWCSwrWny9FOwpnxZCO9YHQDU9Lz73kdtJckRiaVmlYBU7fA1A/0?wx_fmt=jpeg)
+
+The Spring Equinox.
+===================
+
+LCX LCX [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+昨天是春分，
+
+是昼夜等长的一天。
+
+从今天开始，白天就比夜晚要长啦～
+
+桃花已经开了，
+
+今天就画一张春景吧～
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSkCKibflyO9cnKaiaJuR2717RJdMAhRFEetdmGuPYYM7MwNdxhicNBtXZykghoEuZuHNB4l8ric8s0Uw/640?wx_fmt=jpeg)
+
+> 乾坤平分昼夜，  
+> 
+> 却是燕子来时。  
+> 
+> 水边新绿野草，  
+> 
+> 陌上粲然花枝。  
+
+  
+
+这周好多小伙伴去踏青啊～  
+
+还是要注意防护哦～  
+
+那就祝大家周末愉快～  
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)  
+
+[阅读原文](javascript:;)

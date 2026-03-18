@@ -1,0 +1,78 @@
+When We Are Young.
+==================
+
+原创 璃沫寜夏 璃沫寜夏 [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+    今天投稿的是一位小中学生~
+
+    ta对小编真是好呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+
+“
+
+    这是我们今天联欢会上的联欢活动，
+
+    我们班和兄弟班一起上台唱歌， 
+
+    也许这是我们初中三年最后一次活动了，
+
+    希望能画一下。
+
+    就大致样子就好~(❁´ω\`❁)
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSib6qBYR9RaYlRlUoE1menKc9ibAICA7KLVjZ8mic2c747LorPxwRcXqBH0WBQzEvVlwzHADxAyxzzA/0?wx_fmt=jpeg)  
+
+  
+
+    还记得那年，
+
+    我们相聚于嘉诚 ，
+
+    还记得那年，
+
+    你我欢笑，
+
+    怀揣着希望与梦想。
+
+    时光老人已把初二的时光，
+
+    渐渐偷走了一半，
+
+    也许这是我们最后仅有的一次全体活动，
+
+    也许这过程中有许多跌跌撞撞。
+
+    但我们不会忘记彼此，
+
+    我们仍会携手并进。
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSib6qBYR9RaYlRlUoE1menK5cg6DgcykVrt62PE9icflkGt6PwUpsPOLWD8m0ibbGh1kVuLIr6sR8sQ/0?wx_fmt=jpeg)
+
+    说好了不要大合影呢![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+
+    但是这个小宝贝写的还蛮好的，
+
+    我就乐呵呵的给画了。
+
+    画的时候，
+
+    想起了本科参加合唱团的情景。
+
+    五月的鲜花们![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)，
+
+    你们还记得吗。
+
+    欢迎点赞~留言~~转发~~~
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSib6qBYR9RaYlRlUoE1menKjpBHfkFcCnbL9bERibpUkJRSW5RDojAIeuL5mfagF3mmKDwxTRZiaqNA/0?wx_fmt=jpeg)
+
+点击阅读全文查看投稿方式~  
+
+[阅读原文](javascript:;)

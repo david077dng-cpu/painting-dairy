@@ -1,0 +1,36 @@
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjSCU4oyXKlONybCHt0duGddNrOQ8SdR4DqVMIdDMH2USahzvC5nmNScEAB6tkE25NL9LTlg3OP5JQ/0?wx_fmt=jpeg)
+
+The First Trip With You.
+========================
+
+HL HL [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+微风，汽笛，海鸥与夕阳。
+
+岸上还有两个人，
+
+装饰了彼此的生活，
+
+以及梦想。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSCU4oyXKlONybCHt0duGddd6c5BVhENMgE16XwWcy0uCuTGTgzNpXKZnjumYZGbmxVGbniahW1PGg/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSCU4oyXKlONybCHt0duGddl7XjOXyInj8vWaRHCGKvaA5iakGC5hE0gutibXSCKnjSJQxoKYsV1Mxg/640?wx_fmt=jpeg)
+
+今天的照片来自一位同学，
+
+十分感谢他的投稿～
+
+也欢迎小伙伴们跟Painting Diary分享美好瞬间，
+
+给回忆染上水彩的颜色～
+
+欢迎点赞、留言and转发发发~  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+
+[阅读原文](javascript:;)

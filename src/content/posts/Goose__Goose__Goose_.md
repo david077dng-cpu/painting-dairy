@@ -1,0 +1,60 @@
+Goose, Goose, Goose.
+====================
+
+LCX LCX [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+    现在住的地方离绍兴很近，
+
+    上周末去绍兴溜达了一圈。
+
+    兰亭风景区里一处    
+
+    “白毛浮绿水，红掌拨清波”的景致，
+
+    从老远就把我吸引过去了。     
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8FTzJVIfdsDKJ5eibWBcRqMYAkaNNicVuqiaQPgjNb6aOgczVSs788V85UQvKPgMg2YIj7uJiccn1fw/0?wx_fmt=jpeg)    青绿色的池塘中，
+
+    几只大白鹅排排站，
+
+    超整齐，
+
+    近看原来都站在了水管上，
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8FTzJVIfdsDKJ5eibWBcRqhItBydnwRK4LYKQAjNDwer9ocQDsliar1VYs9DIicXe53BICpU8vgWgg/0?wx_fmt=jpeg)
+
+    现在的鹅都机智啊，  
+
+    都不拨清波了，
+
+    都站在水管上取暖了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+
+    给它照相时还知道看镜头，
+
+    感觉到了远处两个高冷鹅，
+
+    内心OS：“没见过世面![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_46.png)”  
+
+    ![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8FTzJVIfdsDKJ5eibWBcRqowZnZtM0g855oju7pFFKCwcyly3ykyp99M7LNbrHnFDXlgQAJxJSdg/0?wx_fmt=jpeg)
+
+    今天写那个“兰亭白鹅”的时候，
+
+    找到了小时候画国画时的感觉，
+
+    那种画蛇添足的感觉![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+
+    如果画值10块，
+
+    那么提上字就值5块了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。  
+
+    还是欢迎点赞~留言~ 转发~
+
+    欢迎点击“阅读原文”投稿~  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS8FTzJVIfdsDKJ5eibWBcRqj7xQNqiaJiapjZ2S8pFTz1rdC49EZibxKHA5SNicPHorgX31Ss07Rdjt5Q/0?wx_fmt=jpeg)
+
+  
+
+[阅读原文](javascript:;)

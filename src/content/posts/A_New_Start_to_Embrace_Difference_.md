@@ -1,0 +1,40 @@
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQCyDIHooydXLVn2cVKIfspejmssozibr6u05fg4d0mU6LZ0RSY0UIqeEXsCOCx5aIodaMe3LEldxw/0?wx_fmt=jpeg)
+
+A New Start to Embrace Difference.
+==================================
+
+原创 HRM HRM [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+今天投稿的是销声匿迹了半年之久的胡博士~胡博士在海外的生活有声有色的，正好半年了，邀请她来写写~
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQCyDIHooydXLVn2cVKIfspdqRPHXljmysd3nE1RRPdH7Sjol3MEwSoxw4z5U1r0AlwxzD08gPviaw/640?wx_fmt=jpeg)
+
+小编画的这幅图，是位于柏林Gendarmenmarkt的一处圣诞市场，夹在柏林音乐厅、法国大教堂和德国大教堂中间，文化气息浓厚，因此是柏林少数几个需要门票但却最受欢迎的圣诞集市之一。和朋友端着热红酒穿梭其中，感觉就像哈利几个人从麻瓜世界的夹缝中闯进另一个世界，虽然没有对角巷那样蔚为壮观，但我仍然和哈利一样恨不得再多长几双眼睛，把每个角落都看到，每一处彩蛋都找到。
+
+_“__哈利恨不能再多长八只眼睛。他们走在街上，他一路东张西望，希望把一切都看个通通透透：所有的店铺、店铺前的物件、购物的人们__......_ _从一家晦暗的商店里传出一阵低沉轻柔的呜呜声，门前的招牌上写着：咿啦猫头鹰商店__——__灰林枭、鸣角枭、草枭、褐枭、雪枭__……__还有的商店出售长袍，有的出售望远镜和哈利从来见过的稀奇古怪的银器。还有的橱窗里摆满了一篓篓蝙蝠脾脏和鳗鱼眼珠，堆满了符咒书、羽毛笔、一卷卷羊皮纸、药瓶、月球仪__……”_
+
+_——__哈利·波特__第一次来到对角巷_
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQCyDIHooydXLVn2cVKIfsp4pKdicCv8hia6C9XPNJw3wrJVF8icMG3N9XKQr14DrO06ZTrqdoKTQrtQ/640?wx_fmt=jpeg)
+
+实际上，整个柏林、德国对我来说都是对角巷，同时也是“不同”的缩影。\[咳咳…注意注意，划重点了！\]“不同”意味着不完全的信息或者信息的不对称，孕育出不确定性。像我这种对一些危险比较警惕的人，本能的就会谨慎起来，和这个城市保持着一定距离。但是柏林的善意总会不期而至：办公室的小哥哥提醒我要注意适当放松，带我认识他的朋友，然后一起参加环保游行；去游泳忘记带锁柜的零钱，旁边的小姐姐连忙帮我找了1欧，暖心的讲“Don’t worry”；把东西落在馆里，管理员不会讲英文，路过的阿姨好心帮我翻译；早上挤地铁，背着死沉的书包，手里还拎着袋子，旁边的大叔看我站不稳，把座位让给了我；老爷爷坐在轮椅上，低着头数着手里的硬币，我把身上的零钱拿给他，他跟我说了好几声谢谢……于是慢慢地开始喜欢，慢慢地解锁冷漠，展示自己的善意，把自己融入它的日常，记录着在柏林一年的好光景。
+
+舞蹈课上一个德国女孩跟我讲，她之前觉得中国很遥远，那里的人也很遥远，我们之间应该是很不一样的，而且因为一些负面评论，使得部分人带着偏见。但是当她真正接触到来自这个国家的人的时候，她说“You are the same as us. You can feel my pain, and I can feel your happiness.”然后我想到了柏林人给我的善意，虽然我们的文化背景、生活经历、制度环境存在差异，导致很多习惯、认识上会有不同，但是因为对美丑有相通的感情基础，因此能够进行很好的对话和分享。那一天，我坐在回家的地铁上，看着车厢里的人们，对柏林的喜欢又莫名的增进了几分。我希望以这样的心态，作为下半年新的开始。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQCyDIHooydXLVn2cVKIfspdqRPHXljmysd3nE1RRPdH7Sjol3MEwSoxw4z5U1r0AlwxzD08gPviaw/640?wx_fmt=jpeg)
+
+一直觉得胡博士是很有思想的girl，
+
+看了她的文字更有这种感觉~
+
+感谢胡博士投稿，也欢迎更多投稿~
+
+欢迎点赞、评论and转发发发发~
+
+最后祝假期愉快~
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+
+[阅读原文](javascript:;)

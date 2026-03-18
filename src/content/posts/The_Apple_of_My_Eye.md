@@ -1,0 +1,66 @@
+The Apple of My Eye
+===================
+
+HRM HRM [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+    今天的照片和文字来自于我敬爱的室友。之前在北京的时候，她领着她的小妹妹来北京看我来着，和她妹妹相比，我室友简直是个不靠谱的老顽童啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+
+    这是令我比较骄傲的一幅摄影作品，拍摄时间是2014年2月7日。
+
+    画里是我妹妹，那天刚下过一场大雪，难得这块空地还没被人踩过。
+
+    她很配合的趴下，于是就有了这张照片。
+
+    当时她门牙旁边各掉了一颗牙，一笑就能起到喜剧片的效果……
+
+![](http://mmbiz.qpic.cn/mmbiz_png/LuARjQUPtXLEVUqPArhoxsQLl48HJRYDwehg6G3EjquPeh9wcR3IibpD27yNsrWvcHVo8KWuzO5ZoPmYYUglCSQ/0/png)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQnMC9psj56jEoMjAUrib6FnMmibcJ0Wbu5oficKBC1XvTr9zTPUVoibTsyGiauaA1zaS42kOZX8t1ccJQ/0?wx_fmt=jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz_png/LuARjQUPtXLEVUqPArhoxsQLl48HJRYDw5YCFlic3GZOq8KBeRiaLE9Yaa7Py7t0U3o01ibYtRkcWdXpM4XicJeLfQ/0/png)
+
+    我和弟弟相差一岁，别人也常常以此来羡慕我爸妈，说他们儿女双全。
+
+    我们俩小学、初中一路同班，早就习惯了只有我们两个斗嘴、打闹的日常。
+
+    小不点的到来，最初我们很不理解，但是慢慢开始有所期待。
+
+    初二秋学期开学没多久，老爹来学校接我们回家，小不点在最漂亮的黄昏时分出生了。
+
+    从此，回家就多了一份期盼![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F47B.png)。
+
+    我们相差15岁，但是摩羯座的我和处女座的她却很能玩到一起去。
+
+    在她面前，我就是个被博士耽误的喜剧演员，和在众人面前完全两样。
+
+    而在我面前，她比较像个小大人，除了不爱洗脸和刷牙……
+
+    我比较欣赏她的是不懂会问（仅限生活，和学习并没有关系）、有需要会直接说，当然还有她的大长腿……
+
+    我们做过很多我们两个的事情：大年三十躲在屋里比高音、拿着别人的轮滑鞋互相练习（当然最后我摔的比较惨）、睡觉的时候她能从她们班讲到我们村、再从我们村讲到她自己，然后第二天怎么也叫不起来……
+
+    吃，她从来都是放在第一位。不管是在集市还是商场，总能在吃的地方找到她。
+
+    人们常说喜欢吃的人容易幸福，而我就希望她能快乐，其他无所求。
+
+   我们说好之后的每一年都能一起去一个地方，留下我们的足迹。今年是北京（已完成），明年或者成都？或者杭州？你说呢~
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQnMC9psj56jEoMjAUrib6FnzYjVD2xwDkbvvNGOF7ZYicbA6mnRibmmATb31Pe3zibKNacWlkWObDRoA/0?wx_fmt=jpeg)
+
+    很喜欢今天的文风~ 欢迎更多热爱生活的小伙伴投起稿来~
+
+    有想秀娃秀恩爱的，有想纪念的，想分享的，都可以发过来~
+
+    投稿方式请点击“阅读原文”查看~
+
+    欢迎转发~~~~与留言~~~~~  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQnMC9psj56jEoMjAUrib6Fn3xgypgcXxjiabQvcPGIOS0jiabANGqXh2Yic0gYCCWTT0y5YFBhwkiaryw/0?wx_fmt=jpeg)
+
+  
+
+[阅读原文](javascript:;)

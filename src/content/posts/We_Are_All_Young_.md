@@ -1,0 +1,44 @@
+We Are All Young.
+=================
+
+ZCL ZCL [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+今天图片来自老博投稿 ~
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT8lwXTrn04mFOvXCqER9ZzqdNibL40tP4xXDNJXEib20k54QFTUuibxOUZ5AXy5w7R4K37yZVIyNBuA/640?wx_fmt=jpeg)
+
+    作为老博们其实激情和热血都已经远离了，那种不顾一切的冲劲儿也被消磨的所剩无几了，每天重复的实验和无休无止的文献将生活挤压得很单薄压抑。
+
+     前些日子师妹突然问我要不要去看电竞比赛，感觉电竞是跟我八竿子打不着的，就问为什么，师妹说她其实是第一次去看，想找个人一起。至于为什么这么突然，是有一天突然意识到她看这么多年比赛喜欢IG四年竟然还没有去现场看过他们比赛，还没有见过她喜欢的选Rookie，也许再过段时间她喜欢的游戏她喜欢的选手就退了，就再也找不到此时的心情了，觉得自己要抓紧时间必须去一趟~ 于是今天的赛事被提上了日程。
+
+    她告诉我电竞选手的职业生涯很短，就那么几年，二十出头就会退役，但是他们每个人的职业生涯都很值得尊敬，每个人都是因为喜欢在坚持，不少选手还因为常年训练和比赛，年纪轻轻就一身伤病。
+
+    我们看得英雄联盟的比赛，老干爹（LGD）主场对阵IG的比赛， 虽然一开始懵懵的，但后来似乎也大概能看懂了，甚至觉得挺好看的，我们是为IG应援的，在比赛中看到了比我小好多的小少年们在第一局失利，我以为他们第二局会求稳慢慢来，但他们却丝毫没有保守的想法选择大力反击和追进。我当时笑自己怎么能这么低估一群不到二十岁的少年们的热血，他们连追两盘也算酣畅淋漓~
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT8lwXTrn04mFOvXCqER9ZzTbJGJFJs8AVRbuTEbGwP5lvuGwE6aeHbiaPeuzjSDowI4KOA5qnjqJw/640?wx_fmt=jpeg)
+
+    师妹也相当开心，虽然在比赛过程中她一直很紧张，紧张到心态有些崩塌，不过到最后IG还是取得胜利，照片上就是她在比赛现场的笑容，她这时的笑容让我觉得很不一样~
+
+    小少年们也真是很有热血，都感染到大龄青年我了~
+
+    回学校后，她有在微博中回复我：“阿葱陪我看了比赛，佛系粉丝每天擦擦自己的狗牌在客场不敢声张自己是狗女儿。很开心能够在现场看了自己喜欢好些年的游戏比赛，尤其还是IG的比赛![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F61D.png)真是值得回忆的经历。还有一周好好做实验，年轻的选手这么努力我们也要努力是嘛![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)”
+
+    感觉师妹也在看到喜欢的选手后扫除了实验失败的阴霾，重新找到了自己的信心，希望她记住此刻的鼓舞和跳动的热血，加油！
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT8lwXTrn04mFOvXCqER9ZzNVeYTAw3iaNKdx3EHhvZyCibduNAq9gRo13Uwo69OlopF02a60RZW9mQ/640?wx_fmt=jpeg)
+
+今天是一篇有爱的文章，
+
+抱歉拖了好几天。  
+
+欢迎大家点赞、点评and转发发发发~
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjT8lwXTrn04mFOvXCqER9Zzbc91TluVawZ83icpIbGCLria5SunlyHBEyvrjuVibkGoCAW3GN48pH6ibA/640?wx_fmt=jpeg)
+
+点击“阅读原文”，照片变水彩~~  
+
+[阅读原文](javascript:;)

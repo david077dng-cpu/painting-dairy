@@ -1,0 +1,26 @@
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjTC3zoy31oIjpUibHSPE9SQWGRo0IW6VaMB7GCT5mBaTjjicZMmknmf4Z3o4QEv5gWWeiaUlzQXJ61tg/0?wx_fmt=jpeg)
+
+My Silk Road.
+=============
+
+LCX LCX [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+        这几天一回到酒店写手帐时就啥也想不起来，但是一坐在车上，看着窗外平坦的草原和大朵大朵的云彩，就觉得自己变成了狂热的诗人，想要给看到的每一帧窗外美景提诗。但又毫无文采，所有的词用来描绘这一路的景色，都会十分逊色。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTC3zoy31oIjpUibHSPE9SQWQpWgO9Bb5k6ichnBq8ey8ZKltN1xicHpUz3ibaCcd0aeqazXicADicu6slQ/640?wx_fmt=jpeg)
+
+        眼睛想变成照相机，捕捉下一闪而过的镜头。但车子飞驰的更快，连眼睛都不想眨，不想错过一只羊，或者一滩小水洼。草原上的水真是可遇不可求，河边或者水洼边必定散布着吃草的羊群或者马群，水映衬着蓝天白云，嵌在秋天的草原，才不会那么萧条，反而有种记忆中褪色的美感。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTC3zoy31oIjpUibHSPE9SQWvsjqB1ic5DJLEd7g4oblx5GfZribI9Xzdxxq8NAj7iaBSXB3icCibxsjehg/640?wx_fmt=jpeg)
+
+        真的很喜欢这次国庆之旅，虽然大家都说来大西北很辛苦，小伙伴还有点高反，但是能看到一望无际的草原真的是值了。七彩丹霞或是茶卡盐湖，都是很浓墨重彩的环节，但我最喜欢的还是开着车，看着永远没有尽头的草原，掠过一座座风力发电的白色风车和恨不得把嘴贴在地上吃草的马儿，就觉得生活真有意思。
+
+        我很喜欢城市的车水马龙，也很喜欢荒无人烟，在这两者之间，我都可以感受到生命的愉悦。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+
+欢迎点赞、留言and转发发发~
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)

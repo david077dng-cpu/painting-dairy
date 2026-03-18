@@ -1,0 +1,72 @@
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/9FicrUzQHkjQ4SGwCTDy0vRXLBOd5ZUEnUGnIG3XXdWvLN5VF92QIY7WKcfskxib7KV8Via3AUSibasINcHKRRaI1Q/0?wx_fmt=jpeg)
+
+Plant Research.
+===============
+
+LCX LCX [PaintingDiary](javascript:void\(0\);)
+
+在小说阅读器中沉浸阅读
+
+前几天北京不是雪就是雨，
+
+这两天终于有点春天的感觉了～   
+
+昨天外面大风呼呼地刮，
+
+不知道是不是春风吹来了。
+
+最近都在家里办公，
+
+可以借此机会好好观察一下：
+
+窗外那棵树究竟是如何“复活”的。
+
+去年仿佛一眨眼它就郁郁葱葱，
+
+一眨眼又复黄叶萧萧，
+
+才暗悔一年就这么过去了呀。  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ4SGwCTDy0vRXLBOd5ZUEn9CeLUQibarnFW1yFCKAZYSYrwxpNudgtmW7BQ07TjzHtDcmUJXDUfRA/640?wx_fmt=jpeg)
+
+> 鸟鸣传来，那清脆的发条
+> 
+> 把更多的青草唤醒，
+> 
+> 并磨成我们只能认出
+> 
+> 却不知道如何使用的针。
+> 
+>   
+> 
+> 我仰面躺着，像一个被拧下的瓶盖，
+> 
+> 而瓶子里的药片已被吃光。
+> 
+> 我也可以更简单：自始至终
+> 
+> 我是你身上的叶子。
+> 
+> 节选自臧棣《爱情植物》
+> 
+>   
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ4SGwCTDy0vRXLBOd5ZUEnia47Nd6ib2uQOfuf42Y70bCaIT7NvB1Q4t2QwoMM2akLQBj8ibo2R1bXQ/640?wx_fmt=jpeg)
+
+今天的画是临摹网上大神的画作，
+
+临摹起来深感自己技艺不足，
+
+还要勤加练习诶。
+
+希望春天赶紧来，把疫情快点赶走。
+
+欢迎留言、转发or给个“在看”哟～
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+
+[阅读原文](javascript:;)
