@@ -30,21 +30,30 @@ const reporter = new ReportGenerator();
  */
 app.post('/webhook/lark', async (req, res) => {
   try {
-    const { header, event } = req.body;
-
-    // URL 验证
-    if (header?.token) {
-      return res.json({ challenge: req.body.challenge });
+    // 1. 优先处理飞书的 URL 验证 (Challenge)
+    // 验证请求的结构里 type 是 "url_verification"
+    if (req.body.type === 'url_verification') {
+      console.log("正在验证飞书 URL Challenge...");
+      return res.status(200).send(req.body.challenge); // 必须是 .send() 纯字符串
     }
 
-    // 处理消息事件
+    // 2. 处理正式的业务事件 (Event)
+    const { header, event } = req.body;
+
+    // 校验 Token（可选，建议从环境变量读取）
+    // if (header?.token !== process.env.LARK_VERIFICATION_TOKEN) { ... }
+
     if (event?.message) {
+      console.log("收到飞书消息:", event.message.content);
       await handleMessage(event.message);
     }
 
+    // 业务事件处理完毕后，返回 code: 0 的 JSON
     res.json({ code: 0 });
+
   } catch (error) {
     console.error('Lark webhook error:', error);
+    // 即使出错也建议返回 200 或特定的错误 JSON，防止飞书重试过频
     res.status(500).json({ error: error.message });
   }
 });
