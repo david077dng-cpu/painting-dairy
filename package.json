@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@analytics/google-analytics": "^1.1.0",
+    "@larksuiteoapi/node-sdk": "^1.59.0",
     "analytics": "^0.8.19",
     "astro": "^6.0.0"
   }

@@ -20,7 +20,6 @@ console.log(`找到 ${files.length} 篇文章`);
 
 // 用于跟踪已下载的图片，避免重复下载
 const downloadedImages = new Map();
-let imageCounter = 0;
 
 // 下载图片函数
 function downloadImage(url, filepath) {
@@ -62,6 +61,10 @@ async function processArticle(file) {
   let content = fs.readFileSync(filePath, 'utf8');
   let modified = false;
 
+  // 从文件名获取 slug（去掉 .md 后缀）作为图片前缀
+  const slug = path.basename(file, '.md');
+  let imageCounter = 0;
+
   // 匹配所有图片链接: ![alt](url)
   const imageRegex = /!\[([^\]]*)\]\(([^)]+)\)/g;
   let match;
@@ -77,7 +80,7 @@ async function processArticle(file) {
       let localPath = downloadedImages.get(url);
 
       if (!localPath) {
-        // 生成新的文件名
+        // 生成新的文件名: {slug}-{num}.ext
         let ext;
         if (url.includes('wx_fmt=gif')) {
           ext = '.gif';
@@ -87,7 +90,7 @@ async function processArticle(file) {
           ext = '.jpg';
         }
         imageCounter++;
-        const filename = `image-${imageCounter}${ext}`;
+        const filename = `${slug}-${imageCounter}${ext}`;
         localPath = `/images/${filename}`;
         const localFilepath = path.join(imagesDir, filename);
 
@@ -118,6 +121,10 @@ async function processArticle(file) {
 // 主函数
 async function main() {
   let updatedCount = 0;
+  let totalDownloaded = 0;
+
+  // 统计总下载数
+  downloadedImages.forEach(() => totalDownloaded++);
 
   for (let i = 0; i < files.length; i++) {
     const file = files[i];
@@ -138,10 +145,11 @@ async function main() {
     }
   }
 
+  totalDownloaded = downloadedImages.size;
   console.log(`\n\n完成！`);
   console.log(`- 处理文章: ${files.length}`);
   console.log(`- 更新文章: ${updatedCount}`);
-  console.log(`- 下载图片: ${imageCounter}`);
+  console.log(`- 下载图片: ${totalDownloaded}`);
 }
 
 main().catch(console.error);
