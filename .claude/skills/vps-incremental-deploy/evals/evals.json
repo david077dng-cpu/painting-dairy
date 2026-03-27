@@ -1,0 +1,17 @@
+{
+  "skill_name": "vps-incremental-deploy",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Check the current deployment status on VPS 47.77.237.222",
+      "expected_output": "Connects to VPS via SSH, lists /var/www/html, shows Nginx configuration, reports disk space and deployment status",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Do a dry-run incremental deploy to VPS",
+      "expected_output": "Runs pre-flight checks, does local build verification, shows what files would be synced without actually deploying",
+      "files": []
+    }
+  ]
+}

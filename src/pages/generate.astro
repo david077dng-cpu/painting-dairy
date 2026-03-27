@@ -1,0 +1,667 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="AI绘画 · 李春晓" description="AI 图像生成工具，上传参考图描述你的想法，AI 帮你生成图片">
+  <main style="max-width: 800px; margin: 0 auto; padding: 8rem 2rem 5rem;">
+    <div class="reveal">
+      <div class="page-header">
+        <div class="section-tag">// AI 创作</div>
+        <h1 class="page-title">AI 绘画生成</h1>
+        <div class="section-divider"></div>
+        <p class="page-description">上传参考图（可选），描述你的想法，AI 帮你生成专业的绘画作品。</p>
+      </div>
+
+      <!-- Image Upload Area -->
+      <div class="card upload-container">
+        <label class="label">参考图片</label>
+        <div id="dropZone" class="drop-zone">
+          <input type="file" id="fileInput" accept="image/*" hidden>
+          <div id="uploadPlaceholder">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+              <circle cx="8.5" cy="8.5" r="1.4"></circle>
+              <polyline points="21 15 16 10 5 21"></polyline>
+            </svg>
+            <p>点击上传或将图片拖到此处</p>
+          </div>
+          <div id="imagePreview" class="image-preview" style="display: none;"></div>
+        </div>
+        <button id="clearBtn" class="btn-secondary" style="display: none; margin-top: 1rem;">清除图片</button>
+      </div>
+
+      <!-- Requirements Input -->
+      <div class="card input-container">
+        <label class="label" for="requirementsInput">创作要求</label>
+        <textarea
+          id="requirementsInput"
+          class="textarea"
+          placeholder="描述你想要生成的图片，例如：一只穿着毛衣的猫在雨中散步，日系风格..."
+          rows="4"
+        ></textarea>
+        <div class="example-container">
+          <span class="example-label">示例：</span>
+          <button id="fillExampleBtn" class="btn-example">将照片中的人物切换成Q风格，改成人物在美丽风景旁边写生的场景，景色优秀，画面和谐</button>
+        </div>
+      </div>
+
+      <!-- Generate Prompt Button -->
+      <div class="button-container">
+        <button id="generatePromptBtn" class="btn-primary">
+          生成 Prompt
+        </button>
+      </div>
+
+      <!-- Loading Indicator for Prompt Generation -->
+      <div id="loadingPrompt" class="loading" style="display: none;">
+        <div class="spinner"></div>
+        <p>正在生成 Prompt，请稍候...</p>
+      </div>
+
+      <!-- Generated Prompt -->
+      <div class="card prompt-container">
+        <div class="prompt-header">
+          <label class="label" for="promptOutput">生成的 Prompt (可编辑)</label>
+          <button id="copyPromptBtn" class="btn-sm" style="display: none;">复制</button>
+        </div>
+        <textarea
+          id="promptOutput"
+          class="textarea"
+          placeholder="生成的 English prompt 会显示在这里..."
+          rows="3"
+          readonly
+        ></textarea>
+      </div>
+
+      <!-- Image Generation Model Selection -->
+      <div class="card model-select-container">
+        <label class="label" for="modelSelect">生成模型</label>
+        <select id="modelSelect" class="select-input">
+          <option value="volcseed">Doubao Seed (火山引擎)</option>
+          <option value="nanobanana">Nano Banana</option>
+          <option value="siliconflow">SiliconFlow</option>
+        </select>
+      </div>
+
+      <!-- Generate Image Button -->
+      <div class="button-container">
+        <button id="generateImageBtn" class="btn-primary" disabled>
+          生成图片
+        </button>
+      </div>
+
+      <!-- Loading Indicator for Image Generation -->
+      <div id="loadingImage" class="loading" style="display: none;">
+        <div class="spinner"></div>
+        <p>正在生成图片，请稍候...</p>
+      </div>
+
+      <!-- Generated Image Result -->
+      <div class="card result-container">
+        <label class="label">生成结果</label>
+        <div id="resultPlaceholder" class="result-placeholder">
+          <p>生成的图片会显示在这里</p>
+        </div>
+        <div id="resultImage" class="result-image" style="display: none;"></div>
+        <div style="margin-top: 1rem;">
+          <button id="downloadBtn" class="btn-secondary" style="display: none;">下载图片</button>
+        </div>
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  :root {
+    --cream: #fdf6ec;
+    --warm-white: #fffaf4;
+    --peach: #f4a97f;
+    --terracotta: #c96a3e;
+    --rust: #9b4422;
+    --sage: #7a9e7e;
+    --sage-light: #b8d4bb;
+    --sand: #e8d5b7;
+    --sand-dark: #c9b090;
+    --brown: #5c3d2e;
+    --text-main: #3a2518;
+    --text-muted: #7a5c47;
+  }
+
+  .reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s ease, transform 0.8s ease;
+  }
+
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .page-header {
+    margin-bottom: 2rem;
+  }
+
+  .section-tag {
+    font-family: 'Caveat', cursive;
+    font-size: 1.2rem;
+    color: var(--sage);
+    margin-bottom: 0.5rem;
+  }
+
+  .page-title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--brown);
+    margin-bottom: 1rem;
+  }
+
+  .section-divider {
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(to right, var(--peach), var(--terracotta));
+    border-radius: 2px;
+    margin-bottom: 1rem;
+  }
+
+  .page-description {
+    color: var(--text-muted);
+    line-height: 1.7;
+    font-size: 1.05rem;
+  }
+
+  .card {
+    background: var(--warm-white);
+    border-radius: 20px;
+    padding: 1.8rem 2rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  }
+
+  .label {
+    display: block;
+    font-family: 'Noto Serif SC', serif;
+    font-weight: 600;
+    color: var(--brown);
+    margin-bottom: 0.8rem;
+    font-size: 0.95rem;
+  }
+
+  .drop-zone {
+    border: 2px dashed var(--sand);
+    border-radius: 12px;
+    padding: 2rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: var(--cream);
+  }
+
+  .drop-zone:hover,
+  .drop-zone.drag-over {
+    border-color: var(--terracotta);
+    background: var(--warm-white);
+  }
+
+  .drop-zone svg {
+    color: var(--sand-dark);
+    margin-bottom: 1rem;
+  }
+
+  .drop-zone p {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    margin: 0;
+  }
+
+  .image-preview {
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+  .image-preview img {
+    max-width: 100%;
+    max-height: 400px;
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    display: block;
+    border-radius: 8px;
+  }
+
+  .textarea {
+    width: 100%;
+    background: var(--cream);
+    border: 1.5px solid var(--sand);
+    border-radius: 12px;
+    padding: 0.8rem 1rem;
+    color: var(--text-main);
+    font-family: 'Lora', 'Noto Serif SC', serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    resize: vertical;
+    transition: border-color 0.3s ease;
+  }
+
+  .textarea:focus {
+    outline: none;
+    border-color: var(--terracotta);
+  }
+
+  .textarea:readonly {
+    color: var(--text-muted);
+  }
+
+  .example-container {
+    margin-top: 0.8rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .example-label {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+
+  .btn-example {
+    background: var(--sage-light);
+    color: var(--sage);
+    border: none;
+    border-radius: 8px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .btn-example:hover {
+    background: var(--sage);
+    color: white;
+  }
+
+  .prompt-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .button-container {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .btn-primary {
+    background: var(--terracotta);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 0.9rem 2.5rem;
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-height: 48px;
+  }
+
+  .btn-primary:hover:not(:disabled) {
+    background: var(--rust);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(201, 106, 62, 0.3);
+  }
+
+  .btn-primary:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  .btn-secondary {
+    background: var(--sand);
+    color: var(--brown);
+    border: none;
+    border-radius: 12px;
+    padding: 0.7rem 1.8rem;
+    font-family: 'Noto Serif SC', serif;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-height: 40px;
+  }
+
+  .btn-secondary:hover {
+    background: var(--sand-dark);
+  }
+
+  .btn-sm {
+    background: var(--sage-light);
+    color: var(--sage);
+    border: none;
+    border-radius: 8px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .btn-sm:hover {
+    background: var(--sage);
+    color: white;
+  }
+
+  .model-select-container {
+    margin-bottom: 1.5rem;
+  }
+
+  .select-input {
+    width: 100%;
+    background: var(--cream);
+    border: 1.5px solid var(--sand);
+    border-radius: 12px;
+    padding: 0.8rem 1rem;
+    color: var(--text-main);
+    font-family: 'Lora', 'Noto Serif SC', serif;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+  }
+
+  .select-input:focus {
+    outline: none;
+    border-color: var(--terracotta);
+  }
+
+  .loading {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .loading p {
+    color: var(--text-muted);
+    margin-top: 0.8rem;
+  }
+
+  .spinner {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+    border: 3px solid var(--sand);
+    border-top-color: var(--terracotta);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  .result-placeholder {
+    background: var(--cream);
+    border-radius: 12px;
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+
+  .result-placeholder p {
+    color: var(--text-muted);
+    margin: 0;
+  }
+
+  .result-image {
+    width: 100%;
+    text-align: center;
+  }
+
+  .result-image img {
+    max-width: 100%;
+    max-height: 600px;
+    width: 100%;
+    height: 600px;
+    object-fit: contain;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  }
+
+  @media (max-width: 768px) {
+    main {
+      padding: 7rem 1.5rem 4rem !important;
+    }
+
+    .page-title {
+      font-size: 2rem;
+    }
+
+    .card {
+      padding: 1.3rem 1.5rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    main {
+      padding: 6rem 1rem 3rem !important;
+    }
+
+    .page-title {
+      font-size: 1.75rem;
+    }
+  }
+</style>
+
+<script>
+  // State
+  let uploadedImage: string | null = null;
+  let generatedImageUrl: string | null = null;
+
+  // DOM Elements
+  const dropZone = document.getElementById('dropZone')!;
+  const fileInput = document.getElementById('fileInput')! as HTMLInputElement;
+  const uploadPlaceholder = document.getElementById('uploadPlaceholder')!;
+  const imagePreview = document.getElementById('imagePreview')!;
+  const clearBtn = document.getElementById('clearBtn')! as HTMLButtonElement;
+  const requirementsInput = document.getElementById('requirementsInput')! as HTMLTextAreaElement;
+  const fillExampleBtn = document.getElementById('fillExampleBtn')! as HTMLButtonElement;
+  const generatePromptBtn = document.getElementById('generatePromptBtn')! as HTMLButtonElement;
+  const promptOutput = document.getElementById('promptOutput')! as HTMLTextAreaElement;
+  const copyPromptBtn = document.getElementById('copyPromptBtn')! as HTMLButtonElement;
+  const modelSelect = document.getElementById('modelSelect')! as HTMLSelectElement;
+  const generateImageBtn = document.getElementById('generateImageBtn')! as HTMLButtonElement;
+  const loadingPrompt = document.getElementById('loadingPrompt')!;
+  const loadingImage = document.getElementById('loadingImage')!;
+  const resultPlaceholder = document.getElementById('resultPlaceholder')!;
+  const resultImage = document.getElementById('resultImage')!;
+  const downloadBtn = document.getElementById('downloadBtn')! as HTMLButtonElement;
+
+  // Image Upload Handlers
+  dropZone.addEventListener('click', () => fileInput.click());
+
+  dropZone.addEventListener('dragover', (e) => {
+    e.preventDefault();
+    dropZone.classList.add('drag-over');
+  });
+
+  dropZone.addEventListener('dragleave', () => {
+    dropZone.classList.remove('drag-over');
+  });
+
+  dropZone.addEventListener('drop', (e) => {
+    e.preventDefault();
+    dropZone.classList.remove('drag-over');
+    const files = e.dataTransfer?.files;
+    if (files && files.length > 0) {
+      handleFile(files[0]);
+    }
+  });
+
+  fileInput.addEventListener('change', () => {
+    if (fileInput.files && fileInput.files.length > 0) {
+      handleFile(fileInput.files[0]);
+    }
+  });
+
+  function handleFile(file: File) {
+    if (!file.type.startsWith('image/')) {
+      alert('请上传图片文件');
+      return;
+    }
+
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      uploadedImage = e.target?.result as string;
+      showImagePreview(uploadedImage);
+    };
+    reader.readAsDataURL(file);
+  }
+
+  function showImagePreview(imageUrl: string) {
+    imagePreview.innerHTML = `<img src="${imageUrl}" alt="预览">`;
+    imagePreview.style.display = 'block';
+    uploadPlaceholder.style.display = 'none';
+    clearBtn.style.display = 'inline-block';
+  }
+
+  clearBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    uploadedImage = null;
+    fileInput.value = '';
+    imagePreview.style.display = 'none';
+    uploadPlaceholder.style.display = 'block';
+    clearBtn.style.display = 'none';
+  });
+
+  // Fill Example Handler
+  fillExampleBtn.addEventListener('click', () => {
+    requirementsInput.value = '将照片中的人物切换成Q风格，改成人物在美丽风景旁边写生的场景，景色优秀，画面和谐';
+  });
+
+  // Generate Prompt Handler
+  generatePromptBtn.addEventListener('click', async () => {
+    const userInput = requirementsInput.value.trim();
+    if (!userInput) {
+      alert('请先输入创作要求');
+      return;
+    }
+
+    loadingPrompt.style.display = 'block';
+    generatePromptBtn.disabled = true;
+
+    try {
+      const response = await fetch('/api/generate-prompt', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          userInput,
+          image: uploadedImage
+        })
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.message || '生成失败');
+      }
+
+      const data = await response.json();
+      promptOutput.value = data.prompt;
+      promptOutput.readOnly = false;
+      copyPromptBtn.style.display = 'inline-block';
+      generateImageBtn.disabled = false;
+    } catch (error) {
+      console.error('Generate prompt error:', error);
+      alert('生成 Prompt 失败: ' + (error as Error).message);
+    } finally {
+      loadingPrompt.style.display = 'none';
+      generatePromptBtn.disabled = false;
+    }
+  });
+
+  // Copy Prompt Handler
+  copyPromptBtn.addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(promptOutput.value);
+      const originalText = copyPromptBtn.textContent;
+      copyPromptBtn.textContent = '已复制!';
+      setTimeout(() => {
+        copyPromptBtn.textContent = originalText;
+      }, 1500);
+    } catch (error) {
+      alert('复制失败，请手动复制');
+    }
+  });
+
+  // Generate Image Handler
+  generateImageBtn.addEventListener('click', async () => {
+    const prompt = promptOutput.value.trim();
+    if (!prompt) {
+      alert('请先生成 Prompt');
+      return;
+    }
+
+    const provider = modelSelect.value;
+
+    loadingImage.style.display = 'block';
+    generateImageBtn.disabled = true;
+
+    try {
+      const response = await fetch('/api/generate-image', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          prompt,
+          image: uploadedImage,
+          provider
+        })
+      });
+
+      if (!response.ok) {
+        const error = await response.json();
+        throw new Error(error.message || '生成图片失败');
+      }
+
+      const data = await response.json();
+
+      if (data.imageUrl) {
+        generatedImageUrl = data.imageUrl;
+        displayImage(data.imageUrl);
+      } else if (data.b64Json) {
+        const b64 = `data:image/png;base64,${data.b64Json}`;
+        generatedImageUrl = b64;
+        displayImage(b64);
+      }
+    } catch (error) {
+      console.error('Generate image error:', error);
+      alert('生成图片失败: ' + (error as Error).message);
+    } finally {
+      loadingImage.style.display = 'none';
+      generateImageBtn.disabled = false;
+    }
+  });
+
+  function displayImage(imageUrl: string) {
+    resultImage.innerHTML = `<img src="${imageUrl}" alt="生成结果">`;
+    resultImage.style.display = 'block';
+    resultPlaceholder.style.display = 'none';
+    downloadBtn.style.display = 'inline-block';
+  }
+
+  // Download Handler
+  downloadBtn.addEventListener('click', async () => {
+    if (!generatedImageUrl) return;
+
+    try {
+      const response = await fetch(generatedImageUrl);
+      const blob = await response.blob();
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `ai-generated-${Date.now()}.png`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    } catch (error) {
+      // If CORS blocks fetch, open in new tab for user to save manually
+      window.open(generatedImageUrl!, '_blank');
+    }
+  });
+</script>
