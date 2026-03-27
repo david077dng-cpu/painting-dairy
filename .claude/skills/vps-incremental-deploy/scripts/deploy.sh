@@ -12,6 +12,7 @@ REMOTE_DIR="/var/www/html"
 LOCAL_DIR="./dist"
 BACKUP_DIR="/var/www/backups/$(date +%Y%m%d_%H%M%S)"
 SITE_URL="https://xlilian.art"
+PM2_APP_NAME="painting-dairy"
 
 # Colors for output
 RED='\033[0;31m'
@@ -140,7 +141,38 @@ echo
 info "Rsync sync completed!"
 
 # ==============================================================================
-# Step 6: Fix permissions on remote
+# Step 6: Sync package.json and install production dependencies on remote
+# ==============================================================================
+# For SSR deployment, node_modules must be installed on remote because:
+# - Local build only outputs compiled Astro code
+# - Runtime dependencies are still needed
+# ==============================================================================
+
+echo
+info "Syncing package.json to remote..."
+rsync -av package.json package-lock.json "$VPS_HOST:$REMOTE_DIR/"
+
+echo
+info "Installing production dependencies on remote..."
+ssh "$VPS_HOST" "cd $REMOTE_DIR && npm install --omit=dev"
+info "Remote dependencies installed!"
+
+# ==============================================================================
+# Step 7: Restart PM2 process
+# ==============================================================================
+
+echo
+info "Restarting PM2 process: $PM2_APP_NAME..."
+if ssh "$VPS_HOST" "pm2 status | grep -q $PM2_APP_NAME"; then
+    ssh "$VPS_HOST" "pm2 restart $PM2_APP_NAME"
+else
+    info "PM2 process not found, starting it..."
+    ssh "$VPS_HOST" "cd $REMOTE_DIR && PORT=3001 pm2 start server/entry.mjs --name $PM2_APP_NAME"
+fi
+info "PM2 process restarted!"
+
+# ==============================================================================
+# Step 8: Fix permissions on remote
 # ==============================================================================
 
 echo
@@ -149,7 +181,7 @@ ssh "$VPS_HOST" "chown -R david:david $REMOTE_DIR && chmod -R 755 $REMOTE_DIR"
 info "Permissions fixed"
 
 # ==============================================================================
-# Step 7: Health check
+# Step 9: Health check
 # ==============================================================================
 
 echo
