@@ -1,0 +1,691 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="书籍转有声书 · 李春晓" description="上传 TXT/EPUB/MOBI 电子书，使用 AI 语音合成转换成高质量有声书">
+  <main style="max-width: 800px; margin: 0 auto; padding: 8rem 2rem 5rem;">
+    <div class="reveal">
+      <div class="page-header">
+        <div class="section-tag">// AI 工具</div>
+        <h1 class="page-title">书籍转有声书</h1>
+        <div class="section-divider"></div>
+        <p class="page-description">上传电子书，AI 帮你转换成高质量 MP3 有声书，支持 TXT、EPUB、MOBI 格式。</p>
+      </div>
+
+      <!-- File Upload Area -->
+      <div class="card upload-container">
+        <label class="label">上传电子书</label>
+        <div id="dropZone" class="drop-zone">
+          <input type="file" id="fileInput" accept=".txt,.epub,.mobi" hidden>
+          <div id="uploadPlaceholder">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+              <circle cx="8.5" cy="8.5" r="1.4"></circle>
+              <polyline points="21 15 16 10 5 21"></polyline>
+            </svg>
+            <p>点击上传或将文件拖到此处</p>
+            <p class="file-hint">支持 .txt .epub .mobi</p>
+          </div>
+          <div id="fileInfo" class="file-info" style="display: none;">
+            <div class="file-name"></div>
+            <div class="file-size"></div>
+          </div>
+        </div>
+        <button id="clearBtn" class="btn-secondary" style="display: none; margin-top: 1rem;">清除文件</button>
+      </div>
+
+      <!-- Conversion Settings -->
+      <div class="card settings-container">
+        <label class="label">转换设置</label>
+
+        <div class="setting-row">
+          <label for="voiceSelect" class="setting-label">语音选择</label>
+          <select id="voiceSelect" class="select-input">
+            <option value="xiaoxiao">晓晓 (女声-温柔)</option>
+            <option value="xiaoyi">晓伊 (女声-自然)</option>
+            <option value="yunxi">云希 (男声-青年)</option>
+            <option value="yunyang">云扬 (男声-成熟)</option>
+            <option value="yunjian">云健 (男声-稳重)</option>
+          </select>
+        </div>
+
+        <div class="setting-row">
+          <label for="rateSlider" class="setting-label">语速: <span id="rateValue">0%</span></label>
+          <input type="range" id="rateSlider" class="slider-input" min="-20" max="50" value="0" step="5">
+        </div>
+      </div>
+
+      <!-- Convert Button -->
+      <div class="button-container">
+        <button id="convertBtn" class="btn-primary" disabled>
+          开始转换
+        </button>
+      </div>
+
+      <!-- Loading Indicator -->
+      <div id="loading" class="loading" style="display: none;">
+        <div class="spinner"></div>
+        <p id="loadingText">正在转换中，请稍候...</p>
+        <div id="progressBar" class="progress-bar" style="display: none;">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+      </div>
+
+      <!-- Result Section -->
+      <div id="resultCard" class="card result-container" style="display: none;">
+        <label class="label">转换完成</label>
+        <div class="result-info">
+          <p><strong>文件名:</strong> <span id="resultFileName"></span></p>
+          <p><strong>总字符数:</strong> <span id="resultChars"></span></p>
+          <p><strong>分段:</strong> <span id="resultChunks"></span></p>
+        </div>
+        <div class="result-actions">
+          <a id="downloadZipBtn" class="btn-primary" download>
+            下载 ZIP 压缩包
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  :root {
+    --cream: #fdf6ec;
+    --warm-white: #fffaf4;
+    --peach: #f4a97f;
+    --terracotta: #c96a3e;
+    --rust: #9b4422;
+    --sage: #7a9e7e;
+    --sage-light: #b8d4bb;
+    --sand: #e8d5b7;
+    --sand-dark: #c9b090;
+    --brown: #5c3d2e;
+    --text-main: #3a2518;
+    --text-muted: #7a5c47;
+  }
+
+  .reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s ease, transform 0.8s ease;
+  }
+
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .page-header {
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+
+  .section-tag {
+    font-family: 'Caveat', cursive;
+    font-size: 1.2rem;
+    color: var(--sage);
+    margin-bottom: 0.5rem;
+  }
+
+  .page-title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--brown);
+    margin-bottom: 1rem;
+  }
+
+  .section-divider {
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(to right, var(--peach), var(--terracotta));
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+  }
+
+  .page-description {
+    color: var(--text-muted);
+    line-height: 1.7;
+    font-size: 1.05rem;
+  }
+
+  .card {
+    background: var(--warm-white);
+    border-radius: 20px;
+    padding: 1.8rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  }
+
+  .label {
+    display: block;
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--brown);
+    margin-bottom: 1rem;
+  }
+
+  .drop-zone {
+    border: 2px dashed var(--sand);
+    border-radius: 12px;
+    padding: 2.5rem 1.5rem;
+    text-align: center;
+    background: var(--cream);
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+
+  .drop-zone.drag-over {
+    border-color: var(--terracotta);
+    background: var(--warm-white);
+  }
+
+  .drop-zone.has-file {
+    border-color: var(--sage);
+    background: var(--warm-white);
+  }
+
+  .drop-zone svg {
+    color: var(--sand-dark);
+    margin-bottom: 1rem;
+  }
+
+  .drop-zone p {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    margin: 0;
+  }
+
+  .drop-zone .file-hint {
+    font-size: 0.85rem;
+    margin-top: 0.5rem;
+    color: var(--sand-dark);
+  }
+
+  .file-info {
+    text-align: left;
+  }
+
+  .file-info .file-name {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--text-main);
+    margin-bottom: 0.3rem;
+  }
+
+  .file-info .file-size {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  .setting-row {
+    margin-bottom: 1.2rem;
+  }
+
+  .setting-row:last-child {
+    margin-bottom: 0;
+  }
+
+  .setting-label {
+    display: block;
+    font-size: 0.95rem;
+    color: var(--text-main);
+    margin-bottom: 0.5rem;
+  }
+
+  .select-input {
+    width: 100%;
+    background: var(--cream);
+    border: 1.5px solid var(--sand);
+    border-radius: 12px;
+    padding: 0.8rem 1rem;
+    color: var(--text-main);
+    font-family: 'Lora', 'Noto Serif SC', serif;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+  }
+
+  .select-input:focus {
+    outline: none;
+    border-color: var(--terracotta);
+  }
+
+  .slider-input {
+    width: 100%;
+    height: 6px;
+    background: var(--sand);
+    border-radius: 3px;
+    outline: none;
+    -webkit-appearance: none;
+  }
+
+  .slider-input::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background: var(--terracotta);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .slider-input::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+    background: var(--rust);
+  }
+
+  .slider-input::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    background: var(--terracotta);
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+  }
+
+  .button-container {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .btn-primary {
+    background: var(--terracotta);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 0.9rem 2.5rem;
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+    min-height: 48px;
+    box-sizing: border-box;
+  }
+
+  .btn-primary:hover:not(:disabled) {
+    background: var(--rust);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(201, 106, 62, 0.3);
+  }
+
+  .btn-primary:disabled,
+  .btn-primary:disabled:hover {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+  }
+
+  .btn-secondary {
+    background: var(--sand);
+    color: var(--brown);
+    border: none;
+    border-radius: 12px;
+    padding: 0.7rem 1.8rem;
+    font-family: 'Noto Serif SC', serif;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .btn-secondary:hover {
+    background: var(--sand-dark);
+  }
+
+  .loading {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .loading p {
+    color: var(--text-muted);
+    margin-top: 0.8rem;
+  }
+
+  .spinner {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+    border: 3px solid var(--sand);
+    border-top-color: var(--terracotta);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  .progress-bar {
+    width: 100%;
+    height: 8px;
+    background: var(--sand);
+    border-radius: 4px;
+    margin-top: 1rem;
+    overflow: hidden;
+  }
+
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(to right, var(--peach), var(--terracotta));
+    width: 0%;
+    transition: width 0.3s ease;
+    border-radius: 4px;
+  }
+
+  .result-info {
+    background: var(--cream);
+    border-radius: 12px;
+    padding: 1.2rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .result-info p {
+    margin: 0.5rem 0;
+    color: var(--text-main);
+    font-size: 0.95rem;
+  }
+
+  .result-info strong {
+    color: var(--brown);
+  }
+
+  .result-actions {
+    text-align: center;
+  }
+
+  @media (max-width: 768px) {
+    main {
+      padding: 7rem 1.5rem 4rem !important;
+    }
+
+    .page-title {
+      font-size: 2rem;
+    }
+
+    .card {
+      padding: 1.3rem 1.5rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    main {
+      padding: 6rem 1rem 3rem !important;
+    }
+
+    .page-title {
+      font-size: 1.75rem;
+    }
+  }
+</style>
+
+<script>
+  // State
+  let uploadedFile = null;
+  let conversionJobId = null;
+
+  document.addEventListener('DOMContentLoaded', function() {
+    // DOM Elements
+    const dropZone = document.getElementById('dropZone');
+    const fileInput = document.getElementById('fileInput');
+    const uploadPlaceholder = document.getElementById('uploadPlaceholder');
+    const fileInfo = document.getElementById('fileInfo');
+    const clearBtn = document.getElementById('clearBtn');
+    const voiceSelect = document.getElementById('voiceSelect');
+    const rateSlider = document.getElementById('rateSlider');
+    const rateValue = document.getElementById('rateValue');
+    const convertBtn = document.getElementById('convertBtn');
+    const loading = document.getElementById('loading');
+    const loadingText = document.getElementById('loadingText');
+    const progressBar = document.getElementById('progressBar');
+    const progressFill = document.getElementById('progressFill');
+    const resultCard = document.getElementById('resultCard');
+    const resultFileName = document.getElementById('resultFileName');
+    const resultChars = document.getElementById('resultChars');
+    const resultChunks = document.getElementById('resultChunks');
+    const downloadZipBtn = document.getElementById('downloadZipBtn');
+
+    // Reveal animation
+    setTimeout(function() {
+      document.querySelector('.reveal').classList.add('visible');
+    }, 100);
+
+    // Rate slider update
+    rateSlider.addEventListener('input', function() {
+      rateValue.textContent = (rateSlider.value > 0 ? '+' : '') + rateSlider.value + '%';
+    });
+
+    // File Upload Handlers
+    dropZone.addEventListener('click', function() {
+      fileInput.click();
+    });
+
+    dropZone.addEventListener('dragover', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      if (e.dataTransfer) {
+        e.dataTransfer.dropEffect = 'copy';
+      }
+      dropZone.classList.add('drag-over');
+    });
+
+    dropZone.addEventListener('dragenter', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      dropZone.classList.add('drag-over');
+    });
+
+    dropZone.addEventListener('dragleave', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      if (!dropZone.contains(e.relatedTarget)) {
+        dropZone.classList.remove('drag-over');
+      }
+    });
+
+    dropZone.addEventListener('drop', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      dropZone.classList.remove('drag-over');
+      const files = e.dataTransfer?.files;
+      if (files && files.length > 0) {
+        handleFile(files[0]);
+      }
+    });
+
+    fileInput.addEventListener('change', function() {
+      if (fileInput.files && fileInput.files.length > 0) {
+        handleFile(fileInput.files[0]);
+      }
+    });
+
+    function formatFileSize(bytes) {
+      if (bytes < 1024) return bytes + ' B';
+      if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(1) + ' KB';
+      return (bytes / (1024 * 1024)).toFixed(1) + ' MB';
+    }
+
+    function handleFile(file) {
+      const ext = file.name.split('.').pop()?.toLowerCase();
+      if (!['txt', 'epub', 'mobi'].includes(ext)) {
+        alert('仅支持 .txt .epub .mobi 格式文件');
+        return;
+      }
+
+      uploadedFile = file;
+      const fileNameEl = fileInfo.querySelector('.file-name');
+      const fileSizeEl = fileInfo.querySelector('.file-size');
+      fileNameEl.textContent = file.name;
+      fileSizeEl.textContent = formatFileSize(file.size);
+
+      uploadPlaceholder.style.display = 'none';
+      fileInfo.style.display = 'block';
+      clearBtn.style.display = 'inline-block';
+      dropZone.classList.add('has-file');
+      convertBtn.disabled = false;
+    }
+
+    clearBtn.addEventListener('click', function(e) {
+      e.stopPropagation();
+      uploadedFile = null;
+      fileInput.value = '';
+      uploadPlaceholder.style.display = 'block';
+      fileInfo.style.display = 'none';
+      clearBtn.style.display = 'none';
+      dropZone.classList.remove('has-file');
+      convertBtn.disabled = true;
+      resultCard.style.display = 'none';
+    });
+
+    // Progress polling
+    let pollingInterval: number | null = null;
+
+    function stopPolling() {
+      if (pollingInterval) {
+        clearInterval(pollingInterval);
+        pollingInterval = null;
+      }
+    }
+
+    function startPolling(jobId: string) {
+      progressBar.style.display = 'block';
+      pollingInterval = window.setInterval(async () => {
+        try {
+          const response = await fetch(`/api/convert-book?jobId=${encodeURIComponent(jobId)}`);
+          if (!response.ok) {
+            return;
+          }
+          const progress = await response.json();
+
+          if (progress.error) {
+            stopPolling();
+            loading.style.display = 'none';
+            convertBtn.disabled = false;
+            alert(`转换错误: ${progress.error}`);
+            return;
+          }
+
+          loadingText.textContent = `${progress.stage}: ${progress.current}/${progress.total}`;
+          progressFill.style.width = progress.percentage + '%';
+
+          if (progress.done) {
+            stopPolling();
+          }
+        } catch (e) {
+          console.error('Polling error:', e);
+        }
+      }, 1000);
+    }
+
+    // Convert Handler
+    convertBtn.addEventListener('click', async function() {
+      if (!uploadedFile) {
+        alert('请先上传文件');
+        return;
+      }
+
+      const formData = new FormData();
+      formData.append('book', uploadedFile);
+      formData.append('voice', voiceSelect.value);
+      const rateSign = rateSlider.value > 0 ? '+' : rateSlider.value < 0 ? '' : '+';
+      formData.append('rate', rateSign + rateSlider.value + '%');
+
+      loading.style.display = 'block';
+      loadingText.textContent = '正在上传文件...';
+      progressBar.style.display = 'none';
+      progressFill.style.width = '0%';
+      convertBtn.disabled = true;
+      resultCard.style.display = 'none';
+
+      try {
+        const response = await fetch('/api/convert-book', {
+          method: 'POST',
+          body: formData
+        });
+
+        if (!response.ok) {
+          let errorMessage = '转换失败';
+          try {
+            const contentType = response.headers.get('content-type') || '';
+            if (contentType.includes('application/json')) {
+              const errorData = await response.json();
+              errorMessage = errorData.message || errorMessage;
+            } else {
+              const text = await response.text();
+              console.error('Non-JSON error response:', text);
+              errorMessage = '服务器错误 (' + response.status + ')';
+            }
+          } catch (e) {
+            console.error('Error parsing error response:', e);
+            errorMessage = '服务器错误 (' + response.status + ')';
+          }
+          throw new Error(errorMessage);
+        }
+
+        const data = await response.json();
+
+        if (!data.success) {
+          throw new Error(data.message || '转换失败');
+        }
+
+        // Start polling for progress
+        startPolling(data.jobId);
+
+        // Wait for completion by polling until done
+        const waitForCompletion = new Promise((resolve, reject) => {
+          const checkDone = async () => {
+            try {
+              const response = await fetch(`/api/convert-book?jobId=${encodeURIComponent(data.jobId)}`);
+              if (!response.ok) {
+                reject(new Error('获取进度失败'));
+                return;
+              }
+              const progress = await response.json();
+              if (progress.done && !progress.error) {
+                resolve(true);
+                return;
+              }
+              if (progress.error) {
+                reject(new Error(progress.error));
+                return;
+              }
+              setTimeout(checkDone, 1000);
+            } catch (e) {
+              reject(e);
+            }
+          };
+          checkDone();
+        });
+
+        await waitForCompletion;
+
+        stopPolling();
+        loading.style.display = 'none';
+        convertBtn.disabled = false;
+
+        // Show result
+        resultFileName.textContent = data.fileName;
+        resultChars.textContent = data.totalChars.toLocaleString();
+        resultChunks.textContent = data.chunks;
+        downloadZipBtn.href = '/xreader-audio/' + data.zipPath;
+        downloadZipBtn.download = data.zipName;
+        resultCard.style.display = 'block';
+
+        // Scroll to result
+        resultCard.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      } catch (error) {
+        stopPolling();
+        console.error('Conversion error:', error);
+        alert('转换失败: ' + (error as Error).message);
+        loading.style.display = 'none';
+        convertBtn.disabled = false;
+      }
+    });
+  });
+</script>

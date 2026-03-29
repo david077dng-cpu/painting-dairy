@@ -1,0 +1,256 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+interface ToolCard {
+  title: string;
+  description: string;
+  href: string;
+  icon: string;
+  color: string;
+}
+
+const tools: ToolCard[] = [
+  {
+    title: 'AI 绘画生成',
+    description: '上传参考图，描述你的想法，AI 帮你生成专业的绘画作品',
+    href: '/generate',
+    icon: '🎨',
+    color: 'peach'
+  },
+  {
+    title: 'AI 艺术指导',
+    description: '上传照片和手绘作品，AI 对比分析并提供专业改进建议',
+    href: '/art-advisor',
+    icon: '✨',
+    color: 'sage'
+  },
+  {
+    title: '表情包生成器',
+    description: '选择模板，输入文案，一键生成社畜、阴阳怪气等各种风格表情包',
+    href: '/meme-generator',
+    icon: '😆',
+    color: 'terracotta'
+  },
+  {
+    title: '书籍转有声书',
+    description: '上传 TXT/EPUB/MOBI 电子书，AI 帮你转换成高质量有声书',
+    href: '/book-audiobook',
+    icon: '📖',
+    color: 'sage'
+  }
+];
+---
+<BaseLayout title="工具 · 李春晓" description="AI 创作工具集合">
+  <main style="max-width: 1000px; margin: 0 auto; padding: 8rem 2rem 5rem;">
+    <div class="reveal">
+      <div class="page-header">
+        <div class="section-tag">// 工具箱</div>
+        <h1 class="page-title">AI 创作工具</h1>
+        <div class="section-divider"></div>
+        <p class="page-description">精选 AI 工具，助力你的创意表达。</p>
+      </div>
+
+      <div class="tools-grid">
+        {tools.map((tool) => (
+          <a href={tool.href} class={`tool-card tool-card--${tool.color}`}>
+            <div class="tool-icon">{tool.icon}</div>
+            <h3 class="tool-title">{tool.title}</h3>
+            <p class="tool-description">{tool.description}</p>
+            <div class="tool-arrow">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path d="M5 12h14M12 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  :root {
+    --cream: #fdf6ec;
+    --warm-white: #fffaf4;
+    --peach: #f4a97f;
+    --terracotta: #c96a3e;
+    --rust: #9b4422;
+    --sage: #7a9e7e;
+    --sage-light: #b8d4bb;
+    --sand: #e8d5b7;
+    --sand-dark: #c9b090;
+    --brown: #5c3d2e;
+    --text-main: #3a2518;
+    --text-muted: #7a5c47;
+  }
+
+  .reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s ease, transform 0.8s ease;
+  }
+
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .page-header {
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+
+  .section-tag {
+    font-family: 'Caveat', cursive;
+    font-size: 1.2rem;
+    color: var(--sage);
+    margin-bottom: 0.5rem;
+  }
+
+  .page-title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--brown);
+    margin-bottom: 1rem;
+  }
+
+  .section-divider {
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(to right, var(--peach), var(--terracotta));
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+  }
+
+  .page-description {
+    color: var(--text-muted);
+    line-height: 1.7;
+    font-size: 1.05rem;
+  }
+
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .tool-card {
+    display: block;
+    text-decoration: none;
+    background: var(--warm-white);
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid transparent;
+  }
+
+  .tool-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .tool-card--peach::before {
+    background: linear-gradient(to right, var(--peach), var(--terracotta));
+  }
+
+  .tool-card--sage::before {
+    background: linear-gradient(to right, var(--sage-light), var(--sage));
+  }
+
+  .tool-card--terracotta::before {
+    background: linear-gradient(to right, var(--terracotta), var(--rust));
+  }
+
+  .tool-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  }
+
+  .tool-card:hover::before {
+    opacity: 1;
+  }
+
+  .tool-card--peach:hover {
+    border-color: var(--peach);
+  }
+
+  .tool-card--sage:hover {
+    border-color: var(--sage);
+  }
+
+  .tool-card--terracotta:hover {
+    border-color: var(--terracotta);
+  }
+
+  .tool-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .tool-title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--brown);
+    margin-bottom: 0.75rem;
+  }
+
+  .tool-description {
+    color: var(--text-muted);
+    line-height: 1.6;
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .tool-arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: var(--cream);
+    color: var(--text-muted);
+    transition: all 0.3s ease;
+  }
+
+  .tool-card:hover .tool-arrow {
+    background: var(--terracotta);
+    color: white;
+    transform: translateX(4px);
+  }
+
+  @media (max-width: 768px) {
+    main {
+      padding: 7rem 1.5rem 4rem !important;
+    }
+
+    .page-title {
+      font-size: 2rem;
+    }
+
+    .tools-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 480px) {
+    main {
+      padding: 6rem 1rem 3rem !important;
+    }
+
+    .page-title {
+      font-size: 1.75rem;
+    }
+  }
+</style>
