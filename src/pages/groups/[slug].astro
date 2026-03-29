@@ -1,36 +1,25 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
+import fs from 'fs';
+import path from 'path';
+
+const contentRoot = path.resolve(process.cwd(), 'src/content/group');
 
 export async function getStaticPaths() {
-  const groups = await getCollection('groups');
-
-  // 获取所有合集名称
-  const groupNames = [...new Set(groups.map(item => item.id.split('/')[0]))];
+  const groupNames = fs.existsSync(contentRoot)
+    ? fs.readdirSync(contentRoot).filter(f => fs.statSync(path.join(contentRoot, f)).isDirectory())
+    : [];
 
   return groupNames.map(name => ({
     params: { slug: encodeURIComponent(name) },
-    props: { groupName: name },
   }));
 }
 
-const { groupName } = Astro.props;
-const decodedGroupName = decodeURIComponent(groupName);
-
-// 获取该合集的所有文章
-const allGroups = await getCollection('groups');
-const groupItems = allGroups
-  .filter(item => item.id.startsWith(decodedGroupName + '/'))
-  .sort((a, b) => {
-    const dateA = new Date(a.data.date);
-    const dateB = new Date(b.data.date);
-    return dateB.getTime() - dateA.getTime();
-  });
-
-const basePath = import.meta.env.BASE_URL;
+const { slug } = Astro.params;
+const decodedGroupName = decodeURIComponent(slug!);
 
 // 合集中文名称映射
-const groupNames: Record<string, string> = {
+const groupNamesMap: Record<string, string> = {
   'Q版漫画': 'Q版漫画',
   '写生': '写生',
   '北京': '北京',
@@ -44,9 +33,19 @@ const groupNames: Record<string, string> = {
   '胡同': '胡同',
   '读书笔记': '读书笔记',
 };
+
+// 获取该 group 的所有项目
+const groupDir = path.join(contentRoot, decodedGroupName);
+const items = fs.existsSync(groupDir)
+  ? fs.readdirSync(groupDir)
+      .filter(f => fs.statSync(path.join(groupDir, f)).isDirectory())
+      .sort((a, b) => b.localeCompare(a))
+  : [];
+
+const basePath = import.meta.env.BASE_URL;
 ---
 
-<BaseLayout title={`${groupNames[decodedGroupName] || decodedGroupName} · 李春晓`}>
+<BaseLayout title={`${groupNamesMap[decodedGroupName] || decodedGroupName} · 李春晓`}>
   <main style="max-width:760px; margin:0 auto; padding:8rem 2rem 5rem;">
     <div style="margin-bottom:3rem;">
       <a
@@ -61,31 +60,50 @@ const groupNames: Record<string, string> = {
         <span>返回合集</span>
       </a>
       <h1 style="font-family:'Noto Serif SC',serif; font-size:2.5rem; font-weight:700; color:var(--brown); margin-bottom:1rem;">
-        {groupNames[decodedGroupName] || decodedGroupName}
+        {groupNamesMap[decodedGroupName] || decodedGroupName}
       </h1>
       <div style="width:60px; height:3px; background:linear-gradient(to right,#f4a97f,#c96a3e); border-radius:2px;"></div>
     </div>
 
-    {groupItems.length === 0 ? (
+    {items.length === 0 ? (
       <div style="text-align:center; padding:4rem; color:var(--text-muted); font-family:'Noto Serif SC',serif;">
         <div style="font-size:3rem; margin-bottom:1rem;">📁</div>
         <p>该合集暂时没有内容</p>
       </div>
     ) : (
       <div style="display:flex; flex-direction:column; gap:2rem;">
-        {groupItems.map(item => (
-          <div style="background:var(--warm-white); border-radius:20px; padding:1.8rem 2rem; box-shadow:0 2px 12px rgba(0,0,0,.06);">
-            <div style="font-family:'Noto Serif SC',serif; font-size:0.75rem; color:#7a9e7e; letter-spacing:0.1em; margin-bottom:0.5rem;">
-              {item.data.date instanceof Date ? item.data.date.toISOString().split('T')[0] : item.data.date}
-            </div>
-            <div style="font-family:'Noto Serif SC',serif; font-size:1.25rem; font-weight:700; color:#5c3d2e; margin-bottom:0.6rem;">
-              {item.data.title}
-            </div>
-            {item.data.description && (
-              <p style="font-size:0.9rem; line-height:1.75; color:#7a5c47; margin:0;">{item.data.description}</p>
-            )}
-          </div>
-        ))}
+        {items.map(item => {
+          // 尝试从目录名中提取日期和标题
+          let title = item;
+          let date = '';
+
+          const dateMatch = item.match(/^(\d{4}-\d{2}-\d{2})\s+(.*)$/);
+          if (dateMatch) {
+            date = dateMatch[1];
+            title = dateMatch[2];
+          }
+
+          return (
+            <a
+              href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}content/group/${encodeURIComponent(decodedGroupName)}/${encodeURIComponent(item)}/index.html`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display:block; text-decoration:none; background:var(--warm-white); border-radius:20px; padding:1.8rem 2rem; box-shadow:0 2px 12px rgba(0,0,0,.06); transition:transform 0.25s,box-shadow 0.25s;"
+              onmouseover="this.style.transform='translateY(-4px)';this.style.boxShadow='0 10px 30px rgba(0,0,0,.1)'"
+              onmouseout="this.style.transform='';this.style.boxShadow='0 2px 12px rgba(0,0,0,.06)'"
+            >
+              <div style="font-family:'Noto Serif SC',serif; font-size:0.75rem; color:#7a9e7e; letter-spacing:0.1em; margin-bottom:0.5rem;">
+                {date}
+              </div>
+              <div style="font-family:'Noto Serif SC',serif; font-size:1.25rem; font-weight:700; color:#5c3d2e; margin-bottom:0.6rem;">
+                {title}
+              </div>
+              <div style="font-size:0.85rem; color:var(--text-muted);">
+                点击打开查看 ↗
+              </div>
+            </a>
+          );
+        })}
       </div>
     )}
   </main>

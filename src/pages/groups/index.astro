@@ -1,23 +1,17 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
+import fs from 'fs';
+import path from 'path';
 
-// 获取所有合集
-const groups = await getCollection('groups');
+const contentRoot = path.resolve(process.cwd(), 'src/content/group');
 
-// 按合集名称分组统计文章数
-const groupStats = groups.reduce((acc, item) => {
-  const groupName = item.id.split('/')[0];
-  if (!acc[groupName]) {
-    acc[groupName] = { count: 0, items: [] };
-  }
-  acc[groupName].count++;
-  acc[groupName].items.push(item);
-  return acc;
-}, {} as Record<string, { count: number; items: typeof groups }>);
+// 获取所有 group 目录
+const groupNames = fs.existsSync(contentRoot)
+  ? fs.readdirSync(contentRoot).filter(f => fs.statSync(path.join(contentRoot, f)).isDirectory())
+  : [];
 
 // 合集中文名称映射
-const groupNames: Record<string, string> = {
+const groupNamesMap: Record<string, string> = {
   'Q版漫画': 'Q版漫画',
   '写生': '写生',
   '北京': '北京',
@@ -32,30 +26,57 @@ const groupNames: Record<string, string> = {
   '读书笔记': '读书笔记',
 };
 
+// 统计每个组的文章数量
+const groupStats = groupNames.reduce((acc, name) => {
+  const groupPath = path.join(contentRoot, name);
+  const items = fs.readdirSync(groupPath).filter(f =>
+    fs.statSync(path.join(groupPath, f)).isDirectory()
+  );
+  acc[name] = { count: items.length };
+  return acc;
+}, {} as Record<string, { count: number }>);
+
 const basePath = import.meta.env.BASE_URL;
 ---
 
 <BaseLayout title="合集 · 李春晓">
   <main style="max-width:760px; margin:0 auto; padding:8rem 2rem 5rem;">
     <div style="margin-bottom:3rem;">
-      <div style="font-family:'Caveat',cursive; font-size:1.2rem; color:var(--sage); margin-bottom:0.5rem;">// 分类浏览</div>
+      <div style="display:flex; gap:1rem; margin-bottom:0.5rem;">
+        <a
+          href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}posts`}
+          style="font-family:'Caveat',cursive; font-size:1.2rem; color:var(--text-muted); text-decoration:none; transition:color 0.2s;"
+          onmouseover="this.style.color='#c96a3e'"
+          onmouseout="this.style.color='var(--text-muted)'"
+        >
+          // 我的写作
+        </a>
+        <a
+          href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}groups`}
+          style="font-family:'Caveat',cursive; font-size:1.2rem; color:var(--sage); text-decoration:none; transition:color 0.2s;"
+          onmouseover="this.style.color='#c96a3e'"
+          onmouseout="this.style.color='var(--sage)'"
+        >
+          · 分类浏览
+        </a>
+      </div>
       <h1 style="font-family:'Noto Serif SC',serif; font-size:2.5rem; font-weight:700; color:var(--brown); margin-bottom:1rem;">合集</h1>
       <div style="width:60px; height:3px; background:linear-gradient(to right,#f4a97f,#c96a3e); border-radius:2px;"></div>
     </div>
 
     <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(200px, 1fr)); gap:1.5rem;">
-      {Object.entries(groupStats).map(([key, stats]) => (
+      {groupNames.map(name => (
         <a
-          href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}groups/${encodeURIComponent(key)}`}
+          href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}groups/${encodeURIComponent(name)}`}
           style="display:block; text-decoration:none; background:var(--warm-white); border-radius:16px; padding:1.5rem; box-shadow:0 2px 12px rgba(0,0,0,.06); transition:transform 0.25s,box-shadow 0.25s;"
           onmouseover="this.style.transform='translateY(-4px)';this.style.boxShadow='0 10px 30px rgba(0,0,0,.1)'"
           onmouseout="this.style.transform='';this.style.boxShadow='0 2px 12px rgba(0,0,0,.06)'"
         >
           <div style="font-family:'Noto Serif SC',serif; font-size:1.25rem; font-weight:700; color:#5c3d2e; margin-bottom:0.5rem;">
-            {groupNames[key] || key}
+            {groupNamesMap[name] || name}
           </div>
           <div style="font-size:0.85rem; color:#7a9e7e; display:flex; align-items:center; gap:0.3rem;">
-            <span>{stats.count}</span>
+            <span>{groupStats[name]?.count || 0}</span>
             <span>篇文章</span>
           </div>
         </a>

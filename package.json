@@ -11,6 +11,7 @@
     "@analytics/google-analytics": "^1.1.0",
     "@astrojs/node": "^10.0.4",
     "@larksuiteoapi/node-sdk": "^1.59.0",
+    "archiver": "^7.0.1",
     "analytics": "^0.8.19",
     "astro": "^6.0.0",
     "dotenv": "^17.3.1",
