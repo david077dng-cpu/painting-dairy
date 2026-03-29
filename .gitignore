@@ -3,4 +3,5 @@
 node_modules/
 dist/
 .astro/
+lark-bot/*.log
 lark-bot/data/*.log

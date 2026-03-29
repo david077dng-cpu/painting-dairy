@@ -11,6 +11,42 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <p class="page-description">上传参考图（可选），描述你的想法，AI 帮你生成专业的绘画作品。</p>
       </div>
 
+      <!-- Gallery Section -->
+      <div class="card gallery-container">
+        <div class="gallery-header">
+          <label class="label">作品展示</label>
+          <span class="gallery-subtitle">点击图片可查看详情</span>
+        </div>
+        <div class="gallery-grid">
+          <div class="gallery-item" data-image="/gen/chan.jpg">
+            <img src="/gen/chan.jpg" alt="AI作品 - 蝉" loading="lazy">
+            <div class="gallery-overlay">
+              <span class="gallery-title">蝉 · 夏日</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-image="/gen/lcx.jpg">
+            <img src="/gen/lcx.jpg" alt="AI作品 - 春晓" loading="lazy">
+            <div class="gallery-overlay">
+              <span class="gallery-title">春晓 · 诗意</span>
+            </div>
+          </div>
+          <div class="gallery-item" data-image="/gen/mama.jpg">
+            <img src="/gen/mama.jpg" alt="AI作品 - 妈妈" loading="lazy">
+            <div class="gallery-overlay">
+              <span class="gallery-title">妈妈 · 温柔</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Gallery Lightbox -->
+      <div id="lightbox" class="lightbox" style="display: none;">
+        <div class="lightbox-content">
+          <button id="lightboxClose" class="lightbox-close">&times;</button>
+          <img id="lightboxImage" src="" alt="">
+        </div>
+      </div>
+
       <!-- Image Upload Area -->
       <div class="card upload-container">
         <label class="label">参考图片</label>
@@ -63,13 +99,22 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           <label class="label" for="promptOutput">生成的 Prompt (可编辑)</label>
           <button id="copyPromptBtn" class="btn-sm" style="display: none;">复制</button>
         </div>
-        <textarea
-          id="promptOutput"
-          class="textarea"
-          placeholder="生成的 English prompt 会显示在这里..."
-          rows="3"
-          readonly
-        ></textarea>
+        <div class="textarea-resize-wrapper">
+          <textarea
+            id="promptOutput"
+            class="textarea"
+            placeholder="生成的 English prompt 会显示在这里..."
+            rows="3"
+            readonly
+          ></textarea>
+          <div class="resize-handle" title="拖动调整高度">
+            <svg width="16" height="4" viewBox="0 0 16 4" fill="currentColor">
+              <circle cx="2" cy="2" r="1.5"/>
+              <circle cx="8" cy="2" r="1.5"/>
+              <circle cx="14" cy="2" r="1.5"/>
+            </svg>
+          </div>
+        </div>
       </div>
 
       <!-- Image Generation Model Selection -->
@@ -101,7 +146,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <div id="resultPlaceholder" class="result-placeholder">
           <p>生成的图片会显示在这里</p>
         </div>
-        <div id="resultImage" class="result-image" style="display: none;"></div>
+        <div id="resultImageWrapper" class="result-image-wrapper" style="display: none;">
+          <div id="resultImage" class="result-image"></div>
+        </div>
         <div style="margin-top: 1rem;">
           <button id="downloadBtn" class="btn-secondary" style="display: none;">下载图片</button>
         </div>
@@ -221,16 +268,48 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     width: 100%;
     box-sizing: border-box;
     text-align: center;
+    max-height: 70vh;
+    overflow: auto;
+    border-radius: 8px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--sand) var(--cream);
+  }
+
+  .image-preview::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  .image-preview::-webkit-scrollbar-track {
+    background: var(--cream);
+    border-radius: 4px;
+  }
+
+  .image-preview::-webkit-scrollbar-thumb {
+    background: var(--sand);
+    border-radius: 4px;
+  }
+
+  .image-preview::-webkit-scrollbar-thumb:hover {
+    background: var(--sand-dark);
   }
 
   .image-preview img {
-    max-width: 100%;
-    max-height: 400px;
+    max-width: none;
+    max-height: none;
     width: auto;
     height: auto;
     display: block;
     margin: 0 auto;
     border-radius: 8px;
+    object-fit: contain;
+    max-width: min(100%, 1200px);
+  }
+
+  @media (max-width: 768px) {
+    .image-preview {
+      max-height: 50vh;
+    }
   }
 
   .textarea {
@@ -289,6 +368,48 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     display: flex;
     justify-content: space-between;
     align-items: center;
+  }
+
+  .textarea-resize-wrapper {
+    position: relative;
+  }
+
+  .textarea-resize-wrapper .textarea {
+    resize: none;
+    padding-bottom: 24px;
+  }
+
+  .resize-handle {
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 32px;
+    height: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--sand);
+    border-radius: 6px;
+    cursor: ns-resize;
+    color: var(--sand-dark);
+    transition: all 0.2s ease;
+    user-select: none;
+  }
+
+  .resize-handle:hover {
+    background: var(--sand-dark);
+    color: var(--brown);
+    transform: translateX(-50%) scale(1.1);
+  }
+
+  .resize-handle:active {
+    background: var(--terracotta);
+    color: white;
+  }
+
+  .resize-handle svg {
+    pointer-events: none;
   }
 
   .button-container {
@@ -354,6 +475,119 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     color: white;
   }
 
+  .gallery-container {
+    margin-bottom: 2rem;
+  }
+
+  .gallery-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .gallery-subtitle {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+
+  .gallery-item {
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+    cursor: pointer;
+    aspect-ratio: 1;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .gallery-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  }
+
+  .gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .gallery-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+    padding: 1.5rem 1rem 1rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .gallery-item:hover .gallery-overlay {
+    opacity: 1;
+  }
+
+  .gallery-title {
+    color: white;
+    font-family: 'Noto Serif SC', serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  .lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .lightbox-content {
+    position: relative;
+    max-width: 90vw;
+    max-height: 90vh;
+  }
+
+  .lightbox-content img {
+    max-width: 100%;
+    max-height: 85vh;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+
+  .lightbox-close {
+    position: absolute;
+    top: -3rem;
+    right: 0;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 2.5rem;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s ease;
+  }
+
+  .lightbox-close:hover {
+    transform: scale(1.2);
+  }
+
   .model-select-container {
     margin-bottom: 1.5rem;
   }
@@ -412,17 +646,49 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     margin: 0;
   }
 
+  .result-image-wrapper {
+    width: 100%;
+    max-height: 70vh;
+    overflow: auto;
+    border-radius: 12px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--sand) var(--cream);
+    background: var(--cream);
+  }
+
+  .result-image-wrapper::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  .result-image-wrapper::-webkit-scrollbar-track {
+    background: var(--cream);
+    border-radius: 4px;
+  }
+
+  .result-image-wrapper::-webkit-scrollbar-thumb {
+    background: var(--sand);
+    border-radius: 4px;
+  }
+
+  .result-image-wrapper::-webkit-scrollbar-thumb:hover {
+    background: var(--sand-dark);
+  }
+
   .result-image {
     width: 100%;
-    text-align: center;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .result-image img {
-    max-width: 100%;
-    max-height: 600px;
-    width: 100%;
-    height: 600px;
-    object-fit: contain;
+    max-width: min(100%, 1200px);
+    max-height: none;
+    width: auto;
+    height: auto;
+    display: block;
     border-radius: 12px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
   }
@@ -439,6 +705,22 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     .card {
       padding: 1.3rem 1.5rem;
     }
+
+    .gallery-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.8rem;
+    }
+
+    .gallery-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.3rem;
+    }
+
+    .lightbox-close {
+      top: -2.5rem;
+      font-size: 2rem;
+    }
   }
 
   @media (max-width: 480px) {
@@ -449,224 +731,496 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     .page-title {
       font-size: 1.75rem;
     }
+
+    .gallery-grid {
+      grid-template-columns: 1fr;
+    }
   }
 </style>
 
 <script>
   // State
-  let uploadedImage: string | null = null;
-  let generatedImageUrl: string | null = null;
+  let uploadedImage = null;
+  let generatedImageUrl = null;
 
-  // DOM Elements
-  const dropZone = document.getElementById('dropZone')!;
-  const fileInput = document.getElementById('fileInput')! as HTMLInputElement;
-  const uploadPlaceholder = document.getElementById('uploadPlaceholder')!;
-  const imagePreview = document.getElementById('imagePreview')!;
-  const clearBtn = document.getElementById('clearBtn')! as HTMLButtonElement;
-  const requirementsInput = document.getElementById('requirementsInput')! as HTMLTextAreaElement;
-  const fillExampleBtn = document.getElementById('fillExampleBtn')! as HTMLButtonElement;
-  const generatePromptBtn = document.getElementById('generatePromptBtn')! as HTMLButtonElement;
-  const promptOutput = document.getElementById('promptOutput')! as HTMLTextAreaElement;
-  const copyPromptBtn = document.getElementById('copyPromptBtn')! as HTMLButtonElement;
-  const modelSelect = document.getElementById('modelSelect')! as HTMLSelectElement;
-  const generateImageBtn = document.getElementById('generateImageBtn')! as HTMLButtonElement;
-  const loadingPrompt = document.getElementById('loadingPrompt')!;
-  const loadingImage = document.getElementById('loadingImage')!;
-  const resultPlaceholder = document.getElementById('resultPlaceholder')!;
-  const resultImage = document.getElementById('resultImage')!;
-  const downloadBtn = document.getElementById('downloadBtn')! as HTMLButtonElement;
+  // Wait for DOM to be ready
+  document.addEventListener('DOMContentLoaded', function() {
+    // DOM Elements
+    const dropZone = document.getElementById('dropZone');
+    const fileInput = document.getElementById('fileInput');
+    const uploadPlaceholder = document.getElementById('uploadPlaceholder');
+    const imagePreview = document.getElementById('imagePreview');
+    const clearBtn = document.getElementById('clearBtn');
+    const requirementsInput = document.getElementById('requirementsInput');
+    const fillExampleBtn = document.getElementById('fillExampleBtn');
+    const generatePromptBtn = document.getElementById('generatePromptBtn');
+    const promptOutput = document.getElementById('promptOutput');
+    const copyPromptBtn = document.getElementById('copyPromptBtn');
+    const modelSelect = document.getElementById('modelSelect');
+    const generateImageBtn = document.getElementById('generateImageBtn');
+    const loadingPrompt = document.getElementById('loadingPrompt');
+    const loadingImage = document.getElementById('loadingImage');
+    const resultPlaceholder = document.getElementById('resultPlaceholder');
+    const resultImage = document.getElementById('resultImage');
+    const downloadBtn = document.getElementById('downloadBtn');
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImage = document.getElementById('lightboxImage');
+    const lightboxClose = document.getElementById('lightboxClose');
+    const galleryItems = document.querySelectorAll('.gallery-item');
+    const resultImageWrapper = document.getElementById('resultImageWrapper');
 
-  // Image Upload Handlers
-  dropZone.addEventListener('click', () => fileInput.click());
-
-  dropZone.addEventListener('dragover', (e) => {
-    e.preventDefault();
-    dropZone.classList.add('drag-over');
-  });
-
-  dropZone.addEventListener('dragleave', () => {
-    dropZone.classList.remove('drag-over');
-  });
-
-  dropZone.addEventListener('drop', (e) => {
-    e.preventDefault();
-    dropZone.classList.remove('drag-over');
-    const files = e.dataTransfer?.files;
-    if (files && files.length > 0) {
-      handleFile(files[0]);
-    }
-  });
-
-  fileInput.addEventListener('change', () => {
-    if (fileInput.files && fileInput.files.length > 0) {
-      handleFile(fileInput.files[0]);
-    }
-  });
-
-  function handleFile(file: File) {
-    if (!file.type.startsWith('image/')) {
-      alert('请上传图片文件');
+    // Check if required elements exist
+    if (!dropZone || !fileInput || !uploadPlaceholder || !imagePreview || !clearBtn) {
+      console.error('Required upload elements not found');
       return;
     }
 
-    const reader = new FileReader();
-    reader.onload = (e) => {
-      uploadedImage = e.target?.result as string;
-      showImagePreview(uploadedImage);
-    };
-    reader.readAsDataURL(file);
-  }
+    // Image Upload Handlers
+    dropZone.addEventListener('click', function() {
+      fileInput.click();
+    });
 
-  function showImagePreview(imageUrl: string) {
-    imagePreview.innerHTML = `<img src="${imageUrl}" alt="预览">`;
-    imagePreview.style.display = 'block';
-    uploadPlaceholder.style.display = 'none';
-    clearBtn.style.display = 'inline-block';
-    dropZone.classList.add('has-image');
-  }
+    dropZone.addEventListener('dragover', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      if (e.dataTransfer) {
+        e.dataTransfer.dropEffect = 'copy';
+      }
+      dropZone.classList.add('drag-over');
+    });
 
-  clearBtn.addEventListener('click', (e) => {
-    e.stopPropagation();
-    uploadedImage = null;
-    fileInput.value = '';
-    imagePreview.style.display = 'none';
-    uploadPlaceholder.style.display = 'block';
-    clearBtn.style.display = 'none';
-    dropZone.classList.remove('has-image');
-  });
+    dropZone.addEventListener('dragenter', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      dropZone.classList.add('drag-over');
+    });
 
-  // Fill Example Handler
-  fillExampleBtn.addEventListener('click', () => {
-    requirementsInput.value = '将照片中的人物切换成Q风格，改成人物在美丽风景旁边写生的场景，景色优秀，画面和谐';
-  });
+    dropZone.addEventListener('dragleave', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      if (!dropZone.contains(e.relatedTarget)) {
+        dropZone.classList.remove('drag-over');
+      }
+    });
 
-  // Generate Prompt Handler
-  generatePromptBtn.addEventListener('click', async () => {
-    const userInput = requirementsInput.value.trim();
-    if (!userInput) {
-      alert('请先输入创作要求');
-      return;
+    dropZone.addEventListener('drop', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      dropZone.classList.remove('drag-over');
+      const files = e.dataTransfer?.files;
+      if (files && files.length > 0) {
+        handleFile(files[0]);
+      }
+    });
+
+    fileInput.addEventListener('change', function() {
+      if (fileInput.files && fileInput.files.length > 0) {
+        handleFile(fileInput.files[0]);
+      }
+    });
+
+    function handleFile(file) {
+      if (!file.type.startsWith('image/')) {
+        alert('请上传图片文件');
+        return;
+      }
+
+      const img = new Image();
+      const reader = new FileReader();
+
+      reader.onload = function(e) {
+        img.src = e.target.result;
+      };
+
+      img.onload = function() {
+        const maxWidth = 1200;
+        const maxHeight = 1200;
+        let width = img.width;
+        let height = img.height;
+
+        if (width > maxWidth || height > maxHeight) {
+          const ratio = Math.min(maxWidth / width, maxHeight / height);
+          width = Math.round(width * ratio);
+          height = Math.round(height * ratio);
+        }
+
+        const canvas = document.createElement('canvas');
+        canvas.width = width;
+        canvas.height = height;
+
+        const ctx = canvas.getContext('2d');
+        if (ctx) {
+          ctx.drawImage(img, 0, 0, width, height);
+          uploadedImage = canvas.toDataURL('image/jpeg', 0.8);
+          showImagePreview(uploadedImage);
+        } else {
+          uploadedImage = img.src;
+          showImagePreview(uploadedImage);
+        }
+      };
+
+      reader.readAsDataURL(file);
     }
 
-    loadingPrompt.style.display = 'block';
-    generatePromptBtn.disabled = true;
+    function showImagePreview(imageUrl) {
+      imagePreview.innerHTML = '<img src="' + imageUrl + '" alt="预览">';
+      imagePreview.style.display = 'block';
+      uploadPlaceholder.style.display = 'none';
+      clearBtn.style.display = 'inline-block';
+      dropZone.classList.add('has-image');
 
-    try {
-      const response = await fetch('/api/generate-prompt', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          userInput,
-          image: uploadedImage
-        })
+      if (imagePreview) {
+        enableDragToScroll(imagePreview);
+      }
+    }
+
+    // Resize handle functionality
+    function initResizeHandle() {
+      const resizeHandle = document.querySelector('.resize-handle');
+      const textarea = document.getElementById('promptOutput');
+      if (!resizeHandle || !textarea) return;
+
+      let isResizing = false;
+      let startY = 0;
+      let startHeight = 0;
+
+      const onMouseDown = function(e) {
+        isResizing = true;
+        const clientY = e instanceof MouseEvent ? e.clientY : e.touches[0].clientY;
+        startY = clientY;
+        startHeight = textarea.clientHeight;
+        document.body.style.cursor = 'ns-resize';
+        document.body.style.userSelect = 'none';
+        e.preventDefault();
+      };
+
+      const onMouseMove = function(e) {
+        if (!isResizing) return;
+        const clientY = e instanceof MouseEvent ? e.clientY : e.touches[0].clientY;
+        const deltaY = clientY - startY;
+        const newHeight = Math.max(60, Math.min(400, startHeight + deltaY));
+        textarea.style.height = newHeight + 'px';
+        e.preventDefault();
+      };
+
+      const onMouseUp = function() {
+        if (isResizing) {
+          isResizing = false;
+          document.body.style.cursor = '';
+          document.body.style.userSelect = '';
+        }
+      };
+
+      resizeHandle.addEventListener('mousedown', onMouseDown);
+      resizeHandle.addEventListener('touchstart', onMouseDown, { passive: false });
+      document.addEventListener('mousemove', onMouseMove);
+      document.addEventListener('touchmove', onMouseMove, { passive: false });
+      document.addEventListener('mouseup', onMouseUp);
+      document.addEventListener('touchend', onMouseUp);
+    }
+
+    initResizeHandle();
+
+    // Drag to scroll functionality
+    function enableDragToScroll(element) {
+      let isDown = false;
+      let startX = 0;
+      let startY = 0;
+      let scrollLeft = 0;
+      let scrollTop = 0;
+
+      element.addEventListener('mousedown', function(e) {
+        const img = element.querySelector('img');
+        if (!img) return;
+        if (img.naturalWidth <= element.clientWidth && img.naturalHeight <= element.clientHeight) return;
+
+        isDown = true;
+        element.style.cursor = 'grabbing';
+        element.style.userSelect = 'none';
+        startX = e.pageX - element.offsetLeft;
+        startY = e.pageY - element.offsetTop;
+        scrollLeft = element.scrollLeft;
+        scrollTop = element.scrollTop;
       });
 
-      if (!response.ok) {
-        const errorData = await response.json();
-        throw new Error(errorData.message || '生成失败');
-      }
-
-      const data = await response.json();
-      promptOutput.value = data.prompt;
-      promptOutput.readOnly = false;
-      copyPromptBtn.style.display = 'inline-block';
-      generateImageBtn.disabled = false;
-    } catch (error) {
-      console.error('Generate prompt error:', error);
-      alert('生成 Prompt 失败: ' + (error as Error).message);
-    } finally {
-      loadingPrompt.style.display = 'none';
-      generatePromptBtn.disabled = false;
-    }
-  });
-
-  // Copy Prompt Handler
-  copyPromptBtn.addEventListener('click', async () => {
-    try {
-      await navigator.clipboard.writeText(promptOutput.value);
-      const originalText = copyPromptBtn.textContent;
-      copyPromptBtn.textContent = '已复制!';
-      setTimeout(() => {
-        copyPromptBtn.textContent = originalText;
-      }, 1500);
-    } catch (error) {
-      alert('复制失败，请手动复制');
-    }
-  });
-
-  // Generate Image Handler
-  generateImageBtn.addEventListener('click', async () => {
-    const prompt = promptOutput.value.trim();
-    if (!prompt) {
-      alert('请先生成 Prompt');
-      return;
-    }
-
-    const provider = modelSelect.value;
-
-    loadingImage.style.display = 'block';
-    generateImageBtn.disabled = true;
-
-    try {
-      const response = await fetch('/api/generate-image', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          prompt,
-          image: uploadedImage,
-          provider
-        })
+      element.addEventListener('mouseleave', function() {
+        if (isDown) {
+          isDown = false;
+          element.style.cursor = 'default';
+          element.style.userSelect = '';
+        }
       });
 
-      if (!response.ok) {
-        const error = await response.json();
-        throw new Error(error.message || '生成图片失败');
-      }
+      element.addEventListener('mouseup', function() {
+        isDown = false;
+        element.style.cursor = 'default';
+        element.style.userSelect = '';
+      });
 
-      const data = await response.json();
+      element.addEventListener('mousemove', function(e) {
+        if (!isDown) return;
+        e.preventDefault();
+        const x = e.pageX - element.offsetLeft;
+        const y = e.pageY - element.offsetTop;
+        const walkX = (x - startX);
+        const walkY = (y - startY);
+        element.scrollLeft = scrollLeft - walkX;
+        element.scrollTop = scrollTop - walkY;
+      });
 
-      if (data.imageUrl) {
-        generatedImageUrl = data.imageUrl;
-        displayImage(data.imageUrl);
-      } else if (data.b64Json) {
-        const b64 = `data:image/png;base64,${data.b64Json}`;
-        generatedImageUrl = b64;
-        displayImage(b64);
-      }
-    } catch (error) {
-      console.error('Generate image error:', error);
-      alert('生成图片失败: ' + (error as Error).message);
-    } finally {
-      loadingImage.style.display = 'none';
-      generateImageBtn.disabled = false;
+      element.addEventListener('touchstart', function(e) {
+        const touch = e.touches[0];
+        const img = element.querySelector('img');
+        if (!img) return;
+        if (img.naturalWidth <= element.clientWidth && img.naturalHeight <= element.clientHeight) return;
+
+        isDown = true;
+        startX = touch.pageX - element.offsetLeft;
+        startY = touch.pageY - element.offsetTop;
+        scrollLeft = element.scrollLeft;
+        scrollTop = element.scrollTop;
+      }, { passive: true });
+
+      element.addEventListener('touchend', function() {
+        isDown = false;
+      });
+
+      element.addEventListener('touchmove', function(e) {
+        if (!isDown) return;
+        const touch = e.touches[0];
+        const x = touch.pageX - element.offsetLeft;
+        const y = touch.pageY - element.offsetTop;
+        const walkX = (x - startX);
+        const walkY = (y - startY);
+        element.scrollLeft = scrollLeft - walkX;
+        element.scrollTop = scrollTop - walkY;
+      }, { passive: true });
     }
-  });
 
-  function displayImage(imageUrl: string) {
-    resultImage.innerHTML = `<img src="${imageUrl}" alt="生成结果">`;
-    resultImage.style.display = 'block';
-    resultPlaceholder.style.display = 'none';
-    downloadBtn.style.display = 'inline-block';
-  }
-
-  // Download Handler
-  downloadBtn.addEventListener('click', async () => {
-    if (!generatedImageUrl) return;
-
-    try {
-      const response = await fetch(generatedImageUrl);
-      const blob = await response.blob();
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = `ai-generated-${Date.now()}.png`;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
-    } catch (error) {
-      // If CORS blocks fetch, open in new tab for user to save manually
-      window.open(generatedImageUrl!, '_blank');
+    if (clearBtn) {
+      clearBtn.addEventListener('click', function(e) {
+        e.stopPropagation();
+        uploadedImage = null;
+        fileInput.value = '';
+        imagePreview.style.display = 'none';
+        uploadPlaceholder.style.display = 'block';
+        clearBtn.style.display = 'none';
+        dropZone.classList.remove('has-image');
+      });
     }
+
+    // Fill Example Handler
+    if (fillExampleBtn && requirementsInput) {
+      fillExampleBtn.addEventListener('click', function() {
+        requirementsInput.value = '将照片中的人物切换成Q风格，改成人物在美丽风景旁边写生的场景，景色优秀，画面和谐';
+      });
+    }
+
+    // Generate Prompt Handler
+    if (generatePromptBtn && requirementsInput && promptOutput && copyPromptBtn && generateImageBtn && loadingPrompt) {
+      generatePromptBtn.addEventListener('click', async function() {
+        const userInput = requirementsInput.value.trim();
+        if (!userInput) {
+          alert('请先输入创作要求');
+          return;
+        }
+
+        loadingPrompt.style.display = 'block';
+        generatePromptBtn.disabled = true;
+
+        try {
+          const response = await fetch('/api/generate-prompt', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ userInput: userInput })
+          });
+
+          if (!response.ok) {
+            let errorMessage = '生成失败';
+            try {
+              const contentType = response.headers.get('content-type') || '';
+              if (contentType.includes('application/json')) {
+                const errorData = await response.json();
+                errorMessage = errorData.message || errorMessage;
+              } else {
+                const text = await response.text();
+                console.error('Non-JSON error response:', text);
+                errorMessage = '服务器错误 (' + response.status + ')，请检查开发服务器是否运行';
+              }
+            } catch (e) {
+              console.error('Error parsing error response:', e);
+              errorMessage = '服务器错误 (' + response.status + ')';
+            }
+            throw new Error(errorMessage);
+          }
+
+          const data = await response.json();
+          promptOutput.value = data.prompt;
+          promptOutput.readOnly = false;
+          copyPromptBtn.style.display = 'inline-block';
+          generateImageBtn.disabled = false;
+        } catch (error) {
+          console.error('Generate prompt error:', error);
+          alert('生成 Prompt 失败: ' + error.message);
+        } finally {
+          loadingPrompt.style.display = 'none';
+          generatePromptBtn.disabled = false;
+        }
+      });
+    }
+
+    // Copy Prompt Handler
+    if (copyPromptBtn && promptOutput) {
+      copyPromptBtn.addEventListener('click', async function() {
+        try {
+          await navigator.clipboard.writeText(promptOutput.value);
+          const originalText = copyPromptBtn.textContent;
+          copyPromptBtn.textContent = '已复制!';
+          setTimeout(function() {
+            copyPromptBtn.textContent = originalText;
+          }, 1500);
+        } catch (error) {
+          alert('复制失败，请手动复制');
+        }
+      });
+    }
+
+    // Generate Image Handler
+    if (generateImageBtn && promptOutput && modelSelect && loadingImage && resultImageWrapper && resultImage && resultPlaceholder && downloadBtn) {
+      generateImageBtn.addEventListener('click', async function() {
+        const prompt = promptOutput.value.trim();
+        if (!prompt) {
+          alert('请先生成 Prompt');
+          return;
+        }
+
+        const provider = modelSelect.value;
+
+        loadingImage.style.display = 'block';
+        generateImageBtn.disabled = true;
+
+        try {
+          const response = await fetch('/api/generate-image', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              prompt: prompt,
+              image: uploadedImage,
+              provider: provider
+            })
+          });
+
+          if (!response.ok) {
+            let errorMessage = '生成图片失败';
+            try {
+              const contentType = response.headers.get('content-type') || '';
+              if (contentType.includes('application/json')) {
+                const error = await response.json();
+                errorMessage = error.message || errorMessage;
+              } else {
+                const text = await response.text();
+                console.error('Non-JSON error response:', text);
+                errorMessage = '服务器错误 (' + response.status + ')，请检查开发服务器是否运行';
+              }
+            } catch (e) {
+              console.error('Error parsing error response:', e);
+              errorMessage = '服务器错误 (' + response.status + ')';
+            }
+            throw new Error(errorMessage);
+          }
+
+          const data = await response.json();
+
+          if (data.imageUrl) {
+            generatedImageUrl = data.imageUrl;
+            displayImage(data.imageUrl);
+          } else if (data.b64Json) {
+            const b64 = 'data:image/png;base64,' + data.b64Json;
+            generatedImageUrl = b64;
+            displayImage(b64);
+          }
+
+          if (resultImageWrapper) {
+            enableDragToScroll(resultImageWrapper);
+          }
+        } catch (error) {
+          console.error('Generate image error:', error);
+          alert('生成图片失败: ' + error.message);
+        } finally {
+          loadingImage.style.display = 'none';
+          generateImageBtn.disabled = false;
+        }
+      });
+    }
+
+    function displayImage(imageUrl) {
+      resultImage.innerHTML = '<img src="' + imageUrl + '" alt="生成结果">';
+      resultImageWrapper.style.display = 'block';
+      resultPlaceholder.style.display = 'none';
+      downloadBtn.style.display = 'inline-block';
+
+      if (resultImageWrapper) {
+        enableDragToScroll(resultImageWrapper);
+      }
+    }
+
+    // Download Handler
+    if (downloadBtn) {
+      downloadBtn.addEventListener('click', async function() {
+        if (!generatedImageUrl) return;
+
+        try {
+          const response = await fetch(generatedImageUrl);
+          const blob = await response.blob();
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = 'ai-generated-' + Date.now() + '.png';
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          URL.revokeObjectURL(url);
+        } catch (error) {
+          window.open(generatedImageUrl, '_blank');
+        }
+      });
+    }
+
+    // Gallery Lightbox Handlers
+    galleryItems.forEach(function(item) {
+      item.addEventListener('click', function() {
+        const imageUrl = item.getAttribute('data-image');
+        if (imageUrl && lightbox && lightboxImage) {
+          lightboxImage.src = imageUrl;
+          lightbox.style.display = 'flex';
+          document.body.style.overflow = 'hidden';
+        }
+      });
+    });
+
+    function closeLightbox() {
+      if (lightbox) {
+        lightbox.style.display = 'none';
+        document.body.style.overflow = '';
+      }
+    }
+
+    if (lightboxClose) {
+      lightboxClose.addEventListener('click', closeLightbox);
+    }
+
+    if (lightbox) {
+      lightbox.addEventListener('click', function(e) {
+        if (e.target === lightbox) {
+          closeLightbox();
+        }
+      });
+    }
+
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && lightbox && lightbox.style.display === 'flex') {
+        closeLightbox();
+      }
+    });
   });
 </script>

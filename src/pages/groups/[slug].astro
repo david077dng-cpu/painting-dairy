@@ -1,0 +1,100 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const groups = await getCollection('groups');
+
+  // 获取所有合集名称
+  const groupNames = [...new Set(groups.map(item => item.id.split('/')[0]))];
+
+  return groupNames.map(name => ({
+    params: { slug: encodeURIComponent(name) },
+    props: { groupName: name },
+  }));
+}
+
+const { groupName } = Astro.props;
+const decodedGroupName = decodeURIComponent(groupName);
+
+// 获取该合集的所有文章
+const allGroups = await getCollection('groups');
+const groupItems = allGroups
+  .filter(item => item.id.startsWith(decodedGroupName + '/'))
+  .sort((a, b) => {
+    const dateA = new Date(a.data.date);
+    const dateB = new Date(b.data.date);
+    return dateB.getTime() - dateA.getTime();
+  });
+
+const basePath = import.meta.env.BASE_URL;
+
+// 合集中文名称映射
+const groupNames: Record<string, string> = {
+  'Q版漫画': 'Q版漫画',
+  '写生': '写生',
+  '北京': '北京',
+  '天津': '天津',
+  '展览': '展览',
+  '板绘': '板绘',
+  '水彩': '水彩',
+  '水彩游记': '水彩游记',
+  '照片变水彩': '照片变水彩',
+  '电影': '电影',
+  '胡同': '胡同',
+  '读书笔记': '读书笔记',
+};
+---
+
+<BaseLayout title={`${groupNames[decodedGroupName] || decodedGroupName} · 李春晓`}>
+  <main style="max-width:760px; margin:0 auto; padding:8rem 2rem 5rem;">
+    <div style="margin-bottom:3rem;">
+      <a
+        href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}groups`}
+        style="display:inline-flex; align-items:center; gap:0.3rem; font-family:'Noto Serif SC',serif; font-size:0.85rem; color:var(--sage); text-decoration:none; margin-bottom:0.5rem; transition:color 0.2s;"
+        onmouseover="this.style.color='#5c8d5f'"
+        onmouseout="this.style.color='var(--sage)'"
+      >
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+          <path d="M19 12H5M12 19l-7-7 7-7" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span>返回合集</span>
+      </a>
+      <h1 style="font-family:'Noto Serif SC',serif; font-size:2.5rem; font-weight:700; color:var(--brown); margin-bottom:1rem;">
+        {groupNames[decodedGroupName] || decodedGroupName}
+      </h1>
+      <div style="width:60px; height:3px; background:linear-gradient(to right,#f4a97f,#c96a3e); border-radius:2px;"></div>
+    </div>
+
+    {groupItems.length === 0 ? (
+      <div style="text-align:center; padding:4rem; color:var(--text-muted); font-family:'Noto Serif SC',serif;">
+        <div style="font-size:3rem; margin-bottom:1rem;">📁</div>
+        <p>该合集暂时没有内容</p>
+      </div>
+    ) : (
+      <div style="display:flex; flex-direction:column; gap:2rem;">
+        {groupItems.map(item => (
+          <div style="background:var(--warm-white); border-radius:20px; padding:1.8rem 2rem; box-shadow:0 2px 12px rgba(0,0,0,.06);">
+            <div style="font-family:'Noto Serif SC',serif; font-size:0.75rem; color:#7a9e7e; letter-spacing:0.1em; margin-bottom:0.5rem;">
+              {item.data.date instanceof Date ? item.data.date.toISOString().split('T')[0] : item.data.date}
+            </div>
+            <div style="font-family:'Noto Serif SC',serif; font-size:1.25rem; font-weight:700; color:#5c3d2e; margin-bottom:0.6rem;">
+              {item.data.title}
+            </div>
+            {item.data.description && (
+              <p style="font-size:0.9rem; line-height:1.75; color:#7a5c47; margin:0;">{item.data.description}</p>
+            )}
+          </div>
+        ))}
+      </div>
+    )}
+  </main>
+</BaseLayout>
+
+<style>
+  :root {
+    --cream:#fdf6ec;--warm-white:#fffaf4;--peach:#f4a97f;
+    --terracotta:#c96a3e;--sage:#7a9e7e;--sand:#e8d5b7;
+    --brown:#5c3d2e;--text-main:#3a2518;--text-muted:#7a5c47;
+  }
+</style>

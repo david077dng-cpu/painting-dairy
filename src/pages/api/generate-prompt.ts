@@ -1,12 +1,46 @@
 import type { APIRoute } from 'astro';
+import fs from 'fs';
+import path from 'path';
 
 export const prerender = false;
 
-const API_BASE_URL = import.meta.env.ANTHROPIC_BASE_URL;
-const API_AUTH_TOKEN = import.meta.env.ANTHROPIC_AUTH_TOKEN;
-const API_MODEL = import.meta.env.ANTHROPIC_MODEL;
+// Explicitly load .env file values without being overridden by shell env
+function loadEnvFromFile() {
+  try {
+    const envPath = path.resolve(process.cwd(), '.env');
+    const envContent = fs.readFileSync(envPath, 'utf-8');
+    const env: Record<string, string> = {};
+
+    for (const line of envContent.split('\n')) {
+      const trimmed = line.trim();
+      if (trimmed && !trimmed.startsWith('#')) {
+        const eqIndex = trimmed.indexOf('=');
+        if (eqIndex > 0) {
+          const key = trimmed.slice(0, eqIndex).trim();
+          let value = trimmed.slice(eqIndex + 1).trim();
+          // Remove quotes if present
+          if ((value.startsWith('"') && value.endsWith('"')) ||
+              (value.startsWith("'") && value.endsWith("'"))) {
+            value = value.slice(1, -1);
+          }
+          env[key] = value;
+        }
+      }
+    }
+    return env;
+  } catch (e) {
+    console.error('Failed to load .env file:', e);
+    return {};
+  }
+}
+
+const envFile = loadEnvFromFile();
+const API_BASE_URL = envFile.ANTHROPIC_BASE_URL || 'https://api.anthropic.com/v1/messages';
+const API_AUTH_TOKEN = envFile.ANTHROPIC_AUTH_TOKEN;
+const API_MODEL = envFile.ANTHROPIC_MODEL || 'claude-3-haiku-20240307';
 
 export const POST: APIRoute = async ({ request }) => {
+
   if (!API_AUTH_TOKEN) {
     return new Response(JSON.stringify({ message: 'ANTHROPIC_AUTH_TOKEN not configured' }), {
       status: 500,
@@ -25,36 +59,15 @@ export const POST: APIRoute = async ({ request }) => {
       });
     }
 
-    const { userInput, image } = body;
-    const hasImage = !!image;
+    const { userInput } = body;
 
     const systemPrompt = `Convert the following user description into a detailed English prompt for AI image generation.
-${hasImage ? 'This is an image-to-image generation task based on the reference image provided. Analyze the reference image content and incorporate it into the prompt. ' : ''}
 Make it more descriptive, include style keywords, composition details, and quality keywords.
 Output only the prompt text, no explanations.`;
 
-    // Volcengine ARK uses OpenAI compatible format
-    // Support multimodal content (text + image)
-    let userContent;
-    if (hasImage && image) {
-      // OpenAI multimodal format: array of content parts
-      userContent = [
-        { type: 'text', text: userInput },
-        {
-          type: 'image_url',
-          image_url: {
-            url: image
-          }
-        }
-      ];
-    } else {
-      // Text only
-      userContent = userInput;
-    }
-
     const messages = [
       { role: 'system', content: systemPrompt },
-      { role: 'user', content: userContent }
+      { role: 'user', content: userInput }
     ];
 
     const url = API_BASE_URL;
@@ -64,15 +77,17 @@ Output only the prompt text, no explanations.`;
       'Authorization': `Bearer ${API_AUTH_TOKEN}`
     };
 
+    const payload = {
+      model: API_MODEL,
+      messages: messages,
+      temperature: 0.7,
+      max_tokens: 500
+    };
+
     const response = await fetch(url, {
       method: 'POST',
       headers,
-      body: JSON.stringify({
-        model: API_MODEL,
-        messages: messages,
-        temperature: 0.7,
-        max_tokens: 500
-      })
+      body: JSON.stringify(payload)
     });
 
     if (!response.ok) {

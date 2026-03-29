@@ -1,25 +1,59 @@
 import type { APIRoute } from 'astro';
+import fs from 'fs';
+import path from 'path';
 
 export const prerender = false;
+
+// Explicitly load .env file values without being overridden by shell env
+function loadEnvFromFile() {
+  try {
+    const envPath = path.resolve(process.cwd(), '.env');
+    const envContent = fs.readFileSync(envPath, 'utf-8');
+    const env: Record<string, string> = {};
+
+    for (const line of envContent.split('\n')) {
+      const trimmed = line.trim();
+      if (trimmed && !trimmed.startsWith('#')) {
+        const eqIndex = trimmed.indexOf('=');
+        if (eqIndex > 0) {
+          const key = trimmed.slice(0, eqIndex).trim();
+          let value = trimmed.slice(eqIndex + 1).trim();
+          // Remove quotes if present
+          if ((value.startsWith('"') && value.endsWith('"')) ||
+              (value.startsWith("'") && value.endsWith("'"))) {
+            value = value.slice(1, -1);
+          }
+          env[key] = value;
+        }
+      }
+    }
+    return env;
+  } catch (e) {
+    console.error('Failed to load .env file:', e);
+    return {};
+  }
+}
+
+const envFile = loadEnvFromFile();
 
 // Provider configurations
 const providers = {
   volcseed: {
-    baseUrl: import.meta.env.IMAGE_GENERATION_BASE_URL || 'https://ark.cn-beijing.volces.com/api/v3/images/generations',
-    authToken: import.meta.env.IMAGE_GENERATION_AUTH_TOKEN || import.meta.env.ANTHROPIC_AUTH_TOKEN,
-    model: import.meta.env.IMAGE_GENERATION_MODEL,
+    baseUrl: envFile.IMAGE_GENERATION_BASE_URL || 'https://ark.cn-beijing.volces.com/api/v3/images/generations',
+    authToken: envFile.IMAGE_GENERATION_AUTH_TOKEN || envFile.ANTHROPIC_AUTH_TOKEN,
+    model: envFile.IMAGE_GENERATION_MODEL,
     size: '2048x2048'
   },
   nanobanana: {
     baseUrl: 'https://api.nanobanana.ai/v1',
-    authToken: import.meta.env.PUBLIC_NANO_BANANA_API_KEY,
+    authToken: envFile.PUBLIC_NANO_BANANA_API_KEY,
     model: 'dall-e-3',
     size: '1024x1024'
   },
   siliconflow: {
-    baseUrl: import.meta.env.SILICONFLOW_BASE_URL || 'https://api.siliconflow.cn/v1',
-    authToken: import.meta.env.SILICONFLOW_API_KEY,
-    model: import.meta.env.SILICONFLOW_MODEL || 'black-forest-labs/flux-schnell',
+    baseUrl: envFile.SILICONFLOW_BASE_URL || 'https://api.siliconflow.cn/v1',
+    authToken: envFile.SILICONFLOW_API_KEY,
+    model: envFile.SILICONFLOW_MODEL || 'black-forest-labs/flux-schnell',
     size: '1024x1024'
   }
 };

@@ -1,0 +1,959 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="表情包生成器 · 李春晓" description="AI 表情包生成工具，社畜、阴阳怪气、可爱、老年人版，一键生成专属表情包">
+  <main style="max-width: 900px; margin: 0 auto; padding: 8rem 2rem 5rem;">
+    <div class="reveal">
+      <div class="page-header">
+        <div class="section-tag">// AI 创作</div>
+        <h1 class="page-title">表情包生成器</h1>
+        <div class="section-divider"></div>
+        <p class="page-description">选择模板分类，输入你的文案，AI 帮你生成专属表情包。</p>
+      </div>
+
+      <!-- Category Selector -->
+      <div class="card category-container">
+        <label class="label">选择分类</label>
+        <div class="category-tabs">
+          <button class="category-tab active" data-category="worker">
+            <span class="tab-icon">💼</span>
+            <span class="tab-label">社畜日常</span>
+          </button>
+          <button class="category-tab" data-category="sarcastic">
+            <span class="tab-icon">🌚</span>
+            <span class="tab-label">阴阳怪气</span>
+          </button>
+          <button class="category-tab" data-category="cute">
+            <span class="tab-icon">🌸</span>
+            <span class="tab-label">可爱萌系</span>
+          </button>
+          <button class="category-tab" data-category="elderly">
+            <span class="tab-icon">🍵</span>
+            <span class="tab-label">经典老年</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Image Upload -->
+      <div class="card image-upload-container">
+        <label class="label">参考图片（可选）</label>
+        <div class="upload-wrapper">
+          <div id="uploadArea" class="upload-area">
+            <input type="file" id="imageInput" accept="image/*" hidden>
+            <div class="upload-placeholder">
+              <svg class="upload-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path d="M12 16V4m0 0L7 9m5-5 5 5M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+              <span class="upload-text">点击或拖拽上传图片</span>
+              <span class="upload-hint">支持 JPG、PNG、WEBP，最大 5MB</span>
+            </div>
+            <div id="uploadPreview" class="upload-preview" style="display: none;">
+              <img id="previewImage" src="" alt="预览">
+              <button id="removeImage" class="remove-btn" type="button">×</button>
+            </div>
+          </div>
+        </div>
+        <p class="upload-help">上传参考图片后，AI 会参考图中人物的表情和特征生成表情包</p>
+      </div>
+
+      <!-- Template Selector -->
+      <div class="card template-container">
+        <label class="label">选择模板</label>
+        <div id="templateGrid" class="template-grid">
+          <!-- Templates will be dynamically inserted here -->
+        </div>
+      </div>
+
+      <!-- Selected Template Preview -->
+      <div id="selectedTemplateCard" class="card selected-template" style="display: none;">
+        <label class="label">已选模板</label>
+        <div class="selected-info">
+          <div id="selectedTemplateName" class="selected-name"></div>
+          <div id="selectedTemplateDesc" class="selected-desc"></div>
+        </div>
+      </div>
+
+      <!-- Text Input -->
+      <div class="card input-container">
+        <label class="label" for="memeText">输入文案</label>
+        <textarea
+          id="memeText"
+          class="textarea"
+          placeholder="输入你想要的表情包文案，例如：这班谁爱上谁上..."
+          rows="3"
+          maxlength="100"
+        ></textarea>
+        <div class="char-count"><span id="charCount">0</span>/100</div>
+        <div class="quick-texts">
+          <span class="quick-label">快捷文案：</span>
+          <button class="quick-btn" data-text="好的，收到">好的，收到</button>
+          <button class="quick-btn" data-text="这就去改">这就去改</button>
+          <button class="quick-btn" data-text="不愧是你">不愧是你</button>
+          <button class="quick-btn" data-text="我太难了">我太难了</button>
+        </div>
+      </div>
+
+      <!-- Generate Button -->
+      <div class="button-container">
+        <button id="generateBtn" class="btn-primary" disabled>
+          生成表情包
+        </button>
+      </div>
+
+      <!-- Loading Indicator -->
+      <div id="loadingIndicator" class="loading" style="display: none;">
+        <div class="spinner"></div>
+        <p>正在生成表情包，请稍候...</p>
+      </div>
+
+      <!-- Result Display -->
+      <div id="resultContainer" class="card result-container" style="display: none;">
+        <label class="label">生成结果</label>
+        <div id="resultImageWrapper" class="result-image-wrapper">
+          <img id="resultImage" src="" alt="生成的表情包">
+        </div>
+        <div class="result-actions">
+          <button id="downloadBtn" class="btn-secondary">下载表情包</button>
+          <button id="regenerateBtn" class="btn-secondary">重新生成</button>
+        </div>
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  :root {
+    --cream: #fdf6ec;
+    --warm-white: #fffaf4;
+    --peach: #f4a97f;
+    --terracotta: #c96a3e;
+    --rust: #9b4422;
+    --sage: #7a9e7e;
+    --sage-light: #b8d4bb;
+    --sand: #e8d5b7;
+    --sand-dark: #c9b090;
+    --brown: #5c3d2e;
+    --text-main: #3a2518;
+    --text-muted: #7a5c47;
+  }
+
+  .reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s ease, transform 0.8s ease;
+  }
+
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .page-header {
+    margin-bottom: 2rem;
+  }
+
+  .section-tag {
+    font-family: 'Caveat', cursive;
+    font-size: 1.2rem;
+    color: var(--sage);
+    margin-bottom: 0.5rem;
+  }
+
+  .page-title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--brown);
+    margin-bottom: 1rem;
+  }
+
+  .section-divider {
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(to right, var(--peach), var(--terracotta));
+    border-radius: 2px;
+    margin-bottom: 1rem;
+  }
+
+  .page-description {
+    color: var(--text-muted);
+    line-height: 1.7;
+    font-size: 1.05rem;
+  }
+
+  .card {
+    background: var(--warm-white);
+    border-radius: 20px;
+    padding: 1.8rem 2rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  }
+
+  .label {
+    display: block;
+    font-family: 'Noto Serif SC', serif;
+    font-weight: 600;
+    color: var(--brown);
+    margin-bottom: 0.8rem;
+    font-size: 0.95rem;
+  }
+
+  /* Category Tabs */
+  .category-tabs {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.8rem;
+  }
+
+  .category-tab {
+    background: var(--cream);
+    border: 2px solid transparent;
+    border-radius: 12px;
+    padding: 1rem 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .category-tab:hover {
+    background: var(--sand);
+    transform: translateY(-2px);
+  }
+
+  .category-tab.active {
+    background: var(--warm-white);
+    border-color: var(--terracotta);
+    box-shadow: 0 4px 12px rgba(201, 106, 62, 0.15);
+  }
+
+  .tab-icon {
+    font-size: 1.5rem;
+  }
+
+  .tab-label {
+    font-size: 0.85rem;
+    color: var(--text-main);
+    font-weight: 500;
+  }
+
+  /* Template Grid */
+  .template-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 1rem;
+  }
+
+  .template-item {
+    background: var(--cream);
+    border: 2px solid transparent;
+    border-radius: 12px;
+    padding: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+  }
+
+  .template-item:hover {
+    background: var(--sand);
+    transform: translateY(-2px);
+  }
+
+  .template-item.selected {
+    background: var(--warm-white);
+    border-color: var(--terracotta);
+    box-shadow: 0 4px 12px rgba(201, 106, 62, 0.15);
+  }
+
+  .template-emoji {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .template-name {
+    font-size: 0.85rem;
+    color: var(--text-main);
+    font-weight: 500;
+  }
+
+  .template-placeholder {
+    color: var(--text-muted);
+    text-align: center;
+    padding: 2rem;
+    font-style: italic;
+  }
+
+  /* Image Upload Styles */
+  .image-upload-container {
+    background: linear-gradient(135deg, var(--warm-white), #f9f6f2);
+  }
+
+  .upload-wrapper {
+    margin-bottom: 0.8rem;
+  }
+
+  .upload-area {
+    border: 2px dashed var(--sand-dark);
+    border-radius: 16px;
+    padding: 1.5rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: var(--warm-white);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .upload-area:hover {
+    border-color: var(--terracotta);
+    background: #fff8f5;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(201, 106, 62, 0.1);
+  }
+
+  .upload-area.has-image {
+    border-color: var(--sage);
+    background: #f5faf6;
+  }
+
+  .upload-placeholder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .upload-icon {
+    width: 48px;
+    height: 48px;
+    color: var(--sand-dark);
+    transition: color 0.3s ease;
+  }
+
+  .upload-area:hover .upload-icon {
+    color: var(--terracotta);
+  }
+
+  .upload-text {
+    font-size: 1rem;
+    color: var(--text-main);
+    font-weight: 500;
+  }
+
+  .upload-hint {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  .upload-preview {
+    position: relative;
+    display: inline-block;
+  }
+
+  .upload-preview img {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+  }
+
+  .remove-btn {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    border: none;
+    background: var(--terracotta);
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease;
+  }
+
+  .remove-btn:hover {
+    background: var(--rust);
+    transform: scale(1.1);
+  }
+
+  .upload-help {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin: 0;
+    padding-left: 0.5rem;
+    border-left: 3px solid var(--sage-light);
+  }
+
+  /* Selected Template Card */
+  .selected-template {
+    background: linear-gradient(135deg, var(--warm-white), var(--cream));
+  }
+
+  .selected-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .selected-name {
+    font-weight: 600;
+    color: var(--brown);
+    font-size: 1.1rem;
+  }
+
+  .selected-desc {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+
+  /* Input Styles */
+  .textarea {
+    width: 100%;
+    background: var(--cream);
+    border: 1.5px solid var(--sand);
+    border-radius: 12px;
+    padding: 0.8rem 1rem;
+    color: var(--text-main);
+    font-family: 'Lora', 'Noto Serif SC', serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    resize: vertical;
+    transition: border-color 0.3s ease;
+  }
+
+  .textarea:focus {
+    outline: none;
+    border-color: var(--terracotta);
+  }
+
+  .char-count {
+    text-align: right;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: 0.3rem;
+  }
+
+  .quick-texts {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .quick-label {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+
+  .quick-btn {
+    background: var(--sage-light);
+    color: var(--sage);
+    border: none;
+    border-radius: 8px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Noto Serif SC', serif;
+  }
+
+  .quick-btn:hover {
+    background: var(--sage);
+    color: white;
+  }
+
+  /* Buttons */
+  .button-container {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .btn-primary {
+    background: var(--terracotta);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 0.9rem 2.5rem;
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-height: 48px;
+  }
+
+  .btn-primary:hover:not(:disabled) {
+    background: var(--rust);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(201, 106, 62, 0.3);
+  }
+
+  .btn-primary:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  .btn-secondary {
+    background: var(--sand);
+    color: var(--brown);
+    border: none;
+    border-radius: 12px;
+    padding: 0.7rem 1.8rem;
+    font-family: 'Noto Serif SC', serif;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-height: 40px;
+  }
+
+  .btn-secondary:hover {
+    background: var(--sand-dark);
+  }
+
+  /* Loading */
+  .loading {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .loading p {
+    color: var(--text-muted);
+    margin-top: 0.8rem;
+  }
+
+  .spinner {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+    border: 3px solid var(--sand);
+    border-top-color: var(--terracotta);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  /* Result */
+  .result-container {
+    background: linear-gradient(135deg, var(--warm-white), var(--cream));
+  }
+
+  .result-image-wrapper {
+    background: var(--cream);
+    border-radius: 12px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .result-image-wrapper img {
+    max-width: 100%;
+    max-height: 500px;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  }
+
+  .result-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    main {
+      padding: 7rem 1.5rem 4rem !important;
+    }
+
+    .page-title {
+      font-size: 2rem;
+    }
+
+    .card {
+      padding: 1.3rem 1.5rem;
+    }
+
+    .category-tabs {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .template-grid {
+      grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    }
+
+    .result-actions {
+      flex-direction: column;
+    }
+  }
+
+  @media (max-width: 480px) {
+    main {
+      padding: 6rem 1rem 3rem !important;
+    }
+
+    .page-title {
+      font-size: 1.75rem;
+    }
+
+    .category-tabs {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<script>
+  // Template definitions
+  const templates = {
+    worker: [
+      { id: 'worker-1', name: '疲惫社畜', emoji: '😫', desc: '一脸疲惫的打工人形象', prompt: 'A tired office worker with dark circles under eyes, sitting at desk late at night, exhausted expression, dim lighting, relatable meme style, simple cartoon illustration' },
+      { id: 'worker-2', name: '强行微笑', emoji: '😬', desc: '强颜欢笑面对工作', prompt: 'An office worker forcing a wide smile while looking at computer screen, fake happiness, relatable workplace meme, simple cartoon style illustration' },
+      { id: 'worker-3', name: '加班狂魔', emoji: '💻', desc: '深夜加班的打工人', prompt: 'Lonely office worker at computer late at night, only screen light illuminating face, overtime work scene, relatable meme, simple illustration style' },
+      { id: 'worker-4', name: '摸鱼大师', emoji: '🐟', desc: '假装工作其实在摸鱼', prompt: 'Office worker secretly looking at phone while pretending to work, sneaky expression, slacking off at work, funny meme style, simple cartoon illustration' },
+      { id: 'worker-5', name: 'Deadline战士', emoji: '⏰', desc: 'Deadline逼近的紧张感', prompt: 'Panicked office worker looking at clock with wide eyes, deadline approaching, stress sweat drops, relatable work meme, simple cartoon style' },
+      { id: 'worker-6', name: '周一痛苦', emoji: '😵', desc: '周一早上的绝望', prompt: 'Office worker with Monday morning suffering expression, holding coffee desperately, exhausted start of week, relatable meme, simple illustration' }
+    ],
+    sarcastic: [
+      { id: 'sarcastic-1', name: '皮笑肉不笑', emoji: '😏', desc: '表面微笑内心无语', prompt: 'Character with fake smile but dead inside eyes, clearly unimpressed, sarcastic meme style, simple cartoon illustration' },
+      { id: 'sarcastic-2', name: '意味深长', emoji: '🤨', desc: '眼神中充满质疑', prompt: 'Character with raised eyebrow and suspicious judging look, questioning everything, sarcastic meme style, simple cartoon illustration' },
+      { id: 'sarcastic-3', name: '敷衍大师', emoji: '🙃', desc: '极度敷衍的回应', prompt: 'Character with upside-down smile showing zero effort care, extremely dismissive expression, sarcastic meme style, simple cartoon illustration' },
+      { id: 'sarcastic-4', name: '暗中观察', emoji: '👀', desc: '躲在角落偷看', prompt: 'Character peeking from corner with judgmental eyes, secretly watching and judging, funny meme style, simple cartoon illustration' },
+      { id: 'sarcastic-5', name: '尴尬微笑', emoji: '😅', desc: '尴尬又不失礼貌', prompt: 'Character with awkward sweat drop smile, embarrassed but pretending everything is fine, relatable meme style, simple cartoon illustration' },
+      { id: 'sarcastic-6', name: '黑人问号', emoji: '❓', desc: '一脸问号的疑惑', prompt: 'Character with extreme confusion expression, question marks around head, completely baffled, meme style, simple cartoon illustration' }
+    ],
+    cute: [
+      { id: 'cute-1', name: '可怜巴巴', emoji: '🥺', desc: '水汪汪大眼求饶', prompt: 'Adorable pleading character with big watery eyes, puppy dog eye expression, extremely cute kawaii style illustration, pastel colors' },
+      { id: 'cute-2', name: '开心转圈', emoji: '🥰', desc: '开心到转圈圈', prompt: 'Super happy cute character with hearts around, joyful spinning excitement, kawaii style illustration, bright cheerful colors' },
+      { id: 'cute-3', name: '害羞捂脸', emoji: '😳', desc: '害羞到捂脸', prompt: 'Shy cute character covering face with hands, blushing bright red, adorable embarrassed expression, kawaii style illustration' },
+      { id: 'cute-4', name: '委屈屈', emoji: '😢', desc: '委屈到要哭哭', prompt: 'Cute crying character with tears welling up, quivering lip, about to cry expression, sad but adorable, kawaii style illustration' },
+      { id: 'cute-5', name: '摸摸头', emoji: '🤗', desc: '求摸摸头的可爱', prompt: 'Cute character wanting head pats, leaning in affectionately, adorable seeking attention pose, kawaii style illustration' },
+      { id: 'cute-6', name: '比心', emoji: '💖', desc: '比个大爱心', prompt: 'Cute character making heart with hands, big love expression, adorable affectionate pose, kawaii style illustration with hearts' }
+    ],
+    elderly: [
+      { id: 'elderly-1', name: '友谊干杯', emoji: '🍵', desc: '为我们的友谊干杯', prompt: 'Elderly Chinese style meme with tea cup, classic "cheers to our friendship" vibe, retro aesthetic, warm nostalgic colors, simple illustration' },
+      { id: 'elderly-2', name: '花开富贵', emoji: '🌸', desc: '花开富贵请添加', prompt: 'Classic Chinese elderly profile style with blooming flowers, "prosperity and wealth" aesthetic, retro Chinese internet meme style' },
+      { id: 'elderly-3', name: '知足常乐', emoji: '😊', desc: '知足常乐心态好', prompt: 'Peaceful elderly character with content smile, "happiness comes from contentment" vibe, zen peaceful aesthetic, warm colors' },
+      { id: 'elderly-4', name: '早上好', emoji: '🌅', desc: '早上好祝福', prompt: 'Sunrise morning greeting style, elderly positive vibes, "good morning" blessing aesthetic, warm sunrise colors, peaceful illustration' },
+      { id: 'elderly-5', name: '感恩的心', emoji: '❤️', desc: '感恩的心感谢有你', prompt: 'Grateful heart theme, thankful elderly expression, "heart of gratitude" aesthetic, warm red and gold colors, nostalgic style' },
+      { id: 'elderly-6', name: '健康平安', emoji: '🙏', desc: '身体健康最重要', prompt: 'Health and peace blessing, elderly wishing well, "health and safety" theme, peaceful green and gold colors, blessing aesthetic' }
+    ]
+  };
+
+  // State
+  let currentCategory = 'worker';
+  let selectedTemplate: typeof templates.worker[0] | null = null;
+  let generatedImageUrl: string | null = null;
+
+  // DOM Elements
+  const categoryTabs = document.querySelectorAll('.category-tab');
+  const templateGrid = document.getElementById('templateGrid')!;
+  const selectedTemplateCard = document.getElementById('selectedTemplateCard')!;
+  const selectedTemplateName = document.getElementById('selectedTemplateName')!;
+  const selectedTemplateDesc = document.getElementById('selectedTemplateDesc')!;
+  const memeText = document.getElementById('memeText')! as HTMLTextAreaElement;
+  const charCount = document.getElementById('charCount')!;
+  const quickBtns = document.querySelectorAll('.quick-btn');
+  const generateBtn = document.getElementById('generateBtn')! as HTMLButtonElement;
+  const loadingIndicator = document.getElementById('loadingIndicator')!;
+  const resultContainer = document.getElementById('resultContainer')!;
+  const resultImage = document.getElementById('resultImage')! as HTMLImageElement;
+  const downloadBtn = document.getElementById('downloadBtn')!;
+  const regenerateBtn = document.getElementById('regenerateBtn')!;
+
+  // Image Upload State
+  let uploadedImageData: string | null = null;
+
+  // Image Upload Elements
+  const uploadArea = document.getElementById('uploadArea')!;
+  const imageInput = document.getElementById('imageInput')! as HTMLInputElement;
+  const uploadPreview = document.getElementById('uploadPreview')!;
+  const previewImage = document.getElementById('previewImage')! as HTMLImageElement;
+  const removeImage = document.getElementById('removeImage')!;
+
+  // Initialize
+  function init() {
+    renderTemplates();
+    updateGenerateButton();
+    initImageUpload();
+  }
+
+  // Image Upload Functions
+  function initImageUpload() {
+    // Click to upload
+    uploadArea.addEventListener('click', (e) => {
+      if (e.target !== removeImage && !removeImage.contains(e.target as Node)) {
+        imageInput.click();
+      }
+    });
+
+    // File input change
+    imageInput.addEventListener('change', handleFileSelect);
+
+    // Drag and drop
+    uploadArea.addEventListener('dragover', (e) => {
+      e.preventDefault();
+      uploadArea.style.borderColor = 'var(--terracotta)';
+      uploadArea.style.background = '#fff8f5';
+    });
+
+    uploadArea.addEventListener('dragleave', (e) => {
+      e.preventDefault();
+      if (!uploadedImageData) {
+        uploadArea.style.borderColor = '';
+        uploadArea.style.background = '';
+      }
+    });
+
+    uploadArea.addEventListener('drop', (e) => {
+      e.preventDefault();
+      const files = e.dataTransfer?.files;
+      if (files && files.length > 0) {
+        processFile(files[0]);
+      }
+    });
+
+    // Remove image
+    removeImage.addEventListener('click', (e) => {
+      e.stopPropagation();
+      clearImage();
+    });
+  }
+
+  function handleFileSelect(e: Event) {
+    const input = e.target as HTMLInputElement;
+    const files = input.files;
+    if (files && files.length > 0) {
+      processFile(files[0]);
+    }
+  }
+
+  function processFile(file: File) {
+    // Validate file type
+    if (!file.type.startsWith('image/')) {
+      alert('请上传图片文件（JPG、PNG、WEBP 等）');
+      return;
+    }
+
+    // Validate file size (5MB)
+    if (file.size > 5 * 1024 * 1024) {
+      alert('图片大小不能超过 5MB');
+      return;
+    }
+
+    // Read file as base64
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      const result = e.target?.result as string;
+      if (result) {
+        uploadedImageData = result;
+        showImagePreview(result);
+      }
+    };
+    reader.readAsDataURL(file);
+  }
+
+  function showImagePreview(dataUrl: string) {
+    previewImage.src = dataUrl;
+    uploadArea.classList.add('has-image');
+    uploadPreview.style.display = 'inline-block';
+    (uploadArea.querySelector('.upload-placeholder') as HTMLElement).style.display = 'none';
+  }
+
+  function clearImage() {
+    uploadedImageData = null;
+    imageInput.value = '';
+    uploadArea.classList.remove('has-image');
+    uploadPreview.style.display = 'none';
+    previewImage.src = '';
+    (uploadArea.querySelector('.upload-placeholder') as HTMLElement).style.display = 'flex';
+    uploadArea.style.borderColor = '';
+    uploadArea.style.background = '';
+  }
+
+  // Category Tab Handlers
+  categoryTabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const category = tab.dataset.category!;
+      currentCategory = category;
+
+      // Update active state
+      categoryTabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+
+      // Reset selected template
+      selectedTemplate = null;
+      hideSelectedTemplate();
+
+      // Re-render templates
+      renderTemplates();
+      updateGenerateButton();
+    });
+  });
+
+  // Render Templates
+  function renderTemplates() {
+    const templatesList = templates[currentCategory as keyof typeof templates];
+
+    templateGrid.innerHTML = templatesList.map(t => `
+      <div class="template-item ${selectedTemplate?.id === t.id ? 'selected' : ''}" data-template-id="${t.id}">
+        <div class="template-emoji">${t.emoji}</div>
+        <div class="template-name">${t.name}</div>
+      </div>
+    `).join('');
+
+    // Add click handlers
+    templateGrid.querySelectorAll('.template-item').forEach(item => {
+      item.addEventListener('click', () => {
+        const templateId = item.dataset.templateId!;
+        const template = templatesList.find(t => t.id === templateId)!;
+
+        selectedTemplate = template;
+
+        // Update UI
+        templateGrid.querySelectorAll('.template-item').forEach(t => t.classList.remove('selected'));
+        item.classList.add('selected');
+
+        showSelectedTemplate(template);
+        updateGenerateButton();
+      });
+    });
+  }
+
+  function showSelectedTemplate(template: typeof templates.worker[0]) {
+    selectedTemplateName.textContent = `${template.emoji} ${template.name}`;
+    selectedTemplateDesc.textContent = template.desc;
+    selectedTemplateCard.style.display = 'block';
+  }
+
+  function hideSelectedTemplate() {
+    selectedTemplateCard.style.display = 'none';
+  }
+
+  // Text Input Handlers
+  memeText.addEventListener('input', () => {
+    charCount.textContent = memeText.value.length.toString();
+    updateGenerateButton();
+  });
+
+  // Quick Text Buttons
+  quickBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const text = btn.dataset.text!;
+      memeText.value = text;
+      charCount.textContent = text.length.toString();
+      updateGenerateButton();
+    });
+  });
+
+  function updateGenerateButton() {
+    const hasTemplate = selectedTemplate !== null;
+    const hasText = memeText.value.trim().length > 0;
+    generateBtn.disabled = !(hasTemplate && hasText);
+  }
+
+  // Expose clearImage to window for template change cleanup
+  (window as any).clearUploadedImage = clearImage;
+
+  // Generate Handler
+  generateBtn.addEventListener('click', async () => {
+    if (!selectedTemplate) return;
+
+    const text = memeText.value.trim();
+    if (!text) return;
+
+    loadingIndicator.style.display = 'block';
+    generateBtn.disabled = true;
+    resultContainer.style.display = 'none';
+
+    try {
+      // Build prompt
+      let fullPrompt = selectedTemplate.prompt;
+
+      // If user uploaded an image, enhance the prompt to reference the person
+      if (uploadedImageData) {
+        fullPrompt += `, featuring the person from the reference image, maintaining their facial features, expression, and appearance`;
+      }
+
+      fullPrompt += `, with Chinese text overlay saying "${text}", meme format, clear readable text, expressive reaction image style`;
+
+      const requestBody: any = {
+        prompt: fullPrompt,
+        provider: 'volcseed'
+      };
+
+      // If image uploaded, include it for image-to-image generation
+      if (uploadedImageData) {
+        requestBody.image = uploadedImageData;
+      }
+
+      const response = await fetch('/api/generate-image', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(requestBody)
+      });
+
+      if (!response.ok) {
+        const error = await response.json();
+        throw new Error(error.message || '生成失败');
+      }
+
+      const data = await response.json();
+
+      if (data.imageUrl) {
+        generatedImageUrl = data.imageUrl;
+        resultImage.src = data.imageUrl;
+      } else if (data.b64Json) {
+        const b64 = `data:image/png;base64,${data.b64Json}`;
+        generatedImageUrl = b64;
+        resultImage.src = b64;
+      }
+
+      resultContainer.style.display = 'block';
+    } catch (error) {
+      console.error('Generate meme error:', error);
+      alert('生成表情包失败: ' + (error as Error).message);
+    } finally {
+      loadingIndicator.style.display = 'none';
+      generateBtn.disabled = false;
+    }
+  });
+
+  // Download Handler
+  downloadBtn.addEventListener('click', async () => {
+    if (!generatedImageUrl) return;
+
+    try {
+      const response = await fetch(generatedImageUrl);
+      const blob = await response.blob();
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `meme-${Date.now()}.png`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    } catch (error) {
+      window.open(generatedImageUrl!, '_blank');
+    }
+  });
+
+  // Regenerate Handler
+  regenerateBtn.addEventListener('click', () => {
+    generateBtn.click();
+  });
+
+  // Initialize
+  init();
+</script>

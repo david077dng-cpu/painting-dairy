@@ -3,16 +3,17 @@ set -e
 
 # ==============================================================================
 # VPS Incremental Deployment Script
-# For painting-dairy (xlilian.art)
+# For painting-dairy (xlilian.cn)
 # ==============================================================================
 
 # Configuration - edit these if needed
-VPS_HOST="root@47.77.237.222"
-REMOTE_DIR="/var/www/html"
-LOCAL_DIR="./dist"
-BACKUP_DIR="/var/www/backups/$(date +%Y%m%d_%H%M%S)"
-SITE_URL="https://xlilian.art"
-PM2_APP_NAME="painting-dairy"
+# 支持通过环境变量覆盖默认配置
+VPS_HOST="${VPS_HOST:-root@101.132.32.3}"
+REMOTE_DIR="${REMOTE_DIR:-/var/www/html}"
+LOCAL_DIR="${LOCAL_DIR:-./dist}"
+BACKUP_DIR="${BACKUP_DIR:-/var/www/backups/$(date +%Y%m%d_%H%M%S)}"
+SITE_URL="${SITE_URL:-https://xlilian.cn}"
+PM2_APP_NAME="${PM2_APP_NAME:-painting-dairy}"
 
 # Colors for output
 RED='\033[0;31m'
@@ -22,6 +23,26 @@ NC='\033[0m' # No Color
 
 info() {
     echo -e "${GREEN}==>${NC} $1"
+}
+
+warn() {
+    echo -e "${YELLOW}==> WARNING:${NC} $1"
+}
+
+error() {
+    echo -e "${RED}==> ERROR:${NC} $1"
+    exit 1
+}
+
+info "Using VPS_HOST: $VPS_HOST"
+
+warn() {
+    echo -e "${YELLOW}==> WARNING:${NC} $1"
+}
+
+error() {
+    echo -e "${RED}==> ERROR:${NC} $1"
+    exit 1
 }
 
 warn() {

@@ -10,7 +10,17 @@ export async function getStaticPaths() {
   }));
 }
 
-const { post } = Astro.props;
+const { slug } = Astro.params;
+const posts = await getCollection('posts');
+const post = posts.find(p => p.id.replace(/\.md$/, '') === slug) ||
+             posts.find(p => p.id.replace(/\.md$/, '').toLowerCase() === slug?.toLowerCase());
+
+if (!post) {
+  console.log('Post not found. Slug:', slug);
+  console.log('Available posts:', posts.map(p => p.id.replace(/\.md$/, '')));
+  return Astro.redirect('/404');
+}
+
 const { Content } = await render(post);
 ---
 <PostLayout frontmatter={post.data}>
