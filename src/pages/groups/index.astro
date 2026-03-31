@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import fs from 'fs';
 import path from 'path';
 
-const contentRoot = path.resolve(process.cwd(), 'src/content/group');
+const contentRoot = path.resolve(process.cwd(), 'public/content/group');
 
 // 获取所有 group 目录
 const groupNames = fs.existsSync(contentRoot)

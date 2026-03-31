@@ -3,17 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import fs from 'fs';
 import path from 'path';
 
-const contentRoot = path.resolve(process.cwd(), 'src/content/group');
-
-export async function getStaticPaths() {
-  const groupNames = fs.existsSync(contentRoot)
-    ? fs.readdirSync(contentRoot).filter(f => fs.statSync(path.join(contentRoot, f)).isDirectory())
-    : [];
-
-  return groupNames.map(name => ({
-    params: { slug: encodeURIComponent(name) },
-  }));
-}
+const contentRoot = path.resolve(process.cwd(), 'public/content/group');
 
 const { slug } = Astro.params;
 const decodedGroupName = decodeURIComponent(slug!);

@@ -1,11 +1,46 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
 
-const posts = (await getCollection('posts'))
-  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const postsDir = path.resolve(process.cwd(), 'src/content/posts');
+
+// 读取所有 markdown 文件
+const files = fs.readdirSync(postsDir).filter(file => file.endsWith('.md'));
+
+// 读取所有文章元数据
+interface PostMeta {
+  id: string;
+  title: string;
+  date: string;
+  description?: string;
+  category?: string;
+}
+
+const posts: PostMeta[] = [];
+
+files.forEach(file => {
+  const filePath = path.join(postsDir, file);
+  const content = fs.readFileSync(filePath, 'utf-8');
+  const { data } = matter(content);
+  posts.push({
+    id: file.replace(/\.md$/, ''),
+    title: data.title,
+    date: data.date,
+    description: data.description,
+    category: data.category,
+  });
+});
+
+// 按日期排序（最新在前）
+posts.sort((a, b) => {
+  return new Date(b.date).getTime() - new Date(a.date).getTime();
+});
+
 const basePath = import.meta.env.BASE_URL;
 ---
+
 <BaseLayout title="文章 · 李春晓">
   <main style="max-width:760px; margin:0 auto; padding:8rem 2rem 5rem;">
     <div style="margin-bottom:3rem;">
@@ -39,15 +74,15 @@ const basePath = import.meta.env.BASE_URL;
     ) : (
       <div style="display:flex; flex-direction:column; gap:2rem;">
         {posts.map(post => (
-          <a href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}posts/${post.id.replace(/\.md$/, '')}`} style="display:block; text-decoration:none; background:var(--warm-white); border-radius:20px; padding:1.8rem 2rem; box-shadow:0 2px 12px rgba(0,0,0,.06); transition:transform 0.25s,box-shadow 0.25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.boxShadow='0 10px 30px rgba(0,0,0,.1)'" onmouseout="this.style.transform='';this.style.boxShadow='0 2px 12px rgba(0,0,0,.06)'">
+          <a href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}posts/${post.id}`} style="display:block; text-decoration:none; background:var(--warm-white); border-radius:20px; padding:1.8rem 2rem; box-shadow:0 2px 12px rgba(0,0,0,.06); transition:transform 0.25s,box-shadow 0.25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.boxShadow='0 10px 30px rgba(0,0,0,.1)'" onmouseout="this.style.transform='';this.style.boxShadow='0 2px 12px rgba(0,0,0,.06)'">
             <div style="font-family:'Noto Serif SC',serif; font-size:0.75rem; color:#7a9e7e; letter-spacing:0.1em; margin-bottom:0.5rem;">
-              {post.data.date instanceof Date ? post.data.date.toISOString().split('T')[0] : post.data.date} {post.data.category && `· ${post.data.category}`}
+              {post.date} {post.category && `· ${post.category}`}
             </div>
             <div style="font-family:'Noto Serif SC',serif; font-size:1.25rem; font-weight:700; color:#5c3d2e; margin-bottom:0.6rem;">
-              {post.data.title}
+              {post.title}
             </div>
-            {post.data.description && (
-              <p style="font-size:0.9rem; line-height:1.75; color:#7a5c47; margin:0;">{post.data.description}</p>
+            {post.description && (
+              <p style="font-size:0.9rem; line-height:1.75; color:#7a5c47; margin:0;">{post.description}</p>
             )}
           </a>
         ))}

@@ -220,6 +220,112 @@ function findManifest(outputDir: string): any | null {
   return null;
 }
 
+// Store full job data
+interface ConversionJob {
+  jobId: string;
+  fileName: string;
+  safeFileName: string;
+  inputPath: string;
+  outputDir: string;
+  zipPath: string;
+  zipFilename: string;
+  voice: string;
+  rate: string;
+  ext: string;
+  done: boolean;
+  success: boolean;
+  manifest?: any;
+  error?: string;
+}
+
+const jobStore = new Map<string, ConversionJob>();
+
+async function runFullConversion(job: ConversionJob) {
+  try {
+    const jobId = job.jobId;
+    let inputPath = job.inputPath;
+
+    // Convert MOBI to TXT first if needed
+    if (job.ext === 'mobi') {
+      console.log(`Job ${jobId}: Converting MOBI to TXT...`);
+      const mobiScript = path.join(XREADER_DIR, 'mobi_to_txt.py');
+      const txtOutputPath = path.join(BOOKS_DIR, `${job.jobId}_${job.safeFileName.replace('.mobi', '.txt')}`);
+      await runPythonScriptWithProgress(jobId + '-mobi', mobiScript, [inputPath, txtOutputPath], '转换 MOBI 格式');
+      inputPath = txtOutputPath;
+      console.log(`Job ${jobId}: MOBI converted to: ${inputPath}`);
+    }
+
+    // Update jobId progress store for main conversion
+    progressStore.delete(jobId + '-mobi');
+
+    // Run ebook to audiobook conversion
+    console.log(`Job ${jobId}: Starting audiobook conversion...`);
+    const converterScript = path.join(XREADER_DIR, 'ebook_to_audiobook.py');
+
+    await runPythonScriptWithProgress(jobId, converterScript, [
+      inputPath,
+      '-o', AUDIOBOOKS_DIR,
+      '-v', job.voice,
+      '-r', job.rate
+    ], '转换有声书');
+
+    // Check output exists
+    if (!fs.existsSync(job.outputDir)) {
+      throw new Error(`转换完成但输出目录不存在: ${job.outputDir}`);
+    }
+
+    // Read manifest
+    const manifest = findManifest(job.outputDir);
+    if (!manifest) {
+      throw new Error('转换完成但找不到 manifest.json');
+    }
+    job.manifest = manifest;
+
+    // Update progress to packing stage
+    progressStore.set(jobId, {
+      jobId,
+      current: 0,
+      total: 1,
+      stage: '打包 ZIP',
+      done: false
+    });
+
+    // Create ZIP in public directory
+    console.log(`Job ${jobId}: Creating ZIP...`);
+    await createZip(job.outputDir, job.zipPath);
+
+    const zipStat = fs.statSync(job.zipPath);
+    console.log(`Job ${jobId}: ZIP created at ${job.zipPath}, size: ${formatBytes(zipStat.size)}`);
+
+    // Mark as done
+    progressStore.set(jobId, {
+      jobId,
+      current: 1,
+      total: 1,
+      stage: '完成',
+      done: true
+    });
+
+    job.done = true;
+    job.success = true;
+    jobStore.set(jobId, job);
+    console.log(`Job ${jobId}: Completed successfully!`);
+
+  } catch (error) {
+    console.error(`Job ${job.jobId} failed:`, error);
+    job.done = true;
+    job.success = false;
+    job.error = formatError(error);
+    const current = progressStore.get(job.jobId);
+    if (current) {
+      current.done = true;
+      current.error = job.error;
+      progressStore.set(job.jobId, current);
+    }
+    jobStore.set(job.jobId, job);
+  }
+}
+
 export const POST: APIRoute = async ({ request }) => {
   try {
     // Parse uploaded file
@@ -249,87 +355,56 @@ export const POST: APIRoute = async ({ request }) => {
     const uploadPath = path.join(BOOKS_DIR, `${jobId}_${safeFileName}`);
     const fileBuffer = Buffer.from(await file.arrayBuffer());
     fs.writeFileSync(uploadPath, fileBuffer);
-    console.log(`File saved to: ${uploadPath}`);
+    console.log(`Job ${jobId}: File saved to: ${uploadPath}`);
 
-    // Convert MOBI to TXT first if needed
-    let inputPath = uploadPath;
-    if (ext === 'mobi') {
-      console.log('Converting MOBI to TXT...');
-      const mobiScript = path.join(XREADER_DIR, 'mobi_to_txt.py');
-      const txtOutputPath = path.join(BOOKS_DIR, `${jobId}_${safeFileName.replace('.mobi', '.txt')}`);
-      await runPythonScriptWithProgress(jobId + '-mobi', mobiScript, [inputPath, txtOutputPath], '转换 MOBI 格式');
-      inputPath = txtOutputPath;
-      console.log(`MOBI converted to: ${inputPath}`);
-    }
-
-    // Run ebook to audiobook conversion
-    console.log('Starting audiobook conversion...');
-    const converterScript = path.join(XREADER_DIR, 'ebook_to_audiobook.py');
+    // Prepare job
     const outputDir = path.join(AUDIOBOOKS_DIR, jobId);
+    const zipFilename = `${jobId}.zip`;
+    const zipPath = path.join(PUBLIC_XREADER_DIR, zipFilename);
 
-    // Update job ID for main conversion
-    progressStore.delete(jobId + '-mobi');
+    const job: ConversionJob = {
+      jobId,
+      fileName: file.name,
+      safeFileName,
+      inputPath: uploadPath,
+      outputDir,
+      zipPath,
+      zipFilename,
+      voice,
+      rate,
+      ext,
+      done: false,
+      success: false
+    };
 
-    await runPythonScriptWithProgress(jobId, converterScript, [
-      inputPath,
-      '-o', AUDIOBOOKS_DIR,
-      '-v', voice,
-      '-r', rate
-    ], '转换有声书');
-
-    // Check output exists
-    if (!fs.existsSync(outputDir)) {
-      throw new Error(`转换完成但输出目录不存在: ${outputDir}`);
-    }
-
-    // Read manifest
-    const manifest = findManifest(outputDir);
-    if (!manifest) {
-      throw new Error('转换完成但找不到 manifest.json');
-    }
-
-    // Update progress to packing stage
+    // Initialize progress
     progressStore.set(jobId, {
       jobId,
       current: 0,
       total: 1,
-      stage: '打包 ZIP',
+      stage: ext === 'mobi' ? '转换 MOBI 格式' : '初始化',
       done: false
     });
 
-    // Create ZIP in public directory
-    const zipFilename = `${jobId}.zip`;
-    const zipPath = path.join(PUBLIC_XREADER_DIR, zipFilename);
-    await createZip(outputDir, zipPath);
+    jobStore.set(jobId, job);
 
-    const zipStat = fs.statSync(zipPath);
-    console.log(`ZIP created at ${zipPath}, size: ${formatBytes(zipStat.size)}`);
-
-    // Mark as done
-    progressStore.set(jobId, {
-      jobId,
-      current: 1,
-      total: 1,
-      stage: '完成',
-      done: true
+    // Start conversion in background - don't wait for it to finish
+    setImmediate(() => {
+      runFullConversion(job);
     });
 
-    // Return success
+    // Return immediately with jobId for polling
     return new Response(JSON.stringify({
       success: true,
       jobId,
-      fileName: safeFileName,
-      totalChars: manifest.total_chars || 0,
-      chunks: manifest.chunks || 0,
-      zipPath: zipFilename,
-      zipName: `${jobId}.zip`
+      fileName: safeFileName
     }), {
-      status: 200,
+      status: 202, // Accepted - processing in background
       headers: { 'Content-Type': 'application/json' }
     });
 
   } catch (error) {
-    console.error('Conversion error:', error);
+    console.error('Conversion start error:', error);
     return new Response(JSON.stringify({
       success: false,
       message: formatError(error)
@@ -358,9 +433,10 @@ export const GET: APIRoute = async ({ url }) => {
     });
   }
 
+  const job = jobStore.get(jobId);
   const percentage = progress.total > 0 ? Math.round((progress.current / progress.total) * 100) : 0;
 
-  return new Response(JSON.stringify({
+  const response: any = {
     jobId: progress.jobId,
     current: progress.current,
     total: progress.total,
@@ -368,7 +444,19 @@ export const GET: APIRoute = async ({ url }) => {
     percentage,
     done: progress.done,
     error: progress.error
-  }), {
+  };
+
+  // Add result data if done and successful
+  if (progress.done && !progress.error && job && job.success && job.manifest) {
+    response.success = true;
+    response.fileName = job.safeFileName;
+    response.totalChars = job.manifest.total_chars || 0;
+    response.chunks = job.manifest.chunks || 0;
+    response.zipPath = job.zipFilename;
+    response.zipName = job.zipFilename;
+  }
+
+  return new Response(JSON.stringify(response), {
     status: 200,
     headers: {
       'Content-Type': 'application/json',

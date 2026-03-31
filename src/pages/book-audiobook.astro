@@ -634,8 +634,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           throw new Error(data.message || '转换失败');
         }
 
-        // Start polling for progress
-        startPolling(data.jobId);
+        // File uploaded, job started - start polling
+        loadingText.textContent = '准备转换...';
+        progressBar.style.display = 'block';
+
+        let resultData: any = null;
 
         // Wait for completion by polling until done
         const waitForCompletion = new Promise((resolve, reject) => {
@@ -647,7 +650,20 @@ import BaseLayout from '../layouts/BaseLayout.astro';
                 return;
               }
               const progress = await response.json();
-              if (progress.done && !progress.error) {
+
+              // Update progress UI
+              loadingText.textContent = `${progress.stage}: ${progress.current}/${progress.total}`;
+              progressFill.style.width = progress.percentage + '%';
+
+              if (progress.done && progress.success && !progress.error) {
+                // Completed successfully
+                resultData = {
+                  fileName: progress.fileName,
+                  totalChars: progress.totalChars,
+                  chunks: progress.chunks,
+                  zipPath: progress.zipPath,
+                  zipName: progress.zipName
+                };
                 resolve(true);
                 return;
               }
@@ -670,11 +686,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         convertBtn.disabled = false;
 
         // Show result
-        resultFileName.textContent = data.fileName;
-        resultChars.textContent = data.totalChars.toLocaleString();
-        resultChunks.textContent = data.chunks;
-        downloadZipBtn.href = '/xreader-audio/' + data.zipPath;
-        downloadZipBtn.download = data.zipName;
+        resultFileName.textContent = resultData.fileName;
+        resultChars.textContent = resultData.totalChars.toLocaleString();
+        resultChunks.textContent = resultData.chunks;
+        downloadZipBtn.href = '/xreader-audio/' + resultData.zipPath;
+        downloadZipBtn.download = resultData.zipName;
         resultCard.style.display = 'block';
 
         // Scroll to result
