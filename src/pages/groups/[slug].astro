@@ -2,7 +2,9 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import fs from 'fs';
 import path from 'path';
+import probe from 'probe-image-size';
 
+// PM2 启动时 cwd 就是项目根目录 /var/www/html
 const contentRoot = path.resolve(process.cwd(), 'public/content/group');
 
 const { slug } = Astro.params;
@@ -24,6 +26,27 @@ const groupNamesMap: Record<string, string> = {
   '读书笔记': '读书笔记',
 };
 
+// 判断是否可能是二维码/图标：接近正方形且体积不大
+function isLikelyQrCodeOrIcon(filePath: string, size: number): boolean {
+  try {
+    const fd = fs.openSync(filePath, 'r');
+    const result = probe.sync(fs.readFileSync(filePath));
+    fs.closeSync(fd);
+
+    if (!result) return false;
+
+    const ratio = Math.max(result.width, result.height) / Math.min(result.width, result.height);
+    // 宽高比接近 1（正方形）且文件小于 200KB → 很可能是二维码/logo/图标
+    if (ratio >= 0.9 && ratio <= 1.1 && size < 200 * 1024) {
+      return true;
+    }
+    return false;
+  } catch (e) {
+    // 如果读取失败，不过滤
+    return false;
+  }
+}
+
 // 获取该 group 的所有项目
 const groupDir = path.join(contentRoot, decodedGroupName);
 const items = fs.existsSync(groupDir)
@@ -31,6 +54,94 @@ const items = fs.existsSync(groupDir)
       .filter(f => fs.statSync(path.join(groupDir, f)).isDirectory())
       .sort((a, b) => b.localeCompare(a))
   : [];
+
+// 为每个文章找到第一张图片
+const itemsWithCover = items.map(item => {
+  let title = item;
+  let date = '';
+
+  const dateMatch = item.match(/^(\d{4}-\d{2}-\d{2})\s+(.*)$/);
+  if (dateMatch) {
+    date = dateMatch[1];
+    title = dateMatch[2];
+  }
+
+  // 查找 assets 目录下的第一张图片
+  const itemDir = path.join(groupDir, item);
+  const assetsDir = path.join(itemDir, 'assets');
+  let coverImage = null;
+
+  if (fs.existsSync(assetsDir)) {
+    let images = fs.readdirSync(assetsDir)
+      .filter(f => /\.(jpg|jpeg|png|gif|webp)$/i.test(f))
+      // 过滤掉二维码、emoji、表情包（按文件名）
+      .filter(f => {
+        const lower = f.toLowerCase();
+        // 排除二维码、emoji、表情、图标、logo、文末关注图
+        if (lower.includes('qrcode') || lower.includes('二维码') ||
+            lower.includes('emoji') || lower.includes('表情') ||
+            lower.includes('icon') || lower.includes('logo') ||
+            lower.includes('关注') || lower.includes('公众号') ||
+            lower.includes('欢迎') || lower.includes('结尾') ||
+            lower.includes('footer')) {
+          return false;
+        }
+        return true;
+      })
+      // 按文件大小降序排序，取最大的一张（质量最好）
+      .map(f => {
+        const filePath = path.join(assetsDir, f);
+        const stat = fs.statSync(filePath);
+        return { file: f, size: stat.size, path: filePath };
+      })
+      .sort((a, b) => b.size - a.size)
+      // 智能过滤：去掉接近正方形的小图（很可能是二维码）
+      .filter(img => !isLikelyQrCodeOrIcon(img.path, img.size));
+
+    if (images.length > 0) {
+      coverImage = `/content/group/${encodeURIComponent(decodedGroupName)}/${encodeURIComponent(item)}/assets/${images[0].file}`;
+    }
+  }
+
+  // 如果 assets 里没找到，直接找 html 同级目录
+  if (!coverImage) {
+    let images = fs.readdirSync(itemDir)
+      .filter(f => /\.(jpg|jpeg|png|gif|webp)$/i.test(f))
+      // 过滤掉二维码、emoji、表情包（按文件名）
+      .filter(f => {
+        const lower = f.toLowerCase();
+        if (lower.includes('qrcode') || lower.includes('二维码') ||
+            lower.includes('emoji') || lower.includes('表情') ||
+            lower.includes('icon') || lower.includes('logo') ||
+            lower.includes('关注') || lower.includes('公众号') ||
+            lower.includes('欢迎') || lower.includes('结尾') ||
+            lower.includes('footer')) {
+          return false;
+        }
+        return true;
+      })
+      // 按文件大小降序排序，取最大的一张
+      .map(f => {
+        const filePath = path.join(itemDir, f);
+        const stat = fs.statSync(filePath);
+        return { file: f, size: stat.size, path: filePath };
+      })
+      .sort((a, b) => b.size - a.size)
+      // 智能过滤：去掉接近正方形的小图（很可能是二维码）
+      .filter(img => !isLikelyQrCodeOrIcon(img.path, img.size));
+
+    if (images.length > 0) {
+      coverImage = `/content/group/${encodeURIComponent(decodedGroupName)}/${encodeURIComponent(item)}/${images[0].file}`;
+    }
+  }
+
+  return {
+    item,
+    title,
+    date,
+    coverImage
+  };
+});
 
 const basePath = import.meta.env.BASE_URL;
 ---
@@ -61,35 +172,36 @@ const basePath = import.meta.env.BASE_URL;
         <p>该合集暂时没有内容</p>
       </div>
     ) : (
-      <div style="display:flex; flex-direction:column; gap:2rem;">
-        {items.map(item => {
-          // 尝试从目录名中提取日期和标题
-          let title = item;
-          let date = '';
-
-          const dateMatch = item.match(/^(\d{4}-\d{2}-\d{2})\s+(.*)$/);
-          if (dateMatch) {
-            date = dateMatch[1];
-            title = dateMatch[2];
-          }
-
+      <div id="masonry-container" style="position: relative;">
+        {itemsWithCover.map(({item, title, date, coverImage}) => {
           return (
             <a
               href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}content/group/${encodeURIComponent(decodedGroupName)}/${encodeURIComponent(item)}/index.html`}
               target="_blank"
               rel="noopener noreferrer"
-              style="display:block; text-decoration:none; background:var(--warm-white); border-radius:20px; padding:1.8rem 2rem; box-shadow:0 2px 12px rgba(0,0,0,.06); transition:transform 0.25s,box-shadow 0.25s;"
-              onmouseover="this.style.transform='translateY(-4px)';this.style.boxShadow='0 10px 30px rgba(0,0,0,.1)'"
-              onmouseout="this.style.transform='';this.style.boxShadow='0 2px 12px rgba(0,0,0,.06)'"
+              style="display:block; width:calc((100% - 2 * 1.5rem) / 3); text-decoration:none; background:var(--warm-white); border-radius:20px; overflow:hidden; box-shadow:0 2px 12px rgba(0,0,0,.06); transition:transform 0.25s,box-shadow 0.25s; margin-bottom: 1.5rem;"
+              onmouseover="this.style.transform='translateY(-4px)';this.style.box-shadow='0 10px 30px rgba(0,0,0,.1)'"
+              onmouseout="this.style.transform='';this.style.box-shadow='0 2px 12px rgba(0,0,0,.06)'"
             >
-              <div style="font-family:'Noto Serif SC',serif; font-size:0.75rem; color:#7a9e7e; letter-spacing:0.1em; margin-bottom:0.5rem;">
-                {date}
-              </div>
-              <div style="font-family:'Noto Serif SC',serif; font-size:1.25rem; font-weight:700; color:#5c3d2e; margin-bottom:0.6rem;">
-                {title}
-              </div>
-              <div style="font-size:0.85rem; color:var(--text-muted);">
-                点击打开查看 ↗
+              {coverImage && (
+                <div style="width:100%; overflow:hidden; background:var(--bg-secondary);">
+                  <img
+                    src={coverImage}
+                    alt={title}
+                    style="width:100%; height:auto; display:block;"
+                  />
+                </div>
+              )}
+              <div style="padding:1.8rem 2rem;">
+                <div style="font-family:'Noto Serif SC',serif; font-size:0.75rem; color:#7a9e7e; letter-spacing:0.1em; margin-bottom:0.5rem;">
+                  {date}
+                </div>
+                <div style="font-family:'Noto Serif SC',serif; font-size:1.25rem; font-weight:700; color:#5c3d2e; margin-bottom:0.6rem;">
+                  {title}
+                </div>
+                <div style="font-size:0.85rem; color:var(--text-muted);">
+                  点击打开查看 ↗
+                </div>
               </div>
             </a>
           );
@@ -98,6 +210,78 @@ const basePath = import.meta.env.BASE_URL;
     )}
   </main>
 </BaseLayout>
+
+<script>
+  // 原生 JavaScript 实现真正的错落瀑布流（先行后列）- 响应式
+  (function() {
+    function getColumnCount() {
+      const width = window.innerWidth;
+      if (width >= 768) {
+        return 3; // 桌面：3列
+      } else if (width >= 480) {
+        return 2; // 平板：2列
+      } else {
+        return 1; // 手机：1列
+      }
+    }
+
+    function initMasonry() {
+      const container = document.getElementById('masonry-container');
+      if (!container) return;
+
+      const items = Array.from(container.children);
+      const columnCount = getColumnCount();
+      const gap = 24; // 1.5rem = 24px
+
+      // 计算每列宽度
+      const containerWidth = container.clientWidth;
+      const columnWidth = (containerWidth - (columnCount - 1) * gap) / columnCount;
+
+      // 初始化每列高度数组，每一列开始都是 0
+      const columnHeights = new Array(columnCount).fill(0);
+
+      items.forEach((item) => {
+        item.style.width = columnWidth + 'px';
+        item.style.position = 'absolute';
+
+        // 核心算法：找到当前高度最小的那一列，把卡片放进去
+        // 这样就能实现真正的错落 - 每个新卡片都会跳到当前最矮的列下面
+        const minHeight = Math.min(...columnHeights);
+        const columnIndex = columnHeights.indexOf(minHeight);
+
+        // 计算位置
+        const left = columnIndex * (columnWidth + gap);
+        const top = minHeight;
+
+        item.style.left = left + 'px';
+        item.style.top = top + 'px';
+
+        // 更新这一列的高度
+        columnHeights[columnIndex] += item.offsetHeight + gap;
+      });
+
+      // 设置容器总高度
+      container.style.height = Math.max(...columnHeights) + 'px';
+    }
+
+    // 等所有图片加载完再布局，否则高度计算不准确
+    window.addEventListener('load', () => {
+      setTimeout(initMasonry, 100);
+    });
+
+    // 窗口大小改变时重新布局
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(initMasonry, 200);
+    });
+
+    // 屏幕旋转时重新布局（手机）
+    window.addEventListener('orientationchange', () => {
+      setTimeout(initMasonry, 200);
+    });
+  })();
+</script>
 
 <style>
   :root {

@@ -1,0 +1,22 @@
+<xml><ToUserName><![CDATA[gh_24e3f5ee7ee5]]></ToUserName>
+<FromUserName><![CDATA[owq-C1HKKoIENenkoFPf77thQRSo]]></FromUserName>
+<CreateTime>1776483813</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000516</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>1</TotalCount>
+<FilterCount>1</FilterCount>
+<SentCount>1</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+<ArticleUrlResult><Count>1</Count>
+<ResultList><item><ArticleIdx>1</ArticleIdx>
+<ArticleUrl><![CDATA[http://mp.weixin.qq.com/s/Tmz2OyfcrF5fI8KuXA-AnQ]]></ArticleUrl>
+</item>
+</ResultList>
+</ArticleUrlResult>
+</xml>

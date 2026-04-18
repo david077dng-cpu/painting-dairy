@@ -11,6 +11,7 @@ const { createLarkWebhookHandler } = require('./lark-oapi-webhook');
 const { WechatSync } = require('./services/wechatSync');
 const { GitSync } = require('./services/gitSync');
 const { GitHubDeployer } = require('./services/deploy');
+const { WechatPushHandler } = require('./services/wechatPush');
 
 const app = express();
 
@@ -22,17 +23,30 @@ const config = {
   wechatSyncEnabled: process.env.WECHAT_SYNC_ENABLED === 'true',
   syncScheduleCron: process.env.SYNC_SCHEDULE_CRON || '0 9 * * 1',
   reportChatId: process.env.REPORT_CHAT_ID,
+  // 微信公众号推送配置
+  wechatPushEnabled: process.env.WECHAT_PUSH_ENABLED === 'true',
+  wechatToken: process.env.WECHAT_TOKEN,
 };
 
 console.log('🤖 LarkBot Starting...');
 console.log(`   App ID: ${config.appId?.slice(0, 10)}...`);
 console.log(`   WeChat Sync: ${config.wechatSyncEnabled ? 'enabled' : 'disabled'}`);
+console.log(`   WeChat Push: ${config.wechatPushEnabled ? 'enabled' : 'disabled'}`);
 
 // 初始化服务
 const larkClient = new Client(config);
 const wechatSync = new WechatSync();
 const gitSync = new GitSync();
 const deployer = new GitHubDeployer();
+let wechatPush = null;
+if (config.wechatPushEnabled && config.wechatToken) {
+  wechatPush = new WechatPushHandler({
+    token: config.wechatToken,
+    reportChatId: config.reportChatId,
+    sendMessage: sendMessage,
+  });
+  console.log('✅ 微信公众号推送监听已启用');
+}
 
 // 发送消息辅助函数
 async function sendMessage(chatId, text) {
@@ -250,6 +264,35 @@ if (config.wechatSyncEnabled && config.syncScheduleCron) {
 // 注册 Webhook 路由
 app.post('/webhook/lark', larkWebhookHandler);
 
+// 微信公众号推送回调路由
+if (config.wechatPushEnabled && wechatPush) {
+  // 微信验证（GET）和推送接收（POST）
+  app.get('/webhook/wechat', (req, res) => {
+    const result = wechatPush.verifySignature(req.query);
+    if (result.valid) {
+      res.send(result.echostr);
+    } else {
+      res.status(403).send('invalid signature');
+    }
+  });
+
+  // 解析任何 Content-Type 为文本，因为微信推送可能不设置正确的 Content-Type
+  app.post('/webhook/wechat', express.text({ type: () => true }), async (req, res) => {
+    try {
+      const result = await wechatPush.handlePush(req.body);
+      console.log('[WechatPush] 处理完成:', result);
+      // 微信要求返回 success
+      res.send('success');
+    } catch (err) {
+      console.error('[WechatPush] 处理失败:', err);
+      // 即使出错也返回 success，避免微信重试风暴
+      res.send('success');
+    }
+  });
+
+  console.log(`✅ 微信推送回调已注册: http://localhost:${config.port}/webhook/wechat`);
+}
+
 // 健康检查
 app.get('/', (req, res) => {
   res.json({
@@ -265,10 +308,17 @@ app.get('/', (req, res) => {
 app.listen(config.port, () => {
   console.log(`\n🚀 Server started!`);
   console.log(`   Port: ${config.port}`);
-  console.log(`   Webhook: http://localhost:${config.port}/webhook/lark`);
+  console.log(`   Lark Webhook: http://localhost:${config.port}/webhook/lark`);
+  if (config.wechatPushEnabled) {
+    console.log(`   WeChat Push: http://localhost:${config.port}/webhook/wechat`);
+  }
   console.log(`   Health: http://localhost:${config.port}/`);
   console.log('\n💡 Tips:');
   console.log('   1. 在飞书开放平台配置 Webhook URL');
-  console.log('   2. 确保本服务可以通过公网访问');
-  console.log('   3. 使用 /help 查看帮助\n');
+  if (config.wechatPushEnabled) {
+    console.log('   2. 在微信公众平台配置服务器地址: [你的域名]/webhook/wechat');
+    console.log('   3. 配置 Token，与公众平台设置一致');
+  }
+  console.log('   确保本服务可以通过公网访问');
+  console.log('   使用 /help 查看帮助\n');
 });

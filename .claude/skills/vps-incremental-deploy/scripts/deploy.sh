@@ -162,7 +162,43 @@ echo
 info "Rsync sync completed!"
 
 # ==============================================================================
-# Step 6: Sync package.json and install production dependencies on remote
+# Step 6: Sync local public/content directory to remote
+# ==============================================================================
+# All WeChat exported articles are stored in public/content/group
+# In Astro SSR mode, Astro does NOT copy public/ to dist/ during build
+# So we need to sync this directory separately to preserve all article content
+# ==============================================================================
+
+if [ -d "./public/content" ]; then
+  echo
+  info "Syncing public/content directory to remote (contains all WeChat articles)..."
+  # Ensure parent directory exists
+  ssh "$VPS_HOST" "mkdir -p $REMOTE_DIR/public/"
+  rsync -av --delete ./public/content/ "$VPS_HOST:$REMOTE_DIR/public/content/"
+  info "content directory synced!"
+else
+  echo
+  warn "./public/content not found locally, skipping sync"
+fi
+
+# ==============================================================================
+# Step 6+: Sync src directory to remote
+# ==============================================================================
+# In Astro SSR mode, content collections still need src/content at runtime
+# ==============================================================================
+
+if [ -d "./src" ]; then
+  echo
+  info "Syncing src directory to remote (needed for content collections)..."
+  rsync -av --delete ./src/ "$VPS_HOST:$REMOTE_DIR/src/"
+  info "src directory synced!"
+else
+  echo
+  warn "./src not found locally, skipping sync"
+fi
+
+# ==============================================================================
+# Step 8: Sync package.json and install production dependencies on remote
 # ==============================================================================
 # For SSR deployment, node_modules must be installed on remote because:
 # - Local build only outputs compiled Astro code
@@ -179,7 +215,7 @@ ssh "$VPS_HOST" "cd $REMOTE_DIR && npm install --omit=dev"
 info "Remote dependencies installed!"
 
 # ==============================================================================
-# Step 7: Restart PM2 process
+# Step 9: Restart PM2 process
 # ==============================================================================
 
 echo
@@ -193,7 +229,7 @@ fi
 info "PM2 process restarted!"
 
 # ==============================================================================
-# Step 8: Fix permissions on remote
+# Step 10: Fix permissions on remote
 # ==============================================================================
 
 echo
@@ -202,7 +238,7 @@ ssh "$VPS_HOST" "chown -R david:david $REMOTE_DIR && chmod -R 755 $REMOTE_DIR"
 info "Permissions fixed"
 
 # ==============================================================================
-# Step 9: Health check
+# Step 11: Health check
 # ==============================================================================
 
 echo
