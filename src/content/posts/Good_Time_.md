@@ -32,7 +32,7 @@ Good Time.
 
     早日实现自己的梦想~
 
-    加油，你是最棒的![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_79.png)
+    加油，你是最棒的![](/images/Good_Time_-1.png)
 
 ![](/images/image-202.jpg)
 

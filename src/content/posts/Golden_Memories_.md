@@ -19,7 +19,7 @@ Golden Memories.
 
 ![](/images/image-197.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSViaWx3N9VIGvGMxL77VQsO0SsMHHUQqOibNz3vzRuictIFg5uViae46k7Y0V6GaUdVCQ6KMB0VHia6Yw/0?wx_fmt=jpeg)
+![](/images/Golden_Memories_-1.jpg)
 
     **在北京的时候，公司外面也有一排银杏，我捡了一片放到本子里留作纪念。**
 

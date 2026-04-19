@@ -20,7 +20,7 @@ Take a Nap.
 
     我就强行画成了温暖的感觉![](/images/image-56.png)。
 
-    并且硬拗了一个温暖的题目![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F61D.png)。
+    并且硬拗了一个温暖的题目![](/images/Take_a_Nap_-1.png)。
 
     这就是画画的魅力吧，可以把同一个故事，以不同的情感展示出来。
 

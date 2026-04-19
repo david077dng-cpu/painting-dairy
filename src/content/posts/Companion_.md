@@ -56,7 +56,7 @@ Companion.
 
 ![](/images/image-124.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/Companion_-1.jpg)
 
 祝大家国庆快乐～
 

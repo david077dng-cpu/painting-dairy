@@ -36,7 +36,7 @@ The First Snow In 2020.
 
 ![](/images/image-491.png)画完之后觉得比起画雪景，
 
-复兴号上面的椅子好像画的更好一点![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQGo5y9NASoDPYsDE0icZaO6ubUDq5veqQEyFONGebic9AmRskUNVuSlP7O9u9EHPxGz22eLq7EwKog/640?wx_fmt=png)，
+复兴号上面的椅子好像画的更好一点![](/images/The_First_Snow_In_2020_-1.png)，
 
 毕竟坐了太多次了![](/images/image-491.png)。！
 

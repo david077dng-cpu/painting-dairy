@@ -36,7 +36,7 @@ Bring Myself Closer To You.
 
 今天画这些木纹可真为难，
 
-不知道咋画![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+不知道咋画![](/images/Best_Regards_-1.png)，
 
 有知道的小伙伴可以指点一下。
 

@@ -44,7 +44,7 @@ A Little Red Flower.
 
 世界依旧充满善意，让我们一起加油吧！
 
-![](/images/image-22.jpg)![](/images/image-22.jpg)![](/images/image-22.jpg)![](/images/image-22.jpg)![](/images/image-11.jpg)![](/images/image-11.jpg)![](/images/image-11.jpg)![](/images/image-4.jpg)![](/images/image-4.jpg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQmnBibz11FGfl2Q9OUGy0E6ewf5aibZSoI0OLZYiazDX9VjTBnv9veFELByqBo4pnUWXf9y00vib1VmA/640?wx_fmt=jpeg)
+![](/images/image-22.jpg)![](/images/image-22.jpg)![](/images/image-22.jpg)![](/images/image-22.jpg)![](/images/image-11.jpg)![](/images/image-11.jpg)![](/images/image-11.jpg)![](/images/image-4.jpg)![](/images/image-4.jpg)![](/images/A_Little_Red_Flower_-1.jpg)
 
 新的一年，祝大家身体健康，事事如意，心想事成~
 

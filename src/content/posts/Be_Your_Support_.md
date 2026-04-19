@@ -36,7 +36,7 @@ Be Your Support.
 
     你看看旁边小仙女人家是怎么照相的
 
-    ![](/images/image-14.png)![](/images/image-1.png)![](/images/image-17.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)
+    ![](/images/image-14.png)![](/images/image-1.png)![](/images/image-17.png)![](/images/Be_Your_Support_-1.png)
 
 ![](/images/image-58.jpg)
 

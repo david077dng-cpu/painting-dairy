@@ -46,7 +46,7 @@ Traveling in October.
 
 ![](/images/image-167.jpg)
 
-老李说话真是很有时代特色呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)，
+老李说话真是很有时代特色呀![](/images/Blossom_of_Snow_-1.png)，
 
 今天画的是旅行归来的老李分享给小编的福建土楼，
 

@@ -58,5 +58,5 @@ Cafe Terrace at Night.
 
 ![](/images/image-10.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/Cafe_Terrace_at_Night_-1.gif)
 

@@ -14,7 +14,7 @@ Would You Like Something to Drink~~
 
     **超级珍贵的周日，上午加了会儿小班，下午和好盆友去喝了咖啡~**
 
-    **温暖的下午，温暖的咖啡![](/images/image-38.png)，周末真好![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)……**
+    **温暖的下午，温暖的咖啡![](/images/image-38.png)，周末真好![](/images/Last_Summer_-1.png)……**
 
 ![](/images/image-590.jpg)
 

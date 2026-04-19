@@ -26,7 +26,7 @@ Hometown.
 
 
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQaISSMI3zNaiaFlVAYXMicTCmUq67FzCoXiatQhfzlTZyXiaqgc6ySUxkicVG8WZDpFXQj2Eu8WTxOuSA/0?wx_fmt=jpeg)
+![](/images/Hometown_-1.jpg)
 
     如果有小伙伴拍到了美丽的雪景，
 

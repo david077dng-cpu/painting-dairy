@@ -34,7 +34,7 @@ Seafood of Tianjin.
 
 ![](/images/image-431.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/Companion_-1.jpg)
 
 好多人嫌皮皮虾不好剥，
 

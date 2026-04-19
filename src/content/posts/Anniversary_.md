@@ -99,7 +99,7 @@ Dear Diary：
 颇具大领导风的读者：
 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjRich1qichrsaUe32nLpANyPOIgt5nh5iahf46g0bMnCf2VreCZeqHBI2icRZA3dREkTPjUC4mXLsNjLg/640?wx_fmt=jpeg)
+![](/images/Anniversary_-1.jpg)
 
 ![](/images/image-44.jpg)
 

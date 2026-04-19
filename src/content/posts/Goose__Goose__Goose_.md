@@ -36,7 +36,7 @@ Goose, Goose, Goose.
 
     都不拨清波了，
 
-    都站在水管上取暖了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+    都站在水管上取暖了![](/images/Be_Your_Support_-1.png)。
 
     给它照相时还知道看镜头，
 
@@ -54,7 +54,7 @@ Goose, Goose, Goose.
 
     如果画值10块，
 
-    那么提上字就值5块了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    那么提上字就值5块了![](/images/Best_Regards_-1.png)。
 
     还是欢迎点赞~留言~ 转发~
 

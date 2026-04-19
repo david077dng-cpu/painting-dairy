@@ -18,7 +18,7 @@ Hi December~
 
     今天画的是小伙伴拍的一张照片，我和她认识快16年了吧，她现在就在这个美丽的大阪大学……读博![](/images/image-7.png)。16年不算什么，再来几个16年照样是好朋友。
 
-    俗话说得好，人有失足，马有失蹄，我今天就失蹄了……![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)
+    俗话说得好，人有失足，马有失蹄，我今天就失蹄了……![](/images/Best_Regards_-1.png)
 
 ![](/images/image-245.jpg)
 
@@ -26,7 +26,7 @@ Hi December~
 
 ![](/images/image-75.jpg)
 
-    没错，我就是对自己这么残忍，对比就能发现，今天构图有点问题，地面咋鼓起来了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，技术还是不够娴熟，大家千万不要因为我今天的小失误就取关啊啊啊啊！！！！我会继续努力哒。
+    没错，我就是对自己这么残忍，对比就能发现，今天构图有点问题，地面咋鼓起来了![](/images/Be_Your_Support_-1.png)，技术还是不够娴熟，大家千万不要因为我今天的小失误就取关啊啊啊啊！！！！我会继续努力哒。
 
     今天有两点感受：
 

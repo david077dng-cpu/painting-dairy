@@ -20,7 +20,7 @@ Best Regards.
 
 好像到了发展瓶颈期![](/images/image-1.png)，
 
-好几天才增长一个粉丝![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+好几天才增长一个粉丝![](/images/Best_Regards_-1.png)，
 
 今天画条锦鲤，
 

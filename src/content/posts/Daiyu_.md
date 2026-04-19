@@ -34,7 +34,7 @@ Daiyu.
 
 啊…葬花吟实在是太悲了，
 
-其实我是一个很乐观的人![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+其实我是一个很乐观的人![](/images/Best_Regards_-1.png)，
 
 而且最近也过得挺好的，
 

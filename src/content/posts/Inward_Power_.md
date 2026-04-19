@@ -32,7 +32,7 @@ Inward Power.
 
 ![](/images/image-84.jpg)
 
-    今天又去抱胶带们的大腿了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+    今天又去抱胶带们的大腿了![](/images/Best_Regards_-1.png)，
 
     之前有发给我照片的小朋友们，
 

@@ -30,7 +30,7 @@ Merry Christmas.
 
 ![](/images/image-310.jpg)
 
-哈，还是被窝舒服～![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQ8ySZK2uT1icTBez7AmkIs5XpJ9h1h5e7mcxvuDobsdCrVjLac5bWNzJ8AO4657wOdXwuD4uomPAA/0?wx_fmt=jpeg)
+哈，还是被窝舒服～![](/images/Merry_Christmas_-1.jpg)
 
 
 
@@ -46,7 +46,7 @@ Merry Christmas.
 
 ![](/images/image-312.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
+![](/images/Last_Summer_-2.jpg)
 
 
 

@@ -22,7 +22,7 @@ Venice.
 
 威尼斯很乱，小偷很多，注意看好自己的东西。
 
-我 ：![](/images/image-170.png)![](/images/image-170.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F633.png)![](/images/image-171.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F631.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F631.png)。
+我 ：![](/images/image-170.png)![](/images/image-170.png)![](/images/Long_Time_No_See_-1.png)![](/images/image-171.png)![](/images/Venice_-1.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F631.png)。
 
 于是在阳光明媚的一天，
 
@@ -50,7 +50,7 @@ Venice.
 
 ![](/images/image-172.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjS9ed4fPuS8956noQ8sfmibjzJy4JNEky97qt0gyhTtnDvQtHXG94chqNCoRqpdmSKbMvibB5Ce4TibA/640?wx_fmt=jpeg)
+![](/images/Venice_-2.jpg)
 
 下次再分享画中尖尖的贡多拉的故事～
 

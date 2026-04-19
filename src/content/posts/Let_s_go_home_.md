@@ -22,7 +22,7 @@ Let's go home.
 
     **她说不要，元旦要和我玩。**
 
-    **![](/images/image-5.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)熏疼弟弟一秒钟。**
+    **![](/images/image-5.png)![](/images/Be_Your_Support_-1.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)熏疼弟弟一秒钟。**
 
     **她眯眯眼笑的时候超级美，眼睛里有小星星那样。**
 
@@ -40,7 +40,7 @@ Let's go home.
 
 ![](/images/image-276.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSX9Vjf4En6NUQX31Ck9Xo0n97ruETcU8p71dib7aW6XSMLuoP1hecBRX7J7yEvy110CUssUCicG6sA/0?wx_fmt=jpeg)
+![](/images/Let_s_go_home_-1.jpg)
 
     这几天画楼画的阅读量蹭蹭的往下降啊![](/images/image-1.png)。
 

@@ -65,13 +65,13 @@ Girl with a Pearl Earring
 
 可以避免以上所有的情况发生，
 
-![](/images/image-5.png)![](/images/image-5.png)![](/images/image-5.png)![](/images/image-5.png)![](/images/image-5.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
+![](/images/image-5.png)![](/images/image-5.png)![](/images/image-5.png)![](/images/image-5.png)![](/images/image-5.png)![](/images/Be_Your_Support_-1.png)![](/images/Be_Your_Support_-1.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
 
 说的跟真事一样，
 
 还是好好上班吧，
 
-新的一周，fighting![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F4AA.0.png)
+新的一周，fighting![](/images/Girl_with_a_Pearl_Earring-1.png)
 
 对啦，女神斯嘉丽·约翰逊在2003年演过电影《带珍珠耳环的少女》，![](/images/image-7.png)感兴趣的同学们可以看看。
 
@@ -81,7 +81,7 @@ Girl with a Pearl Earring
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/images/Cross_Talk_-1.jpg)
 
 
 

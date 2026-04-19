@@ -199,6 +199,21 @@ class WechatPushHandler {
     const addResult = this.wechatSync.addArticle(parsed.url, null);
     if (!addResult.success) {
       console.log('[WechatPush] 添加失败:', addResult.message);
+      // 即使添加失败，也要通知用户
+      if (this.emailEnabled && this.transporter && this.emailTo) {
+        const subject = `❌ 公众号新文章添加失败`;
+        const text = `❌ 收到公众号新文章推送，但添加到待导入列表失败！\n` +
+          `标题: ${parsed.title || '未知'}\n` +
+          `URL: ${parsed.url}\n` +
+          `错误: ${addResult.message}\n` +
+          `时间: ${new Date().toLocaleString()}`;
+        await this.transporter.sendMail({
+          from: this.emailFrom,
+          to: this.emailTo,
+          subject: subject,
+          text: text,
+        });
+      }
       return {
         handled: false,
         reason: addResult.message
@@ -249,15 +264,15 @@ class WechatPushHandler {
       // 邮件通知
       if (this.emailEnabled && this.transporter && this.emailTo) {
         const subject = syncResult.importedCount === 0
-          ? `ℹ️ 公众号新文章推送 - 无新文章导入`
+          ? `⚠️ 公众号新文章推送 - 导入失败，0篇文章导入`
           : `🎉 公众号新文章 "${parsed.title || '未知'}" 自动同步完成`;
 
         let text = '';
         if (syncResult.importedCount === 0) {
-          text = `🎉 收到公众号新文章推送！\n` +
+          text = `⚠️ 收到公众号新文章推送，但同步完成后没有成功导入任何文章！\n` +
             `标题: ${parsed.title || '未知'}\n` +
             `推送文章地址: ${parsed.url}\n` +
-            `\n同步完成，但没有导入新文章\n` +
+            `\n请检查日志，可能是抓取失败，请手动导入。\n` +
             `时间: ${new Date().toLocaleString()}`;
         } else {
           text = `🎉 公众号新文章自动同步完成！\n` +

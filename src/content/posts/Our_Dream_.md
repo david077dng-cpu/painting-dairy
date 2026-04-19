@@ -26,7 +26,7 @@ Our Dream.
 
 一种用文字难以描述的美，
 
-西藏我还回来![](/images/image-117.png)![](/images/image-117.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F64F.0.png)
+西藏我还回来![](/images/image-117.png)![](/images/image-117.png)![](/images/Our_Dream_-1.png)
 
 ![](/images/image-382.jpg)
 
@@ -68,7 +68,7 @@ Our Dream.
 
 欢迎投稿哇～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/images/Cross_Talk_-1.jpg)
 
 
 

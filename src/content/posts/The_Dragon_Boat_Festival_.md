@@ -50,7 +50,7 @@ Yummy～
 
 欢迎点赞、评论，
 
-以及转发这两只粽子获得好运![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)~
+以及转发这两只粽子获得好运![](/images/Last_Summer_-1.png)~
 
 ![](/images/image-5.gif)
 

@@ -80,7 +80,7 @@ Last Summer.
 
     上次去找她玩的时候，就各种热情款（nue）待（gou）![](/images/image-56.png)。
 
-    祝你幸福![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
+    祝你幸福![](/images/Last_Summer_-1.png)。
 
     好，欢迎单身同胞们积极投稿，
 
@@ -92,7 +92,7 @@ Last Summer.
 
 
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
+![](/images/Last_Summer_-2.jpg)
 
 
 

@@ -20,7 +20,7 @@ Tears In Heaven.
 
 ![](/images/image-461.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTSPuLTzyziawxfPE1wZicjhvDEnfFFgpcGvfFc2PlyUxawibHJTPMzfaHwD3PZJZcjuasaXbJicj9h7w/0?wx_fmt=jpeg)
+![](/images/Tears_In_Heaven_-1.jpg)
 
     **跟大家介绍一下，这就是杭州美丽的西湖和雷峰塔，喜欢看白蛇传的小伙伴一定不陌生。**
 

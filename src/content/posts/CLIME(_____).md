@@ -146,7 +146,7 @@ CLIME(〃'▽'〃)
 
 ![](/images/image-29.jpg)
 
-    他们师门真是百花齐放，风格迥异啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+    他们师门真是百花齐放，风格迥异啊![](/images/Be_Your_Support_-1.png)。
 
     今天忒长了，不废话了，谭门的弟兄们，还不赶紧转发起来。
 

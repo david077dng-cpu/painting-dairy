@@ -50,7 +50,7 @@ Blossom of Snow.
 
 另外，
 
-小编有个室友叫玉兰![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)，
+小编有个室友叫玉兰![](/images/Blossom_of_Snow_-1.png)，
 
 人如玉兰花一样漂亮~
 

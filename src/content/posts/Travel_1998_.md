@@ -98,7 +98,7 @@ Travel 1998.
 
 ![](/images/image-556.jpg)
 
-    哈哈哈 ![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F604.png)，好有意思的游记，一篇来自98年的游记。
+    哈哈哈 ![](/images/Travel_1998_-1.png)，好有意思的游记，一篇来自98年的游记。
 
     看到他们在人家车里唱反帝反封歌曲那段时，熏疼Doug一秒钟。
 
@@ -110,7 +110,7 @@ Travel 1998.
 
     ![](/images/image-557.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_gif/HWREJselCricicib5QBPGmSm19KO1PcbOEZ2zcmbIskPFv4uiaB33CgXACicpc62kCR5J7jnelm9vm2JaIFdmJ1qXvA/0/gif)
+![](/images/Last_Summer_-2.jpg)
 
 
 

@@ -26,7 +26,7 @@ Cross Talk.
 
 听台上两个人互损，
 
-有时还会“动手”![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
+有时还会“动手”![](/images/Be_Your_Support_-1.png)，
 
 超级有意思～
 
@@ -46,7 +46,7 @@ Cross Talk.
 
 欢迎点赞、留言and转发发发~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKsibk4nhuIshhjr7icPKzhoUJjQicY9ia9ALKMPoHwJbogJ7GkFrtGPGNw0Q/640?wx_fmt=jpeg)
+![](/images/Cross_Talk_-1.jpg)
 
 
 

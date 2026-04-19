@@ -38,7 +38,7 @@ Youth.
 
     这几天已经木有投稿可以画啦~
 
-    大家快来呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+    大家快来呀![](/images/Be_Your_Support_-1.png)。
 
 ![](/images/image-602.jpg)
 

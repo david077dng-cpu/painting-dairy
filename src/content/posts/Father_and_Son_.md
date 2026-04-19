@@ -56,7 +56,7 @@ Father and Son.
 
 好奇小鬼已经成长为翩翩少年啦～
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQXRTUU2lLAiaGZ6Z9ibkdCBfxricVaoVSicJquXxMepbiaDUIdwvzDVLdic7OWylE2Z5Cb4tZCo17PicFCg/640?wx_fmt=jpeg)
+![](/images/Father_and_Son_-1.jpg)
 
 时间真是快呀，
 

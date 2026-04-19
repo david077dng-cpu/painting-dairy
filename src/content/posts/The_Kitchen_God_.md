@@ -28,7 +28,7 @@ The Kitchen God.
 
     画个灶王爷宣传一下传统文化习俗。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTNic6uL3XVgVqQgr6KEO8AcS1htfyfWGJRodGyf3c2TBxDXF6LuoXxkcZgkj8SBV0ficWQeJXAZp5g/640?wx_fmt=jpeg)
+![](/images/The_Kitchen_God_-1.jpg)
 
 如此清新脱俗的年画风有木有很意外![](/images/image-7.png)~
 
@@ -46,7 +46,7 @@ The Kitchen God.
 
 mua![](/images/image-151.png), love you all.
 
-晚安![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_75.png)~
+晚安![](/images/The_Kitchen_God_-2.png)~
 
 ![](/images/image-499.jpg)
 

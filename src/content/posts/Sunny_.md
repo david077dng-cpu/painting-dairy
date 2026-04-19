@@ -34,7 +34,7 @@ Sanny Sanny
 
 看照片中的背影就能感受到满满的好心情～
 
-真心祝福㊗️![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_15.png)～
+真心祝福㊗️![](/images/Sunny_-1.png)～
 
 欢迎评论、转发，喜欢的给个"在看"～
 

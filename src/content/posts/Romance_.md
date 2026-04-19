@@ -62,7 +62,7 @@ Romance.
 
 虽然小编也去过山西，
 
-但是可能被当地的好吃的蒙蔽住了双眼![](/images/image-5.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
+但是可能被当地的好吃的蒙蔽住了双眼![](/images/image-5.png)![](/images/Be_Your_Support_-1.png)，
 
 错过了这么美的故事，
 

@@ -84,7 +84,7 @@ ZJ ZJ
 
 现在两校又手拉手一起搬到了津南，
 
-真是羡煞旁校啊![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+真是羡煞旁校啊![](/images/Be_Your_Support_-1.png)。
 
 
 

@@ -28,7 +28,7 @@ Happy Valentine’s Day.
 
 祝有对象的朋友们过得幸福。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTcRDNuSrficiajicWibLWFMT1ekOicB1aAy416zWRxoiaOSpickibfYALUibIauYWPCiahm0V6iaMawUqp71rvQ/640?wx_fmt=jpeg)
+![](/images/Happy_Valentine_s_Day_-1.jpg)
 
 欢迎评论、点赞and转发~
 

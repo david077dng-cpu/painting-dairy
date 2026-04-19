@@ -46,7 +46,7 @@ I Love NKU.
 
 今天画的头晕眼花，
 
-画窗户居然让我回想起被答题卡支配的恐惧![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+画窗户居然让我回想起被答题卡支配的恐惧![](/images/Best_Regards_-1.png)，
 
 明天画天大，
 

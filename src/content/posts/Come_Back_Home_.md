@@ -40,7 +40,7 @@ Come Back Home.
 
 ![](/images/image-120.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTnrTibDKXINtlnvKvVGDmEmDtItuYmsd4C8fCQKeJjh87Xak6Tt4yC2uPCkLERajKocolqmDibUeWA/0?wx_fmt=jpeg)
+![](/images/Come_Back_Home_-1.jpg)
 
 在这呼吁大家，
 

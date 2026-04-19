@@ -35,7 +35,7 @@ Running to the sea.
 
 ![](/images/image-422.jpg)
 
-果然吃货的游记都是围绕美食展开的![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQ3fibhxt5EbcnBPBorFWcAbJ26yjcicbuIww1bJ9k0kPBNDOOI52ibWvD8lY78r7DrN68HqDZyNN35A/640?wx_fmt=png)……
+果然吃货的游记都是围绕美食展开的![](/images/Running_to_the_sea_-1.png)……
 
 这是疫情爆发以来出门最远的一次，
 

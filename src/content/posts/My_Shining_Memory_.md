@@ -52,7 +52,7 @@ Young Young
 
 小时候最喜欢上房玩，
 
-和二姐在房顶子上可以“忙活”一整天![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)。
+和二姐在房顶子上可以“忙活”一整天![](/images/Last_Summer_-1.png)。
 
 最正宗的老家记忆，
 

@@ -32,7 +32,7 @@ The Beaten Path.
 
 ![](/images/image-469.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTEFCWuic3BDAFppfpEDgVdicuUAGMlLAbdgvNgu8M5zgF75O4aHBQ27w46YYNcE3rkFho4Z9GzmXrg/640?wx_fmt=jpeg)
+![](/images/The_Beaten_Path_-1.jpg)
 
 ![](/images/image-470.jpg)
 

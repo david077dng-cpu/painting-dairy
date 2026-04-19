@@ -56,7 +56,7 @@ The Fairyland in the Rain.
 
 真是对我耐心的极大考验![](/images/image-5.png)，
 
-我的灵魂好像都受到了升华![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)，
+我的灵魂好像都受到了升华![](/images/Be_Your_Support_-1.png)，
 
 之前去色达就想画那片红房子的，
 

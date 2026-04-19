@@ -16,7 +16,7 @@ Life is Short.
 
 今天的画风有点公众号初期的感觉![](/images/image-56.png)，
 
-感谢大家还点进来看![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+感谢大家还点进来看![](/images/Be_Your_Support_-1.png)。
 
 这周确实有些事儿很想记录和分享一下。
 

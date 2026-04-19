@@ -24,7 +24,7 @@ Winter Solstice.
 
 ![](/images/image-178.jpg)
 
-诸君有没有看出来图中的“冬至”![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。
+诸君有没有看出来图中的“冬至”![](/images/Blossom_of_Snow_-1.png)。
 
 欢迎转发或留言~ 比心![](/images/image-179.png)~
 

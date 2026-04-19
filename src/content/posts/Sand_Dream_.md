@@ -38,7 +38,7 @@ Sand Dream.
 
 少了些水彩的随意感，
 
-以后会多注意展现意境![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_30.png)。
+以后会多注意展现意境![](/images/Sand_Dream_-1.png)。
 
 欢迎点赞、留言and转发发发~
 

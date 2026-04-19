@@ -52,7 +52,7 @@ Spring on the West Lake.
 
 ![](/images/image-178.gif)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTe76aiaKc2ft2Um1ny2J5xUksyE1dyyubO5ic2eYAYfFYqyW1QxIK6NJlg8BFicU0JsqMALFtpFtkpA/640?wx_fmt=jpeg)
+![](/images/Spring_on_the_West_Lake_-1.jpg)
 
 ![](/images/image-5.gif)
 

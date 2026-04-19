@@ -28,7 +28,7 @@ Say Goodbye to November
 
 ![](/images/image-429.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjSFDYUPrLCL6PHElAeiadyexDGibA1RTwiaL2CtP60lmbKXXErLwibqSUAey1dBId5CZWtgOhtF5peAYg/0?wx_fmt=jpeg)
+![](/images/Say_Goodbye_to_November-1.jpg)
 
 ![](/images/image-430.jpg)
 

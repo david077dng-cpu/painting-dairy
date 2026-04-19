@@ -60,7 +60,7 @@ Say Cheese.
 
     好的，先成功了一个。然后根据微信列表的在杭州的异性，从上往下开始一个一个地问过去。
 
-![](http://mmbiz.qpic.cn/mmbiz_png/FTEqN5H8LavxxWGnauIsFLKHtG3Q9U4OJdMA7snOibEhb6XePMic0qdzECzbkTVL2geDWvicxBe13DxXnO9O08dvg/0/png)
+![](/images/Say_Cheese_-1.jpg)
 
 妹子n
 

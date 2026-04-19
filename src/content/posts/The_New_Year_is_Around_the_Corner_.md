@@ -38,7 +38,7 @@ The New Year is Around the Corner.
 
 ![](/images/image-154.gif)
 
-希望今天画风没吓着大伙儿![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)，
+希望今天画风没吓着大伙儿![](/images/Last_Summer_-1.png)，
 
 给大伙儿拜年啦![](/images/image-97.png)～
 

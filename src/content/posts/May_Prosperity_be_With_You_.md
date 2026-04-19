@@ -28,6 +28,6 @@ May Prosperity be With You.
 
 ![](/images/image-305.gif)
 
-欢迎点赞、评论 and 转發發發發發![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_44.png)~
+欢迎点赞、评论 and 转發發發發發![](/images/May_Prosperity_be_With_You_-1.png)~
 
 ![](/images/image-2.png)

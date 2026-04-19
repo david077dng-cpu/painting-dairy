@@ -24,7 +24,7 @@ One Day Off.
 
 配上甜甜的彩椒、厚厚的奶油蘑菇浓汤和脆脆焦焦的蒜香面包，
 
-可以回味一周![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_2.png)～
+可以回味一周![](/images/One_Day_Off_-1.png)～
 
 ![](/images/image-376.jpg)
 

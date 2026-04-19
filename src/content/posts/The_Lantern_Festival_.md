@@ -46,7 +46,7 @@ The Lantern Festival.
 
 可画完的第一个感受是——
 
-我想吃“冰淇淋的诱惑”了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)
+我想吃“冰淇淋的诱惑”了![](/images/Best_Regards_-1.png)
 
 ![](/images/image-502.png)
 

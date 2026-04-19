@@ -62,7 +62,7 @@ Little Artist.
 
 今天不仅练习了画人
 
-儿童简笔画也得到了很好的锻炼![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+儿童简笔画也得到了很好的锻炼![](/images/Be_Your_Support_-1.png)。
 
 感谢每一个投稿的人～
 

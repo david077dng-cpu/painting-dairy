@@ -46,7 +46,7 @@ Panda’s Breakfast.
 
 ![](/images/image-396.gif)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQQnPpJQLqTFDO5nmTGDYKs1ChdMFannZROYPHRmZWzdWaROKrwia9He7pZhFrbTKXBBsC3Yhnibmhw/640?wx_fmt=jpeg)
+![](/images/Companion_-1.jpg)
 
 欢迎点赞、留言and转发发发~
 

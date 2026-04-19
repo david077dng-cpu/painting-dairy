@@ -46,7 +46,7 @@ Painting Diary第一期就是去年画的月牙楼，
 
 可能是心境有了变化吧，
 
-或者和我最近换了水彩纸有关![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)。
+或者和我最近换了水彩纸有关![](/images/Be_Your_Support_-1.png)。
 
 总之月牙楼是我最爱的地方，
 

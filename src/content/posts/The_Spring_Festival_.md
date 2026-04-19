@@ -40,7 +40,7 @@ The Spring Festival.
 
 赶走病毒。
 
-![](/images/image-522.jpg)![](/images/image-522.jpg)![](/images/image-522.jpg)![](/images/image-157.jpg)![](/images/image-157.jpg)![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTiaGVrg74fciamQLfQr7l5sMjb35mDOjKMcDEKQEWunP7VNDOQfHEq4MLSibbkBnO3kQsTArVnTSmHQ/640?wx_fmt=jpeg)
+![](/images/image-522.jpg)![](/images/image-522.jpg)![](/images/image-522.jpg)![](/images/image-157.jpg)![](/images/image-157.jpg)![](/images/The_Spring_Festival_-1.jpg)
 
 
 

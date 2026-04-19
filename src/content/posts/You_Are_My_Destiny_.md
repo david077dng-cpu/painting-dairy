@@ -50,7 +50,7 @@ You Are My Destiny.
 
 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjQOXhFOciaoia4mM8E6H50IFIaK6bYSAG1eu0aOdQ0ib3Y5L4Bo9xRicuibuoj2BIo6y4ibucics8b03Lichg/0?wx_fmt=jpeg)
+![](/images/You_Are_My_Destiny_-1.jpg)
 
     每一年的跨年我们都在一起，
 
@@ -114,7 +114,7 @@ You Are My Destiny.
 
     希望Sophiee一直这么幸福快乐！
 
-    单身的同胞们千万不要取关呀![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)。
+    单身的同胞们千万不要取关呀![](/images/Best_Regards_-1.png)。
 
     多投稿就不会一直秀恩爱了![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)。
 

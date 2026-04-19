@@ -40,7 +40,7 @@ Mercy.
 
     图片来源：我在故宫修文物
 
-    今天在画菩萨时，脑海中就闪现了这句话。画完的菩萨笑容有点诡异啊![](/images/image-1.png)，但我发誓，我是个好人。![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F602.png)
+    今天在画菩萨时，脑海中就闪现了这句话。画完的菩萨笑容有点诡异啊![](/images/image-1.png)，但我发誓，我是个好人。![](/images/Be_Your_Support_-1.png)
 
     ![](/images/image-309.jpg)
 

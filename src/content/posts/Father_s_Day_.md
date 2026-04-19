@@ -32,7 +32,7 @@ Father's Day.
 
 今天画的就是父亲大人。
 
-不上班的日子就巡查阳台两三遍![](https://mmbiz.qpic.cn/mmbiz_png/9FicrUzQHkjQiakIicq69rP6jMvyHT15GI3diaZd4DQSnHv1KyPwkHoD4uzJc7lFqyC7JVGpS2Qbz9aQE6TJn9H8OA/640?wx_fmt=png)，
+不上班的日子就巡查阳台两三遍![](/images/Father_s_Day_-1.png)，
 
 向花花草草行注目礼。
 

@@ -52,7 +52,7 @@ The Milkmaid.
 
 ……
 
-他家女仆还都挺美的![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_20.png)
+他家女仆还都挺美的![](/images/Last_Summer_-1.png)
 
 ![](/images/image-509.jpg)
 

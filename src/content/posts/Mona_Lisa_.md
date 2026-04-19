@@ -44,7 +44,7 @@ you'd be my Mona Lisa.
 
 蒙娜丽莎超级小一幅，
 
-会有点失望![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_12.png)，
+会有点失望![](/images/Enjoy_Your_Weekend_-1.png)，
 
 可是我还是想去看一下，
 
@@ -68,5 +68,5 @@ you'd be my Mona Lisa.
 
 
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/Cafe_Terrace_at_Night_-1.gif)
 

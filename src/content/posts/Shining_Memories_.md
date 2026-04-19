@@ -18,7 +18,7 @@ Shining Memories.
 
     当时好2啊![](/images/image-1.png)，
 
-    而且最2的那个还在拍照![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_02.png)，
+    而且最2的那个还在拍照![](/images/Blossom_of_Snow_-1.png)，
 
     难以想象她入镜是啥样的，
 
@@ -40,7 +40,7 @@ Shining Memories.
 
     怎么画都画不出来心中的感觉，
 
-    还是得勤加练习![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_30.png)。
+    还是得勤加练习![](/images/Sand_Dream_-1.png)。
 
     欢迎评论、转发and投稿~
 

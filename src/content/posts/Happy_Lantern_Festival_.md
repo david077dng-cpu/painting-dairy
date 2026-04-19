@@ -34,7 +34,7 @@ Happy Lantern Festival~
 
 ![](/images/image-229.jpg)
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQicTsKAy7lRggULzQ6DxR9UJOHy6MRzqC7hZ2mxjhbwONBhEU5xkmUZw2gt1nQNibmoYpmY2MYzAaw/640?wx_fmt=gif)
+![](/images/Happy_Lantern_Festival_-1.gif)
 
 好啦，祝大家周末愉快，
 

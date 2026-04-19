@@ -42,7 +42,7 @@ High Five~
 
 有没有感受到解放的喜悦气氛~
 
-要上班了，同志们加油![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F4AA.0.png)
+要上班了，同志们加油![](/images/Girl_with_a_Pearl_Earring-1.png)
 
 好啦，欢迎评论、点赞and转发~
 

@@ -22,7 +22,7 @@ Eternity.
 
 ![](/images/image-166.jpg)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTPZjPr7ibdD3S8jW2EXXK9FLCKic5gAWkVZdc5MXN5XUeeUKOBpEXedssVLCGdtymHcXQzKCWZspfQ/0?wx_fmt=jpeg)
+![](/images/Eternity_-1.jpg)
 
     别看今天只画了一个小物件，
 
@@ -32,7 +32,7 @@ Eternity.
 
     由衷佩服这些设计师工匠们👏。
 
-    好啦，我接着看去啦![](/images/image-16.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_04.png)。
+    好啦，我接着看去啦![](/images/image-16.png)![](/images/Eternity_-2.png)。
 
     Enjoy your weekend~
 

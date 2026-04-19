@@ -58,7 +58,7 @@ The Green Sofa.
 
 ![](/images/image-31.jpg)
 
-今天的西方美女让我画成了东方美人![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+今天的西方美女让我画成了东方美人![](/images/Best_Regards_-1.png)，
 
 下次继续努力，
 

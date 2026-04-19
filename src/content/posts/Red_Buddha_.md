@@ -52,7 +52,7 @@ Red Buddha.
 
 ![](/images/image-123.jpg)
 
-今天这张算是初次尝试，还很不成熟![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_05.png)，
+今天这张算是初次尝试，还很不成熟![](/images/Best_Regards_-1.png)，
 
 不过我一直想要摆脱之前拘泥于细节的作画方式，
 

@@ -37,4 +37,4 @@ Yesterday Once More
 
     喜欢的话欢迎订阅公众号~ 更加欢迎点赞或转发转发转发~~~
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/9FicrUzQHkjTCCj06QaNYiaByEEhwANjl3pKORHw4Y223hAQraPH3g5kqSj3QPia85GI2K2ELiakqqy36iaZhicj6RGQ/0?wx_fmt=jpeg)
+![](/images/Inner_Peace-1.jpg)

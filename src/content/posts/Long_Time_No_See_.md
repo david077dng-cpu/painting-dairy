@@ -37,7 +37,7 @@ Long Time No See.
 
 ![](/images/image-91.jpg)
 
-![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_ios/u1F633.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_18.png)“你把我咖啡吐出来！！”
+![](/images/Long_Time_No_See_-1.png)![](https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_18.png)“你把我咖啡吐出来！！”
 最后我终于拿到了三爷的墨宝，
 独家订制cp，
 
@@ -54,7 +54,7 @@ Long Time No See.
 
 
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/9FicrUzQHkjQ1U6fBpWKudpYHTw2VQ8Fh3wibSCLBicicfibxZjSgcjJWoKEXLTozNpiaOuRm15MU0KrI9oHYiaEiaVlKw/640?wx_fmt=gif)
+![](/images/Cafe_Terrace_at_Night_-1.gif)
 
 
 
