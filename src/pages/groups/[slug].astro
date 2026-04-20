@@ -147,7 +147,7 @@ const basePath = import.meta.env.BASE_URL;
 ---
 
 <BaseLayout title={`${groupNamesMap[decodedGroupName] || decodedGroupName} · 李春晓`}>
-  <main style="max-width:760px; margin:0 auto; padding:8rem 2rem 5rem;">
+  <main style="max-width:1200px; margin:0 auto; padding:8rem 2rem 5rem;">
     <div style="margin-bottom:3rem;">
       <a
         href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}groups`}
@@ -179,7 +179,7 @@ const basePath = import.meta.env.BASE_URL;
               href={`${basePath.endsWith('/') ? basePath : `${basePath}/`}content/group/${encodeURIComponent(decodedGroupName)}/${encodeURIComponent(item)}/index.html`}
               target="_blank"
               rel="noopener noreferrer"
-              style="display:block; width:calc((100% - 2 * 1.5rem) / 3); text-decoration:none; background:var(--warm-white); border-radius:20px; overflow:hidden; box-shadow:0 2px 12px rgba(0,0,0,.06); transition:transform 0.25s,box-shadow 0.25s; margin-bottom: 1.5rem;"
+              style="display:block; text-decoration:none; background:var(--warm-white); border-radius:20px; overflow:hidden; box-shadow:0 2px 12px rgba(0,0,0,.06); transition:transform 0.25s,box-shadow 0.25s;"
               onmouseover="this.style.transform='translateY(-4px)';this.style.box-shadow='0 10px 30px rgba(0,0,0,.1)'"
               onmouseout="this.style.transform='';this.style.box-shadow='0 2px 12px rgba(0,0,0,.06)'"
             >
@@ -216,7 +216,9 @@ const basePath = import.meta.env.BASE_URL;
   (function() {
     function getColumnCount() {
       const width = window.innerWidth;
-      if (width >= 768) {
+      if (width >= 1200) {
+        return 4; // 大屏：4列
+      } else if (width >= 768) {
         return 3; // 桌面：3列
       } else if (width >= 480) {
         return 2; // 平板：2列
@@ -240,18 +242,24 @@ const basePath = import.meta.env.BASE_URL;
       // 初始化每列高度数组，每一列开始都是 0
       const columnHeights = new Array(columnCount).fill(0);
 
-      items.forEach((item) => {
+      const fullRows = Math.floor(items.length / columnCount);
+
+      items.forEach((item, index) => {
         item.style.width = columnWidth + 'px';
         item.style.position = 'absolute';
 
-        // 核心算法：找到当前高度最小的那一列，把卡片放进去
-        // 这样就能实现真正的错落 - 每个新卡片都会跳到当前最矮的列下面
-        const minHeight = Math.min(...columnHeights);
-        const columnIndex = columnHeights.indexOf(minHeight);
+        let columnIndex;
+        if (index < fullRows * columnCount) {
+          // 完整行先行后列：严格按行优先顺序排列
+          columnIndex = index % columnCount;
+        } else {
+          // 剩余卡片放到最矮列，自动平衡高度减少空白
+          const minHeight = Math.min(...columnHeights);
+          columnIndex = columnHeights.indexOf(minHeight);
+        }
 
-        // 计算位置
+        const top = columnHeights[columnIndex];
         const left = columnIndex * (columnWidth + gap);
-        const top = minHeight;
 
         item.style.left = left + 'px';
         item.style.top = top + 'px';
@@ -264,10 +272,24 @@ const basePath = import.meta.env.BASE_URL;
       container.style.height = Math.max(...columnHeights) + 'px';
     }
 
-    // 等所有图片加载完再布局，否则高度计算不准确
-    window.addEventListener('load', () => {
+    // 必须等所有图片加载完才能正确计算高度
+    if (document.readyState === 'complete') {
+      // 页面已经加载完成
       setTimeout(initMasonry, 100);
-    });
+    } else if (document.readyState === 'loading') {
+      // DOM 加载完后先试一次，所有资源加载完再最终布局
+      document.addEventListener('DOMContentLoaded', () => {
+        setTimeout(initMasonry, 100);
+      });
+      window.addEventListener('load', () => {
+        setTimeout(initMasonry, 200);
+      });
+    } else {
+      // DOM 已加载完，等所有图片
+      window.addEventListener('load', () => {
+        setTimeout(initMasonry, 200);
+      });
+    }
 
     // 窗口大小改变时重新布局
     let resizeTimer;

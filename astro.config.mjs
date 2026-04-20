@@ -8,6 +8,11 @@ export default defineConfig({
   adapter: node({
     mode: 'standalone',
   }),
+  session: {
+    entryPoint: {
+      driver: 'memory',
+    }
+  },
   build: {
     inlineStylesheets: 'always',
   },
