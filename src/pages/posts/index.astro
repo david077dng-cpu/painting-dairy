@@ -367,21 +367,23 @@ const initialCount = recentArticles.length;
       // 初始化每列高度
       const columnHeights = new Array(columnCount).fill(0);
 
-      // 严格先行后列：一行一行从左到右填充，每个卡片按顺序放
-      // index 0-3 → 第一行（列 0-3），index 4-7 → 第二行（列 0-3）...
-      items.forEach((item, index) => {
+      // 保持卡片原有顺序，依次放到当前高度最小的列中
+      // 这样自动平衡高度：高列自然少放卡片，矮列多放，整体更均匀
+      // 如果某一列因为长帖子变高了，后续卡片自动去更矮的列，正好满足需求
+      items.forEach((item) => {
         item.style.width = columnWidth + 'px';
         item.style.position = 'absolute';
 
-        // 严格按行优先：每个卡片固定列索引
-        const columnIndex = index % columnCount;
-        const top = columnHeights[columnIndex];
+        // 找到当前高度最小的列，把卡片放进去
+        const minHeight = Math.min(...columnHeights);
+        const columnIndex = columnHeights.indexOf(minHeight);
+        const top = minHeight;
         const left = columnIndex * (columnWidth + gap);
 
         item.style.left = left + 'px';
         item.style.top = top + 'px';
 
-        // 更新列高度，继续放这一列的下一个卡片（下一行）
+        // 更新列高度
         columnHeights[columnIndex] += item.offsetHeight + gap;
       });
 
