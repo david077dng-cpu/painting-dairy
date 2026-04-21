@@ -29,7 +29,8 @@ function isLikelyQrCodeOrIcon(filePath: string, size: number): boolean {
   }
 }
 
-// 收集所有文章
+// 收集所有文章 - /posts 页面只显示 src/content/posts/ 中的 markdown 文章
+// public/content/group/ 的文章只在 /groups 分类浏览页面显示
 interface ArticleInfo {
   groupName: string;
   articleDir: string;
@@ -42,129 +43,7 @@ interface ArticleInfo {
 
 const allArticles: ArticleInfo[] = [];
 
-// 递归遍历所有分组，找到所有文章目录
-if (fs.existsSync(contentRoot)) {
-  const groupNames = fs.readdirSync(contentRoot).filter(f =>
-    fs.statSync(path.join(contentRoot, f)).isDirectory()
-  );
-
-  groupNames.forEach(groupName => {
-    const groupPath = path.join(contentRoot, groupName);
-    const articleDirs = fs.readdirSync(groupPath).filter(articleDir =>
-      fs.statSync(path.join(groupPath, articleDir)).isDirectory()
-    );
-
-    articleDirs.forEach(articleDir => {
-      const articleFullPath = path.join(groupPath, articleDir);
-
-      // 找 title 文件
-      const titlePath = path.join(articleFullPath, 'title.txt');
-      let title = articleDir;
-      if (fs.existsSync(titlePath)) {
-        title = fs.readFileSync(titlePath, 'utf-8').trim();
-      }
-
-      // 找封面图片：选择体积最大且不是二维码的图片
-      let coverImage: string | null = null;
-
-      // 先找 assets 目录
-      const assetsDir = path.join(articleFullPath, 'assets');
-      if (fs.existsSync(assetsDir)) {
-        let images = fs.readdirSync(assetsDir)
-          .filter(f => /\.(jpg|jpeg|png|gif|webp)$/i.test(f))
-          // 过滤掉二维码、emoji、表情包（按文件名）
-          .filter(f => {
-            const lower = f.toLowerCase();
-            if (lower.includes('qrcode') || lower.includes('二维码') ||
-                lower.includes('emoji') || lower.includes('表情') ||
-                lower.includes('icon') || lower.includes('logo') ||
-                lower.includes('关注') || lower.includes('公众号') ||
-                lower.includes('欢迎') || lower.includes('结尾') ||
-                lower.includes('footer')) {
-              return false;
-            }
-            return true;
-          })
-          // 按文件大小降序排序，取最大的一张（质量最好）
-          .map(f => {
-            const filePath = path.join(assetsDir, f);
-            const stat = fs.statSync(filePath);
-            return { file: f, size: stat.size, path: filePath };
-          })
-          .sort((a, b) => b.size - a.size)
-          // 智能过滤：去掉接近正方形的小图（很可能是二维码）
-          .filter(img => !isLikelyQrCodeOrIcon(img.path, img.size));
-
-        // 找到第一张符合条件的图片
-        if (images.length > 0) {
-          coverImage = `/content/group/${encodeURIComponent(groupName)}/${encodeURIComponent(articleDir)}/assets/${images[0].file}`;
-        }
-      }
-
-      // 如果 assets 目录没找到，直接在文章目录找
-      if (!coverImage) {
-        let images = fs.readdirSync(articleFullPath)
-          .filter(f => /\.(jpg|jpeg|png|gif|webp)$/i.test(f))
-          // 过滤掉二维码、emoji、表情包（按文件名）
-          .filter(f => {
-            const lower = f.toLowerCase();
-            if (lower.includes('qrcode') || lower.includes('二维码') ||
-                lower.includes('emoji') || lower.includes('表情') ||
-                lower.includes('icon') || lower.includes('logo') ||
-                lower.includes('关注') || lower.includes('公众号') ||
-                lower.includes('欢迎') || lower.includes('结尾') ||
-                lower.includes('footer')) {
-              return false;
-            }
-            return true;
-          })
-          // 按文件大小降序排序，取最大的一张
-          .map(f => {
-            const filePath = path.join(articleFullPath, f);
-            const stat = fs.statSync(filePath);
-            return { file: f, size: stat.size, path: filePath };
-          })
-          .sort((a, b) => b.size - a.size)
-          // 智能过滤：去掉接近正方形的小图（很可能是二维码）
-          .filter(img => !isLikelyQrCodeOrIcon(img.path, img.size));
-
-        if (images.length > 0) {
-          coverImage = `/content/group/${encodeURIComponent(groupName)}/${encodeURIComponent(articleDir)}/${images[0].file}`;
-        }
-      }
-
-      // 从文章目录名提取日期 (格式: YYYY-MM-DD 标题)
-      let dateStamp: number;
-      const dateMatch = articleDir.match(/^(\d{4})-(\d{2})-(\d{2})\s/);
-      if (dateMatch) {
-        // 有日期前缀，使用该日期排序
-        const [year, month, day] = dateMatch.slice(1).map(Number);
-        dateStamp = new Date(year, month - 1, day).getTime();
-      } else {
-        // 没有日期前缀，使用文件修改时间
-        const stat = fs.statSync(articleFullPath);
-        dateStamp = stat.mtimeMs;
-      }
-
-      // slug: 文章链接格式 /posts/group-article-slug
-      // 实际链接是由微信同步脚本生成的 markdown 在 src/content/posts/
-      // 我们这里用 groupName + articleDir 作为 slug
-      const slug = `${groupName}-${articleDir}`.replace(/\s+/g, '-');
-
-      allArticles.push({
-        groupName,
-        articleDir,
-        fullPath: articleFullPath,
-        slug,
-        title,
-        coverImage,
-        dateStamp,
-      });
-    });
-  });
-}
-
-// Add standalone markdown posts from src/content/posts/
+// Add markdown posts from src/content/posts/
 const postsRoot = path.resolve(process.cwd(), 'src/content/posts');
 if (fs.existsSync(postsRoot)) {
   const mdFiles = fs.readdirSync(postsRoot).filter(f => f.endsWith('.md'));
@@ -192,8 +71,14 @@ if (fs.existsSync(postsRoot)) {
       coverImage = coverMatch[1];
     }
 
+    // 从 frontmatter 获取 category
+    let groupName = 'Painting Diary';
+    if (frontmatter.category) {
+      groupName = frontmatter.category;
+    }
+
     allArticles.push({
-      groupName: 'Painting Diary',
+      groupName,
       articleDir: file,
       fullPath,
       slug,
