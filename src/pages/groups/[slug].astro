@@ -242,29 +242,20 @@ const basePath = import.meta.env.BASE_URL;
       // 初始化每列高度数组，每一列开始都是 0
       const columnHeights = new Array(columnCount).fill(0);
 
-      const fullRows = Math.floor(items.length / columnCount);
-
       items.forEach((item, index) => {
         item.style.width = columnWidth + 'px';
         item.style.position = 'absolute';
 
-        let columnIndex;
-        if (index < fullRows * columnCount) {
-          // 完整行先行后列：严格按行优先顺序排列
-          columnIndex = index % columnCount;
-        } else {
-          // 剩余卡片放到最矮列，自动平衡高度减少空白
-          const minHeight = Math.min(...columnHeights);
-          columnIndex = columnHeights.indexOf(minHeight);
-        }
-
+        // 严格先行后列：一行一行从左到右填充，每个卡片按顺序放
+        // index 0-3 → 第一行（列 0-3），index 4-7 → 第二行（列 0-3）...
+        const columnIndex = index % columnCount;
         const top = columnHeights[columnIndex];
         const left = columnIndex * (columnWidth + gap);
 
         item.style.left = left + 'px';
         item.style.top = top + 'px';
 
-        // 更新这一列的高度
+        // 更新这一列的高度，继续放这一列的下一个卡片（下一行）
         columnHeights[columnIndex] += item.offsetHeight + gap;
       });
 
@@ -272,23 +263,20 @@ const basePath = import.meta.env.BASE_URL;
       container.style.height = Math.max(...columnHeights) + 'px';
     }
 
-    // 必须等所有图片加载完才能正确计算高度
+    // DOM 就绪后立即布局，让用户尽快看到内容
+    // 所有图片加载完成后再重新布局一次校正位置
+    function runInitMasonry() {
+      setTimeout(initMasonry, 0);
+    }
+
     if (document.readyState === 'complete') {
-      // 页面已经加载完成
-      setTimeout(initMasonry, 100);
+      runInitMasonry();
     } else if (document.readyState === 'loading') {
-      // DOM 加载完后先试一次，所有资源加载完再最终布局
-      document.addEventListener('DOMContentLoaded', () => {
-        setTimeout(initMasonry, 100);
-      });
-      window.addEventListener('load', () => {
-        setTimeout(initMasonry, 200);
-      });
+      document.addEventListener('DOMContentLoaded', runInitMasonry);
+      window.addEventListener('load', () => setTimeout(initMasonry, 100));
     } else {
-      // DOM 已加载完，等所有图片
-      window.addEventListener('load', () => {
-        setTimeout(initMasonry, 200);
-      });
+      runInitMasonry();
+      window.addEventListener('load', () => setTimeout(initMasonry, 100));
     }
 
     // 窗口大小改变时重新布局
