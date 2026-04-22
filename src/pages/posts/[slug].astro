@@ -60,25 +60,53 @@ if (content.startsWith('---')) {
   }
 }
 
-// 移除微信公众号复制过来末尾的 JS 防复制代码
+// 移除微信公众号复制过来末尾的 JS 防复制代码，以及开头的 boilerplate 文本
 const lines = content.split('\n');
-const cleanedLines = lines.filter(line => {
+let cleanedLines = lines.filter(line => {
   const trimmed = line.trim();
   // 过滤掉以 var 开头的 JS 代码行
   if (trimmed.startsWith('var ') || trimmed.startsWith('document.') || trimmed.startsWith('e.')) {
     return false;
   }
-  // 过滤掉空行和注释行，如果全过滤了也没关系
-  return trimmed !== '' || !trimmed.startsWith('first_sc');
+  // 过滤掉微信公众号 boilerplate 文本（开头的原创信息和推广链接）
+  if (trimmed.startsWith('原创 ') ||
+      trimmed.includes('LCX PaintingDiary') ||
+      trimmed.includes('在小说阅读器读本章') ||
+      trimmed.includes('去阅读') ||
+      trimmed.includes('在小说阅读器中沉浸阅读') ||
+      trimmed.includes('阅读更多')) {
+    return false;
+  }
+  // 只过滤注释行，保留空行用于段落分隔
+  if (trimmed.startsWith('first_sc')) {
+    return false;
+  }
+  return true;
 });
 
-// 如果过滤后是空行太多，压缩一下
-content = cleanedLines.filter(line => line.trim() !== '').join('\n');
-// 如果最后还是有 JS 痕迹，直接截断到最后一个空行
+// 移除开头连续的空行和残留的 boilerplate
+let startIndex = 0;
+while (startIndex < cleanedLines.length && cleanedLines[startIndex].trim() === '') {
+  startIndex++;
+}
+while (startIndex < cleanedLines.length) {
+  const trimmed = cleanedLines[startIndex].trim();
+  if (trimmed === '' || trimmed.startsWith('原创') || trimmed.includes('LCX') || trimmed.includes('小说阅读器')) {
+    startIndex++;
+  } else {
+    break;
+  }
+}
+cleanedLines = cleanedLines.slice(startIndex);
+
+// 如果最后还是有 JS 痕迹，直接截断到最后一个非空行
 const lastContentLine = cleanedLines.findLastIndex(line => line.trim() !== '');
 if (lastContentLine > 0) {
-  content = cleanedLines.slice(0, lastContentLine + 1).join('\n');
+  cleanedLines = cleanedLines.slice(0, lastContentLine + 1);
 }
+
+// 重新连接，保留段落之间的空行
+content = cleanedLines.join('\n');
 
 // 格式化日期为 YYYY-MM-DD
 let formattedDate: string;
