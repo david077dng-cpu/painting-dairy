@@ -2,7 +2,7 @@
 title: Red Buddha
 date: 2018-07-11
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Red Buddha.

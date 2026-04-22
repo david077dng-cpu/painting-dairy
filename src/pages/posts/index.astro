@@ -6,7 +6,15 @@ import probe from 'probe-image-size';
 import matter from 'gray-matter';
 
 // contentRoot: 公众号同步过来的文章都在这里
-const contentRoot = path.resolve(process.cwd(), 'public/content/group');
+// 在生产环境，public 内容被 Astro 复制到了 dist/client/ 目录
+// 所以尝试多个可能的路径
+let contentRoot = path.resolve(process.cwd(), 'public/content/group');
+if (!fs.existsSync(contentRoot)) {
+  contentRoot = path.resolve(process.cwd(), 'client/content/group');
+}
+if (!fs.existsSync(contentRoot)) {
+  contentRoot = path.resolve(process.cwd(), 'dist/client/content/group');
+}
 
 // 判断是否可能是二维码/图标：接近正方形且体积不大
 function isLikelyQrCodeOrIcon(filePath: string, size: number): boolean {
@@ -181,7 +189,18 @@ if (fs.existsSync(postsRoot)) {
     const slug = file.replace(/\.md$/, '');
     const fullPath = path.join(postsRoot, file);
     const fileContent = fs.readFileSync(fullPath, 'utf-8');
-    const { data: frontmatter, content } = matter(fileContent);
+    let frontmatter: Record<string, any> = {};
+    let content = fileContent;
+
+    // 使用 try-catch 包裹 matter 解析，跳过 YAML 格式错误的文件
+    try {
+      const result = matter(fileContent);
+      frontmatter = result.data;
+      content = result.content;
+    } catch (e) {
+      console.warn(`Failed to parse frontmatter for ${file}, skipping. Error:`, e);
+      return;
+    }
 
     let title = frontmatter.title || slug;
     // 如果标题已经存在，跳过（去重）

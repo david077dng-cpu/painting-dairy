@@ -2,7 +2,7 @@
 title: Shining Memories
 date: 2019-03-21
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Shining Memories.

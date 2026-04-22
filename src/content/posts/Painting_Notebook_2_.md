@@ -2,7 +2,7 @@
 title: Painting Notebook 2
 date: 2018-03-02
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Painting Notebook 2.

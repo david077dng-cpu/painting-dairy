@@ -2,7 +2,7 @@
 title: Thoughts in the Rain
 date: 2017-08-10
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-537.jpg)

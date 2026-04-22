@@ -2,7 +2,7 @@
 title: Beer Bike
 date: 2018-12-16
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-62.jpg)

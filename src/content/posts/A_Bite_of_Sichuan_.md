@@ -2,7 +2,7 @@
 title: A Bite of Sichuan
 date: 2020-04-28
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 A Bite of Sichuan.

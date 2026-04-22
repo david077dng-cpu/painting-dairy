@@ -2,7 +2,7 @@
 title: We Are All Young
 date: 2020-11-11
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 We Are All Young.

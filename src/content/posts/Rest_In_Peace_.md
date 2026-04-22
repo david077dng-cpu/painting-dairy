@@ -2,7 +2,7 @@
 title: Rest In Peace
 date: 2017-03-27
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Rest In Peace.

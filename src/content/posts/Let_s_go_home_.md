@@ -2,7 +2,7 @@
 title: Let's go home
 date: 2017-08-19
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Let's go home.

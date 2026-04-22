@@ -2,7 +2,7 @@
 title: Travel 1998
 date: 2017-11-22
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Travel 1998.

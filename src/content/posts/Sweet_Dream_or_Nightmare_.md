@@ -2,7 +2,7 @@
 title: Sweet Dream or Nightmare
 date: 2017-08-12
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Sweet Dream or Nightmare.

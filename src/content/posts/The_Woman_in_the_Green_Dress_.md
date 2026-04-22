@@ -2,7 +2,7 @@
 title: The Woman in the Green Dress
 date: 2017-04-28
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-530.jpg)

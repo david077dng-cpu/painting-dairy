@@ -2,7 +2,7 @@
 title: The Green Sofa
 date: 2018-05-04
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 The Green Sofa.

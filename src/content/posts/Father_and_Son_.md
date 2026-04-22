@@ -2,7 +2,7 @@
 title: Father and Son
 date: 2017-04-13
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-171.jpg)

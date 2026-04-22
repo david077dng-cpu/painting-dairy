@@ -2,7 +2,7 @@
 title: Final Step
 date: 2019-03-20
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Final Step.

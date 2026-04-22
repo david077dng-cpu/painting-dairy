@@ -2,7 +2,7 @@
 title: My Bedroom in Arles
 date: 2018-07-05
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 My Bedroom in Arles.

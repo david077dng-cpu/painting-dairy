@@ -2,7 +2,7 @@
 title: Painting a Dazzling World
 date: 2017-08-17
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-393.jpg)

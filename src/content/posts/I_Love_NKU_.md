@@ -2,7 +2,7 @@
 title: I Love NKU
 date: 2018-12-24
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 I Love NKU.

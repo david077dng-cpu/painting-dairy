@@ -2,7 +2,7 @@
 title: Blossom of Snow
 date: 2019-09-27
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Blossom of Snow.

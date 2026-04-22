@@ -2,7 +2,7 @@
 title: A Cute Bridge
 date: 2017-05-13
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 A Cute Bridge.

@@ -2,7 +2,7 @@
 title: The Central Axis of Beijing
 date: 2020-06-04
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-476.jpg)

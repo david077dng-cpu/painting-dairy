@@ -2,7 +2,7 @@
 title: ZJU in White
 date: 2019-06-19
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ZJU in White.

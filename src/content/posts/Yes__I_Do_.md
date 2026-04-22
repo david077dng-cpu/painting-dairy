@@ -2,7 +2,7 @@
 title: Yes, I Do
 date: 2020-02-06
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Yes, I Do.

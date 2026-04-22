@@ -2,7 +2,7 @@
 title: Hi December~
 date: 2017-10-12
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Hi December~

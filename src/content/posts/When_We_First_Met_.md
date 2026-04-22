@@ -2,7 +2,7 @@
 title: When We First Met
 date: 2018-12-26
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 When We First Met.

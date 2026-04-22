@@ -2,7 +2,7 @@
 title: Green Book
 date: 2017-03-19
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-210.jpg)

@@ -2,7 +2,7 @@
 title: Zhoushan Campus
 date: 2017-02-24
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Zhoushan Campus.

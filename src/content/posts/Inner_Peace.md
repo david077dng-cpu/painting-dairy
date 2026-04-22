@@ -2,7 +2,7 @@
 title: Inner Peace
 date: 2020-10-03
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Inner Peace

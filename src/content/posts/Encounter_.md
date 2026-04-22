@@ -2,7 +2,7 @@
 title: Encounter
 date: 2020-07-18
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-155.jpg)

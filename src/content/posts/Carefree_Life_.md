@@ -2,7 +2,7 @@
 title: Carefree Life
 date: 2018-08-03
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Carefree Life.

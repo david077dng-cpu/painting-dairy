@@ -2,7 +2,7 @@
 title: A Boat Tour on East Lake
 date: 2017-04-22
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 A Boat Tour on East Lake.

@@ -2,7 +2,7 @@
 title: A Special Day
 date: 2018-06-08
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 A Special Day.

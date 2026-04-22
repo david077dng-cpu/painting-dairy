@@ -2,7 +2,7 @@
 title: One Day In Berlin
 date: 2017-11-23
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-372.jpg)

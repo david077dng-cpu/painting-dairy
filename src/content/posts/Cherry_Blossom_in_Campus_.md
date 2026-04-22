@@ -2,7 +2,7 @@
 title: Cherry Blossom in Campus
 date: 2017-04-25
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Cherry Blossom in Campus.

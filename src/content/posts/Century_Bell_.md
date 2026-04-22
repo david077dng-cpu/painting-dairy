@@ -2,7 +2,7 @@
 title: Century Bell
 date: 2017-09-28
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Century Bell.

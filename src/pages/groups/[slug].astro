@@ -4,8 +4,15 @@ import fs from 'fs';
 import path from 'path';
 import probe from 'probe-image-size';
 
-// PM2 启动时 cwd 就是项目根目录 /var/www/html
-const contentRoot = path.resolve(process.cwd(), 'public/content/group');
+// 在生产环境，public 内容被 Astro 复制到了 dist/client/ 根目录
+// 所以尝试多个可能的路径
+let contentRoot = path.resolve(process.cwd(), 'public/content/group');
+if (!fs.existsSync(contentRoot)) {
+  contentRoot = path.resolve(process.cwd(), 'client/content/group');
+}
+if (!fs.existsSync(contentRoot)) {
+  contentRoot = path.resolve(process.cwd(), 'dist/client/content/group');
+}
 
 const { slug } = Astro.params;
 const decodedGroupName = decodeURIComponent(slug!);

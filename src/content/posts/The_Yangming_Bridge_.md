@@ -2,7 +2,7 @@
 title: The Yangming Bridge
 date: 2020-06-07
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 The Yangming Bridge.

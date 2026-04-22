@@ -2,7 +2,7 @@
 title: Say Goodbye to November
 date: 2019-08-25
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Say Goodbye to November

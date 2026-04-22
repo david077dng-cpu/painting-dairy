@@ -2,7 +2,7 @@
 title: Before Sunrise, Before Sunset, Before Midnight
 date: 2019-11-07
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-65.jpg)

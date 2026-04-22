@@ -2,7 +2,7 @@
 title: Corner
 date: 2019-06-16
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Corner.

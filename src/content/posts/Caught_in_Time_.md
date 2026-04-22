@@ -2,7 +2,7 @@
 title: Caught in Time
 date: 2019-03-22
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-104.jpg)

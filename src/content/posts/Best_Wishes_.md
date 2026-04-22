@@ -2,7 +2,7 @@
 title: Best Wishes
 date: 2017-07-08
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-76.jpg)

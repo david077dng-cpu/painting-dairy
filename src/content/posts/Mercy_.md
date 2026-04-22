@@ -2,7 +2,7 @@
 title: Mercy
 date: 2019-03-18
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Mercy.

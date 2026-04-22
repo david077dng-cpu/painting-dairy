@@ -2,7 +2,7 @@
 title: Good Time
 date: 2017-04-06
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Good Time.

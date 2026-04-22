@@ -2,7 +2,7 @@
 title: Panda’s Breakfast
 date: 2017-05-23
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Panda’s Breakfast.

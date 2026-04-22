@@ -2,7 +2,7 @@
 title: A Bite of Tianjin
 date: 2018-04-11
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 A Bite of Tianjin.

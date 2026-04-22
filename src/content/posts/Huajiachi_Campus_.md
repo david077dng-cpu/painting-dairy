@@ -2,7 +2,7 @@
 title: Huajiachi Campus
 date: 2018-03-05
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Huajiachi Campus.

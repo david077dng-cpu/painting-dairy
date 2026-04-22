@@ -2,7 +2,7 @@
 title: Life is Short
 date: 2019-05-01
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-280.jpg)

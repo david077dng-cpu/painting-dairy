@@ -2,7 +2,7 @@
 title: Life in Slow Motion
 date: 2020-09-15
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Life in Slow Motion.

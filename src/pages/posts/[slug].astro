@@ -29,7 +29,16 @@ const filePath = path.join(postsDir, matchedFile);
 let fileContent = fs.readFileSync(filePath, 'utf-8');
 
 // 解析 frontmatter，gray-matter 处理
-let { data, content } = matter(fileContent);
+let data: Record<string, any> = {};
+let content = fileContent;
+try {
+  const result = matter(fileContent);
+  data = result.data;
+  content = result.content;
+} catch (e) {
+  console.error(`Failed to parse frontmatter for ${slug}, returning 404. Error:`, e);
+  return Astro.redirect('/404');
+}
 
 // 如果 gray-matter 没有剥离成功（content 仍然包含 --- 开头），手动剥离
 if (content.startsWith('---')) {

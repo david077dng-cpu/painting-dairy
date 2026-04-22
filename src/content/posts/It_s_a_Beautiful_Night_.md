@@ -2,7 +2,7 @@
 title: It's a Beautiful Night
 date: 2018-01-10
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 It's a Beautiful Night.

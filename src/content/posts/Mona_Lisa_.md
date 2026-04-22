@@ -2,7 +2,7 @@
 title: Mona Lisa
 date: 2017-09-17
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Mona Lisa.

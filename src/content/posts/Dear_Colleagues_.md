@@ -2,7 +2,7 @@
 title: Dear Colleagues
 date: 2020-04-10
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-136.jpg)

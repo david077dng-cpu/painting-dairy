@@ -2,7 +2,7 @@
 title: Rome Was Not Built in One Day
 date: 2019-02-23
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Rome Was Not Built in One Day.

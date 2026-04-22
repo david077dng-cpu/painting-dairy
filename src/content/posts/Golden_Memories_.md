@@ -2,7 +2,7 @@
 title: Golden Memories
 date: 2018-09-14
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Golden Memories.

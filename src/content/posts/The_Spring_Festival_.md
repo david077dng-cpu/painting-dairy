@@ -2,7 +2,7 @@
 title: The Spring Festival
 date: 2018-08-20
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-520.jpg)

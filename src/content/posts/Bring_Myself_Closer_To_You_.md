@@ -2,7 +2,7 @@
 title: Bring Myself Closer To You
 date: 2018-11-27
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Bring Myself Closer To You.

@@ -2,7 +2,7 @@
 title: The City of Art
 date: 2020-08-01
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 ![cover_image](/images/image-480.jpg)

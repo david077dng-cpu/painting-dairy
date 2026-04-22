@@ -2,7 +2,7 @@
 title: You Are My Destiny
 date: 2020-11-12
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 You Are My Destiny.

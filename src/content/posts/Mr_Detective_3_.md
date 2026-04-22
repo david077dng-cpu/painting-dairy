@@ -2,7 +2,7 @@
 title: Mr.Detective 3
 date: 2017-10-24
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Mr.Detective 3.

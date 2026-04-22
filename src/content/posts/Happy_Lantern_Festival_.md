@@ -2,7 +2,7 @@
 title: Happy Lantern Festival~
 date: 2019-02-03
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Happy Lantern Festival~

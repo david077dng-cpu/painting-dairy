@@ -2,7 +2,7 @@
 title: Woman with a Parasol
 date: 2019-08-13
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Woman with a Parasol.

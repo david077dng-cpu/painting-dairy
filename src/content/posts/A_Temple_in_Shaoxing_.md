@@ -2,7 +2,7 @@
 title: A Temple in Shaoxing
 date: 2018-10-09
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 A Temple in Shaoxing.

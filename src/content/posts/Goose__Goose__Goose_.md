@@ -2,7 +2,7 @@
 title: Goose, Goose, Goose
 date: 2017-12-25
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 Goose, Goose, Goose.

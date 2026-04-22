@@ -2,7 +2,7 @@
 title: To Hebe
 date: 2019-05-26
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 To Hebe.

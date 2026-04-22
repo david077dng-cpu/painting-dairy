@@ -2,7 +2,7 @@
 title: The Apple of My Eye
 date: 2019-06-12
 category: 随笔
-description: 在小说阅读器中沉浸阅读
+description: "在小说阅读器中沉浸阅读"
 ---
 
 The Apple of My Eye
