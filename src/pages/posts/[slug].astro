@@ -30,13 +30,17 @@ const fileContent = fs.readFileSync(filePath, 'utf-8');
 const { data, content } = matter(fileContent);
 
 // 格式化日期为 YYYY-MM-DD
-let formattedDate = data.date;
+let formattedDate: string;
 if (data.date instanceof Date) {
   formattedDate = data.date.toISOString().split('T')[0];
-} else if (typeof data.date === 'string') {
+} else if (typeof data.date === 'string' && data.date) {
   formattedDate = data.date;
-} else {
+} else if (typeof data.date === 'number') {
   formattedDate = new Date(data.date).toISOString().split('T')[0];
+} else {
+  // Fallback: use file modification time if date is missing/invalid
+  const stat = fs.statSync(filePath);
+  formattedDate = new Date(stat.mtime).toISOString().split('T')[0];
 }
 
 // 渲染 markdown 为 HTML
