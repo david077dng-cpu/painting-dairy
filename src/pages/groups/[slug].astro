@@ -271,14 +271,54 @@ const basePath = import.meta.env.BASE_URL;
       setTimeout(initMasonry, 0);
     }
 
+    // 等待所有图片加载完成后重新布局确保高度正确
+    function waitAllImagesAndRelayout() {
+      const images = Array.from(document.querySelectorAll('#masonry-container img'));
+      let loadedCount = 0;
+      const totalImages = images.length;
+
+      if (totalImages === 0) {
+        initMasonry();
+        return;
+      }
+
+      images.forEach(img => {
+        if (img.complete) {
+          loadedCount++;
+          if (loadedCount === totalImages) {
+            setTimeout(initMasonry, 0);
+          }
+        } else {
+          img.addEventListener('load', () => {
+            loadedCount++;
+            if (loadedCount === totalImages) {
+              setTimeout(initMasonry, 0);
+            }
+          });
+          img.addEventListener('error', () => {
+            loadedCount++;
+            if (loadedCount === totalImages) {
+              setTimeout(initMasonry, 0);
+            }
+          });
+        }
+      });
+
+      // 超时保护，3秒后无论如何都重新布局
+      setTimeout(() => {
+        setTimeout(initMasonry, 0);
+      }, 3000);
+    }
+
     if (document.readyState === 'complete') {
       runInitMasonry();
+      waitAllImagesAndRelayout();
     } else if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', runInitMasonry);
-      window.addEventListener('load', () => setTimeout(initMasonry, 100));
+      window.addEventListener('load', waitAllImagesAndRelayout);
     } else {
       runInitMasonry();
-      window.addEventListener('load', () => setTimeout(initMasonry, 100));
+      window.addEventListener('load', waitAllImagesAndRelayout);
     }
 
     // 窗口大小改变时重新布局

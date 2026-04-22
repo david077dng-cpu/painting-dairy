@@ -412,14 +412,49 @@ const initialCount = recentArticles.length;
         return;
       }
 
+      let imagesLoaded = 0;
+      const totalImages = nextArticles.filter(a => a.coverImage).length;
+
       nextArticles.forEach(article => {
         const el = createArticleElement(article);
         container.appendChild(el);
         currentCount++;
+
+        // 如果这张卡片有图片，等它加载完再重新布局
+        if (article.coverImage) {
+          const img = el.querySelector('img');
+          if (img && !img.complete) {
+            img.addEventListener('load', () => {
+              imagesLoaded++;
+              if (imagesLoaded === totalImages) {
+                // 所有新图片加载完，重新布局
+                setTimeout(initMasonry, 0);
+              }
+            });
+            img.addEventListener('error', () => {
+              imagesLoaded++;
+              if (imagesLoaded === totalImages) {
+                setTimeout(initMasonry, 0);
+              }
+            });
+          } else {
+            // 图片已经缓存加载完了
+            imagesLoaded++;
+          }
+        }
       });
 
-      // 加载完重新布局
-      setTimeout(initMasonry, 50);
+      // 立即布局一次，再等所有图片加载完重新布局校正
+      setTimeout(initMasonry, 0);
+
+      if (totalImages === 0) {
+        // 没有图片，不需要再布局
+      } else {
+        // 如果所有图片都已经缓存加载完，立即重新布局
+        if (imagesLoaded === totalImages) {
+          setTimeout(initMasonry, 50);
+        }
+      }
 
       if (currentCount >= allArticles.length) {
         document.getElementById('loadMoreBtn').style.display = 'none';
@@ -432,14 +467,54 @@ const initialCount = recentArticles.length;
       setTimeout(initMasonry, 0);
     }
 
+    // 等待所有图片加载完成后重新布局确保高度正确
+    function waitAllImagesAndRelayout() {
+      const images = Array.from(document.querySelectorAll('#masonry-container img'));
+      let loadedCount = 0;
+      const totalImages = images.length;
+
+      if (totalImages === 0) {
+        initMasonry();
+        return;
+      }
+
+      images.forEach(img => {
+        if (img.complete) {
+          loadedCount++;
+          if (loadedCount === totalImages) {
+            setTimeout(initMasonry, 0);
+          }
+        } else {
+          img.addEventListener('load', () => {
+            loadedCount++;
+            if (loadedCount === totalImages) {
+              setTimeout(initMasonry, 0);
+            }
+          });
+          img.addEventListener('error', () => {
+            loadedCount++;
+            if (loadedCount === totalImages) {
+              setTimeout(initMasonry, 0);
+            }
+          });
+        }
+      });
+
+      // 超时保护，3秒后无论如何都重新布局
+      setTimeout(() => {
+        setTimeout(initMasonry, 0);
+      }, 3000);
+    }
+
     if (document.readyState === 'complete') {
       runInitMasonry();
+      waitAllImagesAndRelayout();
     } else if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', runInitMasonry);
-      window.addEventListener('load', () => setTimeout(initMasonry, 100));
+      window.addEventListener('load', waitAllImagesAndRelayout);
     } else {
       runInitMasonry();
-      window.addEventListener('load', () => setTimeout(initMasonry, 100));
+      window.addEventListener('load', waitAllImagesAndRelayout);
     }
 
     // 窗口 resize 重新布局
