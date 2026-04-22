@@ -26,8 +26,39 @@ if (!matchedFile) {
 
 // 读取文章内容
 const filePath = path.join(postsDir, matchedFile);
-const fileContent = fs.readFileSync(filePath, 'utf-8');
-const { data, content } = matter(fileContent);
+let fileContent = fs.readFileSync(filePath, 'utf-8');
+
+// 解析 frontmatter，gray-matter 处理
+let { data, content } = matter(fileContent);
+
+// 如果 gray-matter 没有剥离成功（content 仍然包含 --- 开头），手动剥离
+if (content.startsWith('---')) {
+  const lines = fileContent.split('\n');
+  let inFrontmatter = false;
+  const contentLines = [];
+  let foundStart = false;
+  let foundEnd = false;
+
+  for (const line of lines) {
+    if (!foundStart && line.trim() === '---') {
+      foundStart = true;
+      inFrontmatter = true;
+      continue;
+    }
+    if (inFrontmatter && line.trim() === '---') {
+      inFrontmatter = false;
+      foundEnd = true;
+      continue;
+    }
+    if (!inFrontmatter) {
+      contentLines.push(line);
+    }
+  }
+
+  if (foundStart && foundEnd) {
+    content = contentLines.join('\n');
+  }
+}
 
 // 格式化日期为 YYYY-MM-DD
 let formattedDate: string;
