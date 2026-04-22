@@ -30,7 +30,7 @@ function isLikelyQrCodeOrIcon(filePath: string, size: number): boolean {
 }
 
 // 收集所有文章 - 包含 public/content/group/ 和 src/content/posts/
-// 自动去重：如果 slug 重复，只保留一个
+// 自动去重：如果标题重复，只保留一个（有些文章同属于多个分类，只显示一次）
 interface ArticleInfo {
   groupName: string;
   articleDir: string;
@@ -42,7 +42,7 @@ interface ArticleInfo {
 }
 
 const allArticles: ArticleInfo[] = [];
-const existingSlugs = new Set<string>();
+const existingTitles = new Set<string>();
 
 // 先添加 public/content/group/ 的文章（微信同步的完整文章）
 if (fs.existsSync(contentRoot)) {
@@ -64,6 +64,11 @@ if (fs.existsSync(contentRoot)) {
       let title = articleDir;
       if (fs.existsSync(titlePath)) {
         title = fs.readFileSync(titlePath, 'utf-8').trim();
+      }
+
+      // 如果标题已经存在，跳过（去重）
+      if (existingTitles.has(title)) {
+        return;
       }
 
       // 找封面图片：选择体积最大且不是二维码的图片
@@ -151,19 +156,17 @@ if (fs.existsSync(contentRoot)) {
       // slug: groupName + articleDir
       const slug = `${groupName}-${articleDir}`.replace(/\s+/g, '-');
 
-      // 添加到集合（去重）
-      if (!existingSlugs.has(slug)) {
-        existingSlugs.add(slug);
-        allArticles.push({
-          groupName,
-          articleDir,
-          fullPath: articleFullPath,
-          slug,
-          title,
-          coverImage,
-          dateStamp,
-        });
-      }
+      // 添加到集合（标题去重）
+      existingTitles.add(title);
+      allArticles.push({
+        groupName,
+        articleDir,
+        fullPath: articleFullPath,
+        slug,
+        title,
+        coverImage,
+        dateStamp,
+      });
     });
   });
 }
@@ -179,6 +182,10 @@ if (fs.existsSync(postsRoot)) {
     const { data: frontmatter, content } = matter(fileContent);
 
     let title = frontmatter.title || slug;
+    // 如果标题已经存在，跳过（去重）
+    if (existingTitles.has(title)) {
+      return;
+    }
     let dateStamp;
     let coverImage = null;
 
@@ -202,19 +209,17 @@ if (fs.existsSync(postsRoot)) {
       groupName = frontmatter.category;
     }
 
-    // 添加到集合（去重）
-    if (!existingSlugs.has(slug)) {
-      existingSlugs.add(slug);
-      allArticles.push({
-        groupName,
-        articleDir: file,
-        fullPath,
-        slug,
-        title,
-        coverImage,
-        dateStamp,
-      });
-    }
+    // 添加到集合（标题去重）
+    existingTitles.add(title);
+    allArticles.push({
+      groupName,
+      articleDir: file,
+      fullPath,
+      slug,
+      title,
+      coverImage,
+      dateStamp,
+    });
   });
 }
 
