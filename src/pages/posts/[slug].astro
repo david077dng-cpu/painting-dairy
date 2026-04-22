@@ -51,8 +51,14 @@ const frontmatter = {
   ...data,
   date: formattedDate,
 };
+
+// 如果 markdown 内容已经以一级标题开头，说明文章自带标题，不需要 PostLayout 额外显示 header
+// 这样和微信原始文章布局保持一致
+const trimmedContent = content.trimStart();
+const hasOwnTitle = trimmedContent.startsWith('# ') || trimmedContent.startsWith('## ');
+const showHeader = !hasOwnTitle;
 ---
 
-<PostLayout frontmatter={frontmatter}>
+<PostLayout frontmatter={frontmatter} showHeader={showHeader}>
   <div set:html={htmlContent}></div>
 </PostLayout>
