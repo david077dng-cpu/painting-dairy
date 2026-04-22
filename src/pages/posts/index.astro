@@ -39,6 +39,7 @@ interface ArticleInfo {
   title: string;
   coverImage: string | null;
   dateStamp: number;
+  isGroupArticle: boolean; // true = from public/content/group, link to rendered HTML
 }
 
 const allArticles: ArticleInfo[] = [];
@@ -166,6 +167,7 @@ if (fs.existsSync(contentRoot)) {
         title,
         coverImage,
         dateStamp,
+        isGroupArticle: true,
       });
     });
   });
@@ -219,6 +221,7 @@ if (fs.existsSync(postsRoot)) {
       title,
       coverImage,
       dateStamp,
+      isGroupArticle: false,
     });
   });
 }
@@ -237,7 +240,8 @@ const allArticlesJson = JSON.stringify(allArticles.map(a => ({
   slug: a.slug,
   title: a.title,
   coverImage: a.coverImage,
-  groupName: a.groupName
+  groupName: a.groupName,
+  isGroupArticle: a.isGroupArticle
 })));
 const initialCount = recentArticles.length;
 ---
@@ -272,12 +276,20 @@ const initialCount = recentArticles.length;
       ) : (
         <div id="masonry-container" class="masonry-container" data-all-articles={allArticlesJson} data-base-path={normalizedBasePath} data-initial-count={initialCount}>
           {recentArticles.map((article, index) => {
-            const link = `${normalizedBasePath}posts/${article.slug}`;
+            let link;
+            if (article.isGroupArticle) {
+              // group article from public/content/group links directly to rendered HTML
+              link = `${normalizedBasePath}content/group/${encodeURIComponent(article.groupName)}/${encodeURIComponent(article.articleDir)}/index.html`;
+            } else {
+              // markdown article from src/content/posts
+              link = `${normalizedBasePath}posts/${article.slug}`;
+            }
             const contentClass = article.coverImage ? 'article-content has-image' : 'article-content';
             return (
               <a
                 href={link}
                 class="article-card"
+                {...(article.isGroupArticle ? {target: '_blank', rel: 'noopener noreferrer'} : {})}
               >
                 {article.coverImage && (
                   <div class="article-image-wrapper">
@@ -337,10 +349,21 @@ const initialCount = recentArticles.length;
     }
 
     function createArticleElement(article) {
-      const link = `${normalizedBasePath}posts/${article.slug}`;
+      let link;
+      if (article.isGroupArticle) {
+        // group article from public/content/group links directly to rendered HTML
+        link = `${normalizedBasePath}content/group/${encodeURIComponent(article.groupName)}/${encodeURIComponent(article.articleDir)}/index.html`;
+      } else {
+        // markdown article from src/content/posts
+        link = `${normalizedBasePath}posts/${article.slug}`;
+      }
       const a = document.createElement('a');
       a.href = link;
       a.className = 'article-card';
+      if (article.isGroupArticle) {
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+      }
 
       if (article.coverImage) {
         const imgDiv = document.createElement('div');
