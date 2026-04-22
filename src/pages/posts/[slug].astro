@@ -60,6 +60,26 @@ if (content.startsWith('---')) {
   }
 }
 
+// 移除微信公众号复制过来末尾的 JS 防复制代码
+const lines = content.split('\n');
+const cleanedLines = lines.filter(line => {
+  const trimmed = line.trim();
+  // 过滤掉以 var 开头的 JS 代码行
+  if (trimmed.startsWith('var ') || trimmed.startsWith('document.') || trimmed.startsWith('e.')) {
+    return false;
+  }
+  // 过滤掉空行和注释行，如果全过滤了也没关系
+  return trimmed !== '' || !trimmed.startsWith('first_sc');
+});
+
+// 如果过滤后是空行太多，压缩一下
+content = cleanedLines.filter(line => line.trim() !== '').join('\n');
+// 如果最后还是有 JS 痕迹，直接截断到最后一个空行
+const lastContentLine = cleanedLines.findLastIndex(line => line.trim() !== '');
+if (lastContentLine > 0) {
+  content = cleanedLines.slice(0, lastContentLine + 1).join('\n');
+}
+
 // 格式化日期为 YYYY-MM-DD
 let formattedDate: string;
 if (data.date instanceof Date) {
